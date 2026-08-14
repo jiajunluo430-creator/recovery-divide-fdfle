@@ -45,7 +45,7 @@ Analysis code is released under the MIT License. Aggregate tables, figure source
 
 ## Citation
 
-Please cite the archived Zenodo record for this release. The permanent DOI is also listed in `CITATION.cff` and will resolve to the exact version deposited for peer review.
+Please cite the archived Zenodo record for this release: [https://doi.org/10.5281/zenodo.21938150](https://doi.org/10.5281/zenodo.21938150). The DOI resolves to the exact version deposited for peer review.
 
 ## Contact
 

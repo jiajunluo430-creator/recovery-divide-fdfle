@@ -18,6 +18,8 @@ authors:
   - family-names: Liang
     given-names: Xiaolong
 repository-code: "https://github.com/jiajunluo430-creator/recovery-divide-fdfle"
+doi: 10.5281/zenodo.21938150
+url: "https://doi.org/10.5281/zenodo.21938150"
 license: MIT
 keywords:
   - functional-difficulty-free life expectancy
