@@ -1,0 +1,10 @@
+cohort,country,source,version,path,access,role,status
+CHARLS,China,Gateway Harmonized CHARLS,D,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/harmonized_charls_d/H_CHARLS_D_Data.dta,read-only,core harmonized waves 1-4,VETTED_REFERENCE
+CHARLS,China,CHARLS raw selected waves,2011-2020,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/charls_2020,read-only,possible wave-5 function weight and observation adapter,SCHEMA_GATE_PENDING
+HRS,United States,RAND HRS Longitudinal File,1992-2022 V1,${RECOVERY_DIVIDE_AUX_DATA_ROOT}/09_cld_posthospital_functional_resilience/outputs/cache/hrs/randhrs1992_2022v1.dta,read-only,core,VETTED_REFERENCE
+HRS,United States,Gateway Harmonized HRS,D,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/gateway_hrs_d/H_HRS_d.dta,read-only,auxiliary label and mortality audit,VETTED_REFERENCE
+ELSA,England,Gateway Harmonized ELSA,H,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/offline_seven_cohorts/elsa_current/gh_elsa_h.dta,read-only,core waves 1-10,VETTED_REFERENCE
+ELSA,England,UKDS Study 5050 wave files,Waves 0-11 V1,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/DATA/elsa/5050stata_181C00DF9BECC0B8F01752DB20A0569F6C4AFA115172ED944A1E0DEC47C52294_V1.zip,read-only,possible wave-11 and mortality audit,SCHEMA_GATE_PENDING
+MHAS,Mexico,Gateway Harmonized MHAS,D,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/DATA/MHAS/H_MHAS_d.dta,read-only,core,VETTED_REFERENCE
+SHARE,Multiple,individual-level data,none,NOT_READ,not-accessed,out-of-scope,EXCLUDED_BY_CONTRACT
+

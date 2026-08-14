@@ -1,0 +1,33 @@
+cohort,country,exposure,level,persons
+CHARLS,China,education,low,22028
+CHARLS,China,education,middle,2795
+CHARLS,China,education,,340
+CHARLS,China,education,high,719
+ELSA,England,education,low,6773
+ELSA,England,education,middle,9342
+ELSA,England,education,,3533
+ELSA,England,education,high,3606
+HRS,United States,education,middle,24750
+HRS,United States,education,high,8813
+HRS,United States,education,low,11170
+HRS,United States,education,,501
+MHAS,Mexico,education,low,22337
+MHAS,Mexico,education,high,3491
+MHAS,Mexico,education,middle,798
+MHAS,Mexico,education,,533
+CHARLS,China,wealth,,15831
+CHARLS,China,wealth,middle,3554
+CHARLS,China,wealth,low,3463
+CHARLS,China,wealth,high,3034
+ELSA,England,wealth,low,5019
+ELSA,England,wealth,middle,5363
+ELSA,England,wealth,high,5566
+ELSA,England,wealth,,7306
+HRS,United States,wealth,middle,11475
+HRS,United States,wealth,high,10313
+HRS,United States,wealth,low,13493
+HRS,United States,wealth,,9953
+MHAS,Mexico,wealth,low,5771
+MHAS,Mexico,wealth,high,6578
+MHAS,Mexico,wealth,,8424
+MHAS,Mexico,wealth,middle,6386

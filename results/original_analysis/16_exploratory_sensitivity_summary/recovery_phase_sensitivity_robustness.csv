@@ -1,0 +1,9 @@
+cohort,contrast,implementations,all_hazard_ratios_above_one,minimum_hazard_ratio,maximum_hazard_ratio
+CHARLS,low_vs_high_early_recovery,4,FALSE,0.99197529436485,1.11611131639118
+CHARLS,low_vs_high_sustained_recovery,4,TRUE,1.21467335739819,1.24910864530752
+ELSA,low_vs_high_early_recovery,4,TRUE,1.54474333712142,1.60018744843736
+ELSA,low_vs_high_sustained_recovery,4,TRUE,1.41133451266887,1.51174049587315
+HRS,low_vs_high_early_recovery,4,TRUE,1.36399095283335,1.3966819738481
+HRS,low_vs_high_sustained_recovery,4,TRUE,1.26834754463802,1.30589678168648
+MHAS,low_vs_high_early_recovery,4,FALSE,0.982989327197532,1.16773442886816
+MHAS,low_vs_high_sustained_recovery,4,FALSE,0.757380084271611,1.07189530957617

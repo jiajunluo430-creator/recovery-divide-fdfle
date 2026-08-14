@@ -1,0 +1,6 @@
+"cohort","path","exists","bytes","rows","columns","read_status"
+"CHARLS","restricted_source/H_CHARLS_D_Data.dta","TRUE","136814295","25586","3399","PASS"
+"ELSA","restricted_source/gh_elsa_h.dta","TRUE","425676758","21679","13687","PASS"
+"HRS","restricted_source/randhrs1992_2022v1.dta","TRUE","1742325169","45234","19880","PASS"
+"HRS_GATEWAY","restricted_source/H_HRS_d.dta","TRUE","855057608","42406","16349","PASS"
+"MHAS","restricted_source/H_MHAS_d.dta","TRUE","225274725","27159","6542","PASS"

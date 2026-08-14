@@ -1,0 +1,5 @@
+cohort,country,supported_intervals,supported_persons,deaths,disabled_deaths,pre_disability_deaths,recovered_state_deaths
+CHARLS,China,33571,12824,1965,1262,519,184
+ELSA,England,31912,10958,1723,1019,568,136
+HRS,United States,163302,31904,11284,6796,3403,1085
+MHAS,Mexico,30527,14978,2276,1053,1020,203

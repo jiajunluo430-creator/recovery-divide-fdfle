@@ -1,0 +1,13 @@
+cohort,stage,people
+CHARLS,Low education with high or low wealth at first valid wealth wave,6861
+CHARLS,Contributed at least one eligible functional transition interval,6628
+CHARLS,Contributed at least one supported mortality interval,6672
+ELSA,Low education with high or low wealth at first valid wealth wave,3539
+ELSA,Contributed at least one eligible functional transition interval,3201
+ELSA,Contributed at least one supported mortality interval,3036
+HRS,Low education with high or low wealth at first valid wealth wave,5964
+HRS,Contributed at least one eligible functional transition interval,5608
+HRS,Contributed at least one supported mortality interval,6151
+MHAS,Low education with high or low wealth at first valid wealth wave,9605
+MHAS,Contributed at least one eligible functional transition interval,7688
+MHAS,Contributed at least one supported mortality interval,8489

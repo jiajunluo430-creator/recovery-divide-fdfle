@@ -1,0 +1,3 @@
+metric,cohorts,inverse_variance_pooled,cochran_q,df,p_heterogeneity,i2_percent
+population_fdfle_gap,4,-3.27212517046429,56.2445839284296,3,3.72520013629983e-12,94.6661530933939
+population_recovery_relapse,4,-0.73335376957916,16.9801503707139,3,0.000713416815424186,82.3323119377424

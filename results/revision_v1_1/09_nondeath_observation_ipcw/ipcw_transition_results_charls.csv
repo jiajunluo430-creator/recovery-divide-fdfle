@@ -1,0 +1,7 @@
+cohort,process,contrast,adjustment,intensity_ratio,ci_low,ci_high,robust_se,intervals,people,households,events,converged
+CHARLS,onset,low_vs_high_wealth_within_low_education,adjacent_complete_case,1.2226409395325,1.07461150109834,1.3910616678614,0.0658438886474746,7085,3475,2750,1405,TRUE
+CHARLS,onset,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,1.21851678933448,1.07127726389574,1.38599335198298,0.0657054752695641,7085,3475,2750,1405,TRUE
+CHARLS,recovery,low_vs_high_wealth_within_low_education,adjacent_complete_case,0.923847878618936,0.812192415320344,1.05085308201515,0.0657194631574483,5213,3121,2550,1747,TRUE
+CHARLS,recovery,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,0.92559629394619,0.813924643101835,1.05258945853017,0.0655971358412265,5213,3121,2550,1747,TRUE
+CHARLS,relapse,low_vs_high_wealth_within_low_education,adjacent_complete_case,1.27058598971387,1.05773706734638,1.52626659979621,0.0935440914813622,2217,1573,1417,859,TRUE
+CHARLS,relapse,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,1.27154729112112,1.05853493087935,1.52742480799789,0.0935452484469468,2217,1573,1417,859,TRUE

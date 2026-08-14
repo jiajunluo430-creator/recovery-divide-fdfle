@@ -1,0 +1,177 @@
+cohort,country,characteristic,value
+CHARLS,China,baseline_persons,14685
+ELSA,England,baseline_persons,17080
+HRS,United States,baseline_persons,34180
+MHAS,Mexico,baseline_persons,17778
+CHARLS,China,age_mean,65.3627227329475
+ELSA,England,age_mean,66.3289227166276
+HRS,United States,age_mean,66.1260386190755
+MHAS,Mexico,age_mean,65.671335358308
+CHARLS,China,age_sd,6.49789875993178
+ELSA,England,age_sd,7.31579261626459
+HRS,United States,age_sd,7.55582716654246
+MHAS,Mexico,age_sd,6.06888237848443
+CHARLS,China,women_n,7362
+ELSA,England,women_n,8701
+HRS,United States,women_n,19362
+MHAS,Mexico,women_n,9639
+CHARLS,China,women_percent,50.1327885597549
+ELSA,England,women_percent,53.1391229998779
+HRS,United States,women_percent,56.6471620830895
+MHAS,Mexico,women_percent,54.2186972662842
+CHARLS,China,functional_difficulty_n,4629
+ELSA,England,functional_difficulty_n,3708
+HRS,United States,functional_difficulty_n,6930
+MHAS,Mexico,functional_difficulty_n,2947
+CHARLS,China,functional_difficulty_percent,31.5219611848825
+ELSA,England,functional_difficulty_percent,21.7096018735363
+HRS,United States,functional_difficulty_percent,20.2750146284377
+MHAS,Mexico,functional_difficulty_percent,16.5766677916526
+CHARLS,China,proxy_status_observed_n,1040
+ELSA,England,proxy_status_observed_n,17079
+HRS,United States,proxy_status_observed_n,34180
+MHAS,Mexico,proxy_status_observed_n,17778
+CHARLS,China,proxy_interview_n,76
+ELSA,England,proxy_interview_n,652
+HRS,United States,proxy_interview_n,2394
+MHAS,Mexico,proxy_interview_n,28
+CHARLS,China,proxy_interview_percent_among_observed,7.30769230769231
+ELSA,England,proxy_interview_percent_among_observed,3.81755372094385
+HRS,United States,proxy_interview_percent_among_observed,7.0040959625512
+MHAS,Mexico,proxy_interview_percent_among_observed,0.157498031274609
+CHARLS,China,positive_origin_weight_n,14272
+ELSA,England,positive_origin_weight_n,15167
+HRS,United States,positive_origin_weight_n,31650
+MHAS,Mexico,positive_origin_weight_n,17188
+CHARLS,China,positive_origin_weight_percent,97.1876064010895
+ELSA,England,positive_origin_weight_percent,88.7997658079625
+HRS,United States,positive_origin_weight_percent,92.5980105324751
+MHAS,Mexico,positive_origin_weight_percent,96.6812914838565
+CHARLS,China,education_low_n,13148
+ELSA,England,education_low_n,5764
+HRS,United States,education_low_n,9060
+MHAS,Mexico,education_low_n,15422
+CHARLS,China,education_middle_n,1246
+ELSA,England,education_middle_n,6646
+HRS,United States,education_middle_n,18669
+MHAS,Mexico,education_middle_n,487
+CHARLS,China,education_high_n,286
+ELSA,England,education_high_n,2539
+HRS,United States,education_high_n,6438
+MHAS,Mexico,education_high_n,1647
+CHARLS,China,education_missing_n,5
+ELSA,England,education_missing_n,2131
+HRS,United States,education_missing_n,13
+MHAS,Mexico,education_missing_n,222
+CHARLS,China,wealth_low_n,3462
+ELSA,England,wealth_low_n,4984
+HRS,United States,wealth_low_n,13041
+MHAS,Mexico,wealth_low_n,5394
+CHARLS,China,wealth_middle_n,3554
+ELSA,England,wealth_middle_n,5342
+HRS,United States,wealth_middle_n,11110
+MHAS,Mexico,wealth_middle_n,6087
+CHARLS,China,wealth_high_n,3032
+ELSA,England,wealth_high_n,5549
+HRS,United States,wealth_high_n,10029
+MHAS,Mexico,wealth_high_n,6293
+CHARLS,China,wealth_missing_n,4637
+ELSA,England,wealth_missing_n,1205
+HRS,United States,wealth_missing_n,0
+MHAS,Mexico,wealth_missing_n,4
+CHARLS,China,education_low_percent,89.5335376234253
+ELSA,England,education_low_percent,33.7470725995316
+HRS,United States,education_low_percent,26.5067290813341
+MHAS,Mexico,education_low_percent,86.7476656541793
+CHARLS,China,education_middle_percent,8.48484848484848
+ELSA,England,education_middle_percent,38.9110070257611
+HRS,United States,education_middle_percent,54.6196606202458
+MHAS,Mexico,education_middle_percent,2.73934075824052
+CHARLS,China,education_high_percent,1.94756554307116
+ELSA,England,education_high_percent,14.8653395784543
+HRS,United States,education_high_percent,18.8355763604447
+MHAS,Mexico,education_high_percent,9.26425919676004
+CHARLS,China,education_missing_percent,0.0340483486550902
+ELSA,England,education_missing_percent,12.4765807962529
+HRS,United States,education_missing_percent,0.0380339379754242
+MHAS,Mexico,education_missing_percent,1.24873439082011
+CHARLS,China,wealth_low_percent,23.5750766087845
+ELSA,England,wealth_low_percent,29.1803278688525
+HRS,United States,wealth_low_percent,38.1538911644236
+MHAS,Mexico,wealth_low_percent,30.3408707391158
+CHARLS,China,wealth_middle_percent,24.2015662240381
+ELSA,England,wealth_middle_percent,31.2763466042155
+HRS,United States,wealth_middle_percent,32.5043885313049
+MHAS,Mexico,wealth_middle_percent,34.2389470131623
+CHARLS,China,wealth_high_percent,20.6469186244467
+ELSA,England,wealth_high_percent,32.4882903981265
+HRS,United States,wealth_high_percent,29.3417203042715
+MHAS,Mexico,wealth_high_percent,35.3976825289684
+CHARLS,China,wealth_missing_percent,31.5764385427307
+ELSA,England,wealth_missing_percent,7.05503512880562
+HRS,United States,wealth_missing_percent,0
+MHAS,Mexico,wealth_missing_percent,0.0224997187535156
+CHARLS,China,living_transition_intervals,32885
+ELSA,England,living_transition_intervals,57793
+HRS,United States,living_transition_intervals,148648
+MHAS,Mexico,living_transition_intervals,26500
+CHARLS,China,living_transition_persons,12681
+ELSA,England,living_transition_persons,13781
+HRS,United States,living_transition_persons,29432
+MHAS,Mexico,living_transition_persons,13486
+CHARLS,China,mortality_supported_intervals,33571
+ELSA,England,mortality_supported_intervals,31912
+HRS,United States,mortality_supported_intervals,163302
+MHAS,Mexico,mortality_supported_intervals,30527
+CHARLS,China,mortality_supported_persons,12824
+ELSA,England,mortality_supported_persons,10958
+HRS,United States,mortality_supported_persons,31904
+MHAS,Mexico,mortality_supported_persons,14978
+CHARLS,China,mortality_deaths,1965
+ELSA,England,mortality_deaths,1723
+HRS,United States,mortality_deaths,11284
+MHAS,Mexico,mortality_deaths,2276
+CHARLS,China,mortality_disabled_origin_deaths,1262
+ELSA,England,mortality_disabled_origin_deaths,1019
+HRS,United States,mortality_disabled_origin_deaths,6796
+MHAS,Mexico,mortality_disabled_origin_deaths,1053
+CHARLS,China,incident_events,3156
+ELSA,England,incident_events,3249
+HRS,United States,incident_events,8772
+MHAS,Mexico,incident_events,2451
+CHARLS,China,incident_persons,3156
+ELSA,England,incident_persons,3249
+HRS,United States,incident_persons,8772
+MHAS,Mexico,incident_persons,2451
+CHARLS,China,recovery_events,3661
+ELSA,England,recovery_events,3649
+HRS,United States,recovery_events,7872
+MHAS,Mexico,recovery_events,1963
+CHARLS,China,recovery_persons,3366
+ELSA,England,recovery_persons,3018
+HRS,United States,recovery_persons,6404
+MHAS,Mexico,recovery_persons,1903
+CHARLS,China,relapse_events,1688
+ELSA,England,relapse_events,2114
+HRS,United States,relapse_events,5228
+MHAS,Mexico,relapse_events,756
+CHARLS,China,relapse_persons,1633
+ELSA,England,relapse_persons,1752
+HRS,United States,relapse_persons,4212
+MHAS,Mexico,relapse_persons,742
+CHARLS,China,disabled_death_events,1200
+ELSA,England,disabled_death_events,1315
+HRS,United States,disabled_death_events,5145
+MHAS,Mexico,disabled_death_events,1178
+CHARLS,China,disabled_death_persons,1200
+ELSA,England,disabled_death_persons,1315
+HRS,United States,disabled_death_persons,5145
+MHAS,Mexico,disabled_death_persons,1178
+CHARLS,China,total_death_events,1898
+ELSA,England,total_death_events,2255
+HRS,United States,total_death_events,9230
+MHAS,Mexico,total_death_events,2788
+CHARLS,China,total_death_persons,1898
+ELSA,England,total_death_persons,2255
+HRS,United States,total_death_persons,9230
+MHAS,Mexico,total_death_persons,2788

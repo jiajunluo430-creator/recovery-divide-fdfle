@@ -1,0 +1,13 @@
+cohort,decisive_cells,min_recovery_events,min_relapse_events,supported,module
+CHARLS,16,9,3,FALSE,sex
+ELSA,16,175,89,TRUE,sex
+HRS,16,526,278,TRUE,sex
+MHAS,16,33,10,FALSE,sex
+CHARLS,8,1,0,FALSE,joint_ses
+ELSA,8,51,31,FALSE,joint_ses
+HRS,8,230,152,TRUE,joint_ses
+MHAS,8,18,6,FALSE,joint_ses
+CHARLS,8,,2,FALSE,recovery_phase
+ELSA,8,,86,TRUE,recovery_phase
+HRS,8,,321,TRUE,recovery_phase
+MHAS,8,,10,FALSE,recovery_phase

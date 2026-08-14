@@ -1,0 +1,7 @@
+state,functional_status,observed_history_definition,contributes_to,caveat
+I0,Independent,No previously observed functional difficulty within the cohort window,FDFLE,"I0 means no prior observed difficulty, not lifetime absence of difficulty"
+D1,Difficulty,First or continuing observed difficulty before any observed recovery,Years with difficulty,Baseline-prevalent D1 has unknown pre-entry duration
+R1,Independent,Observed independence after D1 or D2,FDFLE,Interview-observed recovery; exact transition time and intervening paths are unknown
+D2,Difficulty,Observed difficulty after an R1 state,Years with difficulty,Interview-observed relapse; exact transition time and intervening paths are unknown
+DEAD,Death,Verified cohort-specific death; absorbing,Neither,Disappearance is never coded as death
+CENSORED_OR_UNKNOWN,Not a functional state,"Non-death loss, known-alive nonresponse, or unknown vital/observation status",Censoring only,Never treated as death; addressed through retention/IPCW sensitivity

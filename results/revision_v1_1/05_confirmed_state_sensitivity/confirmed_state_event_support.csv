@@ -1,0 +1,13 @@
+cohort,process,intervals_before_confirmation,people_before_confirmation,original_events,confirmed_events,candidate_events_excluded,candidate_events_without_next_observed_state,households
+CHARLS,onset,11831,5816,2319,769,1550,825,4506
+CHARLS,recovery,9198,5344,2829,927,1902,1121,4263
+CHARLS,relapse,3817,2695,1415,402,1013,765,2377
+ELSA,onset,10268,3097,1246,460,786,386,2583
+ELSA,recovery,6399,2651,1438,567,871,358,2272
+ELSA,relapse,2415,1107,869,395,474,280,1020
+HRS,onset,17775,4934,2532,1076,1456,731,4385
+HRS,recovery,12670,4877,2379,1045,1334,485,4345
+HRS,relapse,5029,2033,1646,764,882,477,1902
+MHAS,onset,16007,9185,2267,385,1882,1449,7334
+MHAS,recovery,5616,4063,1840,442,1398,1048,3650
+MHAS,relapse,2115,1529,717,143,574,487,1458

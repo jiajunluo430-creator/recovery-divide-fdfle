@@ -1,0 +1,17 @@
+cohort,joint_ses4,persons
+CHARLS,low_low,3327
+CHARLS,lowedu_highwealth,2530
+CHARLS,high_high,111
+CHARLS,highedu_lowwealth,9
+ELSA,low_low,2801
+ELSA,lowedu_highwealth,1026
+ELSA,high_high,1558
+ELSA,highedu_lowwealth,241
+HRS,high_high,3612
+HRS,low_low,5760
+HRS,lowedu_highwealth,1056
+HRS,highedu_lowwealth,1076
+MHAS,low_low,5362
+MHAS,high_high,1113
+MHAS,lowedu_highwealth,5102
+MHAS,highedu_lowwealth,236

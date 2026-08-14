@@ -1,0 +1,4744 @@
+cohort,variable,value,value_label
+CHARLS,raeducl,0,0.none
+CHARLS,raeducl,1,1.Less than lower secondary
+CHARLS,raeducl,2,2.upper secondary & vocational training
+CHARLS,raeducl,3,3.tertiary
+CHARLS,raeducl,,.d:dk
+CHARLS,raeducl,,.m:missing
+CHARLS,raeducl,,.p:proxy
+CHARLS,raeducl,,.q:disputes education record
+CHARLS,raeducl,,.r:refuse
+CHARLS,raeducl,,.s:skip
+CHARLS,raeducl,,.u:unmar
+CHARLS,raeducl,,.v:sp nr
+CHARLS,r1iwstat,0,0.inap.
+CHARLS,r1iwstat,1,"1.resp, alive"
+CHARLS,r1iwstat,4,"4.nr, alive"
+CHARLS,r1iwstat,5,"5.nr, died this wv"
+CHARLS,r1iwstat,6,"6.nr, died prev wv"
+CHARLS,r1iwstat,7,"7.nr, dropped from samp"
+CHARLS,r1iwstat,9,"9.nr, dk if alive or died"
+CHARLS,r1iwstat,,.d:dk
+CHARLS,r1iwstat,,.m:missing
+CHARLS,r1iwstat,,.p:proxy
+CHARLS,r1iwstat,,.r:refuse
+CHARLS,r1iwstat,,.s:skip
+CHARLS,r1iwstat,,.u:unmar
+CHARLS,r1iwstat,,.v:sp nr
+CHARLS,r1dressa,0,0.No
+CHARLS,r1dressa,1,1.Yes
+CHARLS,r1dressa,,.a:Healthy and young
+CHARLS,r1dressa,,.d:dk
+CHARLS,r1dressa,,.e:Error
+CHARLS,r1dressa,,.m:missing
+CHARLS,r1dressa,,.n:No phone
+CHARLS,r1dressa,,.p:proxy
+CHARLS,r1dressa,,.r:refuse
+CHARLS,r1dressa,,.s:skip
+CHARLS,r1dressa,,.u:unmar
+CHARLS,r1dressa,,.v:sp nr
+CHARLS,r1dressa,,.w:Not working
+CHARLS,r1batha,0,0.No
+CHARLS,r1batha,1,1.Yes
+CHARLS,r1batha,,.a:Healthy and young
+CHARLS,r1batha,,.d:dk
+CHARLS,r1batha,,.e:Error
+CHARLS,r1batha,,.m:missing
+CHARLS,r1batha,,.n:No phone
+CHARLS,r1batha,,.p:proxy
+CHARLS,r1batha,,.r:refuse
+CHARLS,r1batha,,.s:skip
+CHARLS,r1batha,,.u:unmar
+CHARLS,r1batha,,.v:sp nr
+CHARLS,r1batha,,.w:Not working
+CHARLS,r1eata,0,0.No
+CHARLS,r1eata,1,1.Yes
+CHARLS,r1eata,,.a:Healthy and young
+CHARLS,r1eata,,.d:dk
+CHARLS,r1eata,,.e:Error
+CHARLS,r1eata,,.m:missing
+CHARLS,r1eata,,.n:No phone
+CHARLS,r1eata,,.p:proxy
+CHARLS,r1eata,,.r:refuse
+CHARLS,r1eata,,.s:skip
+CHARLS,r1eata,,.u:unmar
+CHARLS,r1eata,,.v:sp nr
+CHARLS,r1eata,,.w:Not working
+CHARLS,r1beda,0,0.No
+CHARLS,r1beda,1,1.Yes
+CHARLS,r1beda,,.a:Healthy and young
+CHARLS,r1beda,,.d:dk
+CHARLS,r1beda,,.e:Error
+CHARLS,r1beda,,.m:missing
+CHARLS,r1beda,,.n:No phone
+CHARLS,r1beda,,.p:proxy
+CHARLS,r1beda,,.r:refuse
+CHARLS,r1beda,,.s:skip
+CHARLS,r1beda,,.u:unmar
+CHARLS,r1beda,,.v:sp nr
+CHARLS,r1beda,,.w:Not working
+CHARLS,r1toilta,0,0.No
+CHARLS,r1toilta,1,1.Yes
+CHARLS,r1toilta,,.a:Healthy and young
+CHARLS,r1toilta,,.d:dk
+CHARLS,r1toilta,,.e:Error
+CHARLS,r1toilta,,.m:missing
+CHARLS,r1toilta,,.n:No phone
+CHARLS,r1toilta,,.p:proxy
+CHARLS,r1toilta,,.r:refuse
+CHARLS,r1toilta,,.s:skip
+CHARLS,r1toilta,,.u:unmar
+CHARLS,r1toilta,,.v:sp nr
+CHARLS,r1toilta,,.w:Not working
+CHARLS,r1shopa,0,0.No
+CHARLS,r1shopa,1,1.Yes
+CHARLS,r1shopa,,.a:Healthy and young
+CHARLS,r1shopa,,.d:dk
+CHARLS,r1shopa,,.e:Error
+CHARLS,r1shopa,,.m:missing
+CHARLS,r1shopa,,.n:No phone
+CHARLS,r1shopa,,.p:proxy
+CHARLS,r1shopa,,.r:refuse
+CHARLS,r1shopa,,.s:skip
+CHARLS,r1shopa,,.u:unmar
+CHARLS,r1shopa,,.v:sp nr
+CHARLS,r1shopa,,.w:Not working
+CHARLS,r1mealsa,0,0.No
+CHARLS,r1mealsa,1,1.Yes
+CHARLS,r1mealsa,,.a:Healthy and young
+CHARLS,r1mealsa,,.d:dk
+CHARLS,r1mealsa,,.e:Error
+CHARLS,r1mealsa,,.m:missing
+CHARLS,r1mealsa,,.n:No phone
+CHARLS,r1mealsa,,.p:proxy
+CHARLS,r1mealsa,,.r:refuse
+CHARLS,r1mealsa,,.s:skip
+CHARLS,r1mealsa,,.u:unmar
+CHARLS,r1mealsa,,.v:sp nr
+CHARLS,r1mealsa,,.w:Not working
+CHARLS,r1medsa,0,0.No
+CHARLS,r1medsa,1,1.Yes
+CHARLS,r1medsa,,.a:Healthy and young
+CHARLS,r1medsa,,.d:dk
+CHARLS,r1medsa,,.e:Error
+CHARLS,r1medsa,,.m:missing
+CHARLS,r1medsa,,.n:No phone
+CHARLS,r1medsa,,.p:proxy
+CHARLS,r1medsa,,.r:refuse
+CHARLS,r1medsa,,.s:skip
+CHARLS,r1medsa,,.u:unmar
+CHARLS,r1medsa,,.v:sp nr
+CHARLS,r1medsa,,.w:Not working
+CHARLS,r1moneya,0,0.No
+CHARLS,r1moneya,1,1.Yes
+CHARLS,r1moneya,,.a:Healthy and young
+CHARLS,r1moneya,,.d:dk
+CHARLS,r1moneya,,.e:Error
+CHARLS,r1moneya,,.m:missing
+CHARLS,r1moneya,,.n:No phone
+CHARLS,r1moneya,,.p:proxy
+CHARLS,r1moneya,,.r:refuse
+CHARLS,r1moneya,,.s:skip
+CHARLS,r1moneya,,.u:unmar
+CHARLS,r1moneya,,.v:sp nr
+CHARLS,r1moneya,,.w:Not working
+CHARLS,r2iwstat,0,0.inap.
+CHARLS,r2iwstat,1,"1.resp, alive"
+CHARLS,r2iwstat,4,"4.nr, alive"
+CHARLS,r2iwstat,5,"5.nr, died this wv"
+CHARLS,r2iwstat,6,"6.nr, died prev wv"
+CHARLS,r2iwstat,7,"7.nr, dropped from samp"
+CHARLS,r2iwstat,9,"9.nr, dk if alive or died"
+CHARLS,r2iwstat,,.d:dk
+CHARLS,r2iwstat,,.m:missing
+CHARLS,r2iwstat,,.p:proxy
+CHARLS,r2iwstat,,.r:refuse
+CHARLS,r2iwstat,,.s:skip
+CHARLS,r2iwstat,,.u:unmar
+CHARLS,r2iwstat,,.v:sp nr
+CHARLS,r2dressa,0,0.No
+CHARLS,r2dressa,1,1.Yes
+CHARLS,r2dressa,,.a:Healthy and young
+CHARLS,r2dressa,,.d:dk
+CHARLS,r2dressa,,.e:Error
+CHARLS,r2dressa,,.m:missing
+CHARLS,r2dressa,,.n:No phone
+CHARLS,r2dressa,,.p:proxy
+CHARLS,r2dressa,,.r:refuse
+CHARLS,r2dressa,,.s:skip
+CHARLS,r2dressa,,.u:unmar
+CHARLS,r2dressa,,.v:sp nr
+CHARLS,r2dressa,,.w:Not working
+CHARLS,r2batha,0,0.No
+CHARLS,r2batha,1,1.Yes
+CHARLS,r2batha,,.a:Healthy and young
+CHARLS,r2batha,,.d:dk
+CHARLS,r2batha,,.e:Error
+CHARLS,r2batha,,.m:missing
+CHARLS,r2batha,,.n:No phone
+CHARLS,r2batha,,.p:proxy
+CHARLS,r2batha,,.r:refuse
+CHARLS,r2batha,,.s:skip
+CHARLS,r2batha,,.u:unmar
+CHARLS,r2batha,,.v:sp nr
+CHARLS,r2batha,,.w:Not working
+CHARLS,r2eata,0,0.No
+CHARLS,r2eata,1,1.Yes
+CHARLS,r2eata,,.a:Healthy and young
+CHARLS,r2eata,,.d:dk
+CHARLS,r2eata,,.e:Error
+CHARLS,r2eata,,.m:missing
+CHARLS,r2eata,,.n:No phone
+CHARLS,r2eata,,.p:proxy
+CHARLS,r2eata,,.r:refuse
+CHARLS,r2eata,,.s:skip
+CHARLS,r2eata,,.u:unmar
+CHARLS,r2eata,,.v:sp nr
+CHARLS,r2eata,,.w:Not working
+CHARLS,r2beda,0,0.No
+CHARLS,r2beda,1,1.Yes
+CHARLS,r2beda,,.a:Healthy and young
+CHARLS,r2beda,,.d:dk
+CHARLS,r2beda,,.e:Error
+CHARLS,r2beda,,.m:missing
+CHARLS,r2beda,,.n:No phone
+CHARLS,r2beda,,.p:proxy
+CHARLS,r2beda,,.r:refuse
+CHARLS,r2beda,,.s:skip
+CHARLS,r2beda,,.u:unmar
+CHARLS,r2beda,,.v:sp nr
+CHARLS,r2beda,,.w:Not working
+CHARLS,r2toilta,0,0.No
+CHARLS,r2toilta,1,1.Yes
+CHARLS,r2toilta,,.a:Healthy and young
+CHARLS,r2toilta,,.d:dk
+CHARLS,r2toilta,,.e:Error
+CHARLS,r2toilta,,.m:missing
+CHARLS,r2toilta,,.n:No phone
+CHARLS,r2toilta,,.p:proxy
+CHARLS,r2toilta,,.r:refuse
+CHARLS,r2toilta,,.s:skip
+CHARLS,r2toilta,,.u:unmar
+CHARLS,r2toilta,,.v:sp nr
+CHARLS,r2toilta,,.w:Not working
+CHARLS,r2shopa,0,0.No
+CHARLS,r2shopa,1,1.Yes
+CHARLS,r2shopa,,.a:Healthy and young
+CHARLS,r2shopa,,.d:dk
+CHARLS,r2shopa,,.e:Error
+CHARLS,r2shopa,,.m:missing
+CHARLS,r2shopa,,.n:No phone
+CHARLS,r2shopa,,.p:proxy
+CHARLS,r2shopa,,.r:refuse
+CHARLS,r2shopa,,.s:skip
+CHARLS,r2shopa,,.u:unmar
+CHARLS,r2shopa,,.v:sp nr
+CHARLS,r2shopa,,.w:Not working
+CHARLS,r2mealsa,0,0.No
+CHARLS,r2mealsa,1,1.Yes
+CHARLS,r2mealsa,,.a:Healthy and young
+CHARLS,r2mealsa,,.d:dk
+CHARLS,r2mealsa,,.e:Error
+CHARLS,r2mealsa,,.m:missing
+CHARLS,r2mealsa,,.n:No phone
+CHARLS,r2mealsa,,.p:proxy
+CHARLS,r2mealsa,,.r:refuse
+CHARLS,r2mealsa,,.s:skip
+CHARLS,r2mealsa,,.u:unmar
+CHARLS,r2mealsa,,.v:sp nr
+CHARLS,r2mealsa,,.w:Not working
+CHARLS,r2medsa,0,0.No
+CHARLS,r2medsa,1,1.Yes
+CHARLS,r2medsa,,.a:Healthy and young
+CHARLS,r2medsa,,.d:dk
+CHARLS,r2medsa,,.e:Error
+CHARLS,r2medsa,,.m:missing
+CHARLS,r2medsa,,.n:No phone
+CHARLS,r2medsa,,.p:proxy
+CHARLS,r2medsa,,.r:refuse
+CHARLS,r2medsa,,.s:skip
+CHARLS,r2medsa,,.u:unmar
+CHARLS,r2medsa,,.v:sp nr
+CHARLS,r2medsa,,.w:Not working
+CHARLS,r2moneya,0,0.No
+CHARLS,r2moneya,1,1.Yes
+CHARLS,r2moneya,,.a:Healthy and young
+CHARLS,r2moneya,,.d:dk
+CHARLS,r2moneya,,.e:Error
+CHARLS,r2moneya,,.m:missing
+CHARLS,r2moneya,,.n:No phone
+CHARLS,r2moneya,,.p:proxy
+CHARLS,r2moneya,,.r:refuse
+CHARLS,r2moneya,,.s:skip
+CHARLS,r2moneya,,.u:unmar
+CHARLS,r2moneya,,.v:sp nr
+CHARLS,r2moneya,,.w:Not working
+CHARLS,r3iwstat,0,0.inap.
+CHARLS,r3iwstat,1,"1.resp, alive"
+CHARLS,r3iwstat,4,"4.nr, alive"
+CHARLS,r3iwstat,5,"5.nr, died this wv"
+CHARLS,r3iwstat,6,"6.nr, died prev wv"
+CHARLS,r3iwstat,7,"7.nr, dropped from samp"
+CHARLS,r3iwstat,9,"9.nr, dk if alive or died"
+CHARLS,r3iwstat,,.d:dk
+CHARLS,r3iwstat,,.m:missing
+CHARLS,r3iwstat,,.p:proxy
+CHARLS,r3iwstat,,.r:refuse
+CHARLS,r3iwstat,,.s:skip
+CHARLS,r3iwstat,,.u:unmar
+CHARLS,r3iwstat,,.v:sp nr
+CHARLS,r3dressa,0,0.No
+CHARLS,r3dressa,1,1.Yes
+CHARLS,r3dressa,,.a:Healthy and young
+CHARLS,r3dressa,,.d:dk
+CHARLS,r3dressa,,.e:Error
+CHARLS,r3dressa,,.m:missing
+CHARLS,r3dressa,,.n:No phone
+CHARLS,r3dressa,,.p:proxy
+CHARLS,r3dressa,,.r:refuse
+CHARLS,r3dressa,,.s:skip
+CHARLS,r3dressa,,.u:unmar
+CHARLS,r3dressa,,.v:sp nr
+CHARLS,r3dressa,,.w:Not working
+CHARLS,r3batha,0,0.No
+CHARLS,r3batha,1,1.Yes
+CHARLS,r3batha,,.a:Healthy and young
+CHARLS,r3batha,,.d:dk
+CHARLS,r3batha,,.e:Error
+CHARLS,r3batha,,.m:missing
+CHARLS,r3batha,,.n:No phone
+CHARLS,r3batha,,.p:proxy
+CHARLS,r3batha,,.r:refuse
+CHARLS,r3batha,,.s:skip
+CHARLS,r3batha,,.u:unmar
+CHARLS,r3batha,,.v:sp nr
+CHARLS,r3batha,,.w:Not working
+CHARLS,r3eata,0,0.No
+CHARLS,r3eata,1,1.Yes
+CHARLS,r3eata,,.a:Healthy and young
+CHARLS,r3eata,,.d:dk
+CHARLS,r3eata,,.e:Error
+CHARLS,r3eata,,.m:missing
+CHARLS,r3eata,,.n:No phone
+CHARLS,r3eata,,.p:proxy
+CHARLS,r3eata,,.r:refuse
+CHARLS,r3eata,,.s:skip
+CHARLS,r3eata,,.u:unmar
+CHARLS,r3eata,,.v:sp nr
+CHARLS,r3eata,,.w:Not working
+CHARLS,r3beda,0,0.No
+CHARLS,r3beda,1,1.Yes
+CHARLS,r3beda,,.a:Healthy and young
+CHARLS,r3beda,,.d:dk
+CHARLS,r3beda,,.e:Error
+CHARLS,r3beda,,.m:missing
+CHARLS,r3beda,,.n:No phone
+CHARLS,r3beda,,.p:proxy
+CHARLS,r3beda,,.r:refuse
+CHARLS,r3beda,,.s:skip
+CHARLS,r3beda,,.u:unmar
+CHARLS,r3beda,,.v:sp nr
+CHARLS,r3beda,,.w:Not working
+CHARLS,r3toilta,0,0.No
+CHARLS,r3toilta,1,1.Yes
+CHARLS,r3toilta,,.a:Healthy and young
+CHARLS,r3toilta,,.d:dk
+CHARLS,r3toilta,,.e:Error
+CHARLS,r3toilta,,.m:missing
+CHARLS,r3toilta,,.n:No phone
+CHARLS,r3toilta,,.p:proxy
+CHARLS,r3toilta,,.r:refuse
+CHARLS,r3toilta,,.s:skip
+CHARLS,r3toilta,,.u:unmar
+CHARLS,r3toilta,,.v:sp nr
+CHARLS,r3toilta,,.w:Not working
+CHARLS,r3shopa,0,0.No
+CHARLS,r3shopa,1,1.Yes
+CHARLS,r3shopa,,.a:Healthy and young
+CHARLS,r3shopa,,.d:dk
+CHARLS,r3shopa,,.e:Error
+CHARLS,r3shopa,,.m:missing
+CHARLS,r3shopa,,.n:No phone
+CHARLS,r3shopa,,.p:proxy
+CHARLS,r3shopa,,.r:refuse
+CHARLS,r3shopa,,.s:skip
+CHARLS,r3shopa,,.u:unmar
+CHARLS,r3shopa,,.v:sp nr
+CHARLS,r3shopa,,.w:Not working
+CHARLS,r3mealsa,0,0.No
+CHARLS,r3mealsa,1,1.Yes
+CHARLS,r3mealsa,,.a:Healthy and young
+CHARLS,r3mealsa,,.d:dk
+CHARLS,r3mealsa,,.e:Error
+CHARLS,r3mealsa,,.m:missing
+CHARLS,r3mealsa,,.n:No phone
+CHARLS,r3mealsa,,.p:proxy
+CHARLS,r3mealsa,,.r:refuse
+CHARLS,r3mealsa,,.s:skip
+CHARLS,r3mealsa,,.u:unmar
+CHARLS,r3mealsa,,.v:sp nr
+CHARLS,r3mealsa,,.w:Not working
+CHARLS,r3medsa,0,0.No
+CHARLS,r3medsa,1,1.Yes
+CHARLS,r3medsa,,.a:Healthy and young
+CHARLS,r3medsa,,.d:dk
+CHARLS,r3medsa,,.e:Error
+CHARLS,r3medsa,,.m:missing
+CHARLS,r3medsa,,.n:No phone
+CHARLS,r3medsa,,.p:proxy
+CHARLS,r3medsa,,.r:refuse
+CHARLS,r3medsa,,.s:skip
+CHARLS,r3medsa,,.u:unmar
+CHARLS,r3medsa,,.v:sp nr
+CHARLS,r3medsa,,.w:Not working
+CHARLS,r3moneya,0,0.No
+CHARLS,r3moneya,1,1.Yes
+CHARLS,r3moneya,,.a:Healthy and young
+CHARLS,r3moneya,,.d:dk
+CHARLS,r3moneya,,.e:Error
+CHARLS,r3moneya,,.m:missing
+CHARLS,r3moneya,,.n:No phone
+CHARLS,r3moneya,,.p:proxy
+CHARLS,r3moneya,,.r:refuse
+CHARLS,r3moneya,,.s:skip
+CHARLS,r3moneya,,.u:unmar
+CHARLS,r3moneya,,.v:sp nr
+CHARLS,r3moneya,,.w:Not working
+CHARLS,r4iwstat,0,0.inap.
+CHARLS,r4iwstat,1,"1.resp, alive"
+CHARLS,r4iwstat,4,"4.nr, alive"
+CHARLS,r4iwstat,5,"5.nr, died this wv"
+CHARLS,r4iwstat,6,"6.nr, died prev wv"
+CHARLS,r4iwstat,7,"7.nr, dropped from samp"
+CHARLS,r4iwstat,9,"9.nr, dk if alive or died"
+CHARLS,r4iwstat,,.d:dk
+CHARLS,r4iwstat,,.m:missing
+CHARLS,r4iwstat,,.p:proxy
+CHARLS,r4iwstat,,.r:refuse
+CHARLS,r4iwstat,,.s:skip
+CHARLS,r4iwstat,,.u:unmar
+CHARLS,r4iwstat,,.v:sp nr
+CHARLS,r4dressa,0,0.No
+CHARLS,r4dressa,1,1.Yes
+CHARLS,r4dressa,,.a:Healthy and young
+CHARLS,r4dressa,,.d:dk
+CHARLS,r4dressa,,.e:Error
+CHARLS,r4dressa,,.m:missing
+CHARLS,r4dressa,,.n:No phone
+CHARLS,r4dressa,,.p:proxy
+CHARLS,r4dressa,,.r:refuse
+CHARLS,r4dressa,,.s:skip
+CHARLS,r4dressa,,.u:unmar
+CHARLS,r4dressa,,.v:sp nr
+CHARLS,r4dressa,,.w:Not working
+CHARLS,r4batha,0,0.No
+CHARLS,r4batha,1,1.Yes
+CHARLS,r4batha,,.a:Healthy and young
+CHARLS,r4batha,,.d:dk
+CHARLS,r4batha,,.e:Error
+CHARLS,r4batha,,.m:missing
+CHARLS,r4batha,,.n:No phone
+CHARLS,r4batha,,.p:proxy
+CHARLS,r4batha,,.r:refuse
+CHARLS,r4batha,,.s:skip
+CHARLS,r4batha,,.u:unmar
+CHARLS,r4batha,,.v:sp nr
+CHARLS,r4batha,,.w:Not working
+CHARLS,r4eata,0,0.No
+CHARLS,r4eata,1,1.Yes
+CHARLS,r4eata,,.a:Healthy and young
+CHARLS,r4eata,,.d:dk
+CHARLS,r4eata,,.e:Error
+CHARLS,r4eata,,.m:missing
+CHARLS,r4eata,,.n:No phone
+CHARLS,r4eata,,.p:proxy
+CHARLS,r4eata,,.r:refuse
+CHARLS,r4eata,,.s:skip
+CHARLS,r4eata,,.u:unmar
+CHARLS,r4eata,,.v:sp nr
+CHARLS,r4eata,,.w:Not working
+CHARLS,r4beda,0,0.No
+CHARLS,r4beda,1,1.Yes
+CHARLS,r4beda,,.a:Healthy and young
+CHARLS,r4beda,,.d:dk
+CHARLS,r4beda,,.e:Error
+CHARLS,r4beda,,.m:missing
+CHARLS,r4beda,,.n:No phone
+CHARLS,r4beda,,.p:proxy
+CHARLS,r4beda,,.r:refuse
+CHARLS,r4beda,,.s:skip
+CHARLS,r4beda,,.u:unmar
+CHARLS,r4beda,,.v:sp nr
+CHARLS,r4beda,,.w:Not working
+CHARLS,r4toilta,0,0.No
+CHARLS,r4toilta,1,1.Yes
+CHARLS,r4toilta,,.a:Healthy and young
+CHARLS,r4toilta,,.d:dk
+CHARLS,r4toilta,,.e:Error
+CHARLS,r4toilta,,.m:missing
+CHARLS,r4toilta,,.n:No phone
+CHARLS,r4toilta,,.p:proxy
+CHARLS,r4toilta,,.r:refuse
+CHARLS,r4toilta,,.s:skip
+CHARLS,r4toilta,,.u:unmar
+CHARLS,r4toilta,,.v:sp nr
+CHARLS,r4toilta,,.w:Not working
+CHARLS,r4shopa,0,0.No
+CHARLS,r4shopa,1,1.Yes
+CHARLS,r4shopa,,.a:Healthy and young
+CHARLS,r4shopa,,.d:dk
+CHARLS,r4shopa,,.e:Error
+CHARLS,r4shopa,,.m:missing
+CHARLS,r4shopa,,.n:No phone
+CHARLS,r4shopa,,.p:proxy
+CHARLS,r4shopa,,.r:refuse
+CHARLS,r4shopa,,.s:skip
+CHARLS,r4shopa,,.u:unmar
+CHARLS,r4shopa,,.v:sp nr
+CHARLS,r4shopa,,.w:Not working
+CHARLS,r4mealsa,0,0.No
+CHARLS,r4mealsa,1,1.Yes
+CHARLS,r4mealsa,,.a:Healthy and young
+CHARLS,r4mealsa,,.d:dk
+CHARLS,r4mealsa,,.e:Error
+CHARLS,r4mealsa,,.m:missing
+CHARLS,r4mealsa,,.n:No phone
+CHARLS,r4mealsa,,.p:proxy
+CHARLS,r4mealsa,,.r:refuse
+CHARLS,r4mealsa,,.s:skip
+CHARLS,r4mealsa,,.u:unmar
+CHARLS,r4mealsa,,.v:sp nr
+CHARLS,r4mealsa,,.w:Not working
+CHARLS,r4medsa,0,0.No
+CHARLS,r4medsa,1,1.Yes
+CHARLS,r4medsa,,.a:Healthy and young
+CHARLS,r4medsa,,.d:dk
+CHARLS,r4medsa,,.e:Error
+CHARLS,r4medsa,,.m:missing
+CHARLS,r4medsa,,.n:No phone
+CHARLS,r4medsa,,.p:proxy
+CHARLS,r4medsa,,.r:refuse
+CHARLS,r4medsa,,.s:skip
+CHARLS,r4medsa,,.u:unmar
+CHARLS,r4medsa,,.v:sp nr
+CHARLS,r4medsa,,.w:Not working
+CHARLS,r4moneya,0,0.No
+CHARLS,r4moneya,1,1.Yes
+CHARLS,r4moneya,,.a:Healthy and young
+CHARLS,r4moneya,,.d:dk
+CHARLS,r4moneya,,.e:Error
+CHARLS,r4moneya,,.m:missing
+CHARLS,r4moneya,,.n:No phone
+CHARLS,r4moneya,,.p:proxy
+CHARLS,r4moneya,,.r:refuse
+CHARLS,r4moneya,,.s:skip
+CHARLS,r4moneya,,.u:unmar
+CHARLS,r4moneya,,.v:sp nr
+CHARLS,r4moneya,,.w:Not working
+HRS,raeduc,1,1.lt high-school
+HRS,raeduc,2,2.ged
+HRS,raeduc,3,3.high-school graduate
+HRS,raeduc,4,4.some college
+HRS,raeduc,5,5.college and above
+HRS,raeduc,,.d=dk
+HRS,raeduc,,.m=missing
+HRS,raeduc,,.r=rf
+HRS,raeduc,,.u=unmarried
+HRS,raeduc,,.v=spouse nr
+HRS,r2iwstat,0,0.inap.
+HRS,r2iwstat,1,"1.resp,alive"
+HRS,r2iwstat,2,"2.resp,died after iw"
+HRS,r2iwstat,3,"3.resp(proxy),died"
+HRS,r2iwstat,4,"4.nr,alive"
+HRS,r2iwstat,5,"5.nr,died this wv"
+HRS,r2iwstat,6,"6.nr,died prev wv"
+HRS,r2iwstat,7,"7.nr,dropped from samp"
+HRS,r2iwstat,9,"9.nr,dk if alive or died"
+HRS,r2iwstat,,.u=unmarried
+HRS,r2iwstat,,.v=spouse nr
+HRS,r2dressa,0,0.no
+HRS,r2dressa,1,1.yes
+HRS,r2dressa,2,2.can't do
+HRS,r2dressa,7,7.don't do
+HRS,r2dressa,,.d=dk
+HRS,r2dressa,,.f=no famr
+HRS,r2dressa,,".j=web interview, missing"
+HRS,r2dressa,,.m=oth missing
+HRS,r2dressa,,.n=na
+HRS,r2dressa,,.q=not asked this wave
+HRS,r2dressa,,.r=rf
+HRS,r2dressa,,.s=skip
+HRS,r2dressa,,.u=unmarried
+HRS,r2dressa,,.v=sp nr
+HRS,r2dressa,,.x=don't do
+HRS,r2dressa,,.y=alternate wave
+HRS,r2dressa,,.z=don't do/no if did
+HRS,r2batha,0,0.no
+HRS,r2batha,1,1.yes
+HRS,r2batha,2,2.can't do
+HRS,r2batha,7,7.don't do
+HRS,r2batha,,.d=dk
+HRS,r2batha,,.f=no famr
+HRS,r2batha,,".j=web interview, missing"
+HRS,r2batha,,.m=oth missing
+HRS,r2batha,,.n=na
+HRS,r2batha,,.q=not asked this wave
+HRS,r2batha,,.r=rf
+HRS,r2batha,,.s=skip
+HRS,r2batha,,.u=unmarried
+HRS,r2batha,,.v=sp nr
+HRS,r2batha,,.x=don't do
+HRS,r2batha,,.y=alternate wave
+HRS,r2batha,,.z=don't do/no if did
+HRS,r2eata,0,0.no
+HRS,r2eata,1,1.yes
+HRS,r2eata,2,2.can't do
+HRS,r2eata,7,7.don't do
+HRS,r2eata,,.d=dk
+HRS,r2eata,,.f=no famr
+HRS,r2eata,,".j=web interview, missing"
+HRS,r2eata,,.m=oth missing
+HRS,r2eata,,.n=na
+HRS,r2eata,,.q=not asked this wave
+HRS,r2eata,,.r=rf
+HRS,r2eata,,.s=skip
+HRS,r2eata,,.u=unmarried
+HRS,r2eata,,.v=sp nr
+HRS,r2eata,,.x=don't do
+HRS,r2eata,,.y=alternate wave
+HRS,r2eata,,.z=don't do/no if did
+HRS,r2beda,0,0.no
+HRS,r2beda,1,1.yes
+HRS,r2beda,2,2.can't do
+HRS,r2beda,7,7.don't do
+HRS,r2beda,,.d=dk
+HRS,r2beda,,.f=no famr
+HRS,r2beda,,".j=web interview, missing"
+HRS,r2beda,,.m=oth missing
+HRS,r2beda,,.n=na
+HRS,r2beda,,.q=not asked this wave
+HRS,r2beda,,.r=rf
+HRS,r2beda,,.s=skip
+HRS,r2beda,,.u=unmarried
+HRS,r2beda,,.v=sp nr
+HRS,r2beda,,.x=don't do
+HRS,r2beda,,.y=alternate wave
+HRS,r2beda,,.z=don't do/no if did
+HRS,r2toilta,0,0.no
+HRS,r2toilta,1,1.yes
+HRS,r2toilta,2,2.can't do
+HRS,r2toilta,7,7.don't do
+HRS,r2toilta,,.d=dk
+HRS,r2toilta,,.f=no famr
+HRS,r2toilta,,".j=web interview, missing"
+HRS,r2toilta,,.m=oth missing
+HRS,r2toilta,,.n=na
+HRS,r2toilta,,.q=not asked this wave
+HRS,r2toilta,,.r=rf
+HRS,r2toilta,,.s=skip
+HRS,r2toilta,,.u=unmarried
+HRS,r2toilta,,.v=sp nr
+HRS,r2toilta,,.x=don't do
+HRS,r2toilta,,.y=alternate wave
+HRS,r2toilta,,.z=don't do/no if did
+HRS,r2shopa,0,0.no
+HRS,r2shopa,1,1.yes
+HRS,r2shopa,2,2.can't do
+HRS,r2shopa,7,7.don't do
+HRS,r2shopa,,.d=dk
+HRS,r2shopa,,.f=no famr
+HRS,r2shopa,,".j=web interview, missing"
+HRS,r2shopa,,.m=oth missing
+HRS,r2shopa,,.n=na
+HRS,r2shopa,,.q=not asked this wave
+HRS,r2shopa,,.r=rf
+HRS,r2shopa,,.s=skip
+HRS,r2shopa,,.u=unmarried
+HRS,r2shopa,,.v=sp nr
+HRS,r2shopa,,.x=don't do
+HRS,r2shopa,,.y=alternate wave
+HRS,r2shopa,,.z=don't do/no if did
+HRS,r2mealsa,0,0.no
+HRS,r2mealsa,1,1.yes
+HRS,r2mealsa,2,2.can't do
+HRS,r2mealsa,7,7.don't do
+HRS,r2mealsa,,.d=dk
+HRS,r2mealsa,,.f=no famr
+HRS,r2mealsa,,".j=web interview, missing"
+HRS,r2mealsa,,.m=oth missing
+HRS,r2mealsa,,.n=na
+HRS,r2mealsa,,.q=not asked this wave
+HRS,r2mealsa,,.r=rf
+HRS,r2mealsa,,.s=skip
+HRS,r2mealsa,,.u=unmarried
+HRS,r2mealsa,,.v=sp nr
+HRS,r2mealsa,,.x=don't do
+HRS,r2mealsa,,.y=alternate wave
+HRS,r2mealsa,,.z=don't do/no if did
+HRS,r2medsa,0,0.no
+HRS,r2medsa,1,1.yes
+HRS,r2medsa,2,2.can't do
+HRS,r2medsa,7,7.don't do
+HRS,r2medsa,,.d=dk
+HRS,r2medsa,,.f=no famr
+HRS,r2medsa,,".j=web interview, missing"
+HRS,r2medsa,,.m=oth missing
+HRS,r2medsa,,.n=na
+HRS,r2medsa,,.q=not asked this wave
+HRS,r2medsa,,.r=rf
+HRS,r2medsa,,.s=skip
+HRS,r2medsa,,.u=unmarried
+HRS,r2medsa,,.v=sp nr
+HRS,r2medsa,,.x=don't do
+HRS,r2medsa,,.y=alternate wave
+HRS,r2medsa,,.z=don't do/no if did
+HRS,r2moneya,0,0.no
+HRS,r2moneya,1,1.yes
+HRS,r2moneya,2,2.can't do
+HRS,r2moneya,7,7.don't do
+HRS,r2moneya,,.d=dk
+HRS,r2moneya,,.f=no famr
+HRS,r2moneya,,".j=web interview, missing"
+HRS,r2moneya,,.m=oth missing
+HRS,r2moneya,,.n=na
+HRS,r2moneya,,.q=not asked this wave
+HRS,r2moneya,,.r=rf
+HRS,r2moneya,,.s=skip
+HRS,r2moneya,,.u=unmarried
+HRS,r2moneya,,.v=sp nr
+HRS,r2moneya,,.x=don't do
+HRS,r2moneya,,.y=alternate wave
+HRS,r2moneya,,.z=don't do/no if did
+HRS,r2proxy,0,0.not proxy
+HRS,r2proxy,1,1.proxy
+HRS,r2proxy,2,2.partial proxy
+HRS,r2proxy,3,"3.proxy, r deceased"
+HRS,r2proxy,,.u=unmarried
+HRS,r2proxy,,.v=spouse nr
+HRS,r3iwstat,0,0.inap.
+HRS,r3iwstat,1,"1.resp,alive"
+HRS,r3iwstat,2,"2.resp,died after iw"
+HRS,r3iwstat,3,"3.resp(proxy),died"
+HRS,r3iwstat,4,"4.nr,alive"
+HRS,r3iwstat,5,"5.nr,died this wv"
+HRS,r3iwstat,6,"6.nr,died prev wv"
+HRS,r3iwstat,7,"7.nr,dropped from samp"
+HRS,r3iwstat,9,"9.nr,dk if alive or died"
+HRS,r3iwstat,,.u=unmarried
+HRS,r3iwstat,,.v=spouse nr
+HRS,r3dressa,0,0.no
+HRS,r3dressa,1,1.yes
+HRS,r3dressa,2,2.can't do
+HRS,r3dressa,7,7.don't do
+HRS,r3dressa,,.d=dk
+HRS,r3dressa,,.f=no famr
+HRS,r3dressa,,".j=web interview, missing"
+HRS,r3dressa,,.m=oth missing
+HRS,r3dressa,,.n=na
+HRS,r3dressa,,.q=not asked this wave
+HRS,r3dressa,,.r=rf
+HRS,r3dressa,,.s=skip
+HRS,r3dressa,,.u=unmarried
+HRS,r3dressa,,.v=sp nr
+HRS,r3dressa,,.x=don't do
+HRS,r3dressa,,.y=alternate wave
+HRS,r3dressa,,.z=don't do/no if did
+HRS,r3batha,0,0.no
+HRS,r3batha,1,1.yes
+HRS,r3batha,2,2.can't do
+HRS,r3batha,7,7.don't do
+HRS,r3batha,,.d=dk
+HRS,r3batha,,.f=no famr
+HRS,r3batha,,".j=web interview, missing"
+HRS,r3batha,,.m=oth missing
+HRS,r3batha,,.n=na
+HRS,r3batha,,.q=not asked this wave
+HRS,r3batha,,.r=rf
+HRS,r3batha,,.s=skip
+HRS,r3batha,,.u=unmarried
+HRS,r3batha,,.v=sp nr
+HRS,r3batha,,.x=don't do
+HRS,r3batha,,.y=alternate wave
+HRS,r3batha,,.z=don't do/no if did
+HRS,r3eata,0,0.no
+HRS,r3eata,1,1.yes
+HRS,r3eata,2,2.can't do
+HRS,r3eata,7,7.don't do
+HRS,r3eata,,.d=dk
+HRS,r3eata,,.f=no famr
+HRS,r3eata,,".j=web interview, missing"
+HRS,r3eata,,.m=oth missing
+HRS,r3eata,,.n=na
+HRS,r3eata,,.q=not asked this wave
+HRS,r3eata,,.r=rf
+HRS,r3eata,,.s=skip
+HRS,r3eata,,.u=unmarried
+HRS,r3eata,,.v=sp nr
+HRS,r3eata,,.x=don't do
+HRS,r3eata,,.y=alternate wave
+HRS,r3eata,,.z=don't do/no if did
+HRS,r3beda,0,0.no
+HRS,r3beda,1,1.yes
+HRS,r3beda,2,2.can't do
+HRS,r3beda,7,7.don't do
+HRS,r3beda,,.d=dk
+HRS,r3beda,,.f=no famr
+HRS,r3beda,,".j=web interview, missing"
+HRS,r3beda,,.m=oth missing
+HRS,r3beda,,.n=na
+HRS,r3beda,,.q=not asked this wave
+HRS,r3beda,,.r=rf
+HRS,r3beda,,.s=skip
+HRS,r3beda,,.u=unmarried
+HRS,r3beda,,.v=sp nr
+HRS,r3beda,,.x=don't do
+HRS,r3beda,,.y=alternate wave
+HRS,r3beda,,.z=don't do/no if did
+HRS,r3toilta,0,0.no
+HRS,r3toilta,1,1.yes
+HRS,r3toilta,2,2.can't do
+HRS,r3toilta,7,7.don't do
+HRS,r3toilta,,.d=dk
+HRS,r3toilta,,.f=no famr
+HRS,r3toilta,,".j=web interview, missing"
+HRS,r3toilta,,.m=oth missing
+HRS,r3toilta,,.n=na
+HRS,r3toilta,,.q=not asked this wave
+HRS,r3toilta,,.r=rf
+HRS,r3toilta,,.s=skip
+HRS,r3toilta,,.u=unmarried
+HRS,r3toilta,,.v=sp nr
+HRS,r3toilta,,.x=don't do
+HRS,r3toilta,,.y=alternate wave
+HRS,r3toilta,,.z=don't do/no if did
+HRS,r3shopa,0,0.no
+HRS,r3shopa,1,1.yes
+HRS,r3shopa,2,2.can't do
+HRS,r3shopa,7,7.don't do
+HRS,r3shopa,,.d=dk
+HRS,r3shopa,,.f=no famr
+HRS,r3shopa,,".j=web interview, missing"
+HRS,r3shopa,,.m=oth missing
+HRS,r3shopa,,.n=na
+HRS,r3shopa,,.q=not asked this wave
+HRS,r3shopa,,.r=rf
+HRS,r3shopa,,.s=skip
+HRS,r3shopa,,.u=unmarried
+HRS,r3shopa,,.v=sp nr
+HRS,r3shopa,,.x=don't do
+HRS,r3shopa,,.y=alternate wave
+HRS,r3shopa,,.z=don't do/no if did
+HRS,r3mealsa,0,0.no
+HRS,r3mealsa,1,1.yes
+HRS,r3mealsa,2,2.can't do
+HRS,r3mealsa,7,7.don't do
+HRS,r3mealsa,,.d=dk
+HRS,r3mealsa,,.f=no famr
+HRS,r3mealsa,,".j=web interview, missing"
+HRS,r3mealsa,,.m=oth missing
+HRS,r3mealsa,,.n=na
+HRS,r3mealsa,,.q=not asked this wave
+HRS,r3mealsa,,.r=rf
+HRS,r3mealsa,,.s=skip
+HRS,r3mealsa,,.u=unmarried
+HRS,r3mealsa,,.v=sp nr
+HRS,r3mealsa,,.x=don't do
+HRS,r3mealsa,,.y=alternate wave
+HRS,r3mealsa,,.z=don't do/no if did
+HRS,r3medsa,0,0.no
+HRS,r3medsa,1,1.yes
+HRS,r3medsa,2,2.can't do
+HRS,r3medsa,7,7.don't do
+HRS,r3medsa,,.d=dk
+HRS,r3medsa,,.f=no famr
+HRS,r3medsa,,".j=web interview, missing"
+HRS,r3medsa,,.m=oth missing
+HRS,r3medsa,,.n=na
+HRS,r3medsa,,.q=not asked this wave
+HRS,r3medsa,,.r=rf
+HRS,r3medsa,,.s=skip
+HRS,r3medsa,,.u=unmarried
+HRS,r3medsa,,.v=sp nr
+HRS,r3medsa,,.x=don't do
+HRS,r3medsa,,.y=alternate wave
+HRS,r3medsa,,.z=don't do/no if did
+HRS,r3moneya,0,0.no
+HRS,r3moneya,1,1.yes
+HRS,r3moneya,2,2.can't do
+HRS,r3moneya,7,7.don't do
+HRS,r3moneya,,.d=dk
+HRS,r3moneya,,.f=no famr
+HRS,r3moneya,,".j=web interview, missing"
+HRS,r3moneya,,.m=oth missing
+HRS,r3moneya,,.n=na
+HRS,r3moneya,,.q=not asked this wave
+HRS,r3moneya,,.r=rf
+HRS,r3moneya,,.s=skip
+HRS,r3moneya,,.u=unmarried
+HRS,r3moneya,,.v=sp nr
+HRS,r3moneya,,.x=don't do
+HRS,r3moneya,,.y=alternate wave
+HRS,r3moneya,,.z=don't do/no if did
+HRS,r3proxy,0,0.not proxy
+HRS,r3proxy,1,1.proxy
+HRS,r3proxy,2,2.partial proxy
+HRS,r3proxy,3,"3.proxy, r deceased"
+HRS,r3proxy,,.u=unmarried
+HRS,r3proxy,,.v=spouse nr
+HRS,r4iwstat,0,0.inap.
+HRS,r4iwstat,1,"1.resp,alive"
+HRS,r4iwstat,2,"2.resp,died after iw"
+HRS,r4iwstat,3,"3.resp(proxy),died"
+HRS,r4iwstat,4,"4.nr,alive"
+HRS,r4iwstat,5,"5.nr,died this wv"
+HRS,r4iwstat,6,"6.nr,died prev wv"
+HRS,r4iwstat,7,"7.nr,dropped from samp"
+HRS,r4iwstat,9,"9.nr,dk if alive or died"
+HRS,r4iwstat,,.u=unmarried
+HRS,r4iwstat,,.v=spouse nr
+HRS,r4dressa,0,0.no
+HRS,r4dressa,1,1.yes
+HRS,r4dressa,2,2.can't do
+HRS,r4dressa,7,7.don't do
+HRS,r4dressa,,.d=dk
+HRS,r4dressa,,.f=no famr
+HRS,r4dressa,,".j=web interview, missing"
+HRS,r4dressa,,.m=oth missing
+HRS,r4dressa,,.n=na
+HRS,r4dressa,,.q=not asked this wave
+HRS,r4dressa,,.r=rf
+HRS,r4dressa,,.s=skip
+HRS,r4dressa,,.u=unmarried
+HRS,r4dressa,,.v=sp nr
+HRS,r4dressa,,.x=don't do
+HRS,r4dressa,,.y=alternate wave
+HRS,r4dressa,,.z=don't do/no if did
+HRS,r4batha,0,0.no
+HRS,r4batha,1,1.yes
+HRS,r4batha,2,2.can't do
+HRS,r4batha,7,7.don't do
+HRS,r4batha,,.d=dk
+HRS,r4batha,,.f=no famr
+HRS,r4batha,,".j=web interview, missing"
+HRS,r4batha,,.m=oth missing
+HRS,r4batha,,.n=na
+HRS,r4batha,,.q=not asked this wave
+HRS,r4batha,,.r=rf
+HRS,r4batha,,.s=skip
+HRS,r4batha,,.u=unmarried
+HRS,r4batha,,.v=sp nr
+HRS,r4batha,,.x=don't do
+HRS,r4batha,,.y=alternate wave
+HRS,r4batha,,.z=don't do/no if did
+HRS,r4eata,0,0.no
+HRS,r4eata,1,1.yes
+HRS,r4eata,2,2.can't do
+HRS,r4eata,7,7.don't do
+HRS,r4eata,,.d=dk
+HRS,r4eata,,.f=no famr
+HRS,r4eata,,".j=web interview, missing"
+HRS,r4eata,,.m=oth missing
+HRS,r4eata,,.n=na
+HRS,r4eata,,.q=not asked this wave
+HRS,r4eata,,.r=rf
+HRS,r4eata,,.s=skip
+HRS,r4eata,,.u=unmarried
+HRS,r4eata,,.v=sp nr
+HRS,r4eata,,.x=don't do
+HRS,r4eata,,.y=alternate wave
+HRS,r4eata,,.z=don't do/no if did
+HRS,r4beda,0,0.no
+HRS,r4beda,1,1.yes
+HRS,r4beda,2,2.can't do
+HRS,r4beda,7,7.don't do
+HRS,r4beda,,.d=dk
+HRS,r4beda,,.f=no famr
+HRS,r4beda,,".j=web interview, missing"
+HRS,r4beda,,.m=oth missing
+HRS,r4beda,,.n=na
+HRS,r4beda,,.q=not asked this wave
+HRS,r4beda,,.r=rf
+HRS,r4beda,,.s=skip
+HRS,r4beda,,.u=unmarried
+HRS,r4beda,,.v=sp nr
+HRS,r4beda,,.x=don't do
+HRS,r4beda,,.y=alternate wave
+HRS,r4beda,,.z=don't do/no if did
+HRS,r4toilta,0,0.no
+HRS,r4toilta,1,1.yes
+HRS,r4toilta,2,2.can't do
+HRS,r4toilta,7,7.don't do
+HRS,r4toilta,,.d=dk
+HRS,r4toilta,,.f=no famr
+HRS,r4toilta,,".j=web interview, missing"
+HRS,r4toilta,,.m=oth missing
+HRS,r4toilta,,.n=na
+HRS,r4toilta,,.q=not asked this wave
+HRS,r4toilta,,.r=rf
+HRS,r4toilta,,.s=skip
+HRS,r4toilta,,.u=unmarried
+HRS,r4toilta,,.v=sp nr
+HRS,r4toilta,,.x=don't do
+HRS,r4toilta,,.y=alternate wave
+HRS,r4toilta,,.z=don't do/no if did
+HRS,r4shopa,0,0.no
+HRS,r4shopa,1,1.yes
+HRS,r4shopa,2,2.can't do
+HRS,r4shopa,7,7.don't do
+HRS,r4shopa,,.d=dk
+HRS,r4shopa,,.f=no famr
+HRS,r4shopa,,".j=web interview, missing"
+HRS,r4shopa,,.m=oth missing
+HRS,r4shopa,,.n=na
+HRS,r4shopa,,.q=not asked this wave
+HRS,r4shopa,,.r=rf
+HRS,r4shopa,,.s=skip
+HRS,r4shopa,,.u=unmarried
+HRS,r4shopa,,.v=sp nr
+HRS,r4shopa,,.x=don't do
+HRS,r4shopa,,.y=alternate wave
+HRS,r4shopa,,.z=don't do/no if did
+HRS,r4mealsa,0,0.no
+HRS,r4mealsa,1,1.yes
+HRS,r4mealsa,2,2.can't do
+HRS,r4mealsa,7,7.don't do
+HRS,r4mealsa,,.d=dk
+HRS,r4mealsa,,.f=no famr
+HRS,r4mealsa,,".j=web interview, missing"
+HRS,r4mealsa,,.m=oth missing
+HRS,r4mealsa,,.n=na
+HRS,r4mealsa,,.q=not asked this wave
+HRS,r4mealsa,,.r=rf
+HRS,r4mealsa,,.s=skip
+HRS,r4mealsa,,.u=unmarried
+HRS,r4mealsa,,.v=sp nr
+HRS,r4mealsa,,.x=don't do
+HRS,r4mealsa,,.y=alternate wave
+HRS,r4mealsa,,.z=don't do/no if did
+HRS,r4medsa,0,0.no
+HRS,r4medsa,1,1.yes
+HRS,r4medsa,2,2.can't do
+HRS,r4medsa,7,7.don't do
+HRS,r4medsa,,.d=dk
+HRS,r4medsa,,.f=no famr
+HRS,r4medsa,,".j=web interview, missing"
+HRS,r4medsa,,.m=oth missing
+HRS,r4medsa,,.n=na
+HRS,r4medsa,,.q=not asked this wave
+HRS,r4medsa,,.r=rf
+HRS,r4medsa,,.s=skip
+HRS,r4medsa,,.u=unmarried
+HRS,r4medsa,,.v=sp nr
+HRS,r4medsa,,.x=don't do
+HRS,r4medsa,,.y=alternate wave
+HRS,r4medsa,,.z=don't do/no if did
+HRS,r4moneya,0,0.no
+HRS,r4moneya,1,1.yes
+HRS,r4moneya,2,2.can't do
+HRS,r4moneya,7,7.don't do
+HRS,r4moneya,,.d=dk
+HRS,r4moneya,,.f=no famr
+HRS,r4moneya,,".j=web interview, missing"
+HRS,r4moneya,,.m=oth missing
+HRS,r4moneya,,.n=na
+HRS,r4moneya,,.q=not asked this wave
+HRS,r4moneya,,.r=rf
+HRS,r4moneya,,.s=skip
+HRS,r4moneya,,.u=unmarried
+HRS,r4moneya,,.v=sp nr
+HRS,r4moneya,,.x=don't do
+HRS,r4moneya,,.y=alternate wave
+HRS,r4moneya,,.z=don't do/no if did
+HRS,r4proxy,0,0.not proxy
+HRS,r4proxy,1,1.proxy
+HRS,r4proxy,2,2.partial proxy
+HRS,r4proxy,3,"3.proxy, r deceased"
+HRS,r4proxy,,.u=unmarried
+HRS,r4proxy,,.v=spouse nr
+HRS,r5iwstat,0,0.inap.
+HRS,r5iwstat,1,"1.resp,alive"
+HRS,r5iwstat,2,"2.resp,died after iw"
+HRS,r5iwstat,3,"3.resp(proxy),died"
+HRS,r5iwstat,4,"4.nr,alive"
+HRS,r5iwstat,5,"5.nr,died this wv"
+HRS,r5iwstat,6,"6.nr,died prev wv"
+HRS,r5iwstat,7,"7.nr,dropped from samp"
+HRS,r5iwstat,9,"9.nr,dk if alive or died"
+HRS,r5iwstat,,.u=unmarried
+HRS,r5iwstat,,.v=spouse nr
+HRS,r5dressa,0,0.no
+HRS,r5dressa,1,1.yes
+HRS,r5dressa,2,2.can't do
+HRS,r5dressa,7,7.don't do
+HRS,r5dressa,,.d=dk
+HRS,r5dressa,,.f=no famr
+HRS,r5dressa,,".j=web interview, missing"
+HRS,r5dressa,,.m=oth missing
+HRS,r5dressa,,.n=na
+HRS,r5dressa,,.q=not asked this wave
+HRS,r5dressa,,.r=rf
+HRS,r5dressa,,.s=skip
+HRS,r5dressa,,.u=unmarried
+HRS,r5dressa,,.v=sp nr
+HRS,r5dressa,,.x=don't do
+HRS,r5dressa,,.y=alternate wave
+HRS,r5dressa,,.z=don't do/no if did
+HRS,r5batha,0,0.no
+HRS,r5batha,1,1.yes
+HRS,r5batha,2,2.can't do
+HRS,r5batha,7,7.don't do
+HRS,r5batha,,.d=dk
+HRS,r5batha,,.f=no famr
+HRS,r5batha,,".j=web interview, missing"
+HRS,r5batha,,.m=oth missing
+HRS,r5batha,,.n=na
+HRS,r5batha,,.q=not asked this wave
+HRS,r5batha,,.r=rf
+HRS,r5batha,,.s=skip
+HRS,r5batha,,.u=unmarried
+HRS,r5batha,,.v=sp nr
+HRS,r5batha,,.x=don't do
+HRS,r5batha,,.y=alternate wave
+HRS,r5batha,,.z=don't do/no if did
+HRS,r5eata,0,0.no
+HRS,r5eata,1,1.yes
+HRS,r5eata,2,2.can't do
+HRS,r5eata,7,7.don't do
+HRS,r5eata,,.d=dk
+HRS,r5eata,,.f=no famr
+HRS,r5eata,,".j=web interview, missing"
+HRS,r5eata,,.m=oth missing
+HRS,r5eata,,.n=na
+HRS,r5eata,,.q=not asked this wave
+HRS,r5eata,,.r=rf
+HRS,r5eata,,.s=skip
+HRS,r5eata,,.u=unmarried
+HRS,r5eata,,.v=sp nr
+HRS,r5eata,,.x=don't do
+HRS,r5eata,,.y=alternate wave
+HRS,r5eata,,.z=don't do/no if did
+HRS,r5beda,0,0.no
+HRS,r5beda,1,1.yes
+HRS,r5beda,2,2.can't do
+HRS,r5beda,7,7.don't do
+HRS,r5beda,,.d=dk
+HRS,r5beda,,.f=no famr
+HRS,r5beda,,".j=web interview, missing"
+HRS,r5beda,,.m=oth missing
+HRS,r5beda,,.n=na
+HRS,r5beda,,.q=not asked this wave
+HRS,r5beda,,.r=rf
+HRS,r5beda,,.s=skip
+HRS,r5beda,,.u=unmarried
+HRS,r5beda,,.v=sp nr
+HRS,r5beda,,.x=don't do
+HRS,r5beda,,.y=alternate wave
+HRS,r5beda,,.z=don't do/no if did
+HRS,r5toilta,0,0.no
+HRS,r5toilta,1,1.yes
+HRS,r5toilta,2,2.can't do
+HRS,r5toilta,7,7.don't do
+HRS,r5toilta,,.d=dk
+HRS,r5toilta,,.f=no famr
+HRS,r5toilta,,".j=web interview, missing"
+HRS,r5toilta,,.m=oth missing
+HRS,r5toilta,,.n=na
+HRS,r5toilta,,.q=not asked this wave
+HRS,r5toilta,,.r=rf
+HRS,r5toilta,,.s=skip
+HRS,r5toilta,,.u=unmarried
+HRS,r5toilta,,.v=sp nr
+HRS,r5toilta,,.x=don't do
+HRS,r5toilta,,.y=alternate wave
+HRS,r5toilta,,.z=don't do/no if did
+HRS,r5shopa,0,0.no
+HRS,r5shopa,1,1.yes
+HRS,r5shopa,2,2.can't do
+HRS,r5shopa,7,7.don't do
+HRS,r5shopa,,.d=dk
+HRS,r5shopa,,.f=no famr
+HRS,r5shopa,,".j=web interview, missing"
+HRS,r5shopa,,.m=oth missing
+HRS,r5shopa,,.n=na
+HRS,r5shopa,,.q=not asked this wave
+HRS,r5shopa,,.r=rf
+HRS,r5shopa,,.s=skip
+HRS,r5shopa,,.u=unmarried
+HRS,r5shopa,,.v=sp nr
+HRS,r5shopa,,.x=don't do
+HRS,r5shopa,,.y=alternate wave
+HRS,r5shopa,,.z=don't do/no if did
+HRS,r5mealsa,0,0.no
+HRS,r5mealsa,1,1.yes
+HRS,r5mealsa,2,2.can't do
+HRS,r5mealsa,7,7.don't do
+HRS,r5mealsa,,.d=dk
+HRS,r5mealsa,,.f=no famr
+HRS,r5mealsa,,".j=web interview, missing"
+HRS,r5mealsa,,.m=oth missing
+HRS,r5mealsa,,.n=na
+HRS,r5mealsa,,.q=not asked this wave
+HRS,r5mealsa,,.r=rf
+HRS,r5mealsa,,.s=skip
+HRS,r5mealsa,,.u=unmarried
+HRS,r5mealsa,,.v=sp nr
+HRS,r5mealsa,,.x=don't do
+HRS,r5mealsa,,.y=alternate wave
+HRS,r5mealsa,,.z=don't do/no if did
+HRS,r5medsa,0,0.no
+HRS,r5medsa,1,1.yes
+HRS,r5medsa,2,2.can't do
+HRS,r5medsa,7,7.don't do
+HRS,r5medsa,,.d=dk
+HRS,r5medsa,,.f=no famr
+HRS,r5medsa,,".j=web interview, missing"
+HRS,r5medsa,,.m=oth missing
+HRS,r5medsa,,.n=na
+HRS,r5medsa,,.q=not asked this wave
+HRS,r5medsa,,.r=rf
+HRS,r5medsa,,.s=skip
+HRS,r5medsa,,.u=unmarried
+HRS,r5medsa,,.v=sp nr
+HRS,r5medsa,,.x=don't do
+HRS,r5medsa,,.y=alternate wave
+HRS,r5medsa,,.z=don't do/no if did
+HRS,r5moneya,0,0.no
+HRS,r5moneya,1,1.yes
+HRS,r5moneya,2,2.can't do
+HRS,r5moneya,7,7.don't do
+HRS,r5moneya,,.d=dk
+HRS,r5moneya,,.f=no famr
+HRS,r5moneya,,".j=web interview, missing"
+HRS,r5moneya,,.m=oth missing
+HRS,r5moneya,,.n=na
+HRS,r5moneya,,.q=not asked this wave
+HRS,r5moneya,,.r=rf
+HRS,r5moneya,,.s=skip
+HRS,r5moneya,,.u=unmarried
+HRS,r5moneya,,.v=sp nr
+HRS,r5moneya,,.x=don't do
+HRS,r5moneya,,.y=alternate wave
+HRS,r5moneya,,.z=don't do/no if did
+HRS,r5proxy,0,0.not proxy
+HRS,r5proxy,1,1.proxy
+HRS,r5proxy,2,2.partial proxy
+HRS,r5proxy,3,"3.proxy, r deceased"
+HRS,r5proxy,,.u=unmarried
+HRS,r5proxy,,.v=spouse nr
+HRS,r6iwstat,0,0.inap.
+HRS,r6iwstat,1,"1.resp,alive"
+HRS,r6iwstat,2,"2.resp,died after iw"
+HRS,r6iwstat,3,"3.resp(proxy),died"
+HRS,r6iwstat,4,"4.nr,alive"
+HRS,r6iwstat,5,"5.nr,died this wv"
+HRS,r6iwstat,6,"6.nr,died prev wv"
+HRS,r6iwstat,7,"7.nr,dropped from samp"
+HRS,r6iwstat,9,"9.nr,dk if alive or died"
+HRS,r6iwstat,,.u=unmarried
+HRS,r6iwstat,,.v=spouse nr
+HRS,r6dressa,0,0.no
+HRS,r6dressa,1,1.yes
+HRS,r6dressa,2,2.can't do
+HRS,r6dressa,7,7.don't do
+HRS,r6dressa,,.d=dk
+HRS,r6dressa,,.f=no famr
+HRS,r6dressa,,".j=web interview, missing"
+HRS,r6dressa,,.m=oth missing
+HRS,r6dressa,,.n=na
+HRS,r6dressa,,.q=not asked this wave
+HRS,r6dressa,,.r=rf
+HRS,r6dressa,,.s=skip
+HRS,r6dressa,,.u=unmarried
+HRS,r6dressa,,.v=sp nr
+HRS,r6dressa,,.x=don't do
+HRS,r6dressa,,.y=alternate wave
+HRS,r6dressa,,.z=don't do/no if did
+HRS,r6batha,0,0.no
+HRS,r6batha,1,1.yes
+HRS,r6batha,2,2.can't do
+HRS,r6batha,7,7.don't do
+HRS,r6batha,,.d=dk
+HRS,r6batha,,.f=no famr
+HRS,r6batha,,".j=web interview, missing"
+HRS,r6batha,,.m=oth missing
+HRS,r6batha,,.n=na
+HRS,r6batha,,.q=not asked this wave
+HRS,r6batha,,.r=rf
+HRS,r6batha,,.s=skip
+HRS,r6batha,,.u=unmarried
+HRS,r6batha,,.v=sp nr
+HRS,r6batha,,.x=don't do
+HRS,r6batha,,.y=alternate wave
+HRS,r6batha,,.z=don't do/no if did
+HRS,r6eata,0,0.no
+HRS,r6eata,1,1.yes
+HRS,r6eata,2,2.can't do
+HRS,r6eata,7,7.don't do
+HRS,r6eata,,.d=dk
+HRS,r6eata,,.f=no famr
+HRS,r6eata,,".j=web interview, missing"
+HRS,r6eata,,.m=oth missing
+HRS,r6eata,,.n=na
+HRS,r6eata,,.q=not asked this wave
+HRS,r6eata,,.r=rf
+HRS,r6eata,,.s=skip
+HRS,r6eata,,.u=unmarried
+HRS,r6eata,,.v=sp nr
+HRS,r6eata,,.x=don't do
+HRS,r6eata,,.y=alternate wave
+HRS,r6eata,,.z=don't do/no if did
+HRS,r6beda,0,0.no
+HRS,r6beda,1,1.yes
+HRS,r6beda,2,2.can't do
+HRS,r6beda,7,7.don't do
+HRS,r6beda,,.d=dk
+HRS,r6beda,,.f=no famr
+HRS,r6beda,,".j=web interview, missing"
+HRS,r6beda,,.m=oth missing
+HRS,r6beda,,.n=na
+HRS,r6beda,,.q=not asked this wave
+HRS,r6beda,,.r=rf
+HRS,r6beda,,.s=skip
+HRS,r6beda,,.u=unmarried
+HRS,r6beda,,.v=sp nr
+HRS,r6beda,,.x=don't do
+HRS,r6beda,,.y=alternate wave
+HRS,r6beda,,.z=don't do/no if did
+HRS,r6toilta,0,0.no
+HRS,r6toilta,1,1.yes
+HRS,r6toilta,2,2.can't do
+HRS,r6toilta,7,7.don't do
+HRS,r6toilta,,.d=dk
+HRS,r6toilta,,.f=no famr
+HRS,r6toilta,,".j=web interview, missing"
+HRS,r6toilta,,.m=oth missing
+HRS,r6toilta,,.n=na
+HRS,r6toilta,,.q=not asked this wave
+HRS,r6toilta,,.r=rf
+HRS,r6toilta,,.s=skip
+HRS,r6toilta,,.u=unmarried
+HRS,r6toilta,,.v=sp nr
+HRS,r6toilta,,.x=don't do
+HRS,r6toilta,,.y=alternate wave
+HRS,r6toilta,,.z=don't do/no if did
+HRS,r6shopa,0,0.no
+HRS,r6shopa,1,1.yes
+HRS,r6shopa,2,2.can't do
+HRS,r6shopa,7,7.don't do
+HRS,r6shopa,,.d=dk
+HRS,r6shopa,,.f=no famr
+HRS,r6shopa,,".j=web interview, missing"
+HRS,r6shopa,,.m=oth missing
+HRS,r6shopa,,.n=na
+HRS,r6shopa,,.q=not asked this wave
+HRS,r6shopa,,.r=rf
+HRS,r6shopa,,.s=skip
+HRS,r6shopa,,.u=unmarried
+HRS,r6shopa,,.v=sp nr
+HRS,r6shopa,,.x=don't do
+HRS,r6shopa,,.y=alternate wave
+HRS,r6shopa,,.z=don't do/no if did
+HRS,r6mealsa,0,0.no
+HRS,r6mealsa,1,1.yes
+HRS,r6mealsa,2,2.can't do
+HRS,r6mealsa,7,7.don't do
+HRS,r6mealsa,,.d=dk
+HRS,r6mealsa,,.f=no famr
+HRS,r6mealsa,,".j=web interview, missing"
+HRS,r6mealsa,,.m=oth missing
+HRS,r6mealsa,,.n=na
+HRS,r6mealsa,,.q=not asked this wave
+HRS,r6mealsa,,.r=rf
+HRS,r6mealsa,,.s=skip
+HRS,r6mealsa,,.u=unmarried
+HRS,r6mealsa,,.v=sp nr
+HRS,r6mealsa,,.x=don't do
+HRS,r6mealsa,,.y=alternate wave
+HRS,r6mealsa,,.z=don't do/no if did
+HRS,r6medsa,0,0.no
+HRS,r6medsa,1,1.yes
+HRS,r6medsa,2,2.can't do
+HRS,r6medsa,7,7.don't do
+HRS,r6medsa,,.d=dk
+HRS,r6medsa,,.f=no famr
+HRS,r6medsa,,".j=web interview, missing"
+HRS,r6medsa,,.m=oth missing
+HRS,r6medsa,,.n=na
+HRS,r6medsa,,.q=not asked this wave
+HRS,r6medsa,,.r=rf
+HRS,r6medsa,,.s=skip
+HRS,r6medsa,,.u=unmarried
+HRS,r6medsa,,.v=sp nr
+HRS,r6medsa,,.x=don't do
+HRS,r6medsa,,.y=alternate wave
+HRS,r6medsa,,.z=don't do/no if did
+HRS,r6moneya,0,0.no
+HRS,r6moneya,1,1.yes
+HRS,r6moneya,2,2.can't do
+HRS,r6moneya,7,7.don't do
+HRS,r6moneya,,.d=dk
+HRS,r6moneya,,.f=no famr
+HRS,r6moneya,,".j=web interview, missing"
+HRS,r6moneya,,.m=oth missing
+HRS,r6moneya,,.n=na
+HRS,r6moneya,,.q=not asked this wave
+HRS,r6moneya,,.r=rf
+HRS,r6moneya,,.s=skip
+HRS,r6moneya,,.u=unmarried
+HRS,r6moneya,,.v=sp nr
+HRS,r6moneya,,.x=don't do
+HRS,r6moneya,,.y=alternate wave
+HRS,r6moneya,,.z=don't do/no if did
+HRS,r6proxy,0,0.not proxy
+HRS,r6proxy,1,1.proxy
+HRS,r6proxy,2,2.partial proxy
+HRS,r6proxy,3,"3.proxy, r deceased"
+HRS,r6proxy,,.u=unmarried
+HRS,r6proxy,,.v=spouse nr
+HRS,r7iwstat,0,0.inap.
+HRS,r7iwstat,1,"1.resp,alive"
+HRS,r7iwstat,2,"2.resp,died after iw"
+HRS,r7iwstat,3,"3.resp(proxy),died"
+HRS,r7iwstat,4,"4.nr,alive"
+HRS,r7iwstat,5,"5.nr,died this wv"
+HRS,r7iwstat,6,"6.nr,died prev wv"
+HRS,r7iwstat,7,"7.nr,dropped from samp"
+HRS,r7iwstat,9,"9.nr,dk if alive or died"
+HRS,r7iwstat,,.u=unmarried
+HRS,r7iwstat,,.v=spouse nr
+HRS,r7dressa,0,0.no
+HRS,r7dressa,1,1.yes
+HRS,r7dressa,2,2.can't do
+HRS,r7dressa,7,7.don't do
+HRS,r7dressa,,.d=dk
+HRS,r7dressa,,.f=no famr
+HRS,r7dressa,,".j=web interview, missing"
+HRS,r7dressa,,.m=oth missing
+HRS,r7dressa,,.n=na
+HRS,r7dressa,,.q=not asked this wave
+HRS,r7dressa,,.r=rf
+HRS,r7dressa,,.s=skip
+HRS,r7dressa,,.u=unmarried
+HRS,r7dressa,,.v=sp nr
+HRS,r7dressa,,.x=don't do
+HRS,r7dressa,,.y=alternate wave
+HRS,r7dressa,,.z=don't do/no if did
+HRS,r7batha,0,0.no
+HRS,r7batha,1,1.yes
+HRS,r7batha,2,2.can't do
+HRS,r7batha,7,7.don't do
+HRS,r7batha,,.d=dk
+HRS,r7batha,,.f=no famr
+HRS,r7batha,,".j=web interview, missing"
+HRS,r7batha,,.m=oth missing
+HRS,r7batha,,.n=na
+HRS,r7batha,,.q=not asked this wave
+HRS,r7batha,,.r=rf
+HRS,r7batha,,.s=skip
+HRS,r7batha,,.u=unmarried
+HRS,r7batha,,.v=sp nr
+HRS,r7batha,,.x=don't do
+HRS,r7batha,,.y=alternate wave
+HRS,r7batha,,.z=don't do/no if did
+HRS,r7eata,0,0.no
+HRS,r7eata,1,1.yes
+HRS,r7eata,2,2.can't do
+HRS,r7eata,7,7.don't do
+HRS,r7eata,,.d=dk
+HRS,r7eata,,.f=no famr
+HRS,r7eata,,".j=web interview, missing"
+HRS,r7eata,,.m=oth missing
+HRS,r7eata,,.n=na
+HRS,r7eata,,.q=not asked this wave
+HRS,r7eata,,.r=rf
+HRS,r7eata,,.s=skip
+HRS,r7eata,,.u=unmarried
+HRS,r7eata,,.v=sp nr
+HRS,r7eata,,.x=don't do
+HRS,r7eata,,.y=alternate wave
+HRS,r7eata,,.z=don't do/no if did
+HRS,r7beda,0,0.no
+HRS,r7beda,1,1.yes
+HRS,r7beda,2,2.can't do
+HRS,r7beda,7,7.don't do
+HRS,r7beda,,.d=dk
+HRS,r7beda,,.f=no famr
+HRS,r7beda,,".j=web interview, missing"
+HRS,r7beda,,.m=oth missing
+HRS,r7beda,,.n=na
+HRS,r7beda,,.q=not asked this wave
+HRS,r7beda,,.r=rf
+HRS,r7beda,,.s=skip
+HRS,r7beda,,.u=unmarried
+HRS,r7beda,,.v=sp nr
+HRS,r7beda,,.x=don't do
+HRS,r7beda,,.y=alternate wave
+HRS,r7beda,,.z=don't do/no if did
+HRS,r7toilta,0,0.no
+HRS,r7toilta,1,1.yes
+HRS,r7toilta,2,2.can't do
+HRS,r7toilta,7,7.don't do
+HRS,r7toilta,,.d=dk
+HRS,r7toilta,,.f=no famr
+HRS,r7toilta,,".j=web interview, missing"
+HRS,r7toilta,,.m=oth missing
+HRS,r7toilta,,.n=na
+HRS,r7toilta,,.q=not asked this wave
+HRS,r7toilta,,.r=rf
+HRS,r7toilta,,.s=skip
+HRS,r7toilta,,.u=unmarried
+HRS,r7toilta,,.v=sp nr
+HRS,r7toilta,,.x=don't do
+HRS,r7toilta,,.y=alternate wave
+HRS,r7toilta,,.z=don't do/no if did
+HRS,r7shopa,0,0.no
+HRS,r7shopa,1,1.yes
+HRS,r7shopa,2,2.can't do
+HRS,r7shopa,7,7.don't do
+HRS,r7shopa,,.d=dk
+HRS,r7shopa,,.f=no famr
+HRS,r7shopa,,".j=web interview, missing"
+HRS,r7shopa,,.m=oth missing
+HRS,r7shopa,,.n=na
+HRS,r7shopa,,.q=not asked this wave
+HRS,r7shopa,,.r=rf
+HRS,r7shopa,,.s=skip
+HRS,r7shopa,,.u=unmarried
+HRS,r7shopa,,.v=sp nr
+HRS,r7shopa,,.x=don't do
+HRS,r7shopa,,.y=alternate wave
+HRS,r7shopa,,.z=don't do/no if did
+HRS,r7mealsa,0,0.no
+HRS,r7mealsa,1,1.yes
+HRS,r7mealsa,2,2.can't do
+HRS,r7mealsa,7,7.don't do
+HRS,r7mealsa,,.d=dk
+HRS,r7mealsa,,.f=no famr
+HRS,r7mealsa,,".j=web interview, missing"
+HRS,r7mealsa,,.m=oth missing
+HRS,r7mealsa,,.n=na
+HRS,r7mealsa,,.q=not asked this wave
+HRS,r7mealsa,,.r=rf
+HRS,r7mealsa,,.s=skip
+HRS,r7mealsa,,.u=unmarried
+HRS,r7mealsa,,.v=sp nr
+HRS,r7mealsa,,.x=don't do
+HRS,r7mealsa,,.y=alternate wave
+HRS,r7mealsa,,.z=don't do/no if did
+HRS,r7medsa,0,0.no
+HRS,r7medsa,1,1.yes
+HRS,r7medsa,2,2.can't do
+HRS,r7medsa,7,7.don't do
+HRS,r7medsa,,.d=dk
+HRS,r7medsa,,.f=no famr
+HRS,r7medsa,,".j=web interview, missing"
+HRS,r7medsa,,.m=oth missing
+HRS,r7medsa,,.n=na
+HRS,r7medsa,,.q=not asked this wave
+HRS,r7medsa,,.r=rf
+HRS,r7medsa,,.s=skip
+HRS,r7medsa,,.u=unmarried
+HRS,r7medsa,,.v=sp nr
+HRS,r7medsa,,.x=don't do
+HRS,r7medsa,,.y=alternate wave
+HRS,r7medsa,,.z=don't do/no if did
+HRS,r7moneya,0,0.no
+HRS,r7moneya,1,1.yes
+HRS,r7moneya,2,2.can't do
+HRS,r7moneya,7,7.don't do
+HRS,r7moneya,,.d=dk
+HRS,r7moneya,,.f=no famr
+HRS,r7moneya,,".j=web interview, missing"
+HRS,r7moneya,,.m=oth missing
+HRS,r7moneya,,.n=na
+HRS,r7moneya,,.q=not asked this wave
+HRS,r7moneya,,.r=rf
+HRS,r7moneya,,.s=skip
+HRS,r7moneya,,.u=unmarried
+HRS,r7moneya,,.v=sp nr
+HRS,r7moneya,,.x=don't do
+HRS,r7moneya,,.y=alternate wave
+HRS,r7moneya,,.z=don't do/no if did
+HRS,r7proxy,0,0.not proxy
+HRS,r7proxy,1,1.proxy
+HRS,r7proxy,2,2.partial proxy
+HRS,r7proxy,3,"3.proxy, r deceased"
+HRS,r7proxy,,.u=unmarried
+HRS,r7proxy,,.v=spouse nr
+HRS,r8iwstat,0,0.inap.
+HRS,r8iwstat,1,"1.resp,alive"
+HRS,r8iwstat,2,"2.resp,died after iw"
+HRS,r8iwstat,3,"3.resp(proxy),died"
+HRS,r8iwstat,4,"4.nr,alive"
+HRS,r8iwstat,5,"5.nr,died this wv"
+HRS,r8iwstat,6,"6.nr,died prev wv"
+HRS,r8iwstat,7,"7.nr,dropped from samp"
+HRS,r8iwstat,9,"9.nr,dk if alive or died"
+HRS,r8iwstat,,.u=unmarried
+HRS,r8iwstat,,.v=spouse nr
+HRS,r8dressa,0,0.no
+HRS,r8dressa,1,1.yes
+HRS,r8dressa,2,2.can't do
+HRS,r8dressa,7,7.don't do
+HRS,r8dressa,,.d=dk
+HRS,r8dressa,,.f=no famr
+HRS,r8dressa,,".j=web interview, missing"
+HRS,r8dressa,,.m=oth missing
+HRS,r8dressa,,.n=na
+HRS,r8dressa,,.q=not asked this wave
+HRS,r8dressa,,.r=rf
+HRS,r8dressa,,.s=skip
+HRS,r8dressa,,.u=unmarried
+HRS,r8dressa,,.v=sp nr
+HRS,r8dressa,,.x=don't do
+HRS,r8dressa,,.y=alternate wave
+HRS,r8dressa,,.z=don't do/no if did
+HRS,r8batha,0,0.no
+HRS,r8batha,1,1.yes
+HRS,r8batha,2,2.can't do
+HRS,r8batha,7,7.don't do
+HRS,r8batha,,.d=dk
+HRS,r8batha,,.f=no famr
+HRS,r8batha,,".j=web interview, missing"
+HRS,r8batha,,.m=oth missing
+HRS,r8batha,,.n=na
+HRS,r8batha,,.q=not asked this wave
+HRS,r8batha,,.r=rf
+HRS,r8batha,,.s=skip
+HRS,r8batha,,.u=unmarried
+HRS,r8batha,,.v=sp nr
+HRS,r8batha,,.x=don't do
+HRS,r8batha,,.y=alternate wave
+HRS,r8batha,,.z=don't do/no if did
+HRS,r8eata,0,0.no
+HRS,r8eata,1,1.yes
+HRS,r8eata,2,2.can't do
+HRS,r8eata,7,7.don't do
+HRS,r8eata,,.d=dk
+HRS,r8eata,,.f=no famr
+HRS,r8eata,,".j=web interview, missing"
+HRS,r8eata,,.m=oth missing
+HRS,r8eata,,.n=na
+HRS,r8eata,,.q=not asked this wave
+HRS,r8eata,,.r=rf
+HRS,r8eata,,.s=skip
+HRS,r8eata,,.u=unmarried
+HRS,r8eata,,.v=sp nr
+HRS,r8eata,,.x=don't do
+HRS,r8eata,,.y=alternate wave
+HRS,r8eata,,.z=don't do/no if did
+HRS,r8beda,0,0.no
+HRS,r8beda,1,1.yes
+HRS,r8beda,2,2.can't do
+HRS,r8beda,7,7.don't do
+HRS,r8beda,,.d=dk
+HRS,r8beda,,.f=no famr
+HRS,r8beda,,".j=web interview, missing"
+HRS,r8beda,,.m=oth missing
+HRS,r8beda,,.n=na
+HRS,r8beda,,.q=not asked this wave
+HRS,r8beda,,.r=rf
+HRS,r8beda,,.s=skip
+HRS,r8beda,,.u=unmarried
+HRS,r8beda,,.v=sp nr
+HRS,r8beda,,.x=don't do
+HRS,r8beda,,.y=alternate wave
+HRS,r8beda,,.z=don't do/no if did
+HRS,r8toilta,0,0.no
+HRS,r8toilta,1,1.yes
+HRS,r8toilta,2,2.can't do
+HRS,r8toilta,7,7.don't do
+HRS,r8toilta,,.d=dk
+HRS,r8toilta,,.f=no famr
+HRS,r8toilta,,".j=web interview, missing"
+HRS,r8toilta,,.m=oth missing
+HRS,r8toilta,,.n=na
+HRS,r8toilta,,.q=not asked this wave
+HRS,r8toilta,,.r=rf
+HRS,r8toilta,,.s=skip
+HRS,r8toilta,,.u=unmarried
+HRS,r8toilta,,.v=sp nr
+HRS,r8toilta,,.x=don't do
+HRS,r8toilta,,.y=alternate wave
+HRS,r8toilta,,.z=don't do/no if did
+HRS,r8shopa,0,0.no
+HRS,r8shopa,1,1.yes
+HRS,r8shopa,2,2.can't do
+HRS,r8shopa,7,7.don't do
+HRS,r8shopa,,.d=dk
+HRS,r8shopa,,.f=no famr
+HRS,r8shopa,,".j=web interview, missing"
+HRS,r8shopa,,.m=oth missing
+HRS,r8shopa,,.n=na
+HRS,r8shopa,,.q=not asked this wave
+HRS,r8shopa,,.r=rf
+HRS,r8shopa,,.s=skip
+HRS,r8shopa,,.u=unmarried
+HRS,r8shopa,,.v=sp nr
+HRS,r8shopa,,.x=don't do
+HRS,r8shopa,,.y=alternate wave
+HRS,r8shopa,,.z=don't do/no if did
+HRS,r8mealsa,0,0.no
+HRS,r8mealsa,1,1.yes
+HRS,r8mealsa,2,2.can't do
+HRS,r8mealsa,7,7.don't do
+HRS,r8mealsa,,.d=dk
+HRS,r8mealsa,,.f=no famr
+HRS,r8mealsa,,".j=web interview, missing"
+HRS,r8mealsa,,.m=oth missing
+HRS,r8mealsa,,.n=na
+HRS,r8mealsa,,.q=not asked this wave
+HRS,r8mealsa,,.r=rf
+HRS,r8mealsa,,.s=skip
+HRS,r8mealsa,,.u=unmarried
+HRS,r8mealsa,,.v=sp nr
+HRS,r8mealsa,,.x=don't do
+HRS,r8mealsa,,.y=alternate wave
+HRS,r8mealsa,,.z=don't do/no if did
+HRS,r8medsa,0,0.no
+HRS,r8medsa,1,1.yes
+HRS,r8medsa,2,2.can't do
+HRS,r8medsa,7,7.don't do
+HRS,r8medsa,,.d=dk
+HRS,r8medsa,,.f=no famr
+HRS,r8medsa,,".j=web interview, missing"
+HRS,r8medsa,,.m=oth missing
+HRS,r8medsa,,.n=na
+HRS,r8medsa,,.q=not asked this wave
+HRS,r8medsa,,.r=rf
+HRS,r8medsa,,.s=skip
+HRS,r8medsa,,.u=unmarried
+HRS,r8medsa,,.v=sp nr
+HRS,r8medsa,,.x=don't do
+HRS,r8medsa,,.y=alternate wave
+HRS,r8medsa,,.z=don't do/no if did
+HRS,r8moneya,0,0.no
+HRS,r8moneya,1,1.yes
+HRS,r8moneya,2,2.can't do
+HRS,r8moneya,7,7.don't do
+HRS,r8moneya,,.d=dk
+HRS,r8moneya,,.f=no famr
+HRS,r8moneya,,".j=web interview, missing"
+HRS,r8moneya,,.m=oth missing
+HRS,r8moneya,,.n=na
+HRS,r8moneya,,.q=not asked this wave
+HRS,r8moneya,,.r=rf
+HRS,r8moneya,,.s=skip
+HRS,r8moneya,,.u=unmarried
+HRS,r8moneya,,.v=sp nr
+HRS,r8moneya,,.x=don't do
+HRS,r8moneya,,.y=alternate wave
+HRS,r8moneya,,.z=don't do/no if did
+HRS,r8proxy,0,0.not proxy
+HRS,r8proxy,1,1.proxy
+HRS,r8proxy,2,2.partial proxy
+HRS,r8proxy,3,"3.proxy, r deceased"
+HRS,r8proxy,,.u=unmarried
+HRS,r8proxy,,.v=spouse nr
+HRS,r9iwstat,0,0.inap.
+HRS,r9iwstat,1,"1.resp,alive"
+HRS,r9iwstat,2,"2.resp,died after iw"
+HRS,r9iwstat,3,"3.resp(proxy),died"
+HRS,r9iwstat,4,"4.nr,alive"
+HRS,r9iwstat,5,"5.nr,died this wv"
+HRS,r9iwstat,6,"6.nr,died prev wv"
+HRS,r9iwstat,7,"7.nr,dropped from samp"
+HRS,r9iwstat,9,"9.nr,dk if alive or died"
+HRS,r9iwstat,,.u=unmarried
+HRS,r9iwstat,,.v=spouse nr
+HRS,r9dressa,0,0.no
+HRS,r9dressa,1,1.yes
+HRS,r9dressa,2,2.can't do
+HRS,r9dressa,7,7.don't do
+HRS,r9dressa,,.d=dk
+HRS,r9dressa,,.f=no famr
+HRS,r9dressa,,".j=web interview, missing"
+HRS,r9dressa,,.m=oth missing
+HRS,r9dressa,,.n=na
+HRS,r9dressa,,.q=not asked this wave
+HRS,r9dressa,,.r=rf
+HRS,r9dressa,,.s=skip
+HRS,r9dressa,,.u=unmarried
+HRS,r9dressa,,.v=sp nr
+HRS,r9dressa,,.x=don't do
+HRS,r9dressa,,.y=alternate wave
+HRS,r9dressa,,.z=don't do/no if did
+HRS,r9batha,0,0.no
+HRS,r9batha,1,1.yes
+HRS,r9batha,2,2.can't do
+HRS,r9batha,7,7.don't do
+HRS,r9batha,,.d=dk
+HRS,r9batha,,.f=no famr
+HRS,r9batha,,".j=web interview, missing"
+HRS,r9batha,,.m=oth missing
+HRS,r9batha,,.n=na
+HRS,r9batha,,.q=not asked this wave
+HRS,r9batha,,.r=rf
+HRS,r9batha,,.s=skip
+HRS,r9batha,,.u=unmarried
+HRS,r9batha,,.v=sp nr
+HRS,r9batha,,.x=don't do
+HRS,r9batha,,.y=alternate wave
+HRS,r9batha,,.z=don't do/no if did
+HRS,r9eata,0,0.no
+HRS,r9eata,1,1.yes
+HRS,r9eata,2,2.can't do
+HRS,r9eata,7,7.don't do
+HRS,r9eata,,.d=dk
+HRS,r9eata,,.f=no famr
+HRS,r9eata,,".j=web interview, missing"
+HRS,r9eata,,.m=oth missing
+HRS,r9eata,,.n=na
+HRS,r9eata,,.q=not asked this wave
+HRS,r9eata,,.r=rf
+HRS,r9eata,,.s=skip
+HRS,r9eata,,.u=unmarried
+HRS,r9eata,,.v=sp nr
+HRS,r9eata,,.x=don't do
+HRS,r9eata,,.y=alternate wave
+HRS,r9eata,,.z=don't do/no if did
+HRS,r9beda,0,0.no
+HRS,r9beda,1,1.yes
+HRS,r9beda,2,2.can't do
+HRS,r9beda,7,7.don't do
+HRS,r9beda,,.d=dk
+HRS,r9beda,,.f=no famr
+HRS,r9beda,,".j=web interview, missing"
+HRS,r9beda,,.m=oth missing
+HRS,r9beda,,.n=na
+HRS,r9beda,,.q=not asked this wave
+HRS,r9beda,,.r=rf
+HRS,r9beda,,.s=skip
+HRS,r9beda,,.u=unmarried
+HRS,r9beda,,.v=sp nr
+HRS,r9beda,,.x=don't do
+HRS,r9beda,,.y=alternate wave
+HRS,r9beda,,.z=don't do/no if did
+HRS,r9toilta,0,0.no
+HRS,r9toilta,1,1.yes
+HRS,r9toilta,2,2.can't do
+HRS,r9toilta,7,7.don't do
+HRS,r9toilta,,.d=dk
+HRS,r9toilta,,.f=no famr
+HRS,r9toilta,,".j=web interview, missing"
+HRS,r9toilta,,.m=oth missing
+HRS,r9toilta,,.n=na
+HRS,r9toilta,,.q=not asked this wave
+HRS,r9toilta,,.r=rf
+HRS,r9toilta,,.s=skip
+HRS,r9toilta,,.u=unmarried
+HRS,r9toilta,,.v=sp nr
+HRS,r9toilta,,.x=don't do
+HRS,r9toilta,,.y=alternate wave
+HRS,r9toilta,,.z=don't do/no if did
+HRS,r9shopa,0,0.no
+HRS,r9shopa,1,1.yes
+HRS,r9shopa,2,2.can't do
+HRS,r9shopa,7,7.don't do
+HRS,r9shopa,,.d=dk
+HRS,r9shopa,,.f=no famr
+HRS,r9shopa,,".j=web interview, missing"
+HRS,r9shopa,,.m=oth missing
+HRS,r9shopa,,.n=na
+HRS,r9shopa,,.q=not asked this wave
+HRS,r9shopa,,.r=rf
+HRS,r9shopa,,.s=skip
+HRS,r9shopa,,.u=unmarried
+HRS,r9shopa,,.v=sp nr
+HRS,r9shopa,,.x=don't do
+HRS,r9shopa,,.y=alternate wave
+HRS,r9shopa,,.z=don't do/no if did
+HRS,r9mealsa,0,0.no
+HRS,r9mealsa,1,1.yes
+HRS,r9mealsa,2,2.can't do
+HRS,r9mealsa,7,7.don't do
+HRS,r9mealsa,,.d=dk
+HRS,r9mealsa,,.f=no famr
+HRS,r9mealsa,,".j=web interview, missing"
+HRS,r9mealsa,,.m=oth missing
+HRS,r9mealsa,,.n=na
+HRS,r9mealsa,,.q=not asked this wave
+HRS,r9mealsa,,.r=rf
+HRS,r9mealsa,,.s=skip
+HRS,r9mealsa,,.u=unmarried
+HRS,r9mealsa,,.v=sp nr
+HRS,r9mealsa,,.x=don't do
+HRS,r9mealsa,,.y=alternate wave
+HRS,r9mealsa,,.z=don't do/no if did
+HRS,r9medsa,0,0.no
+HRS,r9medsa,1,1.yes
+HRS,r9medsa,2,2.can't do
+HRS,r9medsa,7,7.don't do
+HRS,r9medsa,,.d=dk
+HRS,r9medsa,,.f=no famr
+HRS,r9medsa,,".j=web interview, missing"
+HRS,r9medsa,,.m=oth missing
+HRS,r9medsa,,.n=na
+HRS,r9medsa,,.q=not asked this wave
+HRS,r9medsa,,.r=rf
+HRS,r9medsa,,.s=skip
+HRS,r9medsa,,.u=unmarried
+HRS,r9medsa,,.v=sp nr
+HRS,r9medsa,,.x=don't do
+HRS,r9medsa,,.y=alternate wave
+HRS,r9medsa,,.z=don't do/no if did
+HRS,r9moneya,0,0.no
+HRS,r9moneya,1,1.yes
+HRS,r9moneya,2,2.can't do
+HRS,r9moneya,7,7.don't do
+HRS,r9moneya,,.d=dk
+HRS,r9moneya,,.f=no famr
+HRS,r9moneya,,".j=web interview, missing"
+HRS,r9moneya,,.m=oth missing
+HRS,r9moneya,,.n=na
+HRS,r9moneya,,.q=not asked this wave
+HRS,r9moneya,,.r=rf
+HRS,r9moneya,,.s=skip
+HRS,r9moneya,,.u=unmarried
+HRS,r9moneya,,.v=sp nr
+HRS,r9moneya,,.x=don't do
+HRS,r9moneya,,.y=alternate wave
+HRS,r9moneya,,.z=don't do/no if did
+HRS,r9proxy,0,0.not proxy
+HRS,r9proxy,1,1.proxy
+HRS,r9proxy,2,2.partial proxy
+HRS,r9proxy,3,"3.proxy, r deceased"
+HRS,r9proxy,,.u=unmarried
+HRS,r9proxy,,.v=spouse nr
+HRS,r10iwstat,0,0.inap.
+HRS,r10iwstat,1,"1.resp,alive"
+HRS,r10iwstat,2,"2.resp,died after iw"
+HRS,r10iwstat,3,"3.resp(proxy),died"
+HRS,r10iwstat,4,"4.nr,alive"
+HRS,r10iwstat,5,"5.nr,died this wv"
+HRS,r10iwstat,6,"6.nr,died prev wv"
+HRS,r10iwstat,7,"7.nr,dropped from samp"
+HRS,r10iwstat,9,"9.nr,dk if alive or died"
+HRS,r10iwstat,,.u=unmarried
+HRS,r10iwstat,,.v=spouse nr
+HRS,r10dressa,0,0.no
+HRS,r10dressa,1,1.yes
+HRS,r10dressa,2,2.can't do
+HRS,r10dressa,7,7.don't do
+HRS,r10dressa,,.d=dk
+HRS,r10dressa,,.f=no famr
+HRS,r10dressa,,".j=web interview, missing"
+HRS,r10dressa,,.m=oth missing
+HRS,r10dressa,,.n=na
+HRS,r10dressa,,.q=not asked this wave
+HRS,r10dressa,,.r=rf
+HRS,r10dressa,,.s=skip
+HRS,r10dressa,,.u=unmarried
+HRS,r10dressa,,.v=sp nr
+HRS,r10dressa,,.x=don't do
+HRS,r10dressa,,.y=alternate wave
+HRS,r10dressa,,.z=don't do/no if did
+HRS,r10batha,0,0.no
+HRS,r10batha,1,1.yes
+HRS,r10batha,2,2.can't do
+HRS,r10batha,7,7.don't do
+HRS,r10batha,,.d=dk
+HRS,r10batha,,.f=no famr
+HRS,r10batha,,".j=web interview, missing"
+HRS,r10batha,,.m=oth missing
+HRS,r10batha,,.n=na
+HRS,r10batha,,.q=not asked this wave
+HRS,r10batha,,.r=rf
+HRS,r10batha,,.s=skip
+HRS,r10batha,,.u=unmarried
+HRS,r10batha,,.v=sp nr
+HRS,r10batha,,.x=don't do
+HRS,r10batha,,.y=alternate wave
+HRS,r10batha,,.z=don't do/no if did
+HRS,r10eata,0,0.no
+HRS,r10eata,1,1.yes
+HRS,r10eata,2,2.can't do
+HRS,r10eata,7,7.don't do
+HRS,r10eata,,.d=dk
+HRS,r10eata,,.f=no famr
+HRS,r10eata,,".j=web interview, missing"
+HRS,r10eata,,.m=oth missing
+HRS,r10eata,,.n=na
+HRS,r10eata,,.q=not asked this wave
+HRS,r10eata,,.r=rf
+HRS,r10eata,,.s=skip
+HRS,r10eata,,.u=unmarried
+HRS,r10eata,,.v=sp nr
+HRS,r10eata,,.x=don't do
+HRS,r10eata,,.y=alternate wave
+HRS,r10eata,,.z=don't do/no if did
+HRS,r10beda,0,0.no
+HRS,r10beda,1,1.yes
+HRS,r10beda,2,2.can't do
+HRS,r10beda,7,7.don't do
+HRS,r10beda,,.d=dk
+HRS,r10beda,,.f=no famr
+HRS,r10beda,,".j=web interview, missing"
+HRS,r10beda,,.m=oth missing
+HRS,r10beda,,.n=na
+HRS,r10beda,,.q=not asked this wave
+HRS,r10beda,,.r=rf
+HRS,r10beda,,.s=skip
+HRS,r10beda,,.u=unmarried
+HRS,r10beda,,.v=sp nr
+HRS,r10beda,,.x=don't do
+HRS,r10beda,,.y=alternate wave
+HRS,r10beda,,.z=don't do/no if did
+HRS,r10toilta,0,0.no
+HRS,r10toilta,1,1.yes
+HRS,r10toilta,2,2.can't do
+HRS,r10toilta,7,7.don't do
+HRS,r10toilta,,.d=dk
+HRS,r10toilta,,.f=no famr
+HRS,r10toilta,,".j=web interview, missing"
+HRS,r10toilta,,.m=oth missing
+HRS,r10toilta,,.n=na
+HRS,r10toilta,,.q=not asked this wave
+HRS,r10toilta,,.r=rf
+HRS,r10toilta,,.s=skip
+HRS,r10toilta,,.u=unmarried
+HRS,r10toilta,,.v=sp nr
+HRS,r10toilta,,.x=don't do
+HRS,r10toilta,,.y=alternate wave
+HRS,r10toilta,,.z=don't do/no if did
+HRS,r10shopa,0,0.no
+HRS,r10shopa,1,1.yes
+HRS,r10shopa,2,2.can't do
+HRS,r10shopa,7,7.don't do
+HRS,r10shopa,,.d=dk
+HRS,r10shopa,,.f=no famr
+HRS,r10shopa,,".j=web interview, missing"
+HRS,r10shopa,,.m=oth missing
+HRS,r10shopa,,.n=na
+HRS,r10shopa,,.q=not asked this wave
+HRS,r10shopa,,.r=rf
+HRS,r10shopa,,.s=skip
+HRS,r10shopa,,.u=unmarried
+HRS,r10shopa,,.v=sp nr
+HRS,r10shopa,,.x=don't do
+HRS,r10shopa,,.y=alternate wave
+HRS,r10shopa,,.z=don't do/no if did
+HRS,r10mealsa,0,0.no
+HRS,r10mealsa,1,1.yes
+HRS,r10mealsa,2,2.can't do
+HRS,r10mealsa,7,7.don't do
+HRS,r10mealsa,,.d=dk
+HRS,r10mealsa,,.f=no famr
+HRS,r10mealsa,,".j=web interview, missing"
+HRS,r10mealsa,,.m=oth missing
+HRS,r10mealsa,,.n=na
+HRS,r10mealsa,,.q=not asked this wave
+HRS,r10mealsa,,.r=rf
+HRS,r10mealsa,,.s=skip
+HRS,r10mealsa,,.u=unmarried
+HRS,r10mealsa,,.v=sp nr
+HRS,r10mealsa,,.x=don't do
+HRS,r10mealsa,,.y=alternate wave
+HRS,r10mealsa,,.z=don't do/no if did
+HRS,r10medsa,0,0.no
+HRS,r10medsa,1,1.yes
+HRS,r10medsa,2,2.can't do
+HRS,r10medsa,7,7.don't do
+HRS,r10medsa,,.d=dk
+HRS,r10medsa,,.f=no famr
+HRS,r10medsa,,".j=web interview, missing"
+HRS,r10medsa,,.m=oth missing
+HRS,r10medsa,,.n=na
+HRS,r10medsa,,.q=not asked this wave
+HRS,r10medsa,,.r=rf
+HRS,r10medsa,,.s=skip
+HRS,r10medsa,,.u=unmarried
+HRS,r10medsa,,.v=sp nr
+HRS,r10medsa,,.x=don't do
+HRS,r10medsa,,.y=alternate wave
+HRS,r10medsa,,.z=don't do/no if did
+HRS,r10moneya,0,0.no
+HRS,r10moneya,1,1.yes
+HRS,r10moneya,2,2.can't do
+HRS,r10moneya,7,7.don't do
+HRS,r10moneya,,.d=dk
+HRS,r10moneya,,.f=no famr
+HRS,r10moneya,,".j=web interview, missing"
+HRS,r10moneya,,.m=oth missing
+HRS,r10moneya,,.n=na
+HRS,r10moneya,,.q=not asked this wave
+HRS,r10moneya,,.r=rf
+HRS,r10moneya,,.s=skip
+HRS,r10moneya,,.u=unmarried
+HRS,r10moneya,,.v=sp nr
+HRS,r10moneya,,.x=don't do
+HRS,r10moneya,,.y=alternate wave
+HRS,r10moneya,,.z=don't do/no if did
+HRS,r10proxy,0,0.not proxy
+HRS,r10proxy,1,1.proxy
+HRS,r10proxy,2,2.partial proxy
+HRS,r10proxy,3,"3.proxy, r deceased"
+HRS,r10proxy,,.u=unmarried
+HRS,r10proxy,,.v=spouse nr
+HRS,r11iwstat,0,0.inap.
+HRS,r11iwstat,1,"1.resp,alive"
+HRS,r11iwstat,2,"2.resp,died after iw"
+HRS,r11iwstat,3,"3.resp(proxy),died"
+HRS,r11iwstat,4,"4.nr,alive"
+HRS,r11iwstat,5,"5.nr,died this wv"
+HRS,r11iwstat,6,"6.nr,died prev wv"
+HRS,r11iwstat,7,"7.nr,dropped from samp"
+HRS,r11iwstat,9,"9.nr,dk if alive or died"
+HRS,r11iwstat,,.u=unmarried
+HRS,r11iwstat,,.v=spouse nr
+HRS,r11dressa,0,0.no
+HRS,r11dressa,1,1.yes
+HRS,r11dressa,2,2.can't do
+HRS,r11dressa,7,7.don't do
+HRS,r11dressa,,.d=dk
+HRS,r11dressa,,.f=no famr
+HRS,r11dressa,,".j=web interview, missing"
+HRS,r11dressa,,.m=oth missing
+HRS,r11dressa,,.n=na
+HRS,r11dressa,,.q=not asked this wave
+HRS,r11dressa,,.r=rf
+HRS,r11dressa,,.s=skip
+HRS,r11dressa,,.u=unmarried
+HRS,r11dressa,,.v=sp nr
+HRS,r11dressa,,.x=don't do
+HRS,r11dressa,,.y=alternate wave
+HRS,r11dressa,,.z=don't do/no if did
+HRS,r11batha,0,0.no
+HRS,r11batha,1,1.yes
+HRS,r11batha,2,2.can't do
+HRS,r11batha,7,7.don't do
+HRS,r11batha,,.d=dk
+HRS,r11batha,,.f=no famr
+HRS,r11batha,,".j=web interview, missing"
+HRS,r11batha,,.m=oth missing
+HRS,r11batha,,.n=na
+HRS,r11batha,,.q=not asked this wave
+HRS,r11batha,,.r=rf
+HRS,r11batha,,.s=skip
+HRS,r11batha,,.u=unmarried
+HRS,r11batha,,.v=sp nr
+HRS,r11batha,,.x=don't do
+HRS,r11batha,,.y=alternate wave
+HRS,r11batha,,.z=don't do/no if did
+HRS,r11eata,0,0.no
+HRS,r11eata,1,1.yes
+HRS,r11eata,2,2.can't do
+HRS,r11eata,7,7.don't do
+HRS,r11eata,,.d=dk
+HRS,r11eata,,.f=no famr
+HRS,r11eata,,".j=web interview, missing"
+HRS,r11eata,,.m=oth missing
+HRS,r11eata,,.n=na
+HRS,r11eata,,.q=not asked this wave
+HRS,r11eata,,.r=rf
+HRS,r11eata,,.s=skip
+HRS,r11eata,,.u=unmarried
+HRS,r11eata,,.v=sp nr
+HRS,r11eata,,.x=don't do
+HRS,r11eata,,.y=alternate wave
+HRS,r11eata,,.z=don't do/no if did
+HRS,r11beda,0,0.no
+HRS,r11beda,1,1.yes
+HRS,r11beda,2,2.can't do
+HRS,r11beda,7,7.don't do
+HRS,r11beda,,.d=dk
+HRS,r11beda,,.f=no famr
+HRS,r11beda,,".j=web interview, missing"
+HRS,r11beda,,.m=oth missing
+HRS,r11beda,,.n=na
+HRS,r11beda,,.q=not asked this wave
+HRS,r11beda,,.r=rf
+HRS,r11beda,,.s=skip
+HRS,r11beda,,.u=unmarried
+HRS,r11beda,,.v=sp nr
+HRS,r11beda,,.x=don't do
+HRS,r11beda,,.y=alternate wave
+HRS,r11beda,,.z=don't do/no if did
+HRS,r11toilta,0,0.no
+HRS,r11toilta,1,1.yes
+HRS,r11toilta,2,2.can't do
+HRS,r11toilta,7,7.don't do
+HRS,r11toilta,,.d=dk
+HRS,r11toilta,,.f=no famr
+HRS,r11toilta,,".j=web interview, missing"
+HRS,r11toilta,,.m=oth missing
+HRS,r11toilta,,.n=na
+HRS,r11toilta,,.q=not asked this wave
+HRS,r11toilta,,.r=rf
+HRS,r11toilta,,.s=skip
+HRS,r11toilta,,.u=unmarried
+HRS,r11toilta,,.v=sp nr
+HRS,r11toilta,,.x=don't do
+HRS,r11toilta,,.y=alternate wave
+HRS,r11toilta,,.z=don't do/no if did
+HRS,r11shopa,0,0.no
+HRS,r11shopa,1,1.yes
+HRS,r11shopa,2,2.can't do
+HRS,r11shopa,7,7.don't do
+HRS,r11shopa,,.d=dk
+HRS,r11shopa,,.f=no famr
+HRS,r11shopa,,".j=web interview, missing"
+HRS,r11shopa,,.m=oth missing
+HRS,r11shopa,,.n=na
+HRS,r11shopa,,.q=not asked this wave
+HRS,r11shopa,,.r=rf
+HRS,r11shopa,,.s=skip
+HRS,r11shopa,,.u=unmarried
+HRS,r11shopa,,.v=sp nr
+HRS,r11shopa,,.x=don't do
+HRS,r11shopa,,.y=alternate wave
+HRS,r11shopa,,.z=don't do/no if did
+HRS,r11mealsa,0,0.no
+HRS,r11mealsa,1,1.yes
+HRS,r11mealsa,2,2.can't do
+HRS,r11mealsa,7,7.don't do
+HRS,r11mealsa,,.d=dk
+HRS,r11mealsa,,.f=no famr
+HRS,r11mealsa,,".j=web interview, missing"
+HRS,r11mealsa,,.m=oth missing
+HRS,r11mealsa,,.n=na
+HRS,r11mealsa,,.q=not asked this wave
+HRS,r11mealsa,,.r=rf
+HRS,r11mealsa,,.s=skip
+HRS,r11mealsa,,.u=unmarried
+HRS,r11mealsa,,.v=sp nr
+HRS,r11mealsa,,.x=don't do
+HRS,r11mealsa,,.y=alternate wave
+HRS,r11mealsa,,.z=don't do/no if did
+HRS,r11medsa,0,0.no
+HRS,r11medsa,1,1.yes
+HRS,r11medsa,2,2.can't do
+HRS,r11medsa,7,7.don't do
+HRS,r11medsa,,.d=dk
+HRS,r11medsa,,.f=no famr
+HRS,r11medsa,,".j=web interview, missing"
+HRS,r11medsa,,.m=oth missing
+HRS,r11medsa,,.n=na
+HRS,r11medsa,,.q=not asked this wave
+HRS,r11medsa,,.r=rf
+HRS,r11medsa,,.s=skip
+HRS,r11medsa,,.u=unmarried
+HRS,r11medsa,,.v=sp nr
+HRS,r11medsa,,.x=don't do
+HRS,r11medsa,,.y=alternate wave
+HRS,r11medsa,,.z=don't do/no if did
+HRS,r11moneya,0,0.no
+HRS,r11moneya,1,1.yes
+HRS,r11moneya,2,2.can't do
+HRS,r11moneya,7,7.don't do
+HRS,r11moneya,,.d=dk
+HRS,r11moneya,,.f=no famr
+HRS,r11moneya,,".j=web interview, missing"
+HRS,r11moneya,,.m=oth missing
+HRS,r11moneya,,.n=na
+HRS,r11moneya,,.q=not asked this wave
+HRS,r11moneya,,.r=rf
+HRS,r11moneya,,.s=skip
+HRS,r11moneya,,.u=unmarried
+HRS,r11moneya,,.v=sp nr
+HRS,r11moneya,,.x=don't do
+HRS,r11moneya,,.y=alternate wave
+HRS,r11moneya,,.z=don't do/no if did
+HRS,r11proxy,0,0.not proxy
+HRS,r11proxy,1,1.proxy
+HRS,r11proxy,2,2.partial proxy
+HRS,r11proxy,3,"3.proxy, r deceased"
+HRS,r11proxy,,.u=unmarried
+HRS,r11proxy,,.v=spouse nr
+HRS,r12iwstat,0,0.inap.
+HRS,r12iwstat,1,"1.resp,alive"
+HRS,r12iwstat,2,"2.resp,died after iw"
+HRS,r12iwstat,3,"3.resp(proxy),died"
+HRS,r12iwstat,4,"4.nr,alive"
+HRS,r12iwstat,5,"5.nr,died this wv"
+HRS,r12iwstat,6,"6.nr,died prev wv"
+HRS,r12iwstat,7,"7.nr,dropped from samp"
+HRS,r12iwstat,9,"9.nr,dk if alive or died"
+HRS,r12iwstat,,.u=unmarried
+HRS,r12iwstat,,.v=spouse nr
+HRS,r12dressa,0,0.no
+HRS,r12dressa,1,1.yes
+HRS,r12dressa,2,2.can't do
+HRS,r12dressa,7,7.don't do
+HRS,r12dressa,,.d=dk
+HRS,r12dressa,,.f=no famr
+HRS,r12dressa,,".j=web interview, missing"
+HRS,r12dressa,,.m=oth missing
+HRS,r12dressa,,.n=na
+HRS,r12dressa,,.q=not asked this wave
+HRS,r12dressa,,.r=rf
+HRS,r12dressa,,.s=skip
+HRS,r12dressa,,.u=unmarried
+HRS,r12dressa,,.v=sp nr
+HRS,r12dressa,,.x=don't do
+HRS,r12dressa,,.y=alternate wave
+HRS,r12dressa,,.z=don't do/no if did
+HRS,r12batha,0,0.no
+HRS,r12batha,1,1.yes
+HRS,r12batha,2,2.can't do
+HRS,r12batha,7,7.don't do
+HRS,r12batha,,.d=dk
+HRS,r12batha,,.f=no famr
+HRS,r12batha,,".j=web interview, missing"
+HRS,r12batha,,.m=oth missing
+HRS,r12batha,,.n=na
+HRS,r12batha,,.q=not asked this wave
+HRS,r12batha,,.r=rf
+HRS,r12batha,,.s=skip
+HRS,r12batha,,.u=unmarried
+HRS,r12batha,,.v=sp nr
+HRS,r12batha,,.x=don't do
+HRS,r12batha,,.y=alternate wave
+HRS,r12batha,,.z=don't do/no if did
+HRS,r12eata,0,0.no
+HRS,r12eata,1,1.yes
+HRS,r12eata,2,2.can't do
+HRS,r12eata,7,7.don't do
+HRS,r12eata,,.d=dk
+HRS,r12eata,,.f=no famr
+HRS,r12eata,,".j=web interview, missing"
+HRS,r12eata,,.m=oth missing
+HRS,r12eata,,.n=na
+HRS,r12eata,,.q=not asked this wave
+HRS,r12eata,,.r=rf
+HRS,r12eata,,.s=skip
+HRS,r12eata,,.u=unmarried
+HRS,r12eata,,.v=sp nr
+HRS,r12eata,,.x=don't do
+HRS,r12eata,,.y=alternate wave
+HRS,r12eata,,.z=don't do/no if did
+HRS,r12beda,0,0.no
+HRS,r12beda,1,1.yes
+HRS,r12beda,2,2.can't do
+HRS,r12beda,7,7.don't do
+HRS,r12beda,,.d=dk
+HRS,r12beda,,.f=no famr
+HRS,r12beda,,".j=web interview, missing"
+HRS,r12beda,,.m=oth missing
+HRS,r12beda,,.n=na
+HRS,r12beda,,.q=not asked this wave
+HRS,r12beda,,.r=rf
+HRS,r12beda,,.s=skip
+HRS,r12beda,,.u=unmarried
+HRS,r12beda,,.v=sp nr
+HRS,r12beda,,.x=don't do
+HRS,r12beda,,.y=alternate wave
+HRS,r12beda,,.z=don't do/no if did
+HRS,r12toilta,0,0.no
+HRS,r12toilta,1,1.yes
+HRS,r12toilta,2,2.can't do
+HRS,r12toilta,7,7.don't do
+HRS,r12toilta,,.d=dk
+HRS,r12toilta,,.f=no famr
+HRS,r12toilta,,".j=web interview, missing"
+HRS,r12toilta,,.m=oth missing
+HRS,r12toilta,,.n=na
+HRS,r12toilta,,.q=not asked this wave
+HRS,r12toilta,,.r=rf
+HRS,r12toilta,,.s=skip
+HRS,r12toilta,,.u=unmarried
+HRS,r12toilta,,.v=sp nr
+HRS,r12toilta,,.x=don't do
+HRS,r12toilta,,.y=alternate wave
+HRS,r12toilta,,.z=don't do/no if did
+HRS,r12shopa,0,0.no
+HRS,r12shopa,1,1.yes
+HRS,r12shopa,2,2.can't do
+HRS,r12shopa,7,7.don't do
+HRS,r12shopa,,.d=dk
+HRS,r12shopa,,.f=no famr
+HRS,r12shopa,,".j=web interview, missing"
+HRS,r12shopa,,.m=oth missing
+HRS,r12shopa,,.n=na
+HRS,r12shopa,,.q=not asked this wave
+HRS,r12shopa,,.r=rf
+HRS,r12shopa,,.s=skip
+HRS,r12shopa,,.u=unmarried
+HRS,r12shopa,,.v=sp nr
+HRS,r12shopa,,.x=don't do
+HRS,r12shopa,,.y=alternate wave
+HRS,r12shopa,,.z=don't do/no if did
+HRS,r12mealsa,0,0.no
+HRS,r12mealsa,1,1.yes
+HRS,r12mealsa,2,2.can't do
+HRS,r12mealsa,7,7.don't do
+HRS,r12mealsa,,.d=dk
+HRS,r12mealsa,,.f=no famr
+HRS,r12mealsa,,".j=web interview, missing"
+HRS,r12mealsa,,.m=oth missing
+HRS,r12mealsa,,.n=na
+HRS,r12mealsa,,.q=not asked this wave
+HRS,r12mealsa,,.r=rf
+HRS,r12mealsa,,.s=skip
+HRS,r12mealsa,,.u=unmarried
+HRS,r12mealsa,,.v=sp nr
+HRS,r12mealsa,,.x=don't do
+HRS,r12mealsa,,.y=alternate wave
+HRS,r12mealsa,,.z=don't do/no if did
+HRS,r12medsa,0,0.no
+HRS,r12medsa,1,1.yes
+HRS,r12medsa,2,2.can't do
+HRS,r12medsa,7,7.don't do
+HRS,r12medsa,,.d=dk
+HRS,r12medsa,,.f=no famr
+HRS,r12medsa,,".j=web interview, missing"
+HRS,r12medsa,,.m=oth missing
+HRS,r12medsa,,.n=na
+HRS,r12medsa,,.q=not asked this wave
+HRS,r12medsa,,.r=rf
+HRS,r12medsa,,.s=skip
+HRS,r12medsa,,.u=unmarried
+HRS,r12medsa,,.v=sp nr
+HRS,r12medsa,,.x=don't do
+HRS,r12medsa,,.y=alternate wave
+HRS,r12medsa,,.z=don't do/no if did
+HRS,r12moneya,0,0.no
+HRS,r12moneya,1,1.yes
+HRS,r12moneya,2,2.can't do
+HRS,r12moneya,7,7.don't do
+HRS,r12moneya,,.d=dk
+HRS,r12moneya,,.f=no famr
+HRS,r12moneya,,".j=web interview, missing"
+HRS,r12moneya,,.m=oth missing
+HRS,r12moneya,,.n=na
+HRS,r12moneya,,.q=not asked this wave
+HRS,r12moneya,,.r=rf
+HRS,r12moneya,,.s=skip
+HRS,r12moneya,,.u=unmarried
+HRS,r12moneya,,.v=sp nr
+HRS,r12moneya,,.x=don't do
+HRS,r12moneya,,.y=alternate wave
+HRS,r12moneya,,.z=don't do/no if did
+HRS,r12proxy,0,0.not proxy
+HRS,r12proxy,1,1.proxy
+HRS,r12proxy,2,2.partial proxy
+HRS,r12proxy,3,"3.proxy, r deceased"
+HRS,r12proxy,,.u=unmarried
+HRS,r12proxy,,.v=spouse nr
+HRS,r13iwstat,0,0.inap.
+HRS,r13iwstat,1,"1.resp,alive"
+HRS,r13iwstat,2,"2.resp,died after iw"
+HRS,r13iwstat,3,"3.resp(proxy),died"
+HRS,r13iwstat,4,"4.nr,alive"
+HRS,r13iwstat,5,"5.nr,died this wv"
+HRS,r13iwstat,6,"6.nr,died prev wv"
+HRS,r13iwstat,7,"7.nr,dropped from samp"
+HRS,r13iwstat,9,"9.nr,dk if alive or died"
+HRS,r13iwstat,,.u=unmarried
+HRS,r13iwstat,,.v=spouse nr
+HRS,r13dressa,0,0.no
+HRS,r13dressa,1,1.yes
+HRS,r13dressa,2,2.can't do
+HRS,r13dressa,7,7.don't do
+HRS,r13dressa,,.d=dk
+HRS,r13dressa,,.f=no famr
+HRS,r13dressa,,".j=web interview, missing"
+HRS,r13dressa,,.m=oth missing
+HRS,r13dressa,,.n=na
+HRS,r13dressa,,.q=not asked this wave
+HRS,r13dressa,,.r=rf
+HRS,r13dressa,,.s=skip
+HRS,r13dressa,,.u=unmarried
+HRS,r13dressa,,.v=sp nr
+HRS,r13dressa,,.x=don't do
+HRS,r13dressa,,.y=alternate wave
+HRS,r13dressa,,.z=don't do/no if did
+HRS,r13batha,0,0.no
+HRS,r13batha,1,1.yes
+HRS,r13batha,2,2.can't do
+HRS,r13batha,7,7.don't do
+HRS,r13batha,,.d=dk
+HRS,r13batha,,.f=no famr
+HRS,r13batha,,".j=web interview, missing"
+HRS,r13batha,,.m=oth missing
+HRS,r13batha,,.n=na
+HRS,r13batha,,.q=not asked this wave
+HRS,r13batha,,.r=rf
+HRS,r13batha,,.s=skip
+HRS,r13batha,,.u=unmarried
+HRS,r13batha,,.v=sp nr
+HRS,r13batha,,.x=don't do
+HRS,r13batha,,.y=alternate wave
+HRS,r13batha,,.z=don't do/no if did
+HRS,r13eata,0,0.no
+HRS,r13eata,1,1.yes
+HRS,r13eata,2,2.can't do
+HRS,r13eata,7,7.don't do
+HRS,r13eata,,.d=dk
+HRS,r13eata,,.f=no famr
+HRS,r13eata,,".j=web interview, missing"
+HRS,r13eata,,.m=oth missing
+HRS,r13eata,,.n=na
+HRS,r13eata,,.q=not asked this wave
+HRS,r13eata,,.r=rf
+HRS,r13eata,,.s=skip
+HRS,r13eata,,.u=unmarried
+HRS,r13eata,,.v=sp nr
+HRS,r13eata,,.x=don't do
+HRS,r13eata,,.y=alternate wave
+HRS,r13eata,,.z=don't do/no if did
+HRS,r13beda,0,0.no
+HRS,r13beda,1,1.yes
+HRS,r13beda,2,2.can't do
+HRS,r13beda,7,7.don't do
+HRS,r13beda,,.d=dk
+HRS,r13beda,,.f=no famr
+HRS,r13beda,,".j=web interview, missing"
+HRS,r13beda,,.m=oth missing
+HRS,r13beda,,.n=na
+HRS,r13beda,,.q=not asked this wave
+HRS,r13beda,,.r=rf
+HRS,r13beda,,.s=skip
+HRS,r13beda,,.u=unmarried
+HRS,r13beda,,.v=sp nr
+HRS,r13beda,,.x=don't do
+HRS,r13beda,,.y=alternate wave
+HRS,r13beda,,.z=don't do/no if did
+HRS,r13toilta,0,0.no
+HRS,r13toilta,1,1.yes
+HRS,r13toilta,2,2.can't do
+HRS,r13toilta,7,7.don't do
+HRS,r13toilta,,.d=dk
+HRS,r13toilta,,.f=no famr
+HRS,r13toilta,,".j=web interview, missing"
+HRS,r13toilta,,.m=oth missing
+HRS,r13toilta,,.n=na
+HRS,r13toilta,,.q=not asked this wave
+HRS,r13toilta,,.r=rf
+HRS,r13toilta,,.s=skip
+HRS,r13toilta,,.u=unmarried
+HRS,r13toilta,,.v=sp nr
+HRS,r13toilta,,.x=don't do
+HRS,r13toilta,,.y=alternate wave
+HRS,r13toilta,,.z=don't do/no if did
+HRS,r13shopa,0,0.no
+HRS,r13shopa,1,1.yes
+HRS,r13shopa,2,2.can't do
+HRS,r13shopa,7,7.don't do
+HRS,r13shopa,,.d=dk
+HRS,r13shopa,,.f=no famr
+HRS,r13shopa,,".j=web interview, missing"
+HRS,r13shopa,,.m=oth missing
+HRS,r13shopa,,.n=na
+HRS,r13shopa,,.q=not asked this wave
+HRS,r13shopa,,.r=rf
+HRS,r13shopa,,.s=skip
+HRS,r13shopa,,.u=unmarried
+HRS,r13shopa,,.v=sp nr
+HRS,r13shopa,,.x=don't do
+HRS,r13shopa,,.y=alternate wave
+HRS,r13shopa,,.z=don't do/no if did
+HRS,r13mealsa,0,0.no
+HRS,r13mealsa,1,1.yes
+HRS,r13mealsa,2,2.can't do
+HRS,r13mealsa,7,7.don't do
+HRS,r13mealsa,,.d=dk
+HRS,r13mealsa,,.f=no famr
+HRS,r13mealsa,,".j=web interview, missing"
+HRS,r13mealsa,,.m=oth missing
+HRS,r13mealsa,,.n=na
+HRS,r13mealsa,,.q=not asked this wave
+HRS,r13mealsa,,.r=rf
+HRS,r13mealsa,,.s=skip
+HRS,r13mealsa,,.u=unmarried
+HRS,r13mealsa,,.v=sp nr
+HRS,r13mealsa,,.x=don't do
+HRS,r13mealsa,,.y=alternate wave
+HRS,r13mealsa,,.z=don't do/no if did
+HRS,r13medsa,0,0.no
+HRS,r13medsa,1,1.yes
+HRS,r13medsa,2,2.can't do
+HRS,r13medsa,7,7.don't do
+HRS,r13medsa,,.d=dk
+HRS,r13medsa,,.f=no famr
+HRS,r13medsa,,".j=web interview, missing"
+HRS,r13medsa,,.m=oth missing
+HRS,r13medsa,,.n=na
+HRS,r13medsa,,.q=not asked this wave
+HRS,r13medsa,,.r=rf
+HRS,r13medsa,,.s=skip
+HRS,r13medsa,,.u=unmarried
+HRS,r13medsa,,.v=sp nr
+HRS,r13medsa,,.x=don't do
+HRS,r13medsa,,.y=alternate wave
+HRS,r13medsa,,.z=don't do/no if did
+HRS,r13moneya,0,0.no
+HRS,r13moneya,1,1.yes
+HRS,r13moneya,2,2.can't do
+HRS,r13moneya,7,7.don't do
+HRS,r13moneya,,.d=dk
+HRS,r13moneya,,.f=no famr
+HRS,r13moneya,,".j=web interview, missing"
+HRS,r13moneya,,.m=oth missing
+HRS,r13moneya,,.n=na
+HRS,r13moneya,,.q=not asked this wave
+HRS,r13moneya,,.r=rf
+HRS,r13moneya,,.s=skip
+HRS,r13moneya,,.u=unmarried
+HRS,r13moneya,,.v=sp nr
+HRS,r13moneya,,.x=don't do
+HRS,r13moneya,,.y=alternate wave
+HRS,r13moneya,,.z=don't do/no if did
+HRS,r13proxy,0,0.not proxy
+HRS,r13proxy,1,1.proxy
+HRS,r13proxy,2,2.partial proxy
+HRS,r13proxy,3,"3.proxy, r deceased"
+HRS,r13proxy,,.u=unmarried
+HRS,r13proxy,,.v=spouse nr
+HRS,r14iwstat,0,0.inap.
+HRS,r14iwstat,1,"1.resp,alive"
+HRS,r14iwstat,2,"2.resp,died after iw"
+HRS,r14iwstat,3,"3.resp(proxy),died"
+HRS,r14iwstat,4,"4.nr,alive"
+HRS,r14iwstat,5,"5.nr,died this wv"
+HRS,r14iwstat,6,"6.nr,died prev wv"
+HRS,r14iwstat,7,"7.nr,dropped from samp"
+HRS,r14iwstat,9,"9.nr,dk if alive or died"
+HRS,r14iwstat,,.u=unmarried
+HRS,r14iwstat,,.v=spouse nr
+HRS,r14dressa,0,0.no
+HRS,r14dressa,1,1.yes
+HRS,r14dressa,2,2.can't do
+HRS,r14dressa,7,7.don't do
+HRS,r14dressa,,.d=dk
+HRS,r14dressa,,.f=no famr
+HRS,r14dressa,,".j=web interview, missing"
+HRS,r14dressa,,.m=oth missing
+HRS,r14dressa,,.n=na
+HRS,r14dressa,,.q=not asked this wave
+HRS,r14dressa,,.r=rf
+HRS,r14dressa,,.s=skip
+HRS,r14dressa,,.u=unmarried
+HRS,r14dressa,,.v=sp nr
+HRS,r14dressa,,.x=don't do
+HRS,r14dressa,,.y=alternate wave
+HRS,r14dressa,,.z=don't do/no if did
+HRS,r14batha,0,0.no
+HRS,r14batha,1,1.yes
+HRS,r14batha,2,2.can't do
+HRS,r14batha,7,7.don't do
+HRS,r14batha,,.d=dk
+HRS,r14batha,,.f=no famr
+HRS,r14batha,,".j=web interview, missing"
+HRS,r14batha,,.m=oth missing
+HRS,r14batha,,.n=na
+HRS,r14batha,,.q=not asked this wave
+HRS,r14batha,,.r=rf
+HRS,r14batha,,.s=skip
+HRS,r14batha,,.u=unmarried
+HRS,r14batha,,.v=sp nr
+HRS,r14batha,,.x=don't do
+HRS,r14batha,,.y=alternate wave
+HRS,r14batha,,.z=don't do/no if did
+HRS,r14eata,0,0.no
+HRS,r14eata,1,1.yes
+HRS,r14eata,2,2.can't do
+HRS,r14eata,7,7.don't do
+HRS,r14eata,,.d=dk
+HRS,r14eata,,.f=no famr
+HRS,r14eata,,".j=web interview, missing"
+HRS,r14eata,,.m=oth missing
+HRS,r14eata,,.n=na
+HRS,r14eata,,.q=not asked this wave
+HRS,r14eata,,.r=rf
+HRS,r14eata,,.s=skip
+HRS,r14eata,,.u=unmarried
+HRS,r14eata,,.v=sp nr
+HRS,r14eata,,.x=don't do
+HRS,r14eata,,.y=alternate wave
+HRS,r14eata,,.z=don't do/no if did
+HRS,r14beda,0,0.no
+HRS,r14beda,1,1.yes
+HRS,r14beda,2,2.can't do
+HRS,r14beda,7,7.don't do
+HRS,r14beda,,.d=dk
+HRS,r14beda,,.f=no famr
+HRS,r14beda,,".j=web interview, missing"
+HRS,r14beda,,.m=oth missing
+HRS,r14beda,,.n=na
+HRS,r14beda,,.q=not asked this wave
+HRS,r14beda,,.r=rf
+HRS,r14beda,,.s=skip
+HRS,r14beda,,.u=unmarried
+HRS,r14beda,,.v=sp nr
+HRS,r14beda,,.x=don't do
+HRS,r14beda,,.y=alternate wave
+HRS,r14beda,,.z=don't do/no if did
+HRS,r14toilta,0,0.no
+HRS,r14toilta,1,1.yes
+HRS,r14toilta,2,2.can't do
+HRS,r14toilta,7,7.don't do
+HRS,r14toilta,,.d=dk
+HRS,r14toilta,,.f=no famr
+HRS,r14toilta,,".j=web interview, missing"
+HRS,r14toilta,,.m=oth missing
+HRS,r14toilta,,.n=na
+HRS,r14toilta,,.q=not asked this wave
+HRS,r14toilta,,.r=rf
+HRS,r14toilta,,.s=skip
+HRS,r14toilta,,.u=unmarried
+HRS,r14toilta,,.v=sp nr
+HRS,r14toilta,,.x=don't do
+HRS,r14toilta,,.y=alternate wave
+HRS,r14toilta,,.z=don't do/no if did
+HRS,r14shopa,0,0.no
+HRS,r14shopa,1,1.yes
+HRS,r14shopa,2,2.can't do
+HRS,r14shopa,7,7.don't do
+HRS,r14shopa,,.d=dk
+HRS,r14shopa,,.f=no famr
+HRS,r14shopa,,".j=web interview, missing"
+HRS,r14shopa,,.m=oth missing
+HRS,r14shopa,,.n=na
+HRS,r14shopa,,.q=not asked this wave
+HRS,r14shopa,,.r=rf
+HRS,r14shopa,,.s=skip
+HRS,r14shopa,,.u=unmarried
+HRS,r14shopa,,.v=sp nr
+HRS,r14shopa,,.x=don't do
+HRS,r14shopa,,.y=alternate wave
+HRS,r14shopa,,.z=don't do/no if did
+HRS,r14mealsa,0,0.no
+HRS,r14mealsa,1,1.yes
+HRS,r14mealsa,2,2.can't do
+HRS,r14mealsa,7,7.don't do
+HRS,r14mealsa,,.d=dk
+HRS,r14mealsa,,.f=no famr
+HRS,r14mealsa,,".j=web interview, missing"
+HRS,r14mealsa,,.m=oth missing
+HRS,r14mealsa,,.n=na
+HRS,r14mealsa,,.q=not asked this wave
+HRS,r14mealsa,,.r=rf
+HRS,r14mealsa,,.s=skip
+HRS,r14mealsa,,.u=unmarried
+HRS,r14mealsa,,.v=sp nr
+HRS,r14mealsa,,.x=don't do
+HRS,r14mealsa,,.y=alternate wave
+HRS,r14mealsa,,.z=don't do/no if did
+HRS,r14medsa,0,0.no
+HRS,r14medsa,1,1.yes
+HRS,r14medsa,2,2.can't do
+HRS,r14medsa,7,7.don't do
+HRS,r14medsa,,.d=dk
+HRS,r14medsa,,.f=no famr
+HRS,r14medsa,,".j=web interview, missing"
+HRS,r14medsa,,.m=oth missing
+HRS,r14medsa,,.n=na
+HRS,r14medsa,,.q=not asked this wave
+HRS,r14medsa,,.r=rf
+HRS,r14medsa,,.s=skip
+HRS,r14medsa,,.u=unmarried
+HRS,r14medsa,,.v=sp nr
+HRS,r14medsa,,.x=don't do
+HRS,r14medsa,,.y=alternate wave
+HRS,r14medsa,,.z=don't do/no if did
+HRS,r14moneya,0,0.no
+HRS,r14moneya,1,1.yes
+HRS,r14moneya,2,2.can't do
+HRS,r14moneya,7,7.don't do
+HRS,r14moneya,,.d=dk
+HRS,r14moneya,,.f=no famr
+HRS,r14moneya,,".j=web interview, missing"
+HRS,r14moneya,,.m=oth missing
+HRS,r14moneya,,.n=na
+HRS,r14moneya,,.q=not asked this wave
+HRS,r14moneya,,.r=rf
+HRS,r14moneya,,.s=skip
+HRS,r14moneya,,.u=unmarried
+HRS,r14moneya,,.v=sp nr
+HRS,r14moneya,,.x=don't do
+HRS,r14moneya,,.y=alternate wave
+HRS,r14moneya,,.z=don't do/no if did
+HRS,r14proxy,0,0.not proxy
+HRS,r14proxy,1,1.proxy
+HRS,r14proxy,2,2.partial proxy
+HRS,r14proxy,3,"3.proxy, r deceased"
+HRS,r14proxy,,.u=unmarried
+HRS,r14proxy,,.v=spouse nr
+HRS,r15iwstat,0,0.inap.
+HRS,r15iwstat,1,"1.resp,alive"
+HRS,r15iwstat,2,"2.resp,died after iw"
+HRS,r15iwstat,3,"3.resp(proxy),died"
+HRS,r15iwstat,4,"4.nr,alive"
+HRS,r15iwstat,5,"5.nr,died this wv"
+HRS,r15iwstat,6,"6.nr,died prev wv"
+HRS,r15iwstat,7,"7.nr,dropped from samp"
+HRS,r15iwstat,9,"9.nr,dk if alive or died"
+HRS,r15iwstat,,.u=unmarried
+HRS,r15iwstat,,.v=spouse nr
+HRS,r15dressa,0,0.no
+HRS,r15dressa,1,1.yes
+HRS,r15dressa,2,2.can't do
+HRS,r15dressa,7,7.don't do
+HRS,r15dressa,,.d=dk
+HRS,r15dressa,,.f=no famr
+HRS,r15dressa,,".j=web interview, missing"
+HRS,r15dressa,,.m=oth missing
+HRS,r15dressa,,.n=na
+HRS,r15dressa,,.q=not asked this wave
+HRS,r15dressa,,.r=rf
+HRS,r15dressa,,.s=skip
+HRS,r15dressa,,.u=unmarried
+HRS,r15dressa,,.v=sp nr
+HRS,r15dressa,,.x=don't do
+HRS,r15dressa,,.y=alternate wave
+HRS,r15dressa,,.z=don't do/no if did
+HRS,r15batha,0,0.no
+HRS,r15batha,1,1.yes
+HRS,r15batha,2,2.can't do
+HRS,r15batha,7,7.don't do
+HRS,r15batha,,.d=dk
+HRS,r15batha,,.f=no famr
+HRS,r15batha,,".j=web interview, missing"
+HRS,r15batha,,.m=oth missing
+HRS,r15batha,,.n=na
+HRS,r15batha,,.q=not asked this wave
+HRS,r15batha,,.r=rf
+HRS,r15batha,,.s=skip
+HRS,r15batha,,.u=unmarried
+HRS,r15batha,,.v=sp nr
+HRS,r15batha,,.x=don't do
+HRS,r15batha,,.y=alternate wave
+HRS,r15batha,,.z=don't do/no if did
+HRS,r15eata,0,0.no
+HRS,r15eata,1,1.yes
+HRS,r15eata,2,2.can't do
+HRS,r15eata,7,7.don't do
+HRS,r15eata,,.d=dk
+HRS,r15eata,,.f=no famr
+HRS,r15eata,,".j=web interview, missing"
+HRS,r15eata,,.m=oth missing
+HRS,r15eata,,.n=na
+HRS,r15eata,,.q=not asked this wave
+HRS,r15eata,,.r=rf
+HRS,r15eata,,.s=skip
+HRS,r15eata,,.u=unmarried
+HRS,r15eata,,.v=sp nr
+HRS,r15eata,,.x=don't do
+HRS,r15eata,,.y=alternate wave
+HRS,r15eata,,.z=don't do/no if did
+HRS,r15beda,0,0.no
+HRS,r15beda,1,1.yes
+HRS,r15beda,2,2.can't do
+HRS,r15beda,7,7.don't do
+HRS,r15beda,,.d=dk
+HRS,r15beda,,.f=no famr
+HRS,r15beda,,".j=web interview, missing"
+HRS,r15beda,,.m=oth missing
+HRS,r15beda,,.n=na
+HRS,r15beda,,.q=not asked this wave
+HRS,r15beda,,.r=rf
+HRS,r15beda,,.s=skip
+HRS,r15beda,,.u=unmarried
+HRS,r15beda,,.v=sp nr
+HRS,r15beda,,.x=don't do
+HRS,r15beda,,.y=alternate wave
+HRS,r15beda,,.z=don't do/no if did
+HRS,r15toilta,0,0.no
+HRS,r15toilta,1,1.yes
+HRS,r15toilta,2,2.can't do
+HRS,r15toilta,7,7.don't do
+HRS,r15toilta,,.d=dk
+HRS,r15toilta,,.f=no famr
+HRS,r15toilta,,".j=web interview, missing"
+HRS,r15toilta,,.m=oth missing
+HRS,r15toilta,,.n=na
+HRS,r15toilta,,.q=not asked this wave
+HRS,r15toilta,,.r=rf
+HRS,r15toilta,,.s=skip
+HRS,r15toilta,,.u=unmarried
+HRS,r15toilta,,.v=sp nr
+HRS,r15toilta,,.x=don't do
+HRS,r15toilta,,.y=alternate wave
+HRS,r15toilta,,.z=don't do/no if did
+HRS,r15shopa,0,0.no
+HRS,r15shopa,1,1.yes
+HRS,r15shopa,2,2.can't do
+HRS,r15shopa,7,7.don't do
+HRS,r15shopa,,.d=dk
+HRS,r15shopa,,.f=no famr
+HRS,r15shopa,,".j=web interview, missing"
+HRS,r15shopa,,.m=oth missing
+HRS,r15shopa,,.n=na
+HRS,r15shopa,,.q=not asked this wave
+HRS,r15shopa,,.r=rf
+HRS,r15shopa,,.s=skip
+HRS,r15shopa,,.u=unmarried
+HRS,r15shopa,,.v=sp nr
+HRS,r15shopa,,.x=don't do
+HRS,r15shopa,,.y=alternate wave
+HRS,r15shopa,,.z=don't do/no if did
+HRS,r15mealsa,0,0.no
+HRS,r15mealsa,1,1.yes
+HRS,r15mealsa,2,2.can't do
+HRS,r15mealsa,7,7.don't do
+HRS,r15mealsa,,.d=dk
+HRS,r15mealsa,,.f=no famr
+HRS,r15mealsa,,".j=web interview, missing"
+HRS,r15mealsa,,.m=oth missing
+HRS,r15mealsa,,.n=na
+HRS,r15mealsa,,.q=not asked this wave
+HRS,r15mealsa,,.r=rf
+HRS,r15mealsa,,.s=skip
+HRS,r15mealsa,,.u=unmarried
+HRS,r15mealsa,,.v=sp nr
+HRS,r15mealsa,,.x=don't do
+HRS,r15mealsa,,.y=alternate wave
+HRS,r15mealsa,,.z=don't do/no if did
+HRS,r15medsa,0,0.no
+HRS,r15medsa,1,1.yes
+HRS,r15medsa,2,2.can't do
+HRS,r15medsa,7,7.don't do
+HRS,r15medsa,,.d=dk
+HRS,r15medsa,,.f=no famr
+HRS,r15medsa,,".j=web interview, missing"
+HRS,r15medsa,,.m=oth missing
+HRS,r15medsa,,.n=na
+HRS,r15medsa,,.q=not asked this wave
+HRS,r15medsa,,.r=rf
+HRS,r15medsa,,.s=skip
+HRS,r15medsa,,.u=unmarried
+HRS,r15medsa,,.v=sp nr
+HRS,r15medsa,,.x=don't do
+HRS,r15medsa,,.y=alternate wave
+HRS,r15medsa,,.z=don't do/no if did
+HRS,r15moneya,0,0.no
+HRS,r15moneya,1,1.yes
+HRS,r15moneya,2,2.can't do
+HRS,r15moneya,7,7.don't do
+HRS,r15moneya,,.d=dk
+HRS,r15moneya,,.f=no famr
+HRS,r15moneya,,".j=web interview, missing"
+HRS,r15moneya,,.m=oth missing
+HRS,r15moneya,,.n=na
+HRS,r15moneya,,.q=not asked this wave
+HRS,r15moneya,,.r=rf
+HRS,r15moneya,,.s=skip
+HRS,r15moneya,,.u=unmarried
+HRS,r15moneya,,.v=sp nr
+HRS,r15moneya,,.x=don't do
+HRS,r15moneya,,.y=alternate wave
+HRS,r15moneya,,.z=don't do/no if did
+HRS,r15proxy,0,0.not proxy
+HRS,r15proxy,1,1.proxy
+HRS,r15proxy,2,2.partial proxy
+HRS,r15proxy,3,"3.proxy, r deceased"
+HRS,r15proxy,,.u=unmarried
+HRS,r15proxy,,.v=spouse nr
+HRS,r16iwstat,0,0.inap.
+HRS,r16iwstat,1,"1.resp,alive"
+HRS,r16iwstat,2,"2.resp,died after iw"
+HRS,r16iwstat,3,"3.resp(proxy),died"
+HRS,r16iwstat,4,"4.nr,alive"
+HRS,r16iwstat,5,"5.nr,died this wv"
+HRS,r16iwstat,6,"6.nr,died prev wv"
+HRS,r16iwstat,7,"7.nr,dropped from samp"
+HRS,r16iwstat,9,"9.nr,dk if alive or died"
+HRS,r16iwstat,,.u=unmarried
+HRS,r16iwstat,,.v=spouse nr
+HRS,r16dressa,0,0.no
+HRS,r16dressa,1,1.yes
+HRS,r16dressa,2,2.can't do
+HRS,r16dressa,7,7.don't do
+HRS,r16dressa,,.d=dk
+HRS,r16dressa,,.f=no famr
+HRS,r16dressa,,".j=web interview, missing"
+HRS,r16dressa,,.m=oth missing
+HRS,r16dressa,,.n=na
+HRS,r16dressa,,.q=not asked this wave
+HRS,r16dressa,,.r=rf
+HRS,r16dressa,,.s=skip
+HRS,r16dressa,,.u=unmarried
+HRS,r16dressa,,.v=sp nr
+HRS,r16dressa,,.x=don't do
+HRS,r16dressa,,.y=alternate wave
+HRS,r16dressa,,.z=don't do/no if did
+HRS,r16batha,0,0.no
+HRS,r16batha,1,1.yes
+HRS,r16batha,2,2.can't do
+HRS,r16batha,7,7.don't do
+HRS,r16batha,,.d=dk
+HRS,r16batha,,.f=no famr
+HRS,r16batha,,".j=web interview, missing"
+HRS,r16batha,,.m=oth missing
+HRS,r16batha,,.n=na
+HRS,r16batha,,.q=not asked this wave
+HRS,r16batha,,.r=rf
+HRS,r16batha,,.s=skip
+HRS,r16batha,,.u=unmarried
+HRS,r16batha,,.v=sp nr
+HRS,r16batha,,.x=don't do
+HRS,r16batha,,.y=alternate wave
+HRS,r16batha,,.z=don't do/no if did
+HRS,r16eata,0,0.no
+HRS,r16eata,1,1.yes
+HRS,r16eata,2,2.can't do
+HRS,r16eata,7,7.don't do
+HRS,r16eata,,.d=dk
+HRS,r16eata,,.f=no famr
+HRS,r16eata,,".j=web interview, missing"
+HRS,r16eata,,.m=oth missing
+HRS,r16eata,,.n=na
+HRS,r16eata,,.q=not asked this wave
+HRS,r16eata,,.r=rf
+HRS,r16eata,,.s=skip
+HRS,r16eata,,.u=unmarried
+HRS,r16eata,,.v=sp nr
+HRS,r16eata,,.x=don't do
+HRS,r16eata,,.y=alternate wave
+HRS,r16eata,,.z=don't do/no if did
+HRS,r16beda,0,0.no
+HRS,r16beda,1,1.yes
+HRS,r16beda,2,2.can't do
+HRS,r16beda,7,7.don't do
+HRS,r16beda,,.d=dk
+HRS,r16beda,,.f=no famr
+HRS,r16beda,,".j=web interview, missing"
+HRS,r16beda,,.m=oth missing
+HRS,r16beda,,.n=na
+HRS,r16beda,,.q=not asked this wave
+HRS,r16beda,,.r=rf
+HRS,r16beda,,.s=skip
+HRS,r16beda,,.u=unmarried
+HRS,r16beda,,.v=sp nr
+HRS,r16beda,,.x=don't do
+HRS,r16beda,,.y=alternate wave
+HRS,r16beda,,.z=don't do/no if did
+HRS,r16toilta,0,0.no
+HRS,r16toilta,1,1.yes
+HRS,r16toilta,2,2.can't do
+HRS,r16toilta,7,7.don't do
+HRS,r16toilta,,.d=dk
+HRS,r16toilta,,.f=no famr
+HRS,r16toilta,,".j=web interview, missing"
+HRS,r16toilta,,.m=oth missing
+HRS,r16toilta,,.n=na
+HRS,r16toilta,,.q=not asked this wave
+HRS,r16toilta,,.r=rf
+HRS,r16toilta,,.s=skip
+HRS,r16toilta,,.u=unmarried
+HRS,r16toilta,,.v=sp nr
+HRS,r16toilta,,.x=don't do
+HRS,r16toilta,,.y=alternate wave
+HRS,r16toilta,,.z=don't do/no if did
+HRS,r16shopa,0,0.no
+HRS,r16shopa,1,1.yes
+HRS,r16shopa,2,2.can't do
+HRS,r16shopa,7,7.don't do
+HRS,r16shopa,,.d=dk
+HRS,r16shopa,,.f=no famr
+HRS,r16shopa,,".j=web interview, missing"
+HRS,r16shopa,,.m=oth missing
+HRS,r16shopa,,.n=na
+HRS,r16shopa,,.q=not asked this wave
+HRS,r16shopa,,.r=rf
+HRS,r16shopa,,.s=skip
+HRS,r16shopa,,.u=unmarried
+HRS,r16shopa,,.v=sp nr
+HRS,r16shopa,,.x=don't do
+HRS,r16shopa,,.y=alternate wave
+HRS,r16shopa,,.z=don't do/no if did
+HRS,r16mealsa,0,0.no
+HRS,r16mealsa,1,1.yes
+HRS,r16mealsa,2,2.can't do
+HRS,r16mealsa,7,7.don't do
+HRS,r16mealsa,,.d=dk
+HRS,r16mealsa,,.f=no famr
+HRS,r16mealsa,,".j=web interview, missing"
+HRS,r16mealsa,,.m=oth missing
+HRS,r16mealsa,,.n=na
+HRS,r16mealsa,,.q=not asked this wave
+HRS,r16mealsa,,.r=rf
+HRS,r16mealsa,,.s=skip
+HRS,r16mealsa,,.u=unmarried
+HRS,r16mealsa,,.v=sp nr
+HRS,r16mealsa,,.x=don't do
+HRS,r16mealsa,,.y=alternate wave
+HRS,r16mealsa,,.z=don't do/no if did
+HRS,r16medsa,0,0.no
+HRS,r16medsa,1,1.yes
+HRS,r16medsa,2,2.can't do
+HRS,r16medsa,7,7.don't do
+HRS,r16medsa,,.d=dk
+HRS,r16medsa,,.f=no famr
+HRS,r16medsa,,".j=web interview, missing"
+HRS,r16medsa,,.m=oth missing
+HRS,r16medsa,,.n=na
+HRS,r16medsa,,.q=not asked this wave
+HRS,r16medsa,,.r=rf
+HRS,r16medsa,,.s=skip
+HRS,r16medsa,,.u=unmarried
+HRS,r16medsa,,.v=sp nr
+HRS,r16medsa,,.x=don't do
+HRS,r16medsa,,.y=alternate wave
+HRS,r16medsa,,.z=don't do/no if did
+HRS,r16moneya,0,0.no
+HRS,r16moneya,1,1.yes
+HRS,r16moneya,2,2.can't do
+HRS,r16moneya,7,7.don't do
+HRS,r16moneya,,.d=dk
+HRS,r16moneya,,.f=no famr
+HRS,r16moneya,,".j=web interview, missing"
+HRS,r16moneya,,.m=oth missing
+HRS,r16moneya,,.n=na
+HRS,r16moneya,,.q=not asked this wave
+HRS,r16moneya,,.r=rf
+HRS,r16moneya,,.s=skip
+HRS,r16moneya,,.u=unmarried
+HRS,r16moneya,,.v=sp nr
+HRS,r16moneya,,.x=don't do
+HRS,r16moneya,,.y=alternate wave
+HRS,r16moneya,,.z=don't do/no if did
+HRS,r16proxy,0,0.not proxy
+HRS,r16proxy,1,1.proxy
+HRS,r16proxy,2,2.partial proxy
+HRS,r16proxy,3,"3.proxy, r deceased"
+HRS,r16proxy,,.u=unmarried
+HRS,r16proxy,,.v=spouse nr
+ELSA,raeducl,-22,.v:SP NR
+ELSA,raeducl,-21,.u:Unmar
+ELSA,raeducl,-18,.r:Refuse
+ELSA,raeducl,-15,.o:other
+ELSA,raeducl,-13,.m:Missing
+ELSA,raeducl,-4,.d:DK
+ELSA,raeducl,1,1.less than upper secondary
+ELSA,raeducl,2,2.upper secondary and vocational training
+ELSA,raeducl,3,3.tertiary
+ELSA,r1iwstat,-22,.v:SP NR
+ELSA,r1iwstat,-21,.u:Unmar
+ELSA,r1iwstat,0,0.inap.
+ELSA,r1iwstat,1,"1.resp, alive"
+ELSA,r1iwstat,3,"3.nr, died before wv1"
+ELSA,r1iwstat,4,"4.nr, alive"
+ELSA,r1iwstat,5,"5.nr, died this wv"
+ELSA,r1iwstat,6,"6.nr, died prev wv"
+ELSA,r1iwstat,7,"7.nr, dropped from samp"
+ELSA,r1iwstat,9,"9.nr, dk if alive or died"
+ELSA,r1dressa,-22,.v:SP NR
+ELSA,r1dressa,-21,.u:Unmar
+ELSA,r1dressa,-18,.r:Refuse
+ELSA,r1dressa,-16,.p:proxy
+ELSA,r1dressa,-13,.m:Missing
+ELSA,r1dressa,-4,.d:DK
+ELSA,r1dressa,0,0.No
+ELSA,r1dressa,1,1.Yes
+ELSA,r1batha,-22,.v:SP NR
+ELSA,r1batha,-21,.u:Unmar
+ELSA,r1batha,-18,.r:Refuse
+ELSA,r1batha,-16,.p:proxy
+ELSA,r1batha,-13,.m:Missing
+ELSA,r1batha,-4,.d:DK
+ELSA,r1batha,0,0.No
+ELSA,r1batha,1,1.Yes
+ELSA,r1eata,-22,.v:SP NR
+ELSA,r1eata,-21,.u:Unmar
+ELSA,r1eata,-18,.r:Refuse
+ELSA,r1eata,-16,.p:proxy
+ELSA,r1eata,-13,.m:Missing
+ELSA,r1eata,-4,.d:DK
+ELSA,r1eata,0,0.No
+ELSA,r1eata,1,1.Yes
+ELSA,r1beda,-22,.v:SP NR
+ELSA,r1beda,-21,.u:Unmar
+ELSA,r1beda,-18,.r:Refuse
+ELSA,r1beda,-16,.p:proxy
+ELSA,r1beda,-13,.m:Missing
+ELSA,r1beda,-4,.d:DK
+ELSA,r1beda,0,0.No
+ELSA,r1beda,1,1.Yes
+ELSA,r1toilta,-22,.v:SP NR
+ELSA,r1toilta,-21,.u:Unmar
+ELSA,r1toilta,-18,.r:Refuse
+ELSA,r1toilta,-16,.p:proxy
+ELSA,r1toilta,-13,.m:Missing
+ELSA,r1toilta,-4,.d:DK
+ELSA,r1toilta,0,0.No
+ELSA,r1toilta,1,1.Yes
+ELSA,r1shopa,-22,.v:SP NR
+ELSA,r1shopa,-21,.u:Unmar
+ELSA,r1shopa,-18,.r:Refuse
+ELSA,r1shopa,-16,.p:proxy
+ELSA,r1shopa,-13,.m:Missing
+ELSA,r1shopa,-4,.d:DK
+ELSA,r1shopa,0,0.No
+ELSA,r1shopa,1,1.Yes
+ELSA,r1mealsa,-22,.v:SP NR
+ELSA,r1mealsa,-21,.u:Unmar
+ELSA,r1mealsa,-18,.r:Refuse
+ELSA,r1mealsa,-16,.p:proxy
+ELSA,r1mealsa,-13,.m:Missing
+ELSA,r1mealsa,-4,.d:DK
+ELSA,r1mealsa,0,0.No
+ELSA,r1mealsa,1,1.Yes
+ELSA,r1medsa,-22,.v:SP NR
+ELSA,r1medsa,-21,.u:Unmar
+ELSA,r1medsa,-18,.r:Refuse
+ELSA,r1medsa,-16,.p:proxy
+ELSA,r1medsa,-13,.m:Missing
+ELSA,r1medsa,-4,.d:DK
+ELSA,r1medsa,0,0.No
+ELSA,r1medsa,1,1.Yes
+ELSA,r1moneya,-22,.v:SP NR
+ELSA,r1moneya,-21,.u:Unmar
+ELSA,r1moneya,-18,.r:Refuse
+ELSA,r1moneya,-16,.p:proxy
+ELSA,r1moneya,-13,.m:Missing
+ELSA,r1moneya,-4,.d:DK
+ELSA,r1moneya,0,0.No
+ELSA,r1moneya,1,1.Yes
+ELSA,r1proxy,-22,.v:SP NR
+ELSA,r1proxy,-21,.u:Unmar
+ELSA,r1proxy,0,0.not proxy
+ELSA,r1proxy,1,1.proxy
+ELSA,r2iwstat,-22,.v:SP NR
+ELSA,r2iwstat,-21,.u:Unmar
+ELSA,r2iwstat,0,0.inap.
+ELSA,r2iwstat,1,"1.resp, alive"
+ELSA,r2iwstat,3,"3.nr, died before wv1"
+ELSA,r2iwstat,4,"4.nr, alive"
+ELSA,r2iwstat,5,"5.nr, died this wv"
+ELSA,r2iwstat,6,"6.nr, died prev wv"
+ELSA,r2iwstat,7,"7.nr, dropped from samp"
+ELSA,r2iwstat,9,"9.nr, dk if alive or died"
+ELSA,r2dressa,-22,.v:SP NR
+ELSA,r2dressa,-21,.u:Unmar
+ELSA,r2dressa,-18,.r:Refuse
+ELSA,r2dressa,-16,.p:proxy
+ELSA,r2dressa,-13,.m:Missing
+ELSA,r2dressa,-4,.d:DK
+ELSA,r2dressa,0,0.No
+ELSA,r2dressa,1,1.Yes
+ELSA,r2batha,-22,.v:SP NR
+ELSA,r2batha,-21,.u:Unmar
+ELSA,r2batha,-18,.r:Refuse
+ELSA,r2batha,-16,.p:proxy
+ELSA,r2batha,-13,.m:Missing
+ELSA,r2batha,-4,.d:DK
+ELSA,r2batha,0,0.No
+ELSA,r2batha,1,1.Yes
+ELSA,r2eata,-22,.v:SP NR
+ELSA,r2eata,-21,.u:Unmar
+ELSA,r2eata,-18,.r:Refuse
+ELSA,r2eata,-16,.p:proxy
+ELSA,r2eata,-13,.m:Missing
+ELSA,r2eata,-4,.d:DK
+ELSA,r2eata,0,0.No
+ELSA,r2eata,1,1.Yes
+ELSA,r2beda,-22,.v:SP NR
+ELSA,r2beda,-21,.u:Unmar
+ELSA,r2beda,-18,.r:Refuse
+ELSA,r2beda,-16,.p:proxy
+ELSA,r2beda,-13,.m:Missing
+ELSA,r2beda,-4,.d:DK
+ELSA,r2beda,0,0.No
+ELSA,r2beda,1,1.Yes
+ELSA,r2toilta,-22,.v:SP NR
+ELSA,r2toilta,-21,.u:Unmar
+ELSA,r2toilta,-18,.r:Refuse
+ELSA,r2toilta,-16,.p:proxy
+ELSA,r2toilta,-13,.m:Missing
+ELSA,r2toilta,-4,.d:DK
+ELSA,r2toilta,0,0.No
+ELSA,r2toilta,1,1.Yes
+ELSA,r2shopa,-22,.v:SP NR
+ELSA,r2shopa,-21,.u:Unmar
+ELSA,r2shopa,-18,.r:Refuse
+ELSA,r2shopa,-16,.p:proxy
+ELSA,r2shopa,-13,.m:Missing
+ELSA,r2shopa,-4,.d:DK
+ELSA,r2shopa,0,0.No
+ELSA,r2shopa,1,1.Yes
+ELSA,r2mealsa,-22,.v:SP NR
+ELSA,r2mealsa,-21,.u:Unmar
+ELSA,r2mealsa,-18,.r:Refuse
+ELSA,r2mealsa,-16,.p:proxy
+ELSA,r2mealsa,-13,.m:Missing
+ELSA,r2mealsa,-4,.d:DK
+ELSA,r2mealsa,0,0.No
+ELSA,r2mealsa,1,1.Yes
+ELSA,r2medsa,-22,.v:SP NR
+ELSA,r2medsa,-21,.u:Unmar
+ELSA,r2medsa,-18,.r:Refuse
+ELSA,r2medsa,-16,.p:proxy
+ELSA,r2medsa,-13,.m:Missing
+ELSA,r2medsa,-4,.d:DK
+ELSA,r2medsa,0,0.No
+ELSA,r2medsa,1,1.Yes
+ELSA,r2moneya,-22,.v:SP NR
+ELSA,r2moneya,-21,.u:Unmar
+ELSA,r2moneya,-18,.r:Refuse
+ELSA,r2moneya,-16,.p:proxy
+ELSA,r2moneya,-13,.m:Missing
+ELSA,r2moneya,-4,.d:DK
+ELSA,r2moneya,0,0.No
+ELSA,r2moneya,1,1.Yes
+ELSA,r2proxy,-22,.v:SP NR
+ELSA,r2proxy,-21,.u:Unmar
+ELSA,r2proxy,0,0.not proxy
+ELSA,r2proxy,1,1.proxy
+ELSA,r3iwstat,-22,.v:SP NR
+ELSA,r3iwstat,-21,.u:Unmar
+ELSA,r3iwstat,0,0.inap.
+ELSA,r3iwstat,1,"1.resp, alive"
+ELSA,r3iwstat,3,"3.nr, died before wv1"
+ELSA,r3iwstat,4,"4.nr, alive"
+ELSA,r3iwstat,5,"5.nr, died this wv"
+ELSA,r3iwstat,6,"6.nr, died prev wv"
+ELSA,r3iwstat,7,"7.nr, dropped from samp"
+ELSA,r3iwstat,9,"9.nr, dk if alive or died"
+ELSA,r3dressa,-22,.v:SP NR
+ELSA,r3dressa,-21,.u:Unmar
+ELSA,r3dressa,-18,.r:Refuse
+ELSA,r3dressa,-16,.p:proxy
+ELSA,r3dressa,-13,.m:Missing
+ELSA,r3dressa,-4,.d:DK
+ELSA,r3dressa,0,0.No
+ELSA,r3dressa,1,1.Yes
+ELSA,r3batha,-22,.v:SP NR
+ELSA,r3batha,-21,.u:Unmar
+ELSA,r3batha,-18,.r:Refuse
+ELSA,r3batha,-16,.p:proxy
+ELSA,r3batha,-13,.m:Missing
+ELSA,r3batha,-4,.d:DK
+ELSA,r3batha,0,0.No
+ELSA,r3batha,1,1.Yes
+ELSA,r3eata,-22,.v:SP NR
+ELSA,r3eata,-21,.u:Unmar
+ELSA,r3eata,-18,.r:Refuse
+ELSA,r3eata,-16,.p:proxy
+ELSA,r3eata,-13,.m:Missing
+ELSA,r3eata,-4,.d:DK
+ELSA,r3eata,0,0.No
+ELSA,r3eata,1,1.Yes
+ELSA,r3beda,-22,.v:SP NR
+ELSA,r3beda,-21,.u:Unmar
+ELSA,r3beda,-18,.r:Refuse
+ELSA,r3beda,-16,.p:proxy
+ELSA,r3beda,-13,.m:Missing
+ELSA,r3beda,-4,.d:DK
+ELSA,r3beda,0,0.No
+ELSA,r3beda,1,1.Yes
+ELSA,r3toilta,-22,.v:SP NR
+ELSA,r3toilta,-21,.u:Unmar
+ELSA,r3toilta,-18,.r:Refuse
+ELSA,r3toilta,-16,.p:proxy
+ELSA,r3toilta,-13,.m:Missing
+ELSA,r3toilta,-4,.d:DK
+ELSA,r3toilta,0,0.No
+ELSA,r3toilta,1,1.Yes
+ELSA,r3shopa,-22,.v:SP NR
+ELSA,r3shopa,-21,.u:Unmar
+ELSA,r3shopa,-18,.r:Refuse
+ELSA,r3shopa,-16,.p:proxy
+ELSA,r3shopa,-13,.m:Missing
+ELSA,r3shopa,-4,.d:DK
+ELSA,r3shopa,0,0.No
+ELSA,r3shopa,1,1.Yes
+ELSA,r3mealsa,-22,.v:SP NR
+ELSA,r3mealsa,-21,.u:Unmar
+ELSA,r3mealsa,-18,.r:Refuse
+ELSA,r3mealsa,-16,.p:proxy
+ELSA,r3mealsa,-13,.m:Missing
+ELSA,r3mealsa,-4,.d:DK
+ELSA,r3mealsa,0,0.No
+ELSA,r3mealsa,1,1.Yes
+ELSA,r3medsa,-22,.v:SP NR
+ELSA,r3medsa,-21,.u:Unmar
+ELSA,r3medsa,-18,.r:Refuse
+ELSA,r3medsa,-16,.p:proxy
+ELSA,r3medsa,-13,.m:Missing
+ELSA,r3medsa,-4,.d:DK
+ELSA,r3medsa,0,0.No
+ELSA,r3medsa,1,1.Yes
+ELSA,r3moneya,-22,.v:SP NR
+ELSA,r3moneya,-21,.u:Unmar
+ELSA,r3moneya,-18,.r:Refuse
+ELSA,r3moneya,-16,.p:proxy
+ELSA,r3moneya,-13,.m:Missing
+ELSA,r3moneya,-4,.d:DK
+ELSA,r3moneya,0,0.No
+ELSA,r3moneya,1,1.Yes
+ELSA,r3proxy,-22,.v:SP NR
+ELSA,r3proxy,-21,.u:Unmar
+ELSA,r3proxy,0,0.not proxy
+ELSA,r3proxy,1,1.proxy
+ELSA,r4iwstat,-22,.v:SP NR
+ELSA,r4iwstat,-21,.u:Unmar
+ELSA,r4iwstat,0,0.inap.
+ELSA,r4iwstat,1,"1.resp, alive"
+ELSA,r4iwstat,3,"3.nr, died before wv1"
+ELSA,r4iwstat,4,"4.nr, alive"
+ELSA,r4iwstat,5,"5.nr, died this wv"
+ELSA,r4iwstat,6,"6.nr, died prev wv"
+ELSA,r4iwstat,7,"7.nr, dropped from samp"
+ELSA,r4iwstat,9,"9.nr, dk if alive or died"
+ELSA,r4dressa,-22,.v:SP NR
+ELSA,r4dressa,-21,.u:Unmar
+ELSA,r4dressa,-18,.r:Refuse
+ELSA,r4dressa,-16,.p:proxy
+ELSA,r4dressa,-13,.m:Missing
+ELSA,r4dressa,-4,.d:DK
+ELSA,r4dressa,0,0.No
+ELSA,r4dressa,1,1.Yes
+ELSA,r4batha,-22,.v:SP NR
+ELSA,r4batha,-21,.u:Unmar
+ELSA,r4batha,-18,.r:Refuse
+ELSA,r4batha,-16,.p:proxy
+ELSA,r4batha,-13,.m:Missing
+ELSA,r4batha,-4,.d:DK
+ELSA,r4batha,0,0.No
+ELSA,r4batha,1,1.Yes
+ELSA,r4eata,-22,.v:SP NR
+ELSA,r4eata,-21,.u:Unmar
+ELSA,r4eata,-18,.r:Refuse
+ELSA,r4eata,-16,.p:proxy
+ELSA,r4eata,-13,.m:Missing
+ELSA,r4eata,-4,.d:DK
+ELSA,r4eata,0,0.No
+ELSA,r4eata,1,1.Yes
+ELSA,r4beda,-22,.v:SP NR
+ELSA,r4beda,-21,.u:Unmar
+ELSA,r4beda,-18,.r:Refuse
+ELSA,r4beda,-16,.p:proxy
+ELSA,r4beda,-13,.m:Missing
+ELSA,r4beda,-4,.d:DK
+ELSA,r4beda,0,0.No
+ELSA,r4beda,1,1.Yes
+ELSA,r4toilta,-22,.v:SP NR
+ELSA,r4toilta,-21,.u:Unmar
+ELSA,r4toilta,-18,.r:Refuse
+ELSA,r4toilta,-16,.p:proxy
+ELSA,r4toilta,-13,.m:Missing
+ELSA,r4toilta,-4,.d:DK
+ELSA,r4toilta,0,0.No
+ELSA,r4toilta,1,1.Yes
+ELSA,r4shopa,-22,.v:SP NR
+ELSA,r4shopa,-21,.u:Unmar
+ELSA,r4shopa,-18,.r:Refuse
+ELSA,r4shopa,-16,.p:proxy
+ELSA,r4shopa,-13,.m:Missing
+ELSA,r4shopa,-4,.d:DK
+ELSA,r4shopa,0,0.No
+ELSA,r4shopa,1,1.Yes
+ELSA,r4mealsa,-22,.v:SP NR
+ELSA,r4mealsa,-21,.u:Unmar
+ELSA,r4mealsa,-18,.r:Refuse
+ELSA,r4mealsa,-16,.p:proxy
+ELSA,r4mealsa,-13,.m:Missing
+ELSA,r4mealsa,-4,.d:DK
+ELSA,r4mealsa,0,0.No
+ELSA,r4mealsa,1,1.Yes
+ELSA,r4medsa,-22,.v:SP NR
+ELSA,r4medsa,-21,.u:Unmar
+ELSA,r4medsa,-18,.r:Refuse
+ELSA,r4medsa,-16,.p:proxy
+ELSA,r4medsa,-13,.m:Missing
+ELSA,r4medsa,-4,.d:DK
+ELSA,r4medsa,0,0.No
+ELSA,r4medsa,1,1.Yes
+ELSA,r4moneya,-22,.v:SP NR
+ELSA,r4moneya,-21,.u:Unmar
+ELSA,r4moneya,-18,.r:Refuse
+ELSA,r4moneya,-16,.p:proxy
+ELSA,r4moneya,-13,.m:Missing
+ELSA,r4moneya,-4,.d:DK
+ELSA,r4moneya,0,0.No
+ELSA,r4moneya,1,1.Yes
+ELSA,r4proxy,-22,.v:SP NR
+ELSA,r4proxy,-21,.u:Unmar
+ELSA,r4proxy,0,0.not proxy
+ELSA,r4proxy,1,1.proxy
+ELSA,r5iwstat,-22,.v:SP NR
+ELSA,r5iwstat,-21,.u:Unmar
+ELSA,r5iwstat,0,0.inap.
+ELSA,r5iwstat,1,"1.resp, alive"
+ELSA,r5iwstat,3,"3.nr, died before wv1"
+ELSA,r5iwstat,4,"4.nr, alive"
+ELSA,r5iwstat,5,"5.nr, died this wv"
+ELSA,r5iwstat,6,"6.nr, died prev wv"
+ELSA,r5iwstat,7,"7.nr, dropped from samp"
+ELSA,r5iwstat,9,"9.nr, dk if alive or died"
+ELSA,r5dressa,-22,.v:SP NR
+ELSA,r5dressa,-21,.u:Unmar
+ELSA,r5dressa,-18,.r:Refuse
+ELSA,r5dressa,-16,.p:proxy
+ELSA,r5dressa,-13,.m:Missing
+ELSA,r5dressa,-4,.d:DK
+ELSA,r5dressa,0,0.No
+ELSA,r5dressa,1,1.Yes
+ELSA,r5batha,-22,.v:SP NR
+ELSA,r5batha,-21,.u:Unmar
+ELSA,r5batha,-18,.r:Refuse
+ELSA,r5batha,-16,.p:proxy
+ELSA,r5batha,-13,.m:Missing
+ELSA,r5batha,-4,.d:DK
+ELSA,r5batha,0,0.No
+ELSA,r5batha,1,1.Yes
+ELSA,r5eata,-22,.v:SP NR
+ELSA,r5eata,-21,.u:Unmar
+ELSA,r5eata,-18,.r:Refuse
+ELSA,r5eata,-16,.p:proxy
+ELSA,r5eata,-13,.m:Missing
+ELSA,r5eata,-4,.d:DK
+ELSA,r5eata,0,0.No
+ELSA,r5eata,1,1.Yes
+ELSA,r5beda,-22,.v:SP NR
+ELSA,r5beda,-21,.u:Unmar
+ELSA,r5beda,-18,.r:Refuse
+ELSA,r5beda,-16,.p:proxy
+ELSA,r5beda,-13,.m:Missing
+ELSA,r5beda,-4,.d:DK
+ELSA,r5beda,0,0.No
+ELSA,r5beda,1,1.Yes
+ELSA,r5toilta,-22,.v:SP NR
+ELSA,r5toilta,-21,.u:Unmar
+ELSA,r5toilta,-18,.r:Refuse
+ELSA,r5toilta,-16,.p:proxy
+ELSA,r5toilta,-13,.m:Missing
+ELSA,r5toilta,-4,.d:DK
+ELSA,r5toilta,0,0.No
+ELSA,r5toilta,1,1.Yes
+ELSA,r5shopa,-22,.v:SP NR
+ELSA,r5shopa,-21,.u:Unmar
+ELSA,r5shopa,-18,.r:Refuse
+ELSA,r5shopa,-16,.p:proxy
+ELSA,r5shopa,-13,.m:Missing
+ELSA,r5shopa,-4,.d:DK
+ELSA,r5shopa,0,0.No
+ELSA,r5shopa,1,1.Yes
+ELSA,r5mealsa,-22,.v:SP NR
+ELSA,r5mealsa,-21,.u:Unmar
+ELSA,r5mealsa,-18,.r:Refuse
+ELSA,r5mealsa,-16,.p:proxy
+ELSA,r5mealsa,-13,.m:Missing
+ELSA,r5mealsa,-4,.d:DK
+ELSA,r5mealsa,0,0.No
+ELSA,r5mealsa,1,1.Yes
+ELSA,r5medsa,-22,.v:SP NR
+ELSA,r5medsa,-21,.u:Unmar
+ELSA,r5medsa,-18,.r:Refuse
+ELSA,r5medsa,-16,.p:proxy
+ELSA,r5medsa,-13,.m:Missing
+ELSA,r5medsa,-4,.d:DK
+ELSA,r5medsa,0,0.No
+ELSA,r5medsa,1,1.Yes
+ELSA,r5moneya,-22,.v:SP NR
+ELSA,r5moneya,-21,.u:Unmar
+ELSA,r5moneya,-18,.r:Refuse
+ELSA,r5moneya,-16,.p:proxy
+ELSA,r5moneya,-13,.m:Missing
+ELSA,r5moneya,-4,.d:DK
+ELSA,r5moneya,0,0.No
+ELSA,r5moneya,1,1.Yes
+ELSA,r5proxy,-22,.v:SP NR
+ELSA,r5proxy,-21,.u:Unmar
+ELSA,r5proxy,0,0.not proxy
+ELSA,r5proxy,1,1.proxy
+ELSA,r6iwstat,-22,.v:SP NR
+ELSA,r6iwstat,-21,.u:Unmar
+ELSA,r6iwstat,0,0.inap.
+ELSA,r6iwstat,1,"1.resp, alive"
+ELSA,r6iwstat,3,"3.nr, died before wv1"
+ELSA,r6iwstat,4,"4.nr, alive"
+ELSA,r6iwstat,5,"5.nr, died this wv"
+ELSA,r6iwstat,6,"6.nr, died prev wv"
+ELSA,r6iwstat,7,"7.nr, dropped from samp"
+ELSA,r6iwstat,9,"9.nr, dk if alive or died"
+ELSA,r6dressa,-22,.v:SP NR
+ELSA,r6dressa,-21,.u:Unmar
+ELSA,r6dressa,-18,.r:Refuse
+ELSA,r6dressa,-16,.p:proxy
+ELSA,r6dressa,-13,.m:Missing
+ELSA,r6dressa,-4,.d:DK
+ELSA,r6dressa,0,0.No
+ELSA,r6dressa,1,1.Yes
+ELSA,r6batha,-22,.v:SP NR
+ELSA,r6batha,-21,.u:Unmar
+ELSA,r6batha,-18,.r:Refuse
+ELSA,r6batha,-16,.p:proxy
+ELSA,r6batha,-13,.m:Missing
+ELSA,r6batha,-4,.d:DK
+ELSA,r6batha,0,0.No
+ELSA,r6batha,1,1.Yes
+ELSA,r6eata,-22,.v:SP NR
+ELSA,r6eata,-21,.u:Unmar
+ELSA,r6eata,-18,.r:Refuse
+ELSA,r6eata,-16,.p:proxy
+ELSA,r6eata,-13,.m:Missing
+ELSA,r6eata,-4,.d:DK
+ELSA,r6eata,0,0.No
+ELSA,r6eata,1,1.Yes
+ELSA,r6beda,-22,.v:SP NR
+ELSA,r6beda,-21,.u:Unmar
+ELSA,r6beda,-18,.r:Refuse
+ELSA,r6beda,-16,.p:proxy
+ELSA,r6beda,-13,.m:Missing
+ELSA,r6beda,-4,.d:DK
+ELSA,r6beda,0,0.No
+ELSA,r6beda,1,1.Yes
+ELSA,r6toilta,-22,.v:SP NR
+ELSA,r6toilta,-21,.u:Unmar
+ELSA,r6toilta,-18,.r:Refuse
+ELSA,r6toilta,-16,.p:proxy
+ELSA,r6toilta,-13,.m:Missing
+ELSA,r6toilta,-4,.d:DK
+ELSA,r6toilta,0,0.No
+ELSA,r6toilta,1,1.Yes
+ELSA,r6shopa,-22,.v:SP NR
+ELSA,r6shopa,-21,.u:Unmar
+ELSA,r6shopa,-18,.r:Refuse
+ELSA,r6shopa,-16,.p:proxy
+ELSA,r6shopa,-13,.m:Missing
+ELSA,r6shopa,-4,.d:DK
+ELSA,r6shopa,0,0.No
+ELSA,r6shopa,1,1.Yes
+ELSA,r6mealsa,-22,.v:SP NR
+ELSA,r6mealsa,-21,.u:Unmar
+ELSA,r6mealsa,-18,.r:Refuse
+ELSA,r6mealsa,-16,.p:proxy
+ELSA,r6mealsa,-13,.m:Missing
+ELSA,r6mealsa,-4,.d:DK
+ELSA,r6mealsa,0,0.No
+ELSA,r6mealsa,1,1.Yes
+ELSA,r6medsa,-22,.v:SP NR
+ELSA,r6medsa,-21,.u:Unmar
+ELSA,r6medsa,-18,.r:Refuse
+ELSA,r6medsa,-16,.p:proxy
+ELSA,r6medsa,-13,.m:Missing
+ELSA,r6medsa,-4,.d:DK
+ELSA,r6medsa,0,0.No
+ELSA,r6medsa,1,1.Yes
+ELSA,r6moneya,-22,.v:SP NR
+ELSA,r6moneya,-21,.u:Unmar
+ELSA,r6moneya,-18,.r:Refuse
+ELSA,r6moneya,-16,.p:proxy
+ELSA,r6moneya,-13,.m:Missing
+ELSA,r6moneya,-4,.d:DK
+ELSA,r6moneya,0,0.No
+ELSA,r6moneya,1,1.Yes
+ELSA,r6proxy,-22,.v:SP NR
+ELSA,r6proxy,-21,.u:Unmar
+ELSA,r6proxy,0,0.not proxy
+ELSA,r6proxy,1,1.proxy
+ELSA,r7iwstat,-22,.v:SP NR
+ELSA,r7iwstat,-21,.u:Unmar
+ELSA,r7iwstat,0,0.inap.
+ELSA,r7iwstat,1,"1.resp, alive"
+ELSA,r7iwstat,3,"3.nr, died before wv1"
+ELSA,r7iwstat,4,"4.nr, alive"
+ELSA,r7iwstat,5,"5.nr, died this wv"
+ELSA,r7iwstat,6,"6.nr, died prev wv"
+ELSA,r7iwstat,7,"7.nr, dropped from samp"
+ELSA,r7iwstat,9,"9.nr, dk if alive or died"
+ELSA,r7dressa,-22,.v:SP NR
+ELSA,r7dressa,-21,.u:Unmar
+ELSA,r7dressa,-18,.r:Refuse
+ELSA,r7dressa,-16,.p:proxy
+ELSA,r7dressa,-13,.m:Missing
+ELSA,r7dressa,-4,.d:DK
+ELSA,r7dressa,0,0.No
+ELSA,r7dressa,1,1.Yes
+ELSA,r7batha,-22,.v:SP NR
+ELSA,r7batha,-21,.u:Unmar
+ELSA,r7batha,-18,.r:Refuse
+ELSA,r7batha,-16,.p:proxy
+ELSA,r7batha,-13,.m:Missing
+ELSA,r7batha,-4,.d:DK
+ELSA,r7batha,0,0.No
+ELSA,r7batha,1,1.Yes
+ELSA,r7eata,-22,.v:SP NR
+ELSA,r7eata,-21,.u:Unmar
+ELSA,r7eata,-18,.r:Refuse
+ELSA,r7eata,-16,.p:proxy
+ELSA,r7eata,-13,.m:Missing
+ELSA,r7eata,-4,.d:DK
+ELSA,r7eata,0,0.No
+ELSA,r7eata,1,1.Yes
+ELSA,r7beda,-22,.v:SP NR
+ELSA,r7beda,-21,.u:Unmar
+ELSA,r7beda,-18,.r:Refuse
+ELSA,r7beda,-16,.p:proxy
+ELSA,r7beda,-13,.m:Missing
+ELSA,r7beda,-4,.d:DK
+ELSA,r7beda,0,0.No
+ELSA,r7beda,1,1.Yes
+ELSA,r7toilta,-22,.v:SP NR
+ELSA,r7toilta,-21,.u:Unmar
+ELSA,r7toilta,-18,.r:Refuse
+ELSA,r7toilta,-16,.p:proxy
+ELSA,r7toilta,-13,.m:Missing
+ELSA,r7toilta,-4,.d:DK
+ELSA,r7toilta,0,0.No
+ELSA,r7toilta,1,1.Yes
+ELSA,r7shopa,-22,.v:SP NR
+ELSA,r7shopa,-21,.u:Unmar
+ELSA,r7shopa,-18,.r:Refuse
+ELSA,r7shopa,-16,.p:proxy
+ELSA,r7shopa,-13,.m:Missing
+ELSA,r7shopa,-4,.d:DK
+ELSA,r7shopa,0,0.No
+ELSA,r7shopa,1,1.Yes
+ELSA,r7mealsa,-22,.v:SP NR
+ELSA,r7mealsa,-21,.u:Unmar
+ELSA,r7mealsa,-18,.r:Refuse
+ELSA,r7mealsa,-16,.p:proxy
+ELSA,r7mealsa,-13,.m:Missing
+ELSA,r7mealsa,-4,.d:DK
+ELSA,r7mealsa,0,0.No
+ELSA,r7mealsa,1,1.Yes
+ELSA,r7medsa,-22,.v:SP NR
+ELSA,r7medsa,-21,.u:Unmar
+ELSA,r7medsa,-18,.r:Refuse
+ELSA,r7medsa,-16,.p:proxy
+ELSA,r7medsa,-13,.m:Missing
+ELSA,r7medsa,-4,.d:DK
+ELSA,r7medsa,0,0.No
+ELSA,r7medsa,1,1.Yes
+ELSA,r7moneya,-22,.v:SP NR
+ELSA,r7moneya,-21,.u:Unmar
+ELSA,r7moneya,-18,.r:Refuse
+ELSA,r7moneya,-16,.p:proxy
+ELSA,r7moneya,-13,.m:Missing
+ELSA,r7moneya,-4,.d:DK
+ELSA,r7moneya,0,0.No
+ELSA,r7moneya,1,1.Yes
+ELSA,r7proxy,-22,.v:SP NR
+ELSA,r7proxy,-21,.u:Unmar
+ELSA,r7proxy,0,0.not proxy
+ELSA,r7proxy,1,1.proxy
+ELSA,r8iwstat,-22,.v:SP NR
+ELSA,r8iwstat,-21,.u:Unmar
+ELSA,r8iwstat,0,0.inap.
+ELSA,r8iwstat,1,"1.resp, alive"
+ELSA,r8iwstat,3,"3.nr, died before wv1"
+ELSA,r8iwstat,4,"4.nr, alive"
+ELSA,r8iwstat,5,"5.nr, died this wv"
+ELSA,r8iwstat,6,"6.nr, died prev wv"
+ELSA,r8iwstat,7,"7.nr, dropped from samp"
+ELSA,r8iwstat,9,"9.nr, dk if alive or died"
+ELSA,r8dressa,-22,.v:SP NR
+ELSA,r8dressa,-21,.u:Unmar
+ELSA,r8dressa,-18,.r:Refuse
+ELSA,r8dressa,-16,.p:proxy
+ELSA,r8dressa,-13,.m:Missing
+ELSA,r8dressa,-4,.d:DK
+ELSA,r8dressa,0,0.No
+ELSA,r8dressa,1,1.Yes
+ELSA,r8batha,-22,.v:SP NR
+ELSA,r8batha,-21,.u:Unmar
+ELSA,r8batha,-18,.r:Refuse
+ELSA,r8batha,-16,.p:proxy
+ELSA,r8batha,-13,.m:Missing
+ELSA,r8batha,-4,.d:DK
+ELSA,r8batha,0,0.No
+ELSA,r8batha,1,1.Yes
+ELSA,r8eata,-22,.v:SP NR
+ELSA,r8eata,-21,.u:Unmar
+ELSA,r8eata,-18,.r:Refuse
+ELSA,r8eata,-16,.p:proxy
+ELSA,r8eata,-13,.m:Missing
+ELSA,r8eata,-4,.d:DK
+ELSA,r8eata,0,0.No
+ELSA,r8eata,1,1.Yes
+ELSA,r8beda,-22,.v:SP NR
+ELSA,r8beda,-21,.u:Unmar
+ELSA,r8beda,-18,.r:Refuse
+ELSA,r8beda,-16,.p:proxy
+ELSA,r8beda,-13,.m:Missing
+ELSA,r8beda,-4,.d:DK
+ELSA,r8beda,0,0.No
+ELSA,r8beda,1,1.Yes
+ELSA,r8toilta,-22,.v:SP NR
+ELSA,r8toilta,-21,.u:Unmar
+ELSA,r8toilta,-18,.r:Refuse
+ELSA,r8toilta,-16,.p:proxy
+ELSA,r8toilta,-13,.m:Missing
+ELSA,r8toilta,-4,.d:DK
+ELSA,r8toilta,0,0.No
+ELSA,r8toilta,1,1.Yes
+ELSA,r8shopa,-22,.v:SP NR
+ELSA,r8shopa,-21,.u:Unmar
+ELSA,r8shopa,-18,.r:Refuse
+ELSA,r8shopa,-16,.p:proxy
+ELSA,r8shopa,-13,.m:Missing
+ELSA,r8shopa,-4,.d:DK
+ELSA,r8shopa,0,0.No
+ELSA,r8shopa,1,1.Yes
+ELSA,r8mealsa,-22,.v:SP NR
+ELSA,r8mealsa,-21,.u:Unmar
+ELSA,r8mealsa,-18,.r:Refuse
+ELSA,r8mealsa,-16,.p:proxy
+ELSA,r8mealsa,-13,.m:Missing
+ELSA,r8mealsa,-4,.d:DK
+ELSA,r8mealsa,0,0.No
+ELSA,r8mealsa,1,1.Yes
+ELSA,r8medsa,-22,.v:SP NR
+ELSA,r8medsa,-21,.u:Unmar
+ELSA,r8medsa,-18,.r:Refuse
+ELSA,r8medsa,-16,.p:proxy
+ELSA,r8medsa,-13,.m:Missing
+ELSA,r8medsa,-4,.d:DK
+ELSA,r8medsa,0,0.No
+ELSA,r8medsa,1,1.Yes
+ELSA,r8moneya,-22,.v:SP NR
+ELSA,r8moneya,-21,.u:Unmar
+ELSA,r8moneya,-18,.r:Refuse
+ELSA,r8moneya,-16,.p:proxy
+ELSA,r8moneya,-13,.m:Missing
+ELSA,r8moneya,-4,.d:DK
+ELSA,r8moneya,0,0.No
+ELSA,r8moneya,1,1.Yes
+ELSA,r8proxy,-22,.v:SP NR
+ELSA,r8proxy,-21,.u:Unmar
+ELSA,r8proxy,0,0.not proxy
+ELSA,r8proxy,1,1.proxy
+ELSA,r9iwstat,-22,.v:SP NR
+ELSA,r9iwstat,-21,.u:Unmar
+ELSA,r9iwstat,0,0.inap.
+ELSA,r9iwstat,1,"1.resp, alive"
+ELSA,r9iwstat,3,"3.nr, died before wv1"
+ELSA,r9iwstat,4,"4.nr, alive"
+ELSA,r9iwstat,5,"5.nr, died this wv"
+ELSA,r9iwstat,6,"6.nr, died prev wv"
+ELSA,r9iwstat,7,"7.nr, dropped from samp"
+ELSA,r9iwstat,9,"9.nr, dk if alive or died"
+ELSA,r9dressa,-22,.v:SP NR
+ELSA,r9dressa,-21,.u:Unmar
+ELSA,r9dressa,-18,.r:Refuse
+ELSA,r9dressa,-16,.p:proxy
+ELSA,r9dressa,-13,.m:Missing
+ELSA,r9dressa,-4,.d:DK
+ELSA,r9dressa,0,0.No
+ELSA,r9dressa,1,1.Yes
+ELSA,r9batha,-22,.v:SP NR
+ELSA,r9batha,-21,.u:Unmar
+ELSA,r9batha,-18,.r:Refuse
+ELSA,r9batha,-16,.p:proxy
+ELSA,r9batha,-13,.m:Missing
+ELSA,r9batha,-4,.d:DK
+ELSA,r9batha,0,0.No
+ELSA,r9batha,1,1.Yes
+ELSA,r9eata,-22,.v:SP NR
+ELSA,r9eata,-21,.u:Unmar
+ELSA,r9eata,-18,.r:Refuse
+ELSA,r9eata,-16,.p:proxy
+ELSA,r9eata,-13,.m:Missing
+ELSA,r9eata,-4,.d:DK
+ELSA,r9eata,0,0.No
+ELSA,r9eata,1,1.Yes
+ELSA,r9beda,-22,.v:SP NR
+ELSA,r9beda,-21,.u:Unmar
+ELSA,r9beda,-18,.r:Refuse
+ELSA,r9beda,-16,.p:proxy
+ELSA,r9beda,-13,.m:Missing
+ELSA,r9beda,-4,.d:DK
+ELSA,r9beda,0,0.No
+ELSA,r9beda,1,1.Yes
+ELSA,r9toilta,-22,.v:SP NR
+ELSA,r9toilta,-21,.u:Unmar
+ELSA,r9toilta,-18,.r:Refuse
+ELSA,r9toilta,-16,.p:proxy
+ELSA,r9toilta,-13,.m:Missing
+ELSA,r9toilta,-4,.d:DK
+ELSA,r9toilta,0,0.No
+ELSA,r9toilta,1,1.Yes
+ELSA,r9shopa,-22,.v:SP NR
+ELSA,r9shopa,-21,.u:Unmar
+ELSA,r9shopa,-18,.r:Refuse
+ELSA,r9shopa,-16,.p:proxy
+ELSA,r9shopa,-13,.m:Missing
+ELSA,r9shopa,-4,.d:DK
+ELSA,r9shopa,0,0.No
+ELSA,r9shopa,1,1.Yes
+ELSA,r9mealsa,-22,.v:SP NR
+ELSA,r9mealsa,-21,.u:Unmar
+ELSA,r9mealsa,-18,.r:Refuse
+ELSA,r9mealsa,-16,.p:proxy
+ELSA,r9mealsa,-13,.m:Missing
+ELSA,r9mealsa,-4,.d:DK
+ELSA,r9mealsa,0,0.No
+ELSA,r9mealsa,1,1.Yes
+ELSA,r9medsa,-22,.v:SP NR
+ELSA,r9medsa,-21,.u:Unmar
+ELSA,r9medsa,-18,.r:Refuse
+ELSA,r9medsa,-16,.p:proxy
+ELSA,r9medsa,-13,.m:Missing
+ELSA,r9medsa,-4,.d:DK
+ELSA,r9medsa,0,0.No
+ELSA,r9medsa,1,1.Yes
+ELSA,r9moneya,-22,.v:SP NR
+ELSA,r9moneya,-21,.u:Unmar
+ELSA,r9moneya,-18,.r:Refuse
+ELSA,r9moneya,-16,.p:proxy
+ELSA,r9moneya,-13,.m:Missing
+ELSA,r9moneya,-4,.d:DK
+ELSA,r9moneya,0,0.No
+ELSA,r9moneya,1,1.Yes
+ELSA,r9proxy,-22,.v:SP NR
+ELSA,r9proxy,-21,.u:Unmar
+ELSA,r9proxy,0,0.not proxy
+ELSA,r9proxy,1,1.proxy
+ELSA,r10iwstat,-22,.v:SP NR
+ELSA,r10iwstat,-21,.u:Unmar
+ELSA,r10iwstat,0,0.inap.
+ELSA,r10iwstat,1,"1.resp, alive"
+ELSA,r10iwstat,3,"3.nr, died before wv1"
+ELSA,r10iwstat,4,"4.nr, alive"
+ELSA,r10iwstat,5,"5.nr, died this wv"
+ELSA,r10iwstat,6,"6.nr, died prev wv"
+ELSA,r10iwstat,7,"7.nr, dropped from samp"
+ELSA,r10iwstat,9,"9.nr, dk if alive or died"
+ELSA,r10dressa,-22,.v:SP NR
+ELSA,r10dressa,-21,.u:Unmar
+ELSA,r10dressa,-18,.r:Refuse
+ELSA,r10dressa,-16,.p:proxy
+ELSA,r10dressa,-13,.m:Missing
+ELSA,r10dressa,-4,.d:DK
+ELSA,r10dressa,0,0.No
+ELSA,r10dressa,1,1.Yes
+ELSA,r10batha,-22,.v:SP NR
+ELSA,r10batha,-21,.u:Unmar
+ELSA,r10batha,-18,.r:Refuse
+ELSA,r10batha,-16,.p:proxy
+ELSA,r10batha,-13,.m:Missing
+ELSA,r10batha,-4,.d:DK
+ELSA,r10batha,0,0.No
+ELSA,r10batha,1,1.Yes
+ELSA,r10eata,-22,.v:SP NR
+ELSA,r10eata,-21,.u:Unmar
+ELSA,r10eata,-18,.r:Refuse
+ELSA,r10eata,-16,.p:proxy
+ELSA,r10eata,-13,.m:Missing
+ELSA,r10eata,-4,.d:DK
+ELSA,r10eata,0,0.No
+ELSA,r10eata,1,1.Yes
+ELSA,r10beda,-22,.v:SP NR
+ELSA,r10beda,-21,.u:Unmar
+ELSA,r10beda,-18,.r:Refuse
+ELSA,r10beda,-16,.p:proxy
+ELSA,r10beda,-13,.m:Missing
+ELSA,r10beda,-4,.d:DK
+ELSA,r10beda,0,0.No
+ELSA,r10beda,1,1.Yes
+ELSA,r10toilta,-22,.v:SP NR
+ELSA,r10toilta,-21,.u:Unmar
+ELSA,r10toilta,-18,.r:Refuse
+ELSA,r10toilta,-16,.p:proxy
+ELSA,r10toilta,-13,.m:Missing
+ELSA,r10toilta,-4,.d:DK
+ELSA,r10toilta,0,0.No
+ELSA,r10toilta,1,1.Yes
+ELSA,r10shopa,-22,.v:SP NR
+ELSA,r10shopa,-21,.u:Unmar
+ELSA,r10shopa,-18,.r:Refuse
+ELSA,r10shopa,-16,.p:proxy
+ELSA,r10shopa,-13,.m:Missing
+ELSA,r10shopa,-4,.d:DK
+ELSA,r10shopa,0,0.No
+ELSA,r10shopa,1,1.Yes
+ELSA,r10mealsa,-22,.v:SP NR
+ELSA,r10mealsa,-21,.u:Unmar
+ELSA,r10mealsa,-18,.r:Refuse
+ELSA,r10mealsa,-16,.p:proxy
+ELSA,r10mealsa,-13,.m:Missing
+ELSA,r10mealsa,-4,.d:DK
+ELSA,r10mealsa,0,0.No
+ELSA,r10mealsa,1,1.Yes
+ELSA,r10medsa,-22,.v:SP NR
+ELSA,r10medsa,-21,.u:Unmar
+ELSA,r10medsa,-18,.r:Refuse
+ELSA,r10medsa,-16,.p:proxy
+ELSA,r10medsa,-13,.m:Missing
+ELSA,r10medsa,-4,.d:DK
+ELSA,r10medsa,0,0.No
+ELSA,r10medsa,1,1.Yes
+ELSA,r10moneya,-22,.v:SP NR
+ELSA,r10moneya,-21,.u:Unmar
+ELSA,r10moneya,-18,.r:Refuse
+ELSA,r10moneya,-16,.p:proxy
+ELSA,r10moneya,-13,.m:Missing
+ELSA,r10moneya,-4,.d:DK
+ELSA,r10moneya,0,0.No
+ELSA,r10moneya,1,1.Yes
+ELSA,r10proxy,-22,.v:SP NR
+ELSA,r10proxy,-21,.u:Unmar
+ELSA,r10proxy,0,0.not proxy
+ELSA,r10proxy,1,1.proxy
+MHAS,raeducl,1,1.Less than upper secondary
+MHAS,raeducl,2,2.Upper secondary and vocational
+MHAS,raeducl,3,3.Tertiary
+MHAS,raeducl,,.d:DK
+MHAS,raeducl,,.i:Invalid
+MHAS,raeducl,,.m:Missing
+MHAS,raeducl,,.r:Refuse
+MHAS,raeducl,,.s:Skip
+MHAS,raeducl,,.u:Unmar
+MHAS,raeducl,,.v:SP NR
+MHAS,r1iwstat,0,0.Inap
+MHAS,r1iwstat,1,"1.Resp, alive"
+MHAS,r1iwstat,4,"4.NR, alive"
+MHAS,r1iwstat,5,"5.NR, died this wave"
+MHAS,r1iwstat,6,"6.NR, died prev wave"
+MHAS,r1iwstat,7,"7.NR, dropped from sample"
+MHAS,r1iwstat,9,"9.NR, dk if alive or died"
+MHAS,r1iwstat,,.d:DK
+MHAS,r1iwstat,,.i:Invalid
+MHAS,r1iwstat,,.m:Missing
+MHAS,r1iwstat,,.r:Refuse
+MHAS,r1iwstat,,.s:Skip
+MHAS,r1iwstat,,.u:Unmar
+MHAS,r1iwstat,,.v:SP NR
+MHAS,r1dressa,0,0.No
+MHAS,r1dressa,1,1.Yes
+MHAS,r1dressa,,.d:DK
+MHAS,r1dressa,,.i:Invalid
+MHAS,r1dressa,,.m:Missing
+MHAS,r1dressa,,.p:proxy ivw
+MHAS,r1dressa,,.r:Refuse
+MHAS,r1dressa,,.s:Skip
+MHAS,r1dressa,,.u:Unmar
+MHAS,r1dressa,,.v:SP NR
+MHAS,r1dressa,,.x:Doesn't do
+MHAS,r1batha,0,0.No
+MHAS,r1batha,1,1.Yes
+MHAS,r1batha,,.d:DK
+MHAS,r1batha,,.i:Invalid
+MHAS,r1batha,,.m:Missing
+MHAS,r1batha,,.p:proxy ivw
+MHAS,r1batha,,.r:Refuse
+MHAS,r1batha,,.s:Skip
+MHAS,r1batha,,.u:Unmar
+MHAS,r1batha,,.v:SP NR
+MHAS,r1batha,,.x:Doesn't do
+MHAS,r1eata,0,0.No
+MHAS,r1eata,1,1.Yes
+MHAS,r1eata,,.d:DK
+MHAS,r1eata,,.i:Invalid
+MHAS,r1eata,,.m:Missing
+MHAS,r1eata,,.p:proxy ivw
+MHAS,r1eata,,.r:Refuse
+MHAS,r1eata,,.s:Skip
+MHAS,r1eata,,.u:Unmar
+MHAS,r1eata,,.v:SP NR
+MHAS,r1eata,,.x:Doesn't do
+MHAS,r1beda,0,0.No
+MHAS,r1beda,1,1.Yes
+MHAS,r1beda,,.d:DK
+MHAS,r1beda,,.i:Invalid
+MHAS,r1beda,,.m:Missing
+MHAS,r1beda,,.p:proxy ivw
+MHAS,r1beda,,.r:Refuse
+MHAS,r1beda,,.s:Skip
+MHAS,r1beda,,.u:Unmar
+MHAS,r1beda,,.v:SP NR
+MHAS,r1beda,,.x:Doesn't do
+MHAS,r1toilta,0,0.No
+MHAS,r1toilta,1,1.Yes
+MHAS,r1toilta,,.d:DK
+MHAS,r1toilta,,.i:Invalid
+MHAS,r1toilta,,.m:Missing
+MHAS,r1toilta,,.p:proxy ivw
+MHAS,r1toilta,,.r:Refuse
+MHAS,r1toilta,,.s:Skip
+MHAS,r1toilta,,.u:Unmar
+MHAS,r1toilta,,.v:SP NR
+MHAS,r1toilta,,.x:Doesn't do
+MHAS,r1shopa,0,0.No
+MHAS,r1shopa,1,1.Yes
+MHAS,r1shopa,,.d:DK
+MHAS,r1shopa,,.i:Invalid
+MHAS,r1shopa,,.m:Missing
+MHAS,r1shopa,,.p:proxy ivw
+MHAS,r1shopa,,.r:Refuse
+MHAS,r1shopa,,.s:Skip
+MHAS,r1shopa,,.u:Unmar
+MHAS,r1shopa,,.v:SP NR
+MHAS,r1shopa,,.x:Doesn't do
+MHAS,r1mealsa,0,0.No
+MHAS,r1mealsa,1,1.Yes
+MHAS,r1mealsa,,.d:DK
+MHAS,r1mealsa,,.i:Invalid
+MHAS,r1mealsa,,.m:Missing
+MHAS,r1mealsa,,.p:proxy ivw
+MHAS,r1mealsa,,.r:Refuse
+MHAS,r1mealsa,,.s:Skip
+MHAS,r1mealsa,,.u:Unmar
+MHAS,r1mealsa,,.v:SP NR
+MHAS,r1mealsa,,.x:Doesn't do
+MHAS,r1medsa,0,0.No
+MHAS,r1medsa,1,1.Yes
+MHAS,r1medsa,,.d:DK
+MHAS,r1medsa,,.i:Invalid
+MHAS,r1medsa,,.m:Missing
+MHAS,r1medsa,,.p:proxy ivw
+MHAS,r1medsa,,.r:Refuse
+MHAS,r1medsa,,.s:Skip
+MHAS,r1medsa,,.u:Unmar
+MHAS,r1medsa,,.v:SP NR
+MHAS,r1medsa,,.x:Doesn't do
+MHAS,r1moneya,0,0.No
+MHAS,r1moneya,1,1.Yes
+MHAS,r1moneya,,.d:DK
+MHAS,r1moneya,,.i:Invalid
+MHAS,r1moneya,,.m:Missing
+MHAS,r1moneya,,.p:proxy ivw
+MHAS,r1moneya,,.r:Refuse
+MHAS,r1moneya,,.s:Skip
+MHAS,r1moneya,,.u:Unmar
+MHAS,r1moneya,,.v:SP NR
+MHAS,r1moneya,,.x:Doesn't do
+MHAS,r1proxy,0,0.Not proxy
+MHAS,r1proxy,1,1.Proxy
+MHAS,r1proxy,,.d:DK
+MHAS,r1proxy,,.i:Invalid
+MHAS,r1proxy,,.m:Missing
+MHAS,r1proxy,,.r:Refuse
+MHAS,r1proxy,,.s:Skip
+MHAS,r1proxy,,.u:Unmar
+MHAS,r1proxy,,.v:SP NR
+MHAS,r2iwstat,0,0.Inap
+MHAS,r2iwstat,1,"1.Resp, alive"
+MHAS,r2iwstat,4,"4.NR, alive"
+MHAS,r2iwstat,5,"5.NR, died this wave"
+MHAS,r2iwstat,6,"6.NR, died prev wave"
+MHAS,r2iwstat,7,"7.NR, dropped from sample"
+MHAS,r2iwstat,9,"9.NR, dk if alive or died"
+MHAS,r2iwstat,,.d:DK
+MHAS,r2iwstat,,.i:Invalid
+MHAS,r2iwstat,,.m:Missing
+MHAS,r2iwstat,,.r:Refuse
+MHAS,r2iwstat,,.s:Skip
+MHAS,r2iwstat,,.u:Unmar
+MHAS,r2iwstat,,.v:SP NR
+MHAS,r2dressa,0,0.No
+MHAS,r2dressa,1,1.Yes
+MHAS,r2dressa,,.d:DK
+MHAS,r2dressa,,.i:Invalid
+MHAS,r2dressa,,.m:Missing
+MHAS,r2dressa,,.p:proxy ivw
+MHAS,r2dressa,,.r:Refuse
+MHAS,r2dressa,,.s:Skip
+MHAS,r2dressa,,.u:Unmar
+MHAS,r2dressa,,.v:SP NR
+MHAS,r2dressa,,.x:Doesn't do
+MHAS,r2batha,0,0.No
+MHAS,r2batha,1,1.Yes
+MHAS,r2batha,,.d:DK
+MHAS,r2batha,,.i:Invalid
+MHAS,r2batha,,.m:Missing
+MHAS,r2batha,,.p:proxy ivw
+MHAS,r2batha,,.r:Refuse
+MHAS,r2batha,,.s:Skip
+MHAS,r2batha,,.u:Unmar
+MHAS,r2batha,,.v:SP NR
+MHAS,r2batha,,.x:Doesn't do
+MHAS,r2eata,0,0.No
+MHAS,r2eata,1,1.Yes
+MHAS,r2eata,,.d:DK
+MHAS,r2eata,,.i:Invalid
+MHAS,r2eata,,.m:Missing
+MHAS,r2eata,,.p:proxy ivw
+MHAS,r2eata,,.r:Refuse
+MHAS,r2eata,,.s:Skip
+MHAS,r2eata,,.u:Unmar
+MHAS,r2eata,,.v:SP NR
+MHAS,r2eata,,.x:Doesn't do
+MHAS,r2beda,0,0.No
+MHAS,r2beda,1,1.Yes
+MHAS,r2beda,,.d:DK
+MHAS,r2beda,,.i:Invalid
+MHAS,r2beda,,.m:Missing
+MHAS,r2beda,,.p:proxy ivw
+MHAS,r2beda,,.r:Refuse
+MHAS,r2beda,,.s:Skip
+MHAS,r2beda,,.u:Unmar
+MHAS,r2beda,,.v:SP NR
+MHAS,r2beda,,.x:Doesn't do
+MHAS,r2toilta,0,0.No
+MHAS,r2toilta,1,1.Yes
+MHAS,r2toilta,,.d:DK
+MHAS,r2toilta,,.i:Invalid
+MHAS,r2toilta,,.m:Missing
+MHAS,r2toilta,,.p:proxy ivw
+MHAS,r2toilta,,.r:Refuse
+MHAS,r2toilta,,.s:Skip
+MHAS,r2toilta,,.u:Unmar
+MHAS,r2toilta,,.v:SP NR
+MHAS,r2toilta,,.x:Doesn't do
+MHAS,r2shopa,0,0.No
+MHAS,r2shopa,1,1.Yes
+MHAS,r2shopa,,.d:DK
+MHAS,r2shopa,,.i:Invalid
+MHAS,r2shopa,,.m:Missing
+MHAS,r2shopa,,.p:proxy ivw
+MHAS,r2shopa,,.r:Refuse
+MHAS,r2shopa,,.s:Skip
+MHAS,r2shopa,,.u:Unmar
+MHAS,r2shopa,,.v:SP NR
+MHAS,r2shopa,,.x:Doesn't do
+MHAS,r2mealsa,0,0.No
+MHAS,r2mealsa,1,1.Yes
+MHAS,r2mealsa,,.d:DK
+MHAS,r2mealsa,,.i:Invalid
+MHAS,r2mealsa,,.m:Missing
+MHAS,r2mealsa,,.p:proxy ivw
+MHAS,r2mealsa,,.r:Refuse
+MHAS,r2mealsa,,.s:Skip
+MHAS,r2mealsa,,.u:Unmar
+MHAS,r2mealsa,,.v:SP NR
+MHAS,r2mealsa,,.x:Doesn't do
+MHAS,r2medsa,0,0.No
+MHAS,r2medsa,1,1.Yes
+MHAS,r2medsa,,.d:DK
+MHAS,r2medsa,,.i:Invalid
+MHAS,r2medsa,,.m:Missing
+MHAS,r2medsa,,.p:proxy ivw
+MHAS,r2medsa,,.r:Refuse
+MHAS,r2medsa,,.s:Skip
+MHAS,r2medsa,,.u:Unmar
+MHAS,r2medsa,,.v:SP NR
+MHAS,r2medsa,,.x:Doesn't do
+MHAS,r2moneya,0,0.No
+MHAS,r2moneya,1,1.Yes
+MHAS,r2moneya,,.d:DK
+MHAS,r2moneya,,.i:Invalid
+MHAS,r2moneya,,.m:Missing
+MHAS,r2moneya,,.p:proxy ivw
+MHAS,r2moneya,,.r:Refuse
+MHAS,r2moneya,,.s:Skip
+MHAS,r2moneya,,.u:Unmar
+MHAS,r2moneya,,.v:SP NR
+MHAS,r2moneya,,.x:Doesn't do
+MHAS,r2proxy,0,0.Not proxy
+MHAS,r2proxy,1,1.Proxy
+MHAS,r2proxy,,.d:DK
+MHAS,r2proxy,,.i:Invalid
+MHAS,r2proxy,,.m:Missing
+MHAS,r2proxy,,.r:Refuse
+MHAS,r2proxy,,.s:Skip
+MHAS,r2proxy,,.u:Unmar
+MHAS,r2proxy,,.v:SP NR
+MHAS,r3iwstat,0,0.Inap
+MHAS,r3iwstat,1,"1.Resp, alive"
+MHAS,r3iwstat,4,"4.NR, alive"
+MHAS,r3iwstat,5,"5.NR, died this wave"
+MHAS,r3iwstat,6,"6.NR, died prev wave"
+MHAS,r3iwstat,7,"7.NR, dropped from sample"
+MHAS,r3iwstat,9,"9.NR, dk if alive or died"
+MHAS,r3iwstat,,.d:DK
+MHAS,r3iwstat,,.i:Invalid
+MHAS,r3iwstat,,.m:Missing
+MHAS,r3iwstat,,.r:Refuse
+MHAS,r3iwstat,,.s:Skip
+MHAS,r3iwstat,,.u:Unmar
+MHAS,r3iwstat,,.v:SP NR
+MHAS,r3dressa,0,0.No
+MHAS,r3dressa,1,1.Yes
+MHAS,r3dressa,,.d:DK
+MHAS,r3dressa,,.i:Invalid
+MHAS,r3dressa,,.m:Missing
+MHAS,r3dressa,,.p:proxy ivw
+MHAS,r3dressa,,.r:Refuse
+MHAS,r3dressa,,.s:Skip
+MHAS,r3dressa,,.u:Unmar
+MHAS,r3dressa,,.v:SP NR
+MHAS,r3dressa,,.x:Doesn't do
+MHAS,r3batha,0,0.No
+MHAS,r3batha,1,1.Yes
+MHAS,r3batha,,.d:DK
+MHAS,r3batha,,.i:Invalid
+MHAS,r3batha,,.m:Missing
+MHAS,r3batha,,.p:proxy ivw
+MHAS,r3batha,,.r:Refuse
+MHAS,r3batha,,.s:Skip
+MHAS,r3batha,,.u:Unmar
+MHAS,r3batha,,.v:SP NR
+MHAS,r3batha,,.x:Doesn't do
+MHAS,r3eata,0,0.No
+MHAS,r3eata,1,1.Yes
+MHAS,r3eata,,.d:DK
+MHAS,r3eata,,.i:Invalid
+MHAS,r3eata,,.m:Missing
+MHAS,r3eata,,.p:proxy ivw
+MHAS,r3eata,,.r:Refuse
+MHAS,r3eata,,.s:Skip
+MHAS,r3eata,,.u:Unmar
+MHAS,r3eata,,.v:SP NR
+MHAS,r3eata,,.x:Doesn't do
+MHAS,r3beda,0,0.No
+MHAS,r3beda,1,1.Yes
+MHAS,r3beda,,.d:DK
+MHAS,r3beda,,.i:Invalid
+MHAS,r3beda,,.m:Missing
+MHAS,r3beda,,.p:proxy ivw
+MHAS,r3beda,,.r:Refuse
+MHAS,r3beda,,.s:Skip
+MHAS,r3beda,,.u:Unmar
+MHAS,r3beda,,.v:SP NR
+MHAS,r3beda,,.x:Doesn't do
+MHAS,r3toilta,0,0.No
+MHAS,r3toilta,1,1.Yes
+MHAS,r3toilta,,.d:DK
+MHAS,r3toilta,,.i:Invalid
+MHAS,r3toilta,,.m:Missing
+MHAS,r3toilta,,.p:proxy ivw
+MHAS,r3toilta,,.r:Refuse
+MHAS,r3toilta,,.s:Skip
+MHAS,r3toilta,,.u:Unmar
+MHAS,r3toilta,,.v:SP NR
+MHAS,r3toilta,,.x:Doesn't do
+MHAS,r3shopa,0,0.No
+MHAS,r3shopa,1,1.Yes
+MHAS,r3shopa,,.d:DK
+MHAS,r3shopa,,.i:Invalid
+MHAS,r3shopa,,.m:Missing
+MHAS,r3shopa,,.p:proxy ivw
+MHAS,r3shopa,,.r:Refuse
+MHAS,r3shopa,,.s:Skip
+MHAS,r3shopa,,.u:Unmar
+MHAS,r3shopa,,.v:SP NR
+MHAS,r3shopa,,.x:Doesn't do
+MHAS,r3mealsa,0,0.No
+MHAS,r3mealsa,1,1.Yes
+MHAS,r3mealsa,,.d:DK
+MHAS,r3mealsa,,.i:Invalid
+MHAS,r3mealsa,,.m:Missing
+MHAS,r3mealsa,,.p:proxy ivw
+MHAS,r3mealsa,,.r:Refuse
+MHAS,r3mealsa,,.s:Skip
+MHAS,r3mealsa,,.u:Unmar
+MHAS,r3mealsa,,.v:SP NR
+MHAS,r3mealsa,,.x:Doesn't do
+MHAS,r3medsa,0,0.No
+MHAS,r3medsa,1,1.Yes
+MHAS,r3medsa,,.d:DK
+MHAS,r3medsa,,.i:Invalid
+MHAS,r3medsa,,.m:Missing
+MHAS,r3medsa,,.p:proxy ivw
+MHAS,r3medsa,,.r:Refuse
+MHAS,r3medsa,,.s:Skip
+MHAS,r3medsa,,.u:Unmar
+MHAS,r3medsa,,.v:SP NR
+MHAS,r3medsa,,.x:Doesn't do
+MHAS,r3moneya,0,0.No
+MHAS,r3moneya,1,1.Yes
+MHAS,r3moneya,,.d:DK
+MHAS,r3moneya,,.i:Invalid
+MHAS,r3moneya,,.m:Missing
+MHAS,r3moneya,,.p:proxy ivw
+MHAS,r3moneya,,.r:Refuse
+MHAS,r3moneya,,.s:Skip
+MHAS,r3moneya,,.u:Unmar
+MHAS,r3moneya,,.v:SP NR
+MHAS,r3moneya,,.x:Doesn't do
+MHAS,r3proxy,0,0.Not proxy
+MHAS,r3proxy,1,1.Proxy
+MHAS,r3proxy,,.d:DK
+MHAS,r3proxy,,.i:Invalid
+MHAS,r3proxy,,.m:Missing
+MHAS,r3proxy,,.r:Refuse
+MHAS,r3proxy,,.s:Skip
+MHAS,r3proxy,,.u:Unmar
+MHAS,r3proxy,,.v:SP NR
+MHAS,r4iwstat,0,0.Inap
+MHAS,r4iwstat,1,"1.Resp, alive"
+MHAS,r4iwstat,4,"4.NR, alive"
+MHAS,r4iwstat,5,"5.NR, died this wave"
+MHAS,r4iwstat,6,"6.NR, died prev wave"
+MHAS,r4iwstat,7,"7.NR, dropped from sample"
+MHAS,r4iwstat,9,"9.NR, dk if alive or died"
+MHAS,r4iwstat,,.d:DK
+MHAS,r4iwstat,,.i:Invalid
+MHAS,r4iwstat,,.m:Missing
+MHAS,r4iwstat,,.r:Refuse
+MHAS,r4iwstat,,.s:Skip
+MHAS,r4iwstat,,.u:Unmar
+MHAS,r4iwstat,,.v:SP NR
+MHAS,r4dressa,0,0.No
+MHAS,r4dressa,1,1.Yes
+MHAS,r4dressa,,.d:DK
+MHAS,r4dressa,,.i:Invalid
+MHAS,r4dressa,,.m:Missing
+MHAS,r4dressa,,.p:proxy ivw
+MHAS,r4dressa,,.r:Refuse
+MHAS,r4dressa,,.s:Skip
+MHAS,r4dressa,,.u:Unmar
+MHAS,r4dressa,,.v:SP NR
+MHAS,r4dressa,,.x:Doesn't do
+MHAS,r4batha,0,0.No
+MHAS,r4batha,1,1.Yes
+MHAS,r4batha,,.d:DK
+MHAS,r4batha,,.i:Invalid
+MHAS,r4batha,,.m:Missing
+MHAS,r4batha,,.p:proxy ivw
+MHAS,r4batha,,.r:Refuse
+MHAS,r4batha,,.s:Skip
+MHAS,r4batha,,.u:Unmar
+MHAS,r4batha,,.v:SP NR
+MHAS,r4batha,,.x:Doesn't do
+MHAS,r4eata,0,0.No
+MHAS,r4eata,1,1.Yes
+MHAS,r4eata,,.d:DK
+MHAS,r4eata,,.i:Invalid
+MHAS,r4eata,,.m:Missing
+MHAS,r4eata,,.p:proxy ivw
+MHAS,r4eata,,.r:Refuse
+MHAS,r4eata,,.s:Skip
+MHAS,r4eata,,.u:Unmar
+MHAS,r4eata,,.v:SP NR
+MHAS,r4eata,,.x:Doesn't do
+MHAS,r4beda,0,0.No
+MHAS,r4beda,1,1.Yes
+MHAS,r4beda,,.d:DK
+MHAS,r4beda,,.i:Invalid
+MHAS,r4beda,,.m:Missing
+MHAS,r4beda,,.p:proxy ivw
+MHAS,r4beda,,.r:Refuse
+MHAS,r4beda,,.s:Skip
+MHAS,r4beda,,.u:Unmar
+MHAS,r4beda,,.v:SP NR
+MHAS,r4beda,,.x:Doesn't do
+MHAS,r4toilta,0,0.No
+MHAS,r4toilta,1,1.Yes
+MHAS,r4toilta,,.d:DK
+MHAS,r4toilta,,.i:Invalid
+MHAS,r4toilta,,.m:Missing
+MHAS,r4toilta,,.p:proxy ivw
+MHAS,r4toilta,,.r:Refuse
+MHAS,r4toilta,,.s:Skip
+MHAS,r4toilta,,.u:Unmar
+MHAS,r4toilta,,.v:SP NR
+MHAS,r4toilta,,.x:Doesn't do
+MHAS,r4shopa,0,0.No
+MHAS,r4shopa,1,1.Yes
+MHAS,r4shopa,,.d:DK
+MHAS,r4shopa,,.i:Invalid
+MHAS,r4shopa,,.m:Missing
+MHAS,r4shopa,,.p:proxy ivw
+MHAS,r4shopa,,.r:Refuse
+MHAS,r4shopa,,.s:Skip
+MHAS,r4shopa,,.u:Unmar
+MHAS,r4shopa,,.v:SP NR
+MHAS,r4shopa,,.x:Doesn't do
+MHAS,r4mealsa,0,0.No
+MHAS,r4mealsa,1,1.Yes
+MHAS,r4mealsa,,.d:DK
+MHAS,r4mealsa,,.i:Invalid
+MHAS,r4mealsa,,.m:Missing
+MHAS,r4mealsa,,.p:proxy ivw
+MHAS,r4mealsa,,.r:Refuse
+MHAS,r4mealsa,,.s:Skip
+MHAS,r4mealsa,,.u:Unmar
+MHAS,r4mealsa,,.v:SP NR
+MHAS,r4mealsa,,.x:Doesn't do
+MHAS,r4medsa,0,0.No
+MHAS,r4medsa,1,1.Yes
+MHAS,r4medsa,,.d:DK
+MHAS,r4medsa,,.i:Invalid
+MHAS,r4medsa,,.m:Missing
+MHAS,r4medsa,,.p:proxy ivw
+MHAS,r4medsa,,.r:Refuse
+MHAS,r4medsa,,.s:Skip
+MHAS,r4medsa,,.u:Unmar
+MHAS,r4medsa,,.v:SP NR
+MHAS,r4medsa,,.x:Doesn't do
+MHAS,r4moneya,0,0.No
+MHAS,r4moneya,1,1.Yes
+MHAS,r4moneya,,.d:DK
+MHAS,r4moneya,,.i:Invalid
+MHAS,r4moneya,,.m:Missing
+MHAS,r4moneya,,.p:proxy ivw
+MHAS,r4moneya,,.r:Refuse
+MHAS,r4moneya,,.s:Skip
+MHAS,r4moneya,,.u:Unmar
+MHAS,r4moneya,,.v:SP NR
+MHAS,r4moneya,,.x:Doesn't do
+MHAS,r4proxy,0,0.Not proxy
+MHAS,r4proxy,1,1.Proxy
+MHAS,r4proxy,,.d:DK
+MHAS,r4proxy,,.i:Invalid
+MHAS,r4proxy,,.m:Missing
+MHAS,r4proxy,,.r:Refuse
+MHAS,r4proxy,,.s:Skip
+MHAS,r4proxy,,.u:Unmar
+MHAS,r4proxy,,.v:SP NR
+MHAS,r5iwstat,0,0.Inap
+MHAS,r5iwstat,1,"1.Resp, alive"
+MHAS,r5iwstat,4,"4.NR, alive"
+MHAS,r5iwstat,5,"5.NR, died this wave"
+MHAS,r5iwstat,6,"6.NR, died prev wave"
+MHAS,r5iwstat,7,"7.NR, dropped from sample"
+MHAS,r5iwstat,9,"9.NR, dk if alive or died"
+MHAS,r5iwstat,,.d:DK
+MHAS,r5iwstat,,.i:Invalid
+MHAS,r5iwstat,,.m:Missing
+MHAS,r5iwstat,,.r:Refuse
+MHAS,r5iwstat,,.s:Skip
+MHAS,r5iwstat,,.u:Unmar
+MHAS,r5iwstat,,.v:SP NR
+MHAS,r5dressa,0,0.No
+MHAS,r5dressa,1,1.Yes
+MHAS,r5dressa,,.d:DK
+MHAS,r5dressa,,.i:Invalid
+MHAS,r5dressa,,.m:Missing
+MHAS,r5dressa,,.p:proxy ivw
+MHAS,r5dressa,,.r:Refuse
+MHAS,r5dressa,,.s:Skip
+MHAS,r5dressa,,.u:Unmar
+MHAS,r5dressa,,.v:SP NR
+MHAS,r5dressa,,.x:Doesn't do
+MHAS,r5batha,0,0.No
+MHAS,r5batha,1,1.Yes
+MHAS,r5batha,,.d:DK
+MHAS,r5batha,,.i:Invalid
+MHAS,r5batha,,.m:Missing
+MHAS,r5batha,,.p:proxy ivw
+MHAS,r5batha,,.r:Refuse
+MHAS,r5batha,,.s:Skip
+MHAS,r5batha,,.u:Unmar
+MHAS,r5batha,,.v:SP NR
+MHAS,r5batha,,.x:Doesn't do
+MHAS,r5eata,0,0.No
+MHAS,r5eata,1,1.Yes
+MHAS,r5eata,,.d:DK
+MHAS,r5eata,,.i:Invalid
+MHAS,r5eata,,.m:Missing
+MHAS,r5eata,,.p:proxy ivw
+MHAS,r5eata,,.r:Refuse
+MHAS,r5eata,,.s:Skip
+MHAS,r5eata,,.u:Unmar
+MHAS,r5eata,,.v:SP NR
+MHAS,r5eata,,.x:Doesn't do
+MHAS,r5beda,0,0.No
+MHAS,r5beda,1,1.Yes
+MHAS,r5beda,,.d:DK
+MHAS,r5beda,,.i:Invalid
+MHAS,r5beda,,.m:Missing
+MHAS,r5beda,,.p:proxy ivw
+MHAS,r5beda,,.r:Refuse
+MHAS,r5beda,,.s:Skip
+MHAS,r5beda,,.u:Unmar
+MHAS,r5beda,,.v:SP NR
+MHAS,r5beda,,.x:Doesn't do
+MHAS,r5toilta,0,0.No
+MHAS,r5toilta,1,1.Yes
+MHAS,r5toilta,,.d:DK
+MHAS,r5toilta,,.i:Invalid
+MHAS,r5toilta,,.m:Missing
+MHAS,r5toilta,,.p:proxy ivw
+MHAS,r5toilta,,.r:Refuse
+MHAS,r5toilta,,.s:Skip
+MHAS,r5toilta,,.u:Unmar
+MHAS,r5toilta,,.v:SP NR
+MHAS,r5toilta,,.x:Doesn't do
+MHAS,r5shopa,0,0.No
+MHAS,r5shopa,1,1.Yes
+MHAS,r5shopa,,.d:DK
+MHAS,r5shopa,,.i:Invalid
+MHAS,r5shopa,,.m:Missing
+MHAS,r5shopa,,.p:proxy ivw
+MHAS,r5shopa,,.r:Refuse
+MHAS,r5shopa,,.s:Skip
+MHAS,r5shopa,,.u:Unmar
+MHAS,r5shopa,,.v:SP NR
+MHAS,r5shopa,,.x:Doesn't do
+MHAS,r5mealsa,0,0.No
+MHAS,r5mealsa,1,1.Yes
+MHAS,r5mealsa,,.d:DK
+MHAS,r5mealsa,,.i:Invalid
+MHAS,r5mealsa,,.m:Missing
+MHAS,r5mealsa,,.p:proxy ivw
+MHAS,r5mealsa,,.r:Refuse
+MHAS,r5mealsa,,.s:Skip
+MHAS,r5mealsa,,.u:Unmar
+MHAS,r5mealsa,,.v:SP NR
+MHAS,r5mealsa,,.x:Doesn't do
+MHAS,r5medsa,0,0.No
+MHAS,r5medsa,1,1.Yes
+MHAS,r5medsa,,.d:DK
+MHAS,r5medsa,,.i:Invalid
+MHAS,r5medsa,,.m:Missing
+MHAS,r5medsa,,.p:proxy ivw
+MHAS,r5medsa,,.r:Refuse
+MHAS,r5medsa,,.s:Skip
+MHAS,r5medsa,,.u:Unmar
+MHAS,r5medsa,,.v:SP NR
+MHAS,r5medsa,,.x:Doesn't do
+MHAS,r5moneya,0,0.No
+MHAS,r5moneya,1,1.Yes
+MHAS,r5moneya,,.d:DK
+MHAS,r5moneya,,.i:Invalid
+MHAS,r5moneya,,.m:Missing
+MHAS,r5moneya,,.p:proxy ivw
+MHAS,r5moneya,,.r:Refuse
+MHAS,r5moneya,,.s:Skip
+MHAS,r5moneya,,.u:Unmar
+MHAS,r5moneya,,.v:SP NR
+MHAS,r5moneya,,.x:Doesn't do
+MHAS,r5proxy,0,0.Not proxy
+MHAS,r5proxy,1,1.Proxy
+MHAS,r5proxy,,.d:DK
+MHAS,r5proxy,,.i:Invalid
+MHAS,r5proxy,,.m:Missing
+MHAS,r5proxy,,.r:Refuse
+MHAS,r5proxy,,.s:Skip
+MHAS,r5proxy,,.u:Unmar
+MHAS,r5proxy,,.v:SP NR
+MHAS,r6iwstat,0,0.Inap
+MHAS,r6iwstat,1,"1.Resp, alive"
+MHAS,r6iwstat,4,"4.NR, alive"
+MHAS,r6iwstat,5,"5.NR, died this wave"
+MHAS,r6iwstat,6,"6.NR, died prev wave"
+MHAS,r6iwstat,7,"7.NR, dropped from sample"
+MHAS,r6iwstat,9,"9.NR, dk if alive or died"
+MHAS,r6iwstat,,.d:DK
+MHAS,r6iwstat,,.i:Invalid
+MHAS,r6iwstat,,.m:Missing
+MHAS,r6iwstat,,.r:Refuse
+MHAS,r6iwstat,,.s:Skip
+MHAS,r6iwstat,,.u:Unmar
+MHAS,r6iwstat,,.v:SP NR
+MHAS,r6dressa,0,0.No
+MHAS,r6dressa,1,1.Yes
+MHAS,r6dressa,,.d:DK
+MHAS,r6dressa,,.i:Invalid
+MHAS,r6dressa,,.m:Missing
+MHAS,r6dressa,,.p:proxy ivw
+MHAS,r6dressa,,.r:Refuse
+MHAS,r6dressa,,.s:Skip
+MHAS,r6dressa,,.u:Unmar
+MHAS,r6dressa,,.v:SP NR
+MHAS,r6dressa,,.x:Doesn't do
+MHAS,r6batha,0,0.No
+MHAS,r6batha,1,1.Yes
+MHAS,r6batha,,.d:DK
+MHAS,r6batha,,.i:Invalid
+MHAS,r6batha,,.m:Missing
+MHAS,r6batha,,.p:proxy ivw
+MHAS,r6batha,,.r:Refuse
+MHAS,r6batha,,.s:Skip
+MHAS,r6batha,,.u:Unmar
+MHAS,r6batha,,.v:SP NR
+MHAS,r6batha,,.x:Doesn't do
+MHAS,r6eata,0,0.No
+MHAS,r6eata,1,1.Yes
+MHAS,r6eata,,.d:DK
+MHAS,r6eata,,.i:Invalid
+MHAS,r6eata,,.m:Missing
+MHAS,r6eata,,.p:proxy ivw
+MHAS,r6eata,,.r:Refuse
+MHAS,r6eata,,.s:Skip
+MHAS,r6eata,,.u:Unmar
+MHAS,r6eata,,.v:SP NR
+MHAS,r6eata,,.x:Doesn't do
+MHAS,r6beda,0,0.No
+MHAS,r6beda,1,1.Yes
+MHAS,r6beda,,.d:DK
+MHAS,r6beda,,.i:Invalid
+MHAS,r6beda,,.m:Missing
+MHAS,r6beda,,.p:proxy ivw
+MHAS,r6beda,,.r:Refuse
+MHAS,r6beda,,.s:Skip
+MHAS,r6beda,,.u:Unmar
+MHAS,r6beda,,.v:SP NR
+MHAS,r6beda,,.x:Doesn't do
+MHAS,r6toilta,0,0.No
+MHAS,r6toilta,1,1.Yes
+MHAS,r6toilta,,.d:DK
+MHAS,r6toilta,,.i:Invalid
+MHAS,r6toilta,,.m:Missing
+MHAS,r6toilta,,.p:proxy ivw
+MHAS,r6toilta,,.r:Refuse
+MHAS,r6toilta,,.s:Skip
+MHAS,r6toilta,,.u:Unmar
+MHAS,r6toilta,,.v:SP NR
+MHAS,r6toilta,,.x:Doesn't do
+MHAS,r6shopa,0,0.No
+MHAS,r6shopa,1,1.Yes
+MHAS,r6shopa,,.d:DK
+MHAS,r6shopa,,.i:Invalid
+MHAS,r6shopa,,.m:Missing
+MHAS,r6shopa,,.p:proxy ivw
+MHAS,r6shopa,,.r:Refuse
+MHAS,r6shopa,,.s:Skip
+MHAS,r6shopa,,.u:Unmar
+MHAS,r6shopa,,.v:SP NR
+MHAS,r6shopa,,.x:Doesn't do
+MHAS,r6mealsa,0,0.No
+MHAS,r6mealsa,1,1.Yes
+MHAS,r6mealsa,,.d:DK
+MHAS,r6mealsa,,.i:Invalid
+MHAS,r6mealsa,,.m:Missing
+MHAS,r6mealsa,,.p:proxy ivw
+MHAS,r6mealsa,,.r:Refuse
+MHAS,r6mealsa,,.s:Skip
+MHAS,r6mealsa,,.u:Unmar
+MHAS,r6mealsa,,.v:SP NR
+MHAS,r6mealsa,,.x:Doesn't do
+MHAS,r6medsa,0,0.No
+MHAS,r6medsa,1,1.Yes
+MHAS,r6medsa,,.d:DK
+MHAS,r6medsa,,.i:Invalid
+MHAS,r6medsa,,.m:Missing
+MHAS,r6medsa,,.p:proxy ivw
+MHAS,r6medsa,,.r:Refuse
+MHAS,r6medsa,,.s:Skip
+MHAS,r6medsa,,.u:Unmar
+MHAS,r6medsa,,.v:SP NR
+MHAS,r6medsa,,.x:Doesn't do
+MHAS,r6moneya,0,0.No
+MHAS,r6moneya,1,1.Yes
+MHAS,r6moneya,,.d:DK
+MHAS,r6moneya,,.i:Invalid
+MHAS,r6moneya,,.m:Missing
+MHAS,r6moneya,,.p:proxy ivw
+MHAS,r6moneya,,.r:Refuse
+MHAS,r6moneya,,.s:Skip
+MHAS,r6moneya,,.u:Unmar
+MHAS,r6moneya,,.v:SP NR
+MHAS,r6moneya,,.x:Doesn't do
+MHAS,r6proxy,0,0.Not proxy
+MHAS,r6proxy,1,1.Proxy
+MHAS,r6proxy,,.d:DK
+MHAS,r6proxy,,.i:Invalid
+MHAS,r6proxy,,.m:Missing
+MHAS,r6proxy,,.r:Refuse
+MHAS,r6proxy,,.s:Skip
+MHAS,r6proxy,,.u:Unmar
+MHAS,r6proxy,,.v:SP NR
+CHARLS,w5_raw_db001,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db001,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db001,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db001,4,4 Can Not Do It
+CHARLS,w5_raw_db003,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db003,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db003,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db003,4,4 Can Not Do It
+CHARLS,w5_raw_db005,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db005,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db005,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db005,4,4 Can Not Do It
+CHARLS,w5_raw_db007,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db007,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db007,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db007,4,4 Can Not Do It
+CHARLS,w5_raw_db009,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db009,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db009,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db009,4,4 Can Not Do It
+CHARLS,w5_raw_db016,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db016,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db016,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db016,4,4 Can Not Do It
+CHARLS,w5_raw_db014,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db014,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db014,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db014,4,4 Can Not Do It
+CHARLS,w5_raw_db020,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db020,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db020,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db020,4,4 Can Not Do It
+CHARLS,w5_raw_db022,1,1 Don't Have Any Difficulty
+CHARLS,w5_raw_db022,2,2 Have Difficulty But Can Still Do It
+CHARLS,w5_raw_db022,3,3 Have Difficulty and Need Help
+CHARLS,w5_raw_db022,4,4 Can Not Do It

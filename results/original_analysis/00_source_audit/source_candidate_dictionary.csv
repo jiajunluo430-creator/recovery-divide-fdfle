@@ -1,0 +1,2094 @@
+cohort,role,concept,variable,label
+CHARLS,core,adl_count,r1adlfive,r1adlfive:w1 r Some Diff-5 item ADL scale
+CHARLS,core,adl_count,r2adlfive,r2adlfive:w2 r Some Diff-5 item ADL scale
+CHARLS,core,adl_count,r3adlfive,r3adlfive:w3 r Some Diff-5 item ADL scale
+CHARLS,core,adl_count,r4adlfive,r4adlfive:w4 r Some Diff-5 item ADL scale
+CHARLS,core,adl_item,r1batha,"r1batha:w1 r Some Diff-Bathing, shower"
+CHARLS,core,adl_item,r1beda,r1beda:w1 r Some Diff-Get in/out bed
+CHARLS,core,adl_item,r1dressa,r1dressa:w1 r Some Diff-Dressing
+CHARLS,core,adl_item,r1eata,r1eata:w1 r Some Diff-Eating
+CHARLS,core,adl_item,r1toilta,r1toilta:w1 r Some Diff-Using the toilet
+CHARLS,core,adl_item,r2batha,"r2batha:w2 r Some Diff-Bathing, shower"
+CHARLS,core,adl_item,r2beda,r2beda:w2 r Some Diff-Get in/out bed
+CHARLS,core,adl_item,r2dressa,r2dressa:w2 r Some Diff-Dressing
+CHARLS,core,adl_item,r2eata,r2eata:w2 r Some Diff-Eating
+CHARLS,core,adl_item,r2toilta,r2toilta:w2 r Some Diff-Using the toilet
+CHARLS,core,adl_item,r3batha,"r3batha:w3 r Some Diff-Bathing, shower"
+CHARLS,core,adl_item,r3beda,r3beda:w3 r Some Diff-Get in/out bed
+CHARLS,core,adl_item,r3dressa,r3dressa:w3 r Some Diff-Dressing
+CHARLS,core,adl_item,r3eata,r3eata:w3 r Some Diff-Eating
+CHARLS,core,adl_item,r3toilta,r3toilta:w3 r Some Diff-Using the toilet
+CHARLS,core,adl_item,r4batha,"r4batha:w4 r Some Diff-Bathing, shower"
+CHARLS,core,adl_item,r4beda,r4beda:w4 r Some Diff-Get in/out bed
+CHARLS,core,adl_item,r4dressa,r4dressa:w4 r Some Diff-Dressing
+CHARLS,core,adl_item,r4eata,r4eata:w4 r Some Diff-Eating
+CHARLS,core,adl_item,r4toilta,r4toilta:w4 r Some Diff-Using the toilet
+CHARLS,core,age,r1agey,r1agey:w1 r age in years
+CHARLS,core,age,r2agey,r2agey:w2 r age in years
+CHARLS,core,age,r3agey,r3agey:w3 r age in years
+CHARLS,core,age,r4agey,r4agey:w4 r age in years
+CHARLS,core,age,s1agey,s1agey:w1 s age in years
+CHARLS,core,age,s2agey,s2agey:w2 s age in years
+CHARLS,core,age,s3agey,s3agey:w3 s age in years
+CHARLS,core,age,s4agey,s4agey:w4 s age in years
+CHARLS,core,death,h1dchild,h1dchild:w1 total number of deceased children
+CHARLS,core,death,h1ddau,h1ddau:w1 number of deceased daughters
+CHARLS,core,death,h1dson,h1dson:w1 number of deceased sons
+CHARLS,core,death,h2dchild,h2dchild:w2 total number of deceased children
+CHARLS,core,death,h2ddau,h2ddau:w2 number of deceased daughters
+CHARLS,core,death,h2dson,h2dson:w2 number of deceased sons
+CHARLS,core,death,h3dchild,h3dchild:w3 total number of deceased children
+CHARLS,core,death,h3ddau,h3ddau:w3 number of deceased daughters
+CHARLS,core,death,h3dson,h3dson:w3 number of deceased sons
+CHARLS,core,death,h4dchild,h4dchild:w4 total number of deceased children
+CHARLS,core,death,h4ddau,h4ddau:w4 number of deceased daughters
+CHARLS,core,death,h4dson,h4dson:w4 number of deceased sons
+CHARLS,core,death,r1chdeathe,r1chdeathe:w1 r ever experienced death of own child
+CHARLS,core,death,r1dadage,r1dadage:w1 r father's age current/at death
+CHARLS,core,death,r1decbro,r1decbro:w1 r number of deceased brothers
+CHARLS,core,death,r1decsib,r1decsib:w1 r number of deceased siblings
+CHARLS,core,death,r1decsis,r1decsis:w1 r number of deceased sisters
+CHARLS,core,death,r1momage,r1momage:w1 r mother's age current/at death
+CHARLS,core,death,r2chdeathe,r2chdeathe:w2 r ever experienced death of own child
+CHARLS,core,death,r2dadage,r2dadage:w2 r father's age current/at death
+CHARLS,core,death,r2decbro,r2decbro:w2 r number of deceased brothers
+CHARLS,core,death,r2decsib,r2decsib:w2 r number of deceased siblings
+CHARLS,core,death,r2decsis,r2decsis:w2 r number of deceased sisters
+CHARLS,core,death,r2momage,r2momage:w2 r mother's age current/at death
+CHARLS,core,death,r3chdeathe,r3chdeathe:w3 r ever experienced death of own child
+CHARLS,core,death,r3dadage,r3dadage:w3 r father's age current/at death
+CHARLS,core,death,r3decbro,r3decbro:w3 r number of deceased brothers
+CHARLS,core,death,r3decsib,r3decsib:w3 r number of deceased siblings
+CHARLS,core,death,r3decsis,r3decsis:w3 r number of deceased sisters
+CHARLS,core,death,r3momage,r3momage:w3 r mother's age current/at death
+CHARLS,core,death,r4chdeathe,r4chdeathe:w4 r ever experienced death of own child
+CHARLS,core,death,r4dadage,r4dadage:w4 r father's age current/at death
+CHARLS,core,death,r4decbro,r4decbro:w4 r number of deceased brothers
+CHARLS,core,death,r4decsib,r4decsib:w4 r number of deceased siblings
+CHARLS,core,death,r4decsis,r4decsis:w4 r number of deceased sisters
+CHARLS,core,death,r4momage,r4momage:w4 r mother's age current/at death
+CHARLS,core,death,radmonth,radmonth:r death month
+CHARLS,core,death,radyear,radyear:r death year
+CHARLS,core,death,s1chdeathe,s1chdeathe:w1 s ever experienced death of own child
+CHARLS,core,death,s1dadage,s1dadage:w1 s father's age current/at death
+CHARLS,core,death,s1decbro,s1decbro:w1 s number of deceased brothers
+CHARLS,core,death,s1decsib,s1decsib:w1 s number of deceased siblings
+CHARLS,core,death,s1decsis,s1decsis:w1 s number of deceased sisters
+CHARLS,core,death,s1dmonth,s1dmonth:w1 s death month
+CHARLS,core,death,s1dyear,s1dyear:w1 s death year
+CHARLS,core,death,s1momage,s1momage:w1 s mother's age current/at death
+CHARLS,core,death,s2chdeathe,s2chdeathe:w2 s ever experienced death of own child
+CHARLS,core,death,s2dadage,s2dadage:w2 s father's age current/at death
+CHARLS,core,death,s2decbro,s2decbro:w2 s number of deceased brothers
+CHARLS,core,death,s2decsib,s2decsib:w2 s number of deceased siblings
+CHARLS,core,death,s2decsis,s2decsis:w2 s number of deceased sisters
+CHARLS,core,death,s2momage,s2momage:w2 s mother's age current/at death
+CHARLS,core,death,s3chdeathe,s3chdeathe:w3 s ever experienced death of own child
+CHARLS,core,death,s3dadage,s3dadage:w3 s father's age current/at death
+CHARLS,core,death,s3decbro,s3decbro:w3 s number of deceased brothers
+CHARLS,core,death,s3decsib,s3decsib:w3 s number of deceased siblings
+CHARLS,core,death,s3decsis,s3decsis:w3 s number of deceased sisters
+CHARLS,core,death,s3momage,s3momage:w3 s mother's age current/at death
+CHARLS,core,death,s4chdeathe,s4chdeathe:w4 s ever experienced death of own child
+CHARLS,core,death,s4dadage,s4dadage:w4 s father's age current/at death
+CHARLS,core,death,s4decbro,s4decbro:w4 s number of deceased brothers
+CHARLS,core,death,s4decsib,s4decsib:w4 s number of deceased siblings
+CHARLS,core,death,s4decsis,s4decsis:w4 s number of deceased sisters
+CHARLS,core,death,s4momage,s4momage:w4 s mother's age current/at death
+CHARLS,core,education,radadeducl,radadeducl:r father's harmonized education levels
+CHARLS,core,education,raeducl,raeducl:r harmonized education levels
+CHARLS,core,education,ramomeducl,ramomeducl:r mother's harmonized education levels
+CHARLS,core,education,s1dadeducl,s1dadeducl:w1 s father's harmonized education levels
+CHARLS,core,education,s1educl,s1educl:w1 s harmonized education levels
+CHARLS,core,education,s1momeducl,s1momeducl:w1 s mother's harmonized education levels
+CHARLS,core,education,s2dadeducl,s2dadeducl:w2 s father's harmonized education levels
+CHARLS,core,education,s2educl,s2educl:w2 s harmonized education levels
+CHARLS,core,education,s2momeducl,s2momeducl:w2 s mother's harmonized education levels
+CHARLS,core,education,s3dadeducl,s3dadeducl:w3 s father's harmonized education levels
+CHARLS,core,education,s3educl,s3educl:w3 s harmonized education levels
+CHARLS,core,education,s3momeducl,s3momeducl:w3 s mother's harmonized education levels
+CHARLS,core,education,s4dadeducl,s4dadeducl:w4 s father's harmonized education levels
+CHARLS,core,education,s4educl,s4educl:w4 s harmonized education levels
+CHARLS,core,education,s4momeducl,s4momeducl:w4 s mother's harmonized education levels
+CHARLS,core,household_size,h1hhres,h1hhres:w1 number of people living in this household
+CHARLS,core,household_size,h2hhres,h2hhres:w2 number of people living in this household
+CHARLS,core,household_size,h3hhres,h3hhres:w3 number of people living in this household
+CHARLS,core,household_size,h4hhres,h4hhres:w4 number of people living in this household
+CHARLS,core,household_wealth,h3atotb,h3atotb:w3 Asset: r+s total wealth
+CHARLS,core,household_wealth,h4atotb,h4atotb:w4 Asset: r+s total wealth
+CHARLS,core,household_wealth,hh1atotb,hh1atotb:w1 Asset: HHold total wealth
+CHARLS,core,household_wealth,hh2atotb,hh2atotb:w2 Asset: HHold total wealth
+CHARLS,core,iadl_count,r2iadla,r2iadla:w2 r Some-Diff-IADLs:summary /0-3
+CHARLS,core,iadl_count,r2iadlza,r2iadlza:w2 r Some Diff-IADLs:summary /0-5
+CHARLS,core,iadl_count,r3iadla,r3iadla:w3 r Some-Diff-IADLs:summary /0-3
+CHARLS,core,iadl_count,r3iadlza,r3iadlza:w3 r Some Diff-IADLs:summary /0-5
+CHARLS,core,iadl_count,r4iadla,r4iadla:w4 r Some-Diff-IADLs:summary /0-3
+CHARLS,core,iadl_count,r4iadlza,r4iadlza:w4 r Some Diff-IADLs:summary /0-5
+CHARLS,core,iadl_item,r1mealsa,r1mealsa:w1 r Some Diff-Prepare hot meal
+CHARLS,core,iadl_item,r1medsa,r1medsa:w1 r Some Diff-Take medications
+CHARLS,core,iadl_item,r1moneya,r1moneya:w1 r Some Diff-Managing money
+CHARLS,core,iadl_item,r1shopa,r1shopa:w1 r Some Diff-Shop for grocery
+CHARLS,core,iadl_item,r2mealsa,r2mealsa:w2 r Some Diff-Prepare hot meal
+CHARLS,core,iadl_item,r2medsa,r2medsa:w2 r Some Diff-Take medications
+CHARLS,core,iadl_item,r2moneya,r2moneya:w2 r Some Diff-Managing money
+CHARLS,core,iadl_item,r2phonea,r2phonea:w2 r Some Diff-Use telephone
+CHARLS,core,iadl_item,r2shopa,r2shopa:w2 r Some Diff-Shop for grocery
+CHARLS,core,iadl_item,r3mealsa,r3mealsa:w3 r Some Diff-Prepare hot meal
+CHARLS,core,iadl_item,r3medsa,r3medsa:w3 r Some Diff-Take medications
+CHARLS,core,iadl_item,r3moneya,r3moneya:w3 r Some Diff-Managing money
+CHARLS,core,iadl_item,r3phonea,r3phonea:w3 r Some Diff-Use telephone
+CHARLS,core,iadl_item,r3shopa,r3shopa:w3 r Some Diff-Shop for grocery
+CHARLS,core,iadl_item,r4mealsa,r4mealsa:w4 r Some Diff-Prepare hot meal
+CHARLS,core,iadl_item,r4medsa,r4medsa:w4 r Some Diff-Take medications
+CHARLS,core,iadl_item,r4moneya,r4moneya:w4 r Some Diff-Managing money
+CHARLS,core,iadl_item,r4phonea,r4phonea:w4 r Some Diff-Use telephone
+CHARLS,core,iadl_item,r4shopa,r4shopa:w4 r Some Diff-Shop for grocery
+CHARLS,core,in_wave,inw1,inw1:In wave 1
+CHARLS,core,in_wave,inw2,inw2:In wave 2
+CHARLS,core,in_wave,inw3,inw3:In wave 3
+CHARLS,core,in_wave,inw4,inw4:In wave 4
+CHARLS,core,interview_status,r1iwstat,r1iwstat:w1 r interview status
+CHARLS,core,interview_status,r2iwstat,r2iwstat:w2 r interview status
+CHARLS,core,interview_status,r3iwstat,r3iwstat:w3 r interview status
+CHARLS,core,interview_status,r4iwstat,r4iwstat:w4 r interview status
+CHARLS,core,interview_status,s1iwstat,s1iwstat:w1 s interview status
+CHARLS,core,interview_status,s2iwstat,s2iwstat:w2 s interview status
+CHARLS,core,interview_status,s3iwstat,s3iwstat:w3 s interview status
+CHARLS,core,interview_status,s4iwstat,s4iwstat:w4 s interview status
+CHARLS,core,person_id,ID,ID:person identifier/12-char
+CHARLS,core,respondent_weight,r1wtresp,r1wtresp:w1 individual weight without non-response adjustment
+CHARLS,core,respondent_weight,r1wtrespa,r1wtrespa:w1 individual weight with HH non-response adjustment
+CHARLS,core,respondent_weight,r1wtrespb,r1wtrespb:w1 individual weight with HH/ind non-response adjustment
+CHARLS,core,respondent_weight,r2wtresp,r2wtresp:w2 individual weight without non-response adjustment
+CHARLS,core,respondent_weight,r2wtrespa,r2wtrespa:w2 individual weight with HH non-response adjustment
+CHARLS,core,respondent_weight,r2wtrespb,r2wtrespb:w2 individual weight with HH/ind non-response adjustment
+CHARLS,core,respondent_weight,r3wtresp,r3wtresp:w3 individual weight without non-response adjustment
+CHARLS,core,respondent_weight,r3wtrespa,r3wtrespa:w3 individual weight with HH non-response adjustment
+CHARLS,core,respondent_weight,r3wtrespb,r3wtrespb:w3 individual weight with HH/Ind non-response adjustment
+CHARLS,core,respondent_weight,r4wtresp,r4wtresp:w4 individual weight without non-response adjustment
+CHARLS,core,respondent_weight,r4wtrespb,r4wtrespb:w4 individual weight with HH/ind non-response adjustment
+CHARLS,core,sex,ragender,ragender:r gender
+ELSA,core,adl_count,r10adla,r10adla:w10 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r10adlfive,r10adlfive:w10 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r10adlfivea,r10adlfivea:w10 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r1adla,r1adla:w1 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r1adlfive,r1adlfive:w1 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r1adlfivea,r1adlfivea:w1 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r2adla,r2adla:w2 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r2adlfive,r2adlfive:w2 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r2adlfivea,r2adlfivea:w2 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r3adla,r3adla:w3 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r3adlfive,r3adlfive:w3 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r3adlfivea,r3adlfivea:w3 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r4adla,r4adla:w4 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r4adlfive,r4adlfive:w4 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r4adlfivea,r4adlfivea:w4 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r5adla,r5adla:w5 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r5adlfive,r5adlfive:w5 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r5adlfivea,r5adlfivea:w5 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r6adla,r6adla:w6 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r6adlfive,r6adlfive:w6 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r6adlfivea,r6adlfivea:w6 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r7adla,r7adla:w7 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r7adlfive,r7adlfive:w7 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r7adlfivea,r7adlfivea:w7 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r8adla,r8adla:w8 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r8adlfive,r8adlfive:w8 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r8adlfivea,r8adlfivea:w8 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_count,r9adla,r9adla:w9 R Some Diff-ADLs:5-Item /0-5
+ELSA,core,adl_count,r9adlfive,r9adlfive:w9 R Some Diff-ADLS:5-Item alt /0-5
+ELSA,core,adl_count,r9adlfivea,r9adlfivea:w9 whether R has Any Diff-ADLS:5-Item alt
+ELSA,core,adl_item,r10batha,"r10batha:w10 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r10beda,r10beda:w10 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r10dressa,r10dressa:w10 R Some Diff-Dressing
+ELSA,core,adl_item,r10eata,r10eata:w10 R Some Diff-Eating
+ELSA,core,adl_item,r10toilta,r10toilta:w10 R Some Diff-Using the toilet
+ELSA,core,adl_item,r10walkra,r10walkra:w10 R Some Diff-Walk across room
+ELSA,core,adl_item,r1batha,"r1batha:w1 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r1beda,r1beda:w1 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r1dressa,r1dressa:w1 R Some Diff-Dressing
+ELSA,core,adl_item,r1eata,r1eata:w1 R Some Diff-Eating
+ELSA,core,adl_item,r1toilta,r1toilta:w1 R Some Diff-Using the toilet
+ELSA,core,adl_item,r1walkra,r1walkra:w1 R Some Diff-Walk across room
+ELSA,core,adl_item,r2batha,"r2batha:w2 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r2beda,r2beda:w2 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r2dressa,r2dressa:w2 R Some Diff-Dressing
+ELSA,core,adl_item,r2eata,r2eata:w2 R Some Diff-Eating
+ELSA,core,adl_item,r2toilta,r2toilta:w2 R Some Diff-Using the toilet
+ELSA,core,adl_item,r2walkra,r2walkra:w2 R Some Diff-Walk across room
+ELSA,core,adl_item,r3batha,"r3batha:w3 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r3beda,r3beda:w3 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r3dressa,r3dressa:w3 R Some Diff-Dressing
+ELSA,core,adl_item,r3eata,r3eata:w3 R Some Diff-Eating
+ELSA,core,adl_item,r3toilta,r3toilta:w3 R Some Diff-Using the toilet
+ELSA,core,adl_item,r3walkra,r3walkra:w3 R Some Diff-Walk across room
+ELSA,core,adl_item,r4batha,"r4batha:w4 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r4beda,r4beda:w4 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r4dressa,r4dressa:w4 R Some Diff-Dressing
+ELSA,core,adl_item,r4eata,r4eata:w4 R Some Diff-Eating
+ELSA,core,adl_item,r4toilta,r4toilta:w4 R Some Diff-Using the toilet
+ELSA,core,adl_item,r4walkra,r4walkra:w4 R Some Diff-Walk across room
+ELSA,core,adl_item,r5batha,"r5batha:w5 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r5beda,r5beda:w5 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r5dressa,r5dressa:w5 R Some Diff-Dressing
+ELSA,core,adl_item,r5eata,r5eata:w5 R Some Diff-Eating
+ELSA,core,adl_item,r5toilta,r5toilta:w5 R Some Diff-Using the toilet
+ELSA,core,adl_item,r5walkra,r5walkra:w5 R Some Diff-Walk across room
+ELSA,core,adl_item,r6batha,"r6batha:w6 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r6beda,r6beda:w6 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r6dressa,r6dressa:w6 R Some Diff-Dressing
+ELSA,core,adl_item,r6eata,r6eata:w6 R Some Diff-Eating
+ELSA,core,adl_item,r6toilta,r6toilta:w6 R Some Diff-Using the toilet
+ELSA,core,adl_item,r6walkra,r6walkra:w6 R Some Diff-Walk across room
+ELSA,core,adl_item,r7batha,"r7batha:w7 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r7beda,r7beda:w7 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r7dressa,r7dressa:w7 R Some Diff-Dressing
+ELSA,core,adl_item,r7eata,r7eata:w7 R Some Diff-Eating
+ELSA,core,adl_item,r7toilta,r7toilta:w7 R Some Diff-Using the toilet
+ELSA,core,adl_item,r7walkra,r7walkra:w7 R Some Diff-Walk across room
+ELSA,core,adl_item,r8batha,"r8batha:w8 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r8beda,r8beda:w8 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r8dressa,r8dressa:w8 R Some Diff-Dressing
+ELSA,core,adl_item,r8eata,r8eata:w8 R Some Diff-Eating
+ELSA,core,adl_item,r8toilta,r8toilta:w8 R Some Diff-Using the toilet
+ELSA,core,adl_item,r8walkra,r8walkra:w8 R Some Diff-Walk across room
+ELSA,core,adl_item,r9batha,"r9batha:w9 R Some Diff-Bathing, shower"
+ELSA,core,adl_item,r9beda,r9beda:w9 R Some Diff-Get in/out bed
+ELSA,core,adl_item,r9dressa,r9dressa:w9 R Some Diff-Dressing
+ELSA,core,adl_item,r9eata,r9eata:w9 R Some Diff-Eating
+ELSA,core,adl_item,r9toilta,r9toilta:w9 R Some Diff-Using the toilet
+ELSA,core,adl_item,r9walkra,r9walkra:w9 R Some Diff-Walk across room
+ELSA,core,age,r10agey,r10agey:w10 r age (years) at ivw
+ELSA,core,age,r1agey,r1agey:w1 r age (years) at ivw
+ELSA,core,age,r2agey,r2agey:w2 r age (years) at ivw
+ELSA,core,age,r3agey,r3agey:w3 r age (years) at ivw
+ELSA,core,age,r4agey,r4agey:w4 r age (years) at ivw
+ELSA,core,age,r5agey,r5agey:w5 r age (years) at ivw
+ELSA,core,age,r6agey,r6agey:w6 r age (years) at ivw
+ELSA,core,age,r7agey,r7agey:w7 r age (years) at ivw
+ELSA,core,age,r8agey,r8agey:w8 r age (years) at ivw
+ELSA,core,age,r9agey,r9agey:w9 r age (years) at ivw
+ELSA,core,death,r10dadage,r10dadage:w10 R father age current/at death
+ELSA,core,death,r10momage,r10momage:w10 R mother age current/at death
+ELSA,core,death,r1dadage,r1dadage:w1 R father age current/at death
+ELSA,core,death,r1momage,r1momage:w1 R mother age current/at death
+ELSA,core,death,r2dadage,r2dadage:w2 R father age current/at death
+ELSA,core,death,r2momage,r2momage:w2 R mother age current/at death
+ELSA,core,death,r3dadage,r3dadage:w3 R father age current/at death
+ELSA,core,death,r3momage,r3momage:w3 R mother age current/at death
+ELSA,core,death,r4dadage,r4dadage:w4 R father age current/at death
+ELSA,core,death,r4momage,r4momage:w4 R mother age current/at death
+ELSA,core,death,r5dadage,r5dadage:w5 R father age current/at death
+ELSA,core,death,r5momage,r5momage:w5 R mother age current/at death
+ELSA,core,death,r6dadage,r6dadage:w6 R father age current/at death
+ELSA,core,death,r6momage,r6momage:w6 R mother age current/at death
+ELSA,core,death,r7dadage,r7dadage:w7 R father age current/at death
+ELSA,core,death,r7momage,r7momage:w7 R mother age current/at death
+ELSA,core,death,r8dadage,r8dadage:w8 R father age current/at death
+ELSA,core,death,r8momage,r8momage:w8 R mother age current/at death
+ELSA,core,death,r9dadage,r9dadage:w9 R father age current/at death
+ELSA,core,death,r9momage,r9momage:w9 R mother age current/at death
+ELSA,core,death,s10dadage,s10dadage:w10 S father age current/at death
+ELSA,core,death,s10momage,s10momage:w10 S mother age current/at death
+ELSA,core,death,s1dadage,s1dadage:w1 S father age current/at death
+ELSA,core,death,s1momage,s1momage:w1 S mother age current/at death
+ELSA,core,death,s2dadage,s2dadage:w2 S father age current/at death
+ELSA,core,death,s2momage,s2momage:w2 S mother age current/at death
+ELSA,core,death,s3dadage,s3dadage:w3 S father age current/at death
+ELSA,core,death,s3momage,s3momage:w3 S mother age current/at death
+ELSA,core,death,s4dadage,s4dadage:w4 S father age current/at death
+ELSA,core,death,s4momage,s4momage:w4 S mother age current/at death
+ELSA,core,death,s5dadage,s5dadage:w5 S father age current/at death
+ELSA,core,death,s5momage,s5momage:w5 S mother age current/at death
+ELSA,core,death,s6dadage,s6dadage:w6 S father age current/at death
+ELSA,core,death,s6momage,s6momage:w6 S mother age current/at death
+ELSA,core,death,s7dadage,s7dadage:w7 S father age current/at death
+ELSA,core,death,s7momage,s7momage:w7 S mother age current/at death
+ELSA,core,death,s8dadage,s8dadage:w8 S father age current/at death
+ELSA,core,death,s8momage,s8momage:w8 S mother age current/at death
+ELSA,core,death,s9dadage,s9dadage:w9 S father age current/at death
+ELSA,core,death,s9momage,s9momage:w9 S mother age current/at death
+ELSA,core,education,raeducl,raeducl: R harmonized education
+ELSA,core,education,raedyrs_e,raedyrs_e: r years of education
+ELSA,core,education,s10edyrs_e,s10edyrs_e:w10 s years of education
+ELSA,core,education,s1edyrs_e,s1edyrs_e:w1 s years of education
+ELSA,core,education,s2edyrs_e,s2edyrs_e:w2 s years of education
+ELSA,core,education,s3edyrs_e,s3edyrs_e:w3 s years of education
+ELSA,core,education,s4edyrs_e,s4edyrs_e:w4 s years of education
+ELSA,core,education,s5edyrs_e,s5edyrs_e:w5 s years of education
+ELSA,core,education,s6edyrs_e,s6edyrs_e:w6 s years of education
+ELSA,core,education,s7edyrs_e,s7edyrs_e:w7 s years of education
+ELSA,core,education,s8edyrs_e,s8edyrs_e:w8 s years of education
+ELSA,core,education,s9edyrs_e,s9edyrs_e:w9 s years of education
+ELSA,core,household_size,h10hhres,h10hhres:w10 Number of people in Household
+ELSA,core,household_size,h1hhres,h1hhres:w1 Number of people in Household
+ELSA,core,household_size,h2hhres,h2hhres:w2 Number of people in Household
+ELSA,core,household_size,h3hhres,h3hhres:w3 Number of people in Household
+ELSA,core,household_size,h4hhres,h4hhres:w4 Number of people in Household
+ELSA,core,household_size,h5hhres,h5hhres:w5 Number of people in Household
+ELSA,core,household_size,h6hhres,h6hhres:w6 Number of people in Household
+ELSA,core,household_size,h7hhres,h7hhres:w7 Number of people in Household
+ELSA,core,household_size,h8hhres,h8hhres:w8 Number of people in Household
+ELSA,core,household_size,h9hhres,h9hhres:w9 Number of people in Household
+ELSA,core,household_wealth,h10atotb,h10atotb:w10 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h1atotb,h1atotb:w1 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h2atotb,h2atotb:w2 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h3atotb,h3atotb:w3 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h4atotb,h4atotb:w4 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h5atotb,h5atotb:w5 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h6atotb,h6atotb:w6 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h7atotb,h7atotb:w7 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h8atotb,h8atotb:w8 total all assets inc. 2nd hm
+ELSA,core,household_wealth,h9atotb,h9atotb:w9 total all assets inc. 2nd hm
+ELSA,core,iadl_count,r10iadla,r10iadla:w10 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r10iadlfoura,r10iadlfoura:w10 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r10iadlza,r10iadlza:w10 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r10iadlzaa,r10iadlzaa:w10 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r1iadla,r1iadla:w1 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r1iadlfoura,r1iadlfoura:w1 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r1iadlza,r1iadlza:w1 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r1iadlzaa,r1iadlzaa:w1 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r2iadla,r2iadla:w2 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r2iadlfoura,r2iadlfoura:w2 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r2iadlza,r2iadlza:w2 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r2iadlzaa,r2iadlzaa:w2 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r3iadla,r3iadla:w3 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r3iadlfoura,r3iadlfoura:w3 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r3iadlza,r3iadlza:w3 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r3iadlzaa,r3iadlzaa:w3 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r4iadla,r4iadla:w4 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r4iadlfoura,r4iadlfoura:w4 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r4iadlza,r4iadlza:w4 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r4iadlzaa,r4iadlzaa:w4 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r5iadla,r5iadla:w5 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r5iadlfoura,r5iadlfoura:w5 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r5iadlza,r5iadlza:w5 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r5iadlzaa,r5iadlzaa:w5 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r6iadla,r6iadla:w6 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r6iadlfoura,r6iadlfoura:w6 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r6iadlza,r6iadlza:w6 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r6iadlzaa,r6iadlzaa:w6 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r7iadla,r7iadla:w7 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r7iadlfoura,r7iadlfoura:w7 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r7iadlza,r7iadlza:w7 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r7iadlzaa,r7iadlzaa:w7 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r8iadla,r8iadla:w8 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r8iadlfoura,r8iadlfoura:w8 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r8iadlza,r8iadlza:w8 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r8iadlzaa,r8iadlzaa:w8 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_count,r9iadla,r9iadla:w9 R Some Diff-IADLs:3-Item /0-3
+ELSA,core,iadl_count,r9iadlfoura,r9iadlfoura:w9 whether R has Any Diff-IADLs:4-item
+ELSA,core,iadl_count,r9iadlza,r9iadlza:w9 R Some Diff-IADLs:5-item /0-5
+ELSA,core,iadl_count,r9iadlzaa,r9iadlzaa:w9 whether R has Any Diff-IADLs:5-item
+ELSA,core,iadl_item,r10mealsa,r10mealsa:w10 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r10medsa,r10medsa:w10 R Some Diff-Take medications
+ELSA,core,iadl_item,r10moneya,r10moneya:w10 R Some Diff-Managing money
+ELSA,core,iadl_item,r10phonea,r10phonea:w10 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r10shopa,r10shopa:w10 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r1mealsa,r1mealsa:w1 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r1medsa,r1medsa:w1 R Some Diff-Take medications
+ELSA,core,iadl_item,r1moneya,r1moneya:w1 R Some Diff-Managing money
+ELSA,core,iadl_item,r1phonea,r1phonea:w1 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r1shopa,r1shopa:w1 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r2mealsa,r2mealsa:w2 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r2medsa,r2medsa:w2 R Some Diff-Take medications
+ELSA,core,iadl_item,r2moneya,r2moneya:w2 R Some Diff-Managing money
+ELSA,core,iadl_item,r2phonea,r2phonea:w2 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r2shopa,r2shopa:w2 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r3mealsa,r3mealsa:w3 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r3medsa,r3medsa:w3 R Some Diff-Take medications
+ELSA,core,iadl_item,r3moneya,r3moneya:w3 R Some Diff-Managing money
+ELSA,core,iadl_item,r3phonea,r3phonea:w3 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r3shopa,r3shopa:w3 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r4mealsa,r4mealsa:w4 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r4medsa,r4medsa:w4 R Some Diff-Take medications
+ELSA,core,iadl_item,r4moneya,r4moneya:w4 R Some Diff-Managing money
+ELSA,core,iadl_item,r4phonea,r4phonea:w4 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r4shopa,r4shopa:w4 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r5mealsa,r5mealsa:w5 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r5medsa,r5medsa:w5 R Some Diff-Take medications
+ELSA,core,iadl_item,r5moneya,r5moneya:w5 R Some Diff-Managing money
+ELSA,core,iadl_item,r5phonea,r5phonea:w5 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r5shopa,r5shopa:w5 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r6mealsa,r6mealsa:w6 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r6medsa,r6medsa:w6 R Some Diff-Take medications
+ELSA,core,iadl_item,r6moneya,r6moneya:w6 R Some Diff-Managing money
+ELSA,core,iadl_item,r6phonea,r6phonea:w6 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r6shopa,r6shopa:w6 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r7mealsa,r7mealsa:w7 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r7medsa,r7medsa:w7 R Some Diff-Take medications
+ELSA,core,iadl_item,r7moneya,r7moneya:w7 R Some Diff-Managing money
+ELSA,core,iadl_item,r7phonea,r7phonea:w7 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r7shopa,r7shopa:w7 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r8mealsa,r8mealsa:w8 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r8medsa,r8medsa:w8 R Some Diff-Take medications
+ELSA,core,iadl_item,r8moneya,r8moneya:w8 R Some Diff-Managing money
+ELSA,core,iadl_item,r8phonea,r8phonea:w8 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r8shopa,r8shopa:w8 R Some Diff-Shop for grocery
+ELSA,core,iadl_item,r9mealsa,r9mealsa:w9 R Some Diff-Prepare hot meal
+ELSA,core,iadl_item,r9medsa,r9medsa:w9 R Some Diff-Take medications
+ELSA,core,iadl_item,r9moneya,r9moneya:w9 R Some Diff-Managing money
+ELSA,core,iadl_item,r9phonea,r9phonea:w9 R Some Diff-Use a telephone
+ELSA,core,iadl_item,r9shopa,r9shopa:w9 R Some Diff-Shop for grocery
+ELSA,core,in_wave,inw1,inw1: =1 if respondent w1
+ELSA,core,in_wave,inw10,inw10: =1 if respondent w10
+ELSA,core,in_wave,inw2,inw2: =1 if respondent w2
+ELSA,core,in_wave,inw3,inw3: =1 if respondent w3
+ELSA,core,in_wave,inw4,inw4: =1 if respondent w4
+ELSA,core,in_wave,inw5,inw5: =1 if respondent w5
+ELSA,core,in_wave,inw6,inw6: =1 if respondent w6
+ELSA,core,in_wave,inw7,inw7: =1 if respondent w7
+ELSA,core,in_wave,inw8,inw8: =1 if respondent w8
+ELSA,core,in_wave,inw9,inw9: =1 if respondent w9
+ELSA,core,interview_status,r10iwstat,r10iwstat:w10 r interview status
+ELSA,core,interview_status,r1iwstat,r1iwstat:w1 r interview status
+ELSA,core,interview_status,r2iwstat,r2iwstat:w2 r interview status
+ELSA,core,interview_status,r3iwstat,r3iwstat:w3 r interview status
+ELSA,core,interview_status,r4iwstat,r4iwstat:w4 r interview status
+ELSA,core,interview_status,r5iwstat,r5iwstat:w5 r interview status
+ELSA,core,interview_status,r6iwstat,r6iwstat:w6 r interview status
+ELSA,core,interview_status,r7iwstat,r7iwstat:w7 r interview status
+ELSA,core,interview_status,r8iwstat,r8iwstat:w8 r interview status
+ELSA,core,interview_status,r9iwstat,r9iwstat:w9 r interview status
+ELSA,core,interview_status,s10iwstat,s10iwstat:w10 s interview status
+ELSA,core,interview_status,s1iwstat,s1iwstat:w1 s interview status
+ELSA,core,interview_status,s2iwstat,s2iwstat:w2 s interview status
+ELSA,core,interview_status,s3iwstat,s3iwstat:w3 s interview status
+ELSA,core,interview_status,s4iwstat,s4iwstat:w4 s interview status
+ELSA,core,interview_status,s5iwstat,s5iwstat:w5 s interview status
+ELSA,core,interview_status,s6iwstat,s6iwstat:w6 s interview status
+ELSA,core,interview_status,s7iwstat,s7iwstat:w7 s interview status
+ELSA,core,interview_status,s8iwstat,s8iwstat:w8 s interview status
+ELSA,core,interview_status,s9iwstat,s9iwstat:w9 s interview status
+ELSA,core,interview_time,hh1iwhhf,hh1iwhhf:w1 household interview date flag
+ELSA,core,interview_time,hh1iwhhm,hh1iwhhm:w1 household interview month
+ELSA,core,interview_time,hh1iwhhy,hh1iwhhy:w1 household interview year
+ELSA,core,interview_time,hh2iwhhf,hh2iwhhf:w2 household interview date flag
+ELSA,core,interview_time,hh2iwhhm,hh2iwhhm:w2 household interview month
+ELSA,core,interview_time,hh2iwhhy,hh2iwhhy:w2 household interview year
+ELSA,core,interview_time,hh3iwhhf,hh3iwhhf:w3 household interview date flag
+ELSA,core,interview_time,hh3iwhhm,hh3iwhhm:w3 household interview month
+ELSA,core,interview_time,hh3iwhhy,hh3iwhhy:w3 household interview year
+ELSA,core,interview_time,hh4iwhhf,hh4iwhhf:w4 household interview date flag
+ELSA,core,interview_time,hh4iwhhm,hh4iwhhm:w4 household interview month
+ELSA,core,interview_time,hh4iwhhy,hh4iwhhy:w4 household interview year
+ELSA,core,interview_time,r10iwf,r10iwf:w10 r individual interview date flag
+ELSA,core,interview_time,r10iwm,r10iwm:w10 r individual interview month
+ELSA,core,interview_time,r10iwy,r10iwy:w10 r individual interview year
+ELSA,core,interview_time,r1iwf,r1iwf:w1 r individual interview date flag
+ELSA,core,interview_time,r1iwm,r1iwm:w1 r individual interview month
+ELSA,core,interview_time,r1iwy,r1iwy:w1 r individual interview year
+ELSA,core,interview_time,r2iwf,r2iwf:w2 r individual interview date flag
+ELSA,core,interview_time,r2iwm,r2iwm:w2 r individual interview month
+ELSA,core,interview_time,r2iwnrsm,r2iwnrsm:w2 r nurse interview month
+ELSA,core,interview_time,r2iwnrsy,r2iwnrsy:w2 r nurse interview year
+ELSA,core,interview_time,r2iwy,r2iwy:w2 r individual interview year
+ELSA,core,interview_time,r3iwf,r3iwf:w3 r individual interview date flag
+ELSA,core,interview_time,r3iwm,r3iwm:w3 r individual interview month
+ELSA,core,interview_time,r3iwy,r3iwy:w3 r individual interview year
+ELSA,core,interview_time,r4iwf,r4iwf:w4 r individual interview date flag
+ELSA,core,interview_time,r4iwm,r4iwm:w4 r individual interview month
+ELSA,core,interview_time,r4iwnrsm,r4iwnrsm:w4 r nurse interview month
+ELSA,core,interview_time,r4iwnrsy,r4iwnrsy:w4 r nurse interview year
+ELSA,core,interview_time,r4iwy,r4iwy:w4 r individual interview year
+ELSA,core,interview_time,r5iwf,r5iwf:w5 r individual interview date flag
+ELSA,core,interview_time,r5iwm,r5iwm:w5 r individual interview month
+ELSA,core,interview_time,r5iwy,r5iwy:w5 r individual interview year
+ELSA,core,interview_time,r6iwf,r6iwf:w6 r individual interview date flag
+ELSA,core,interview_time,r6iwm,r6iwm:w6 r individual interview month
+ELSA,core,interview_time,r6iwnrsm,r6iwnrsm:w6 r nurse interview month
+ELSA,core,interview_time,r6iwnrsy,r6iwnrsy:w6 r nurse interview year
+ELSA,core,interview_time,r6iwy,r6iwy:w6 r individual interview year
+ELSA,core,interview_time,r7iwf,r7iwf:w7 r individual interview date flag
+ELSA,core,interview_time,r7iwm,r7iwm:w7 r individual interview month
+ELSA,core,interview_time,r7iwy,r7iwy:w7 r individual interview year
+ELSA,core,interview_time,r8iwf,r8iwf:w8 r individual interview date flag
+ELSA,core,interview_time,r8iwm,r8iwm:w8 r individual interview month
+ELSA,core,interview_time,r8iwnrsm,r8iwnrsm:w8-9 r nurse interview month
+ELSA,core,interview_time,r8iwnrsy,r8iwnrsy:w8-9 r nurse interview year
+ELSA,core,interview_time,r8iwy,r8iwy:w8 r individual interview year
+ELSA,core,interview_time,r9iwf,r9iwf:w9 r individual interview date flag
+ELSA,core,interview_time,r9iwm,r9iwm:w9 r individual interview month
+ELSA,core,interview_time,r9iwy,r9iwy:w9 r individual interview year
+ELSA,core,interview_time,s10iwf,s10iwf:w10 s individual interview date flag
+ELSA,core,interview_time,s10iwm,s10iwm:w10 s individual interview month
+ELSA,core,interview_time,s10iwy,s10iwy:w10 s individual interview year
+ELSA,core,interview_time,s1iwf,s1iwf:w1 s individual interview date flag
+ELSA,core,interview_time,s1iwm,s1iwm:w1 s individual interview month
+ELSA,core,interview_time,s1iwy,s1iwy:w1 s individual interview year
+ELSA,core,interview_time,s2iwf,s2iwf:w2 s individual interview date flag
+ELSA,core,interview_time,s2iwm,s2iwm:w2 s individual interview month
+ELSA,core,interview_time,s2iwnrsm,s2iwnrsm:w2 s nurse interview month
+ELSA,core,interview_time,s2iwnrsy,s2iwnrsy:w2 s nurse interview year
+ELSA,core,interview_time,s2iwy,s2iwy:w2 s individual interview year
+ELSA,core,interview_time,s3iwf,s3iwf:w3 s individual interview date flag
+ELSA,core,interview_time,s3iwm,s3iwm:w3 s individual interview month
+ELSA,core,interview_time,s3iwy,s3iwy:w3 s individual interview year
+ELSA,core,interview_time,s4iwf,s4iwf:w4 s individual interview date flag
+ELSA,core,interview_time,s4iwm,s4iwm:w4 s individual interview month
+ELSA,core,interview_time,s4iwnrsm,s4iwnrsm:w4 s nurse interview month
+ELSA,core,interview_time,s4iwnrsy,s4iwnrsy:w4 s nurse interview year
+ELSA,core,interview_time,s4iwy,s4iwy:w4 s individual interview year
+ELSA,core,interview_time,s5iwf,s5iwf:w5 s individual interview date flag
+ELSA,core,interview_time,s5iwm,s5iwm:w5 s individual interview month
+ELSA,core,interview_time,s5iwy,s5iwy:w5 s individual interview year
+ELSA,core,interview_time,s6iwf,s6iwf:w6 s individual interview date flag
+ELSA,core,interview_time,s6iwm,s6iwm:w6 s individual interview month
+ELSA,core,interview_time,s6iwnrsm,s6iwnrsm:w6 s nurse interview month
+ELSA,core,interview_time,s6iwnrsy,s6iwnrsy:w6 s nurse interview year
+ELSA,core,interview_time,s6iwy,s6iwy:w6 s individual interview year
+ELSA,core,interview_time,s7iwf,s7iwf:w7 s individual interview date flag
+ELSA,core,interview_time,s7iwm,s7iwm:w7 s individual interview month
+ELSA,core,interview_time,s7iwy,s7iwy:w7 s individual interview year
+ELSA,core,interview_time,s8iwf,s8iwf:w8 s individual interview date flag
+ELSA,core,interview_time,s8iwm,s8iwm:w8 s individual interview month
+ELSA,core,interview_time,s8iwnrsm,s8iwnrsm:w8-9 s nurse interview month
+ELSA,core,interview_time,s8iwnrsy,s8iwnrsy:w8-9 s nurse interview year
+ELSA,core,interview_time,s8iwy,s8iwy:w8 s individual interview year
+ELSA,core,interview_time,s9iwf,s9iwf:w9 s individual interview date flag
+ELSA,core,interview_time,s9iwm,s9iwm:w9 s individual interview month
+ELSA,core,interview_time,s9iwy,s9iwy:w9 s individual interview year
+ELSA,core,person_id,idauniq,idauniq:unique individual serial number /num
+ELSA,core,proxy,r10proxy,r10proxy:w10 r whether proxy interview
+ELSA,core,proxy,r1proxy,r1proxy:w1 r whether proxy interview
+ELSA,core,proxy,r2proxy,r2proxy:w2 r whether proxy interview
+ELSA,core,proxy,r3proxy,r3proxy:w3 r whether proxy interview
+ELSA,core,proxy,r4proxy,r4proxy:w4 r whether proxy interview
+ELSA,core,proxy,r5proxy,r5proxy:w5 r whether proxy interview
+ELSA,core,proxy,r6proxy,r6proxy:w6 r whether proxy interview
+ELSA,core,proxy,r7proxy,r7proxy:w7 r whether proxy interview
+ELSA,core,proxy,r8proxy,r8proxy:w8 r whether proxy interview
+ELSA,core,proxy,r9proxy,r9proxy:w9 r whether proxy interview
+ELSA,core,proxy,s10proxy,s10proxy:w10 s whether proxy interview
+ELSA,core,proxy,s1proxy,s1proxy:w1 s whether proxy interview
+ELSA,core,proxy,s2proxy,s2proxy:w2 s whether proxy interview
+ELSA,core,proxy,s3proxy,s3proxy:w3 s whether proxy interview
+ELSA,core,proxy,s4proxy,s4proxy:w4 s whether proxy interview
+ELSA,core,proxy,s5proxy,s5proxy:w5 s whether proxy interview
+ELSA,core,proxy,s6proxy,s6proxy:w6 s whether proxy interview
+ELSA,core,proxy,s7proxy,s7proxy:w7 s whether proxy interview
+ELSA,core,proxy,s8proxy,s8proxy:w8 s whether proxy interview
+ELSA,core,proxy,s9proxy,s9proxy:w9 s whether proxy interview
+ELSA,core,respondent_weight,r10lwtresp,"r10lwtresp:w10 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r10wtresp,"r10wtresp:w10 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r1wtresp,"r1wtresp:w1 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r2lwtresp,"r2lwtresp:w2 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r2wtresp,"r2wtresp:w2 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r3lwtresp,"r3lwtresp:w3 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r3wtresp,"r3wtresp:w3 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r4lwtresp,"r4lwtresp:w4 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r4wtresp,"r4wtresp:w4 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r5lwtresp,"r5lwtresp:w5 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r5wtresp,"r5wtresp:w5 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r6lwtresp,"r6lwtresp:w6 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r6wtresp,"r6wtresp:w6 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r7lwtresp,"r7lwtresp:w7 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r7wtresp,"r7wtresp:w7 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r8lwtresp,"r8lwtresp:w8 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r8wtresp,"r8wtresp:w8 r person-level cross-sectional weight, core sample"
+ELSA,core,respondent_weight,r9lwtresp,"r9lwtresp:w9 r person-level longitudinal weight, core sample"
+ELSA,core,respondent_weight,r9wtresp,"r9wtresp:w9 r person-level cross-sectional weight, core sample"
+ELSA,core,sex,ragender,ragender: r gender
+ELSA,core,survey_design,r10strat,r10strat:w10 hse stratification variable
+ELSA,core,survey_design,r1strat,r1strat:w1 hse stratification variable
+ELSA,core,survey_design,r2strat,r2strat:w2 hse stratification variable
+ELSA,core,survey_design,r3strat,r3strat:w3 hse stratification variable
+ELSA,core,survey_design,r4strat,r4strat:w4 hse stratification variable
+ELSA,core,survey_design,r5strat,r5strat:w5 hse stratification variable
+ELSA,core,survey_design,r6strat,r6strat:w6 hse stratification variable
+ELSA,core,survey_design,r7strat,r7strat:w7 hse stratification variable
+ELSA,core,survey_design,r8strat,r8strat:w8 hse stratification variable
+ELSA,core,survey_design,r9strat,r9strat:w9 hse stratification variable
+HRS,core,adl_count,r10adl5a,r10adl5a:w10 any diff-sum of adls /0-5
+HRS,core,adl_count,r11adl5a,r11adl5a:w11 any diff-sum of adls /0-5
+HRS,core,adl_count,r12adl5a,r12adl5a:w12 any diff-sum of adls /0-5
+HRS,core,adl_count,r13adl5a,r13adl5a:w13 any diff-sum of adls /0-5
+HRS,core,adl_count,r14adl5a,r14adl5a:w14 any diff-sum of adls /0-5
+HRS,core,adl_count,r15adl5a,r15adl5a:w15 any diff-sum of adls /0-5
+HRS,core,adl_count,r16adl5a,r16adl5a:w16 any diff-sum of adls /0-5
+HRS,core,adl_count,r2adl5a,r2adl5a:w2 any diff-sum of adls /0-5
+HRS,core,adl_count,r3adl5a,r3adl5a:w3 any diff-sum of adls /0-5
+HRS,core,adl_count,r4adl5a,r4adl5a:w4 any diff-sum of adls /0-5
+HRS,core,adl_count,r5adl5a,r5adl5a:w5 any diff-sum of adls /0-5
+HRS,core,adl_count,r6adl5a,r6adl5a:w6 any diff-sum of adls /0-5
+HRS,core,adl_count,r7adl5a,r7adl5a:w7 any diff-sum of adls /0-5
+HRS,core,adl_count,r8adl5a,r8adl5a:w8 any diff-sum of adls /0-5
+HRS,core,adl_count,r9adl5a,r9adl5a:w9 any diff-sum of adls /0-5
+HRS,core,adl_item,r10bath,r10bath:w10 r diff-bathing or showerng
+HRS,core,adl_item,r10batha,"r10batha:w10 r any diff-bathing, shower"
+HRS,core,adl_item,r10bed,r10bed:w10 r diff-get in/out of bed
+HRS,core,adl_item,r10beda,r10beda:w10 r any diff-get in/out bed
+HRS,core,adl_item,r10dress,r10dress:w10 r diff-dressing
+HRS,core,adl_item,r10dressa,r10dressa:w10 r any diff-dressing
+HRS,core,adl_item,r10eat,r10eat:w10 r diff-eating
+HRS,core,adl_item,r10eata,r10eata:w10 r any diff-eating
+HRS,core,adl_item,r10toilt,r10toilt:w10 r diff-using the toilet
+HRS,core,adl_item,r10toilta,r10toilta:w10 r any diff-using the toilet
+HRS,core,adl_item,r10walkr,r10walkr:w10 r diff-walk across room
+HRS,core,adl_item,r10walkra,r10walkra:w10 r any diff-walk across room
+HRS,core,adl_item,r11bath,r11bath:w11 r diff-bathing or showerng
+HRS,core,adl_item,r11batha,"r11batha:w11 r any diff-bathing, shower"
+HRS,core,adl_item,r11bed,r11bed:w11 r diff-get in/out of bed
+HRS,core,adl_item,r11beda,r11beda:w11 r any diff-get in/out bed
+HRS,core,adl_item,r11dress,r11dress:w11 r diff-dressing
+HRS,core,adl_item,r11dressa,r11dressa:w11 r any diff-dressing
+HRS,core,adl_item,r11eat,r11eat:w11 r diff-eating
+HRS,core,adl_item,r11eata,r11eata:w11 r any diff-eating
+HRS,core,adl_item,r11toilt,r11toilt:w11 r diff-using the toilet
+HRS,core,adl_item,r11toilta,r11toilta:w11 r any diff-using the toilet
+HRS,core,adl_item,r11walkr,r11walkr:w11 r diff-walk across room
+HRS,core,adl_item,r11walkra,r11walkra:w11 r any diff-walk across room
+HRS,core,adl_item,r12bath,r12bath:w12 r diff-bathing or showerng
+HRS,core,adl_item,r12batha,"r12batha:w12 r any diff-bathing, shower"
+HRS,core,adl_item,r12bed,r12bed:w12 r diff-get in/out of bed
+HRS,core,adl_item,r12beda,r12beda:w12 r any diff-get in/out bed
+HRS,core,adl_item,r12dress,r12dress:w12 r diff-dressing
+HRS,core,adl_item,r12dressa,r12dressa:w12 r any diff-dressing
+HRS,core,adl_item,r12eat,r12eat:w12 r diff-eating
+HRS,core,adl_item,r12eata,r12eata:w12 r any diff-eating
+HRS,core,adl_item,r12toilt,r12toilt:w12 r diff-using the toilet
+HRS,core,adl_item,r12toilta,r12toilta:w12 r any diff-using the toilet
+HRS,core,adl_item,r12walkr,r12walkr:w12 r diff-walk across room
+HRS,core,adl_item,r12walkra,r12walkra:w12 r any diff-walk across room
+HRS,core,adl_item,r13bath,r13bath:w13 r diff-bathing or showerng
+HRS,core,adl_item,r13batha,"r13batha:w13 r any diff-bathing, shower"
+HRS,core,adl_item,r13bed,r13bed:w13 r diff-get in/out of bed
+HRS,core,adl_item,r13beda,r13beda:w13 r any diff-get in/out bed
+HRS,core,adl_item,r13dress,r13dress:w13 r diff-dressing
+HRS,core,adl_item,r13dressa,r13dressa:w13 r any diff-dressing
+HRS,core,adl_item,r13eat,r13eat:w13 r diff-eating
+HRS,core,adl_item,r13eata,r13eata:w13 r any diff-eating
+HRS,core,adl_item,r13toilt,r13toilt:w13 r diff-using the toilet
+HRS,core,adl_item,r13toilta,r13toilta:w13 r any diff-using the toilet
+HRS,core,adl_item,r13walkr,r13walkr:w13 r diff-walk across room
+HRS,core,adl_item,r13walkra,r13walkra:w13 r any diff-walk across room
+HRS,core,adl_item,r14bath,r14bath:w14 r diff-bathing or showerng
+HRS,core,adl_item,r14batha,"r14batha:w14 r any diff-bathing, shower"
+HRS,core,adl_item,r14bed,r14bed:w14 r diff-get in/out of bed
+HRS,core,adl_item,r14beda,r14beda:w14 r any diff-get in/out bed
+HRS,core,adl_item,r14dress,r14dress:w14 r diff-dressing
+HRS,core,adl_item,r14dressa,r14dressa:w14 r any diff-dressing
+HRS,core,adl_item,r14eat,r14eat:w14 r diff-eating
+HRS,core,adl_item,r14eata,r14eata:w14 r any diff-eating
+HRS,core,adl_item,r14toilt,r14toilt:w14 r diff-using the toilet
+HRS,core,adl_item,r14toilta,r14toilta:w14 r any diff-using the toilet
+HRS,core,adl_item,r14walkr,r14walkr:w14 r diff-walk across room
+HRS,core,adl_item,r14walkra,r14walkra:w14 r any diff-walk across room
+HRS,core,adl_item,r15bath,r15bath:w15 r diff-bathing or showerng
+HRS,core,adl_item,r15batha,"r15batha:w15 r any diff-bathing, shower"
+HRS,core,adl_item,r15bed,r15bed:w15 r diff-get in/out of bed
+HRS,core,adl_item,r15beda,r15beda:w15 r any diff-get in/out bed
+HRS,core,adl_item,r15dress,r15dress:w15 r diff-dressing
+HRS,core,adl_item,r15dressa,r15dressa:w15 r any diff-dressing
+HRS,core,adl_item,r15eat,r15eat:w15 r diff-eating
+HRS,core,adl_item,r15eata,r15eata:w15 r any diff-eating
+HRS,core,adl_item,r15toilt,r15toilt:w15 r diff-using the toilet
+HRS,core,adl_item,r15toilta,r15toilta:w15 r any diff-using the toilet
+HRS,core,adl_item,r15walkr,r15walkr:w15 r diff-walk across room
+HRS,core,adl_item,r15walkra,r15walkra:w15 r any diff-walk across room
+HRS,core,adl_item,r16bath,r16bath:w16 r diff-bathing or showerng
+HRS,core,adl_item,r16batha,"r16batha:w16 r any diff-bathing, shower"
+HRS,core,adl_item,r16bed,r16bed:w16 r diff-get in/out of bed
+HRS,core,adl_item,r16beda,r16beda:w16 r any diff-get in/out bed
+HRS,core,adl_item,r16dress,r16dress:w16 r diff-dressing
+HRS,core,adl_item,r16dressa,r16dressa:w16 r any diff-dressing
+HRS,core,adl_item,r16eat,r16eat:w16 r diff-eating
+HRS,core,adl_item,r16eata,r16eata:w16 r any diff-eating
+HRS,core,adl_item,r16toilt,r16toilt:w16 r diff-using the toilet
+HRS,core,adl_item,r16toilta,r16toilta:w16 r any diff-using the toilet
+HRS,core,adl_item,r16walkr,r16walkr:w16 r diff-walk across room
+HRS,core,adl_item,r16walkra,r16walkra:w16 r any diff-walk across room
+HRS,core,adl_item,r1bath,r1bath:w1 r diff-bathing or showerng
+HRS,core,adl_item,r1bed,r1bed:w1 r diff-get in/out of bed
+HRS,core,adl_item,r1dress,r1dress:w1 r diff-dressing
+HRS,core,adl_item,r1eat,r1eat:w1 r diff-eating
+HRS,core,adl_item,r1walkr,r1walkr:w1 r diff-walk across room
+HRS,core,adl_item,r2bath,r2bath:w2 r diff-bathing or showerng
+HRS,core,adl_item,r2batha,"r2batha:w2 r any diff-bathing, shower"
+HRS,core,adl_item,r2bed,r2bed:w2 r diff-get in/out of bed
+HRS,core,adl_item,r2beda,r2beda:w2 r any diff-get in/out bed
+HRS,core,adl_item,r2dress,r2dress:w2 r diff-dressing
+HRS,core,adl_item,r2dressa,r2dressa:w2 r any diff-dressing
+HRS,core,adl_item,r2eat,r2eat:w2 r diff-eating
+HRS,core,adl_item,r2eata,r2eata:w2 r any diff-eating
+HRS,core,adl_item,r2toilt,r2toilt:w2 r diff-using the toilet
+HRS,core,adl_item,r2toilta,r2toilta:w2 r any diff-using the toilet
+HRS,core,adl_item,r2walkr,r2walkr:w2 r diff-walk across room
+HRS,core,adl_item,r2walkra,r2walkra:w2 r any diff-walk across room
+HRS,core,adl_item,r3bath,r3bath:w3 r diff-bathing or showerng
+HRS,core,adl_item,r3batha,"r3batha:w3 r any diff-bathing, shower"
+HRS,core,adl_item,r3bed,r3bed:w3 r diff-get in/out of bed
+HRS,core,adl_item,r3beda,r3beda:w3 r any diff-get in/out bed
+HRS,core,adl_item,r3dress,r3dress:w3 r diff-dressing
+HRS,core,adl_item,r3dressa,r3dressa:w3 r any diff-dressing
+HRS,core,adl_item,r3eat,r3eat:w3 r diff-eating
+HRS,core,adl_item,r3eata,r3eata:w3 r any diff-eating
+HRS,core,adl_item,r3toilt,r3toilt:w3 r diff-using the toilet
+HRS,core,adl_item,r3toilta,r3toilta:w3 r any diff-using the toilet
+HRS,core,adl_item,r3walkr,r3walkr:w3 r diff-walk across room
+HRS,core,adl_item,r3walkra,r3walkra:w3 r any diff-walk across room
+HRS,core,adl_item,r4bath,r4bath:w4 r diff-bathing or showerng
+HRS,core,adl_item,r4batha,"r4batha:w4 r any diff-bathing, shower"
+HRS,core,adl_item,r4bed,r4bed:w4 r diff-get in/out of bed
+HRS,core,adl_item,r4beda,r4beda:w4 r any diff-get in/out bed
+HRS,core,adl_item,r4dress,r4dress:w4 r diff-dressing
+HRS,core,adl_item,r4dressa,r4dressa:w4 r any diff-dressing
+HRS,core,adl_item,r4eat,r4eat:w4 r diff-eating
+HRS,core,adl_item,r4eata,r4eata:w4 r any diff-eating
+HRS,core,adl_item,r4toilt,r4toilt:w4 r diff-using the toilet
+HRS,core,adl_item,r4toilta,r4toilta:w4 r any diff-using the toilet
+HRS,core,adl_item,r4walkr,r4walkr:w4 r diff-walk across room
+HRS,core,adl_item,r4walkra,r4walkra:w4 r any diff-walk across room
+HRS,core,adl_item,r5bath,r5bath:w5 r diff-bathing or showerng
+HRS,core,adl_item,r5batha,"r5batha:w5 r any diff-bathing, shower"
+HRS,core,adl_item,r5bed,r5bed:w5 r diff-get in/out of bed
+HRS,core,adl_item,r5beda,r5beda:w5 r any diff-get in/out bed
+HRS,core,adl_item,r5dress,r5dress:w5 r diff-dressing
+HRS,core,adl_item,r5dressa,r5dressa:w5 r any diff-dressing
+HRS,core,adl_item,r5eat,r5eat:w5 r diff-eating
+HRS,core,adl_item,r5eata,r5eata:w5 r any diff-eating
+HRS,core,adl_item,r5toilt,r5toilt:w5 r diff-using the toilet
+HRS,core,adl_item,r5toilta,r5toilta:w5 r any diff-using the toilet
+HRS,core,adl_item,r5walkr,r5walkr:w5 r diff-walk across room
+HRS,core,adl_item,r5walkra,r5walkra:w5 r any diff-walk across room
+HRS,core,adl_item,r6bath,r6bath:w6 r diff-bathing or showerng
+HRS,core,adl_item,r6batha,"r6batha:w6 r any diff-bathing, shower"
+HRS,core,adl_item,r6bed,r6bed:w6 r diff-get in/out of bed
+HRS,core,adl_item,r6beda,r6beda:w6 r any diff-get in/out bed
+HRS,core,adl_item,r6dress,r6dress:w6 r diff-dressing
+HRS,core,adl_item,r6dressa,r6dressa:w6 r any diff-dressing
+HRS,core,adl_item,r6eat,r6eat:w6 r diff-eating
+HRS,core,adl_item,r6eata,r6eata:w6 r any diff-eating
+HRS,core,adl_item,r6toilt,r6toilt:w6 r diff-using the toilet
+HRS,core,adl_item,r6toilta,r6toilta:w6 r any diff-using the toilet
+HRS,core,adl_item,r6walkr,r6walkr:w6 r diff-walk across room
+HRS,core,adl_item,r6walkra,r6walkra:w6 r any diff-walk across room
+HRS,core,adl_item,r7bath,r7bath:w7 r diff-bathing or showerng
+HRS,core,adl_item,r7batha,"r7batha:w7 r any diff-bathing, shower"
+HRS,core,adl_item,r7bed,r7bed:w7 r diff-get in/out of bed
+HRS,core,adl_item,r7beda,r7beda:w7 r any diff-get in/out bed
+HRS,core,adl_item,r7dress,r7dress:w7 r diff-dressing
+HRS,core,adl_item,r7dressa,r7dressa:w7 r any diff-dressing
+HRS,core,adl_item,r7eat,r7eat:w7 r diff-eating
+HRS,core,adl_item,r7eata,r7eata:w7 r any diff-eating
+HRS,core,adl_item,r7toilt,r7toilt:w7 r diff-using the toilet
+HRS,core,adl_item,r7toilta,r7toilta:w7 r any diff-using the toilet
+HRS,core,adl_item,r7walkr,r7walkr:w7 r diff-walk across room
+HRS,core,adl_item,r7walkra,r7walkra:w7 r any diff-walk across room
+HRS,core,adl_item,r8bath,r8bath:w8 r diff-bathing or showerng
+HRS,core,adl_item,r8batha,"r8batha:w8 r any diff-bathing, shower"
+HRS,core,adl_item,r8bed,r8bed:w8 r diff-get in/out of bed
+HRS,core,adl_item,r8beda,r8beda:w8 r any diff-get in/out bed
+HRS,core,adl_item,r8dress,r8dress:w8 r diff-dressing
+HRS,core,adl_item,r8dressa,r8dressa:w8 r any diff-dressing
+HRS,core,adl_item,r8eat,r8eat:w8 r diff-eating
+HRS,core,adl_item,r8eata,r8eata:w8 r any diff-eating
+HRS,core,adl_item,r8toilt,r8toilt:w8 r diff-using the toilet
+HRS,core,adl_item,r8toilta,r8toilta:w8 r any diff-using the toilet
+HRS,core,adl_item,r8walkr,r8walkr:w8 r diff-walk across room
+HRS,core,adl_item,r8walkra,r8walkra:w8 r any diff-walk across room
+HRS,core,adl_item,r9bath,r9bath:w9 r diff-bathing or showerng
+HRS,core,adl_item,r9batha,"r9batha:w9 r any diff-bathing, shower"
+HRS,core,adl_item,r9bed,r9bed:w9 r diff-get in/out of bed
+HRS,core,adl_item,r9beda,r9beda:w9 r any diff-get in/out bed
+HRS,core,adl_item,r9dress,r9dress:w9 r diff-dressing
+HRS,core,adl_item,r9dressa,r9dressa:w9 r any diff-dressing
+HRS,core,adl_item,r9eat,r9eat:w9 r diff-eating
+HRS,core,adl_item,r9eata,r9eata:w9 r any diff-eating
+HRS,core,adl_item,r9toilt,r9toilt:w9 r diff-using the toilet
+HRS,core,adl_item,r9toilta,r9toilta:w9 r any diff-using the toilet
+HRS,core,adl_item,r9walkr,r9walkr:w9 r diff-walk across room
+HRS,core,adl_item,r9walkra,r9walkra:w9 r any diff-walk across room
+HRS,core,age,r10agey_b,r10agey_b:w10 r age (years) at ivw begmon
+HRS,core,age,r11agey_b,r11agey_b:w11 r age (years) at ivw begmon
+HRS,core,age,r12agey_b,r12agey_b:w12 r age (years) at ivw begmon
+HRS,core,age,r13agey_b,r13agey_b:w13 r age (years) at ivw begmon
+HRS,core,age,r14agey_b,r14agey_b:w14 r age (years) at ivw begmon
+HRS,core,age,r15agey_b,r15agey_b:w15 r age (years) at ivw begmon
+HRS,core,age,r16agey_b,r16agey_b:w16 r age (years) at ivw begmon
+HRS,core,age,r1agey_b,r1agey_b:w1 r age (years) at ivw begmon
+HRS,core,age,r2agey_b,r2agey_b:w2 r age (years) at ivw begmon
+HRS,core,age,r3agey_b,r3agey_b:w3 r age (years) at ivw begmon
+HRS,core,age,r4agey_b,r4agey_b:w4 r age (years) at ivw begmon
+HRS,core,age,r5agey_b,r5agey_b:w5 r age (years) at ivw begmon
+HRS,core,age,r6agey_b,r6agey_b:w6 r age (years) at ivw begmon
+HRS,core,age,r7agey_b,r7agey_b:w7 r age (years) at ivw begmon
+HRS,core,age,r8agey_b,r8agey_b:w8 r age (years) at ivw begmon
+HRS,core,age,r9agey_b,r9agey_b:w9 r age (years) at ivw begmon
+HRS,core,death,r10dadage,r10dadage:w10 father age current/at death
+HRS,core,death,r10deptho,r10deptho:w10 r thoughts about death
+HRS,core,death,r10momage,r10momage:w10 mother age current/at death
+HRS,core,death,r10penic1,r10penic1:w10 pen #1 continue after death
+HRS,core,death,r10penic2,r10penic2:w10 pen #2 continue after death
+HRS,core,death,r11dadage,r11dadage:w11 father age current/at death
+HRS,core,death,r11deptho,r11deptho:w11 r thoughts about death
+HRS,core,death,r11momage,r11momage:w11 mother age current/at death
+HRS,core,death,r11penic1,r11penic1:w11 pen #1 continue after death
+HRS,core,death,r11penic2,r11penic2:w11 pen #2 continue after death
+HRS,core,death,r12dadage,r12dadage:w12 father age current/at death
+HRS,core,death,r12deptho,r12deptho:w12 r thoughts about death
+HRS,core,death,r12momage,r12momage:w12 mother age current/at death
+HRS,core,death,r12penic1,r12penic1:w12 pen #1 continue after death
+HRS,core,death,r12penic2,r12penic2:w12 pen #2 continue after death
+HRS,core,death,r13dadage,r13dadage:w13 father age current/at death
+HRS,core,death,r13deptho,r13deptho:w13 r thoughts about death
+HRS,core,death,r13momage,r13momage:w13 mother age current/at death
+HRS,core,death,r13penic1,r13penic1:w13 pen #1 continue after death
+HRS,core,death,r13penic2,r13penic2:w13 pen #2 continue after death
+HRS,core,death,r14dadage,r14dadage:w14 father age current/at death
+HRS,core,death,r14deptho,r14deptho:w14 r thoughts about death
+HRS,core,death,r14momage,r14momage:w14 mother age current/at death
+HRS,core,death,r14penic1,r14penic1:w14 pen #1 continue after death
+HRS,core,death,r14penic2,r14penic2:w14 pen #2 continue after death
+HRS,core,death,r15dadage,r15dadage:w15 father age current/at death
+HRS,core,death,r15deptho,r15deptho:w15 r thoughts about death
+HRS,core,death,r15momage,r15momage:w15 mother age current/at death
+HRS,core,death,r15penic1,r15penic1:w15 pen #1 continue after death
+HRS,core,death,r15penic2,r15penic2:w15 pen #2 continue after death
+HRS,core,death,r16dadage,r16dadage:w16 father age current/at death
+HRS,core,death,r16deptho,r16deptho:w16 r thoughts about death
+HRS,core,death,r16momage,r16momage:w16 mother age current/at death
+HRS,core,death,r16penic1,r16penic1:w16 pen #1 continue after death
+HRS,core,death,r16penic2,r16penic2:w16 pen #2 continue after death
+HRS,core,death,r1dadage,r1dadage:w1 father age current/at death
+HRS,core,death,r1momage,r1momage:w1 mother age current/at death
+HRS,core,death,r2dadage,r2dadage:w2 father age current/at death
+HRS,core,death,r2momage,r2momage:w2 mother age current/at death
+HRS,core,death,r2penic1,r2penic1:w2 pen #1 continue after death
+HRS,core,death,r2penic2,r2penic2:w2 pen #2 continue after death
+HRS,core,death,r3dadage,r3dadage:w3 father age current/at death
+HRS,core,death,r3deptho,r3deptho:w3 r thoughts about death
+HRS,core,death,r3momage,r3momage:w3 mother age current/at death
+HRS,core,death,r3penic1,r3penic1:w3 pen #1 continue after death
+HRS,core,death,r3penic2,r3penic2:w3 pen #2 continue after death
+HRS,core,death,r4dadage,r4dadage:w4 father age current/at death
+HRS,core,death,r4deptho,r4deptho:w4 r thoughts about death
+HRS,core,death,r4momage,r4momage:w4 mother age current/at death
+HRS,core,death,r4penic1,r4penic1:w4 pen #1 continue after death
+HRS,core,death,r4penic2,r4penic2:w4 pen #2 continue after death
+HRS,core,death,r5dadage,r5dadage:w5 father age current/at death
+HRS,core,death,r5deptho,r5deptho:w5 r thoughts about death
+HRS,core,death,r5momage,r5momage:w5 mother age current/at death
+HRS,core,death,r5penic1,r5penic1:w5 pen #1 continue after death
+HRS,core,death,r5penic2,r5penic2:w5 pen #2 continue after death
+HRS,core,death,r6dadage,r6dadage:w6 father age current/at death
+HRS,core,death,r6deptho,r6deptho:w6 r thoughts about death
+HRS,core,death,r6momage,r6momage:w6 mother age current/at death
+HRS,core,death,r6penic1,r6penic1:w6 pen #1 continue after death
+HRS,core,death,r6penic2,r6penic2:w6 pen #2 continue after death
+HRS,core,death,r7dadage,r7dadage:w7 father age current/at death
+HRS,core,death,r7deptho,r7deptho:w7 r thoughts about death
+HRS,core,death,r7momage,r7momage:w7 mother age current/at death
+HRS,core,death,r7penic1,r7penic1:w7 pen #1 continue after death
+HRS,core,death,r7penic2,r7penic2:w7 pen #2 continue after death
+HRS,core,death,r8dadage,r8dadage:w8 father age current/at death
+HRS,core,death,r8deptho,r8deptho:w8 r thoughts about death
+HRS,core,death,r8momage,r8momage:w8 mother age current/at death
+HRS,core,death,r8penic1,r8penic1:w8 pen #1 continue after death
+HRS,core,death,r8penic2,r8penic2:w8 pen #2 continue after death
+HRS,core,death,r9dadage,r9dadage:w9 father age current/at death
+HRS,core,death,r9deptho,r9deptho:w9 r thoughts about death
+HRS,core,death,r9momage,r9momage:w9 mother age current/at death
+HRS,core,death,r9penic1,r9penic1:w9 pen #1 continue after death
+HRS,core,death,r9penic2,r9penic2:w9 pen #2 continue after death
+HRS,core,death,radage_m,radage_m: age at death in months
+HRS,core,death,radage_y,radage_y: age at death in years
+HRS,core,death,raddate,raddate: r death date
+HRS,core,death,radmonth,radmonth: r death month
+HRS,core,death,radsrc,radsrc: r death date source
+HRS,core,death,radtimtdth,radtimtdth: number of months from last core interview to death date
+HRS,core,death,radyear,radyear: r death year
+HRS,core,death,rebedrid,rebedrid:exit bedridden around time of death
+HRS,core,death,recendiv,"recendiv:exit census division, place of death"
+HRS,core,death,recenreg,"recenreg:exit census region, place of death"
+HRS,core,death,regovmdd,regovmdd:exit r had medicaid at death
+HRS,core,death,rehosp,rehosp:exit overnight hospital stay since prvivw before death
+HRS,core,death,rehspnit,rehspnit:exit # hospital nights since prvivw before death
+HRS,core,death,rehsptim,rehsptim:exit # hospital stays since prvivw before death
+HRS,core,death,renhmday,renhmday:exit days in nh from move/prvivw before death
+HRS,core,death,renhmliv,renhmliv:exit lived in nh at time of death
+HRS,core,death,repldeath,repldeath:exit place of death
+HRS,core,death,reprmem,reprmem:exit rate r memory 1 month prior to death
+HRS,core,death,ret2death,ret2death:exit time from start of final illness to death
+HRS,core,death,rexpdeath,rexpdeath:exit death expected?
+HRS,core,death,s10dadage,s10dadage:w10 father age current/at death
+HRS,core,death,s10dage_m,s10dage_m: age at death in months
+HRS,core,death,s10dage_y,s10dage_y: age at death in years
+HRS,core,death,s10ddate,s10ddate: s death date
+HRS,core,death,s10deptho,s10deptho:w10 s thoughts about death
+HRS,core,death,s10dmonth,s10dmonth: s death month
+HRS,core,death,s10dsrc,s10dsrc: s death date source
+HRS,core,death,s10dtimtdth,s10dtimtdth: number of months from last core interview to death date
+HRS,core,death,s10dyear,s10dyear: s death year
+HRS,core,death,s10momage,s10momage:w10 mother age current/at death
+HRS,core,death,s10penic1,s10penic1:w10 pen #1 continue after death
+HRS,core,death,s10penic2,s10penic2:w10 pen #2 continue after death
+HRS,core,death,s11dadage,s11dadage:w11 father age current/at death
+HRS,core,death,s11dage_m,s11dage_m: age at death in months
+HRS,core,death,s11dage_y,s11dage_y: age at death in years
+HRS,core,death,s11ddate,s11ddate: s death date
+HRS,core,death,s11deptho,s11deptho:w11 s thoughts about death
+HRS,core,death,s11dmonth,s11dmonth: s death month
+HRS,core,death,s11dsrc,s11dsrc: s death date source
+HRS,core,death,s11dtimtdth,s11dtimtdth: number of months from last core interview to death date
+HRS,core,death,s11dyear,s11dyear: s death year
+HRS,core,death,s11momage,s11momage:w11 mother age current/at death
+HRS,core,death,s11penic1,s11penic1:w11 pen #1 continue after death
+HRS,core,death,s11penic2,s11penic2:w11 pen #2 continue after death
+HRS,core,death,s12dadage,s12dadage:w12 father age current/at death
+HRS,core,death,s12dage_m,s12dage_m: age at death in months
+HRS,core,death,s12dage_y,s12dage_y: age at death in years
+HRS,core,death,s12ddate,s12ddate: s death date
+HRS,core,death,s12deptho,s12deptho:w12 s thoughts about death
+HRS,core,death,s12dmonth,s12dmonth: s death month
+HRS,core,death,s12dsrc,s12dsrc: s death date source
+HRS,core,death,s12dtimtdth,s12dtimtdth: number of months from last core interview to death date
+HRS,core,death,s12dyear,s12dyear: s death year
+HRS,core,death,s12momage,s12momage:w12 mother age current/at death
+HRS,core,death,s12penic1,s12penic1:w12 pen #1 continue after death
+HRS,core,death,s12penic2,s12penic2:w12 pen #2 continue after death
+HRS,core,death,s13dadage,s13dadage:w13 father age current/at death
+HRS,core,death,s13dage_m,s13dage_m: age at death in months
+HRS,core,death,s13dage_y,s13dage_y: age at death in years
+HRS,core,death,s13ddate,s13ddate: s death date
+HRS,core,death,s13deptho,s13deptho:w13 s thoughts about death
+HRS,core,death,s13dmonth,s13dmonth: s death month
+HRS,core,death,s13dsrc,s13dsrc: s death date source
+HRS,core,death,s13dtimtdth,s13dtimtdth: number of months from last core interview to death date
+HRS,core,death,s13dyear,s13dyear: s death year
+HRS,core,death,s13momage,s13momage:w13 mother age current/at death
+HRS,core,death,s13penic1,s13penic1:w13 pen #1 continue after death
+HRS,core,death,s13penic2,s13penic2:w13 pen #2 continue after death
+HRS,core,death,s14dadage,s14dadage:w14 father age current/at death
+HRS,core,death,s14dage_m,s14dage_m: age at death in months
+HRS,core,death,s14dage_y,s14dage_y: age at death in years
+HRS,core,death,s14ddate,s14ddate: s death date
+HRS,core,death,s14deptho,s14deptho:w14 s thoughts about death
+HRS,core,death,s14dmonth,s14dmonth: s death month
+HRS,core,death,s14dsrc,s14dsrc: s death date source
+HRS,core,death,s14dtimtdth,s14dtimtdth: number of months from last core interview to death date
+HRS,core,death,s14dyear,s14dyear: s death year
+HRS,core,death,s14momage,s14momage:w14 mother age current/at death
+HRS,core,death,s14penic1,s14penic1:w14 pen #1 continue after death
+HRS,core,death,s14penic2,s14penic2:w14 pen #2 continue after death
+HRS,core,death,s15dadage,s15dadage:w15 father age current/at death
+HRS,core,death,s15dage_m,s15dage_m: age at death in months
+HRS,core,death,s15dage_y,s15dage_y: age at death in years
+HRS,core,death,s15ddate,s15ddate: s death date
+HRS,core,death,s15deptho,s15deptho:w15 s thoughts about death
+HRS,core,death,s15dmonth,s15dmonth: s death month
+HRS,core,death,s15dsrc,s15dsrc: s death date source
+HRS,core,death,s15dtimtdth,s15dtimtdth: number of months from last core interview to death date
+HRS,core,death,s15dyear,s15dyear: s death year
+HRS,core,death,s15momage,s15momage:w15 mother age current/at death
+HRS,core,death,s15penic1,s15penic1:w15 pen #1 continue after death
+HRS,core,death,s15penic2,s15penic2:w15 pen #2 continue after death
+HRS,core,death,s16dadage,s16dadage:w16 father age current/at death
+HRS,core,death,s16dage_m,s16dage_m: age at death in months
+HRS,core,death,s16dage_y,s16dage_y: age at death in years
+HRS,core,death,s16ddate,s16ddate: s death date
+HRS,core,death,s16deptho,s16deptho:w16 s thoughts about death
+HRS,core,death,s16dmonth,s16dmonth: s death month
+HRS,core,death,s16dsrc,s16dsrc: s death date source
+HRS,core,death,s16dtimtdth,s16dtimtdth: number of months from last core interview to death date
+HRS,core,death,s16dyear,s16dyear: s death year
+HRS,core,death,s16momage,s16momage:w16 mother age current/at death
+HRS,core,death,s16penic1,s16penic1:w16 pen #1 continue after death
+HRS,core,death,s16penic2,s16penic2:w16 pen #2 continue after death
+HRS,core,death,s1dadage,s1dadage:w1 father age current/at death
+HRS,core,death,s1dage_m,s1dage_m: age at death in months
+HRS,core,death,s1dage_y,s1dage_y: age at death in years
+HRS,core,death,s1ddate,s1ddate: s death date
+HRS,core,death,s1dmonth,s1dmonth: s death month
+HRS,core,death,s1dsrc,s1dsrc: s death date source
+HRS,core,death,s1dtimtdth,s1dtimtdth: number of months from last core interview to death date
+HRS,core,death,s1dyear,s1dyear: s death year
+HRS,core,death,s1momage,s1momage:w1 mother age current/at death
+HRS,core,death,s2dadage,s2dadage:w2 father age current/at death
+HRS,core,death,s2dage_m,s2dage_m: age at death in months
+HRS,core,death,s2dage_y,s2dage_y: age at death in years
+HRS,core,death,s2ddate,s2ddate: s death date
+HRS,core,death,s2dmonth,s2dmonth: s death month
+HRS,core,death,s2dsrc,s2dsrc: s death date source
+HRS,core,death,s2dtimtdth,s2dtimtdth: number of months from last core interview to death date
+HRS,core,death,s2dyear,s2dyear: s death year
+HRS,core,death,s2momage,s2momage:w2 mother age current/at death
+HRS,core,death,s2penic1,s2penic1:w2 pen #1 continue after death
+HRS,core,death,s2penic2,s2penic2:w2 pen #2 continue after death
+HRS,core,death,s3dadage,s3dadage:w3 father age current/at death
+HRS,core,death,s3dage_m,s3dage_m: age at death in months
+HRS,core,death,s3dage_y,s3dage_y: age at death in years
+HRS,core,death,s3ddate,s3ddate: s death date
+HRS,core,death,s3deptho,s3deptho:w3 s thoughts about death
+HRS,core,death,s3dmonth,s3dmonth: s death month
+HRS,core,death,s3dsrc,s3dsrc: s death date source
+HRS,core,death,s3dtimtdth,s3dtimtdth: number of months from last core interview to death date
+HRS,core,death,s3dyear,s3dyear: s death year
+HRS,core,death,s3momage,s3momage:w3 mother age current/at death
+HRS,core,death,s3penic1,s3penic1:w3 pen #1 continue after death
+HRS,core,death,s3penic2,s3penic2:w3 pen #2 continue after death
+HRS,core,death,s4dadage,s4dadage:w4 father age current/at death
+HRS,core,death,s4dage_m,s4dage_m: age at death in months
+HRS,core,death,s4dage_y,s4dage_y: age at death in years
+HRS,core,death,s4ddate,s4ddate: s death date
+HRS,core,death,s4deptho,s4deptho:w4 s thoughts about death
+HRS,core,death,s4dmonth,s4dmonth: s death month
+HRS,core,death,s4dsrc,s4dsrc: s death date source
+HRS,core,death,s4dtimtdth,s4dtimtdth: number of months from last core interview to death date
+HRS,core,death,s4dyear,s4dyear: s death year
+HRS,core,death,s4momage,s4momage:w4 mother age current/at death
+HRS,core,death,s4penic1,s4penic1:w4 pen #1 continue after death
+HRS,core,death,s4penic2,s4penic2:w4 pen #2 continue after death
+HRS,core,death,s5dadage,s5dadage:w5 father age current/at death
+HRS,core,death,s5dage_m,s5dage_m: age at death in months
+HRS,core,death,s5dage_y,s5dage_y: age at death in years
+HRS,core,death,s5ddate,s5ddate: s death date
+HRS,core,death,s5deptho,s5deptho:w5 s thoughts about death
+HRS,core,death,s5dmonth,s5dmonth: s death month
+HRS,core,death,s5dsrc,s5dsrc: s death date source
+HRS,core,death,s5dtimtdth,s5dtimtdth: number of months from last core interview to death date
+HRS,core,death,s5dyear,s5dyear: s death year
+HRS,core,death,s5momage,s5momage:w5 mother age current/at death
+HRS,core,death,s5penic1,s5penic1:w5 pen #1 continue after death
+HRS,core,death,s5penic2,s5penic2:w5 pen #2 continue after death
+HRS,core,death,s6dadage,s6dadage:w6 father age current/at death
+HRS,core,death,s6dage_m,s6dage_m: age at death in months
+HRS,core,death,s6dage_y,s6dage_y: age at death in years
+HRS,core,death,s6ddate,s6ddate: s death date
+HRS,core,death,s6deptho,s6deptho:w6 s thoughts about death
+HRS,core,death,s6dmonth,s6dmonth: s death month
+HRS,core,death,s6dsrc,s6dsrc: s death date source
+HRS,core,death,s6dtimtdth,s6dtimtdth: number of months from last core interview to death date
+HRS,core,death,s6dyear,s6dyear: s death year
+HRS,core,death,s6momage,s6momage:w6 mother age current/at death
+HRS,core,death,s6penic1,s6penic1:w6 pen #1 continue after death
+HRS,core,death,s6penic2,s6penic2:w6 pen #2 continue after death
+HRS,core,death,s7dadage,s7dadage:w7 father age current/at death
+HRS,core,death,s7dage_m,s7dage_m: age at death in months
+HRS,core,death,s7dage_y,s7dage_y: age at death in years
+HRS,core,death,s7ddate,s7ddate: s death date
+HRS,core,death,s7deptho,s7deptho:w7 s thoughts about death
+HRS,core,death,s7dmonth,s7dmonth: s death month
+HRS,core,death,s7dsrc,s7dsrc: s death date source
+HRS,core,death,s7dtimtdth,s7dtimtdth: number of months from last core interview to death date
+HRS,core,death,s7dyear,s7dyear: s death year
+HRS,core,death,s7momage,s7momage:w7 mother age current/at death
+HRS,core,death,s7penic1,s7penic1:w7 pen #1 continue after death
+HRS,core,death,s7penic2,s7penic2:w7 pen #2 continue after death
+HRS,core,death,s8dadage,s8dadage:w8 father age current/at death
+HRS,core,death,s8dage_m,s8dage_m: age at death in months
+HRS,core,death,s8dage_y,s8dage_y: age at death in years
+HRS,core,death,s8ddate,s8ddate: s death date
+HRS,core,death,s8deptho,s8deptho:w8 s thoughts about death
+HRS,core,death,s8dmonth,s8dmonth: s death month
+HRS,core,death,s8dsrc,s8dsrc: s death date source
+HRS,core,death,s8dtimtdth,s8dtimtdth: number of months from last core interview to death date
+HRS,core,death,s8dyear,s8dyear: s death year
+HRS,core,death,s8momage,s8momage:w8 mother age current/at death
+HRS,core,death,s8penic1,s8penic1:w8 pen #1 continue after death
+HRS,core,death,s8penic2,s8penic2:w8 pen #2 continue after death
+HRS,core,death,s9dadage,s9dadage:w9 father age current/at death
+HRS,core,death,s9dage_m,s9dage_m: age at death in months
+HRS,core,death,s9dage_y,s9dage_y: age at death in years
+HRS,core,death,s9ddate,s9ddate: s death date
+HRS,core,death,s9deptho,s9deptho:w9 s thoughts about death
+HRS,core,death,s9dmonth,s9dmonth: s death month
+HRS,core,death,s9dsrc,s9dsrc: s death date source
+HRS,core,death,s9dtimtdth,s9dtimtdth: number of months from last core interview to death date
+HRS,core,death,s9dyear,s9dyear: s death year
+HRS,core,death,s9momage,s9momage:w9 mother age current/at death
+HRS,core,death,s9penic1,s9penic1:w9 pen #1 continue after death
+HRS,core,death,s9penic2,s9penic2:w9 pen #2 continue after death
+HRS,core,education,raeduc,raeduc: r education (categ)
+HRS,core,education,raedyrs,raedyrs: r years of education
+HRS,core,education,s10edyrs,s10edyrs: s years of education
+HRS,core,education,s11edyrs,s11edyrs: s years of education
+HRS,core,education,s12edyrs,s12edyrs: s years of education
+HRS,core,education,s13edyrs,s13edyrs: s years of education
+HRS,core,education,s14edyrs,s14edyrs: s years of education
+HRS,core,education,s15edyrs,s15edyrs: s years of education
+HRS,core,education,s16edyrs,s16edyrs: s years of education
+HRS,core,education,s1edyrs,s1edyrs: s years of education
+HRS,core,education,s2edyrs,s2edyrs: s years of education
+HRS,core,education,s3edyrs,s3edyrs: s years of education
+HRS,core,education,s4edyrs,s4edyrs: s years of education
+HRS,core,education,s5edyrs,s5edyrs: s years of education
+HRS,core,education,s6edyrs,s6edyrs: s years of education
+HRS,core,education,s7edyrs,s7edyrs: s years of education
+HRS,core,education,s8edyrs,s8edyrs: s years of education
+HRS,core,education,s9edyrs,s9edyrs: s years of education
+HRS,core,household_size,h10hhres,h10hhres:w10 number of people in hh
+HRS,core,household_size,h11hhres,h11hhres:w11 number of people in hh
+HRS,core,household_size,h12hhres,h12hhres:w12 number of people in hh
+HRS,core,household_size,h13hhres,h13hhres:w13 number of people in hh
+HRS,core,household_size,h14hhres,h14hhres:w14 number of people in hh
+HRS,core,household_size,h15hhres,h15hhres:w15 number of people in hh
+HRS,core,household_size,h16hhres,h16hhres:w16 number of people in hh
+HRS,core,household_size,h1hhres,h1hhres:w1 number of people in hh
+HRS,core,household_size,h2hhres,h2hhres:w2 number of people in hh
+HRS,core,household_size,h3hhres,h3hhres:w3 number of people in hh
+HRS,core,household_size,h4hhres,h4hhres:w4 number of people in hh
+HRS,core,household_size,h5hhres,h5hhres:w5 number of people in hh
+HRS,core,household_size,h6hhres,h6hhres:w6 number of people in hh
+HRS,core,household_size,h7hhres,h7hhres:w7 number of people in hh
+HRS,core,household_size,h8hhres,h8hhres:w8 number of people in hh
+HRS,core,household_size,h9hhres,h9hhres:w9 number of people in hh
+HRS,core,household_wealth,h10atotb,h10atotb:w10 total of all assets--cross-wave
+HRS,core,household_wealth,h10atotw,h10atotw:w10 total wealth less ira--cross-wave
+HRS,core,household_wealth,h11atotb,h11atotb:w11 total of all assets--cross-wave
+HRS,core,household_wealth,h11atotw,h11atotw:w11 total wealth less ira--cross-wave
+HRS,core,household_wealth,h12atotb,h12atotb:w12 total of all assets--cross-wave
+HRS,core,household_wealth,h12atotw,h12atotw:w12 total wealth less ira--cross-wave
+HRS,core,household_wealth,h13atotb,h13atotb:w13 total of all assets--cross-wave
+HRS,core,household_wealth,h13atotw,h13atotw:w13 total wealth less ira--cross-wave
+HRS,core,household_wealth,h14atotb,h14atotb:w14 total of all assets--cross-wave
+HRS,core,household_wealth,h14atotw,h14atotw:w14 total wealth less ira--cross-wave
+HRS,core,household_wealth,h15atotb,h15atotb:w15 total of all assets--cross-wave
+HRS,core,household_wealth,h15atotw,h15atotw:w15 total wealth less ira--cross-wave
+HRS,core,household_wealth,h16atotb,h16atotb:w16 total of all assets--cross-wave
+HRS,core,household_wealth,h16atotw,h16atotw:w16 total wealth less ira--cross-wave
+HRS,core,household_wealth,h1atotb,h1atotb:w1 total of all assets--cross-wave
+HRS,core,household_wealth,h1atotw,h1atotw:w1 total wealth less ira--cross-wave
+HRS,core,household_wealth,h2atotb,h2atotb:w2 total of all assets--cross-wave
+HRS,core,household_wealth,h2atotw,h2atotw:w2 total wealth less ira--cross-wave
+HRS,core,household_wealth,h3atotb,h3atotb:w3 total of all assets--cross-wave
+HRS,core,household_wealth,h3atotw,h3atotw:w3 total wealth less ira--cross-wave
+HRS,core,household_wealth,h4atotb,h4atotb:w4 total of all assets--cross-wave
+HRS,core,household_wealth,h4atotw,h4atotw:w4 total wealth less ira--cross-wave
+HRS,core,household_wealth,h5atotb,h5atotb:w5 total of all assets--cross-wave
+HRS,core,household_wealth,h5atotw,h5atotw:w5 total wealth less ira--cross-wave
+HRS,core,household_wealth,h6atotb,h6atotb:w6 total of all assets--cross-wave
+HRS,core,household_wealth,h6atotw,h6atotw:w6 total wealth less ira--cross-wave
+HRS,core,household_wealth,h7atotb,h7atotb:w7 total of all assets--cross-wave
+HRS,core,household_wealth,h7atotw,h7atotw:w7 total wealth less ira--cross-wave
+HRS,core,household_wealth,h8atotb,h8atotb:w8 total of all assets--cross-wave
+HRS,core,household_wealth,h8atotw,h8atotw:w8 total wealth less ira--cross-wave
+HRS,core,household_wealth,h9atotb,h9atotb:w9 total of all assets--cross-wave
+HRS,core,household_wealth,h9atotw,h9atotw:w9 total wealth less ira--cross-wave
+HRS,core,iadl_count,r10iadl5a,r10iadl5a:w10 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r11iadl5a,r11iadl5a:w11 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r12iadl5a,r12iadl5a:w12 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r13iadl5a,r13iadl5a:w13 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r14iadl5a,r14iadl5a:w14 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r15iadl5a,r15iadl5a:w15 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r16iadl5a,r16iadl5a:w16 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r2iadl5a,r2iadl5a:w2 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r3iadl5a,r3iadl5a:w3 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r4iadl5a,r4iadl5a:w4 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r5iadl5a,r5iadl5a:w5 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r6iadl5a,r6iadl5a:w6 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r7iadl5a,r7iadl5a:w7 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r8iadl5a,r8iadl5a:w8 any diff-sum of iadls /0-5
+HRS,core,iadl_count,r9iadl5a,r9iadl5a:w9 any diff-sum of iadls /0-5
+HRS,core,iadl_item,r10meals,r10meals:w10 r diff-preparing hot meals
+HRS,core,iadl_item,r10mealsa,r10mealsa:w10 r any diff-prepare hot meal
+HRS,core,iadl_item,r10meds,r10meds:w10 r diff-take medications
+HRS,core,iadl_item,r10medsa,r10medsa:w10 r any diff-take medications
+HRS,core,iadl_item,r10money,r10money:w10 r diff-managing money
+HRS,core,iadl_item,r10moneya,r10moneya:w10 r any diff-managing money
+HRS,core,iadl_item,r10phone,r10phone:w10 r diff-use telephone
+HRS,core,iadl_item,r10phonea,r10phonea:w10 r any diff-use telephone
+HRS,core,iadl_item,r10shop,r10shop:w10 r diff-shop for groceries
+HRS,core,iadl_item,r10shopa,r10shopa:w10 r any diff-shop for grocery
+HRS,core,iadl_item,r11meals,r11meals:w11 r diff-preparing hot meals
+HRS,core,iadl_item,r11mealsa,r11mealsa:w11 r any diff-prepare hot meal
+HRS,core,iadl_item,r11meds,r11meds:w11 r diff-take medications
+HRS,core,iadl_item,r11medsa,r11medsa:w11 r any diff-take medications
+HRS,core,iadl_item,r11money,r11money:w11 r diff-managing money
+HRS,core,iadl_item,r11moneya,r11moneya:w11 r any diff-managing money
+HRS,core,iadl_item,r11phone,r11phone:w11 r diff-use telephone
+HRS,core,iadl_item,r11phonea,r11phonea:w11 r any diff-use telephone
+HRS,core,iadl_item,r11shop,r11shop:w11 r diff-shop for groceries
+HRS,core,iadl_item,r11shopa,r11shopa:w11 r any diff-shop for grocery
+HRS,core,iadl_item,r12meals,r12meals:w12 r diff-preparing hot meals
+HRS,core,iadl_item,r12mealsa,r12mealsa:w12 r any diff-prepare hot meal
+HRS,core,iadl_item,r12meds,r12meds:w12 r diff-take medications
+HRS,core,iadl_item,r12medsa,r12medsa:w12 r any diff-take medications
+HRS,core,iadl_item,r12money,r12money:w12 r diff-managing money
+HRS,core,iadl_item,r12moneya,r12moneya:w12 r any diff-managing money
+HRS,core,iadl_item,r12phone,r12phone:w12 r diff-use telephone
+HRS,core,iadl_item,r12phonea,r12phonea:w12 r any diff-use telephone
+HRS,core,iadl_item,r12shop,r12shop:w12 r diff-shop for groceries
+HRS,core,iadl_item,r12shopa,r12shopa:w12 r any diff-shop for grocery
+HRS,core,iadl_item,r13meals,r13meals:w13 r diff-preparing hot meals
+HRS,core,iadl_item,r13mealsa,r13mealsa:w13 r any diff-prepare hot meal
+HRS,core,iadl_item,r13meds,r13meds:w13 r diff-take medications
+HRS,core,iadl_item,r13medsa,r13medsa:w13 r any diff-take medications
+HRS,core,iadl_item,r13money,r13money:w13 r diff-managing money
+HRS,core,iadl_item,r13moneya,r13moneya:w13 r any diff-managing money
+HRS,core,iadl_item,r13phone,r13phone:w13 r diff-use telephone
+HRS,core,iadl_item,r13phonea,r13phonea:w13 r any diff-use telephone
+HRS,core,iadl_item,r13shop,r13shop:w13 r diff-shop for groceries
+HRS,core,iadl_item,r13shopa,r13shopa:w13 r any diff-shop for grocery
+HRS,core,iadl_item,r14meals,r14meals:w14 r diff-preparing hot meals
+HRS,core,iadl_item,r14mealsa,r14mealsa:w14 r any diff-prepare hot meal
+HRS,core,iadl_item,r14meds,r14meds:w14 r diff-take medications
+HRS,core,iadl_item,r14medsa,r14medsa:w14 r any diff-take medications
+HRS,core,iadl_item,r14money,r14money:w14 r diff-managing money
+HRS,core,iadl_item,r14moneya,r14moneya:w14 r any diff-managing money
+HRS,core,iadl_item,r14phone,r14phone:w14 r diff-use telephone
+HRS,core,iadl_item,r14phonea,r14phonea:w14 r any diff-use telephone
+HRS,core,iadl_item,r14shop,r14shop:w14 r diff-shop for groceries
+HRS,core,iadl_item,r14shopa,r14shopa:w14 r any diff-shop for grocery
+HRS,core,iadl_item,r15meals,r15meals:w15 r diff-preparing hot meals
+HRS,core,iadl_item,r15mealsa,r15mealsa:w15 r any diff-prepare hot meal
+HRS,core,iadl_item,r15meds,r15meds:w15 r diff-take medications
+HRS,core,iadl_item,r15medsa,r15medsa:w15 r any diff-take medications
+HRS,core,iadl_item,r15money,r15money:w15 r diff-managing money
+HRS,core,iadl_item,r15moneya,r15moneya:w15 r any diff-managing money
+HRS,core,iadl_item,r15phone,r15phone:w15 r diff-use telephone
+HRS,core,iadl_item,r15phonea,r15phonea:w15 r any diff-use telephone
+HRS,core,iadl_item,r15shop,r15shop:w15 r diff-shop for groceries
+HRS,core,iadl_item,r15shopa,r15shopa:w15 r any diff-shop for grocery
+HRS,core,iadl_item,r16meals,r16meals:w16 r diff-preparing hot meals
+HRS,core,iadl_item,r16mealsa,r16mealsa:w16 r any diff-prepare hot meal
+HRS,core,iadl_item,r16meds,r16meds:w16 r diff-take medications
+HRS,core,iadl_item,r16medsa,r16medsa:w16 r any diff-take medications
+HRS,core,iadl_item,r16money,r16money:w16 r diff-managing money
+HRS,core,iadl_item,r16moneya,r16moneya:w16 r any diff-managing money
+HRS,core,iadl_item,r16phone,r16phone:w16 r diff-use telephone
+HRS,core,iadl_item,r16phonea,r16phonea:w16 r any diff-use telephone
+HRS,core,iadl_item,r16shop,r16shop:w16 r diff-shop for groceries
+HRS,core,iadl_item,r16shopa,r16shopa:w16 r any diff-shop for grocery
+HRS,core,iadl_item,r2mealsa,r2mealsa:w2 r any diff-prepare hot meal
+HRS,core,iadl_item,r2meds,r2meds:w2 r diff-take medications
+HRS,core,iadl_item,r2medsa,r2medsa:w2 r any diff-take medications
+HRS,core,iadl_item,r2money,r2money:w2 r diff-managing money
+HRS,core,iadl_item,r2moneya,r2moneya:w2 r any diff-managing money
+HRS,core,iadl_item,r2phone,r2phone:w2 r diff-use telephone
+HRS,core,iadl_item,r2phonea,r2phonea:w2 r any diff-use telephone
+HRS,core,iadl_item,r2shopa,r2shopa:w2 r any diff-shop for grocery
+HRS,core,iadl_item,r3meals,r3meals:w3 r diff-preparing hot meals
+HRS,core,iadl_item,r3mealsa,r3mealsa:w3 r any diff-prepare hot meal
+HRS,core,iadl_item,r3meds,r3meds:w3 r diff-take medications
+HRS,core,iadl_item,r3medsa,r3medsa:w3 r any diff-take medications
+HRS,core,iadl_item,r3money,r3money:w3 r diff-managing money
+HRS,core,iadl_item,r3moneya,r3moneya:w3 r any diff-managing money
+HRS,core,iadl_item,r3phone,r3phone:w3 r diff-use telephone
+HRS,core,iadl_item,r3phonea,r3phonea:w3 r any diff-use telephone
+HRS,core,iadl_item,r3shop,r3shop:w3 r diff-shop for groceries
+HRS,core,iadl_item,r3shopa,r3shopa:w3 r any diff-shop for grocery
+HRS,core,iadl_item,r4meals,r4meals:w4 r diff-preparing hot meals
+HRS,core,iadl_item,r4mealsa,r4mealsa:w4 r any diff-prepare hot meal
+HRS,core,iadl_item,r4meds,r4meds:w4 r diff-take medications
+HRS,core,iadl_item,r4medsa,r4medsa:w4 r any diff-take medications
+HRS,core,iadl_item,r4money,r4money:w4 r diff-managing money
+HRS,core,iadl_item,r4moneya,r4moneya:w4 r any diff-managing money
+HRS,core,iadl_item,r4phone,r4phone:w4 r diff-use telephone
+HRS,core,iadl_item,r4phonea,r4phonea:w4 r any diff-use telephone
+HRS,core,iadl_item,r4shop,r4shop:w4 r diff-shop for groceries
+HRS,core,iadl_item,r4shopa,r4shopa:w4 r any diff-shop for grocery
+HRS,core,iadl_item,r5meals,r5meals:w5 r diff-preparing hot meals
+HRS,core,iadl_item,r5mealsa,r5mealsa:w5 r any diff-prepare hot meal
+HRS,core,iadl_item,r5meds,r5meds:w5 r diff-take medications
+HRS,core,iadl_item,r5medsa,r5medsa:w5 r any diff-take medications
+HRS,core,iadl_item,r5money,r5money:w5 r diff-managing money
+HRS,core,iadl_item,r5moneya,r5moneya:w5 r any diff-managing money
+HRS,core,iadl_item,r5phone,r5phone:w5 r diff-use telephone
+HRS,core,iadl_item,r5phonea,r5phonea:w5 r any diff-use telephone
+HRS,core,iadl_item,r5shop,r5shop:w5 r diff-shop for groceries
+HRS,core,iadl_item,r5shopa,r5shopa:w5 r any diff-shop for grocery
+HRS,core,iadl_item,r6meals,r6meals:w6 r diff-preparing hot meals
+HRS,core,iadl_item,r6mealsa,r6mealsa:w6 r any diff-prepare hot meal
+HRS,core,iadl_item,r6meds,r6meds:w6 r diff-take medications
+HRS,core,iadl_item,r6medsa,r6medsa:w6 r any diff-take medications
+HRS,core,iadl_item,r6money,r6money:w6 r diff-managing money
+HRS,core,iadl_item,r6moneya,r6moneya:w6 r any diff-managing money
+HRS,core,iadl_item,r6phone,r6phone:w6 r diff-use telephone
+HRS,core,iadl_item,r6phonea,r6phonea:w6 r any diff-use telephone
+HRS,core,iadl_item,r6shop,r6shop:w6 r diff-shop for groceries
+HRS,core,iadl_item,r6shopa,r6shopa:w6 r any diff-shop for grocery
+HRS,core,iadl_item,r7meals,r7meals:w7 r diff-preparing hot meals
+HRS,core,iadl_item,r7mealsa,r7mealsa:w7 r any diff-prepare hot meal
+HRS,core,iadl_item,r7meds,r7meds:w7 r diff-take medications
+HRS,core,iadl_item,r7medsa,r7medsa:w7 r any diff-take medications
+HRS,core,iadl_item,r7money,r7money:w7 r diff-managing money
+HRS,core,iadl_item,r7moneya,r7moneya:w7 r any diff-managing money
+HRS,core,iadl_item,r7phone,r7phone:w7 r diff-use telephone
+HRS,core,iadl_item,r7phonea,r7phonea:w7 r any diff-use telephone
+HRS,core,iadl_item,r7shop,r7shop:w7 r diff-shop for groceries
+HRS,core,iadl_item,r7shopa,r7shopa:w7 r any diff-shop for grocery
+HRS,core,iadl_item,r8meals,r8meals:w8 r diff-preparing hot meals
+HRS,core,iadl_item,r8mealsa,r8mealsa:w8 r any diff-prepare hot meal
+HRS,core,iadl_item,r8meds,r8meds:w8 r diff-take medications
+HRS,core,iadl_item,r8medsa,r8medsa:w8 r any diff-take medications
+HRS,core,iadl_item,r8money,r8money:w8 r diff-managing money
+HRS,core,iadl_item,r8moneya,r8moneya:w8 r any diff-managing money
+HRS,core,iadl_item,r8phone,r8phone:w8 r diff-use telephone
+HRS,core,iadl_item,r8phonea,r8phonea:w8 r any diff-use telephone
+HRS,core,iadl_item,r8shop,r8shop:w8 r diff-shop for groceries
+HRS,core,iadl_item,r8shopa,r8shopa:w8 r any diff-shop for grocery
+HRS,core,iadl_item,r9meals,r9meals:w9 r diff-preparing hot meals
+HRS,core,iadl_item,r9mealsa,r9mealsa:w9 r any diff-prepare hot meal
+HRS,core,iadl_item,r9meds,r9meds:w9 r diff-take medications
+HRS,core,iadl_item,r9medsa,r9medsa:w9 r any diff-take medications
+HRS,core,iadl_item,r9money,r9money:w9 r diff-managing money
+HRS,core,iadl_item,r9moneya,r9moneya:w9 r any diff-managing money
+HRS,core,iadl_item,r9phone,r9phone:w9 r diff-use telephone
+HRS,core,iadl_item,r9phonea,r9phonea:w9 r any diff-use telephone
+HRS,core,iadl_item,r9shop,r9shop:w9 r diff-shop for groceries
+HRS,core,iadl_item,r9shopa,r9shopa:w9 r any diff-shop for grocery
+HRS,core,in_wave,inw1,inw1: =1 if respondent w1
+HRS,core,in_wave,inw10,inw10: =1 if respondent w10
+HRS,core,in_wave,inw11,inw11: =1 if respondent w11
+HRS,core,in_wave,inw12,inw12: =1 if respondent w12
+HRS,core,in_wave,inw13,inw13: =1 if respondent w13
+HRS,core,in_wave,inw14,inw14: =1 if respondent w14
+HRS,core,in_wave,inw15,inw15: =1 if respondent w15
+HRS,core,in_wave,inw16,inw16: =1 if respondent w16
+HRS,core,in_wave,inw2,inw2: =1 if respondent w2
+HRS,core,in_wave,inw3,inw3: =1 if respondent w3
+HRS,core,in_wave,inw4,inw4: =1 if respondent w4
+HRS,core,in_wave,inw5,inw5: =1 if respondent w5
+HRS,core,in_wave,inw6,inw6: =1 if respondent w6
+HRS,core,in_wave,inw7,inw7: =1 if respondent w7
+HRS,core,in_wave,inw8,inw8: =1 if respondent w8
+HRS,core,in_wave,inw9,inw9: =1 if respondent w9
+HRS,core,interview_status,r10iwstat,r10iwstat:w10 r interview status
+HRS,core,interview_status,r11iwstat,r11iwstat:w11 r interview status
+HRS,core,interview_status,r12iwstat,r12iwstat:w12 r interview status
+HRS,core,interview_status,r13iwstat,r13iwstat:w13 r interview status
+HRS,core,interview_status,r14iwstat,r14iwstat:w14 r interview status
+HRS,core,interview_status,r15iwstat,r15iwstat:w15 r interview status
+HRS,core,interview_status,r16iwstat,r16iwstat:w16 r interview status
+HRS,core,interview_status,r1iwstat,r1iwstat:w1 r interview status
+HRS,core,interview_status,r2iwstat,r2iwstat:w2 r interview status
+HRS,core,interview_status,r3iwstat,r3iwstat:w3 r interview status
+HRS,core,interview_status,r4iwstat,r4iwstat:w4 r interview status
+HRS,core,interview_status,r5iwstat,r5iwstat:w5 r interview status
+HRS,core,interview_status,r6iwstat,r6iwstat:w6 r interview status
+HRS,core,interview_status,r7iwstat,r7iwstat:w7 r interview status
+HRS,core,interview_status,r8iwstat,r8iwstat:w8 r interview status
+HRS,core,interview_status,r9iwstat,r9iwstat:w9 r interview status
+HRS,core,interview_status,s10iwstat,s10iwstat:w10 s interview status
+HRS,core,interview_status,s11iwstat,s11iwstat:w11 s interview status
+HRS,core,interview_status,s12iwstat,s12iwstat:w12 s interview status
+HRS,core,interview_status,s13iwstat,s13iwstat:w13 s interview status
+HRS,core,interview_status,s14iwstat,s14iwstat:w14 s interview status
+HRS,core,interview_status,s15iwstat,s15iwstat:w15 s interview status
+HRS,core,interview_status,s16iwstat,s16iwstat:w16 s interview status
+HRS,core,interview_status,s1iwstat,s1iwstat:w1 s interview status
+HRS,core,interview_status,s2iwstat,s2iwstat:w2 s interview status
+HRS,core,interview_status,s3iwstat,s3iwstat:w3 s interview status
+HRS,core,interview_status,s4iwstat,s4iwstat:w4 s interview status
+HRS,core,interview_status,s5iwstat,s5iwstat:w5 s interview status
+HRS,core,interview_status,s6iwstat,s6iwstat:w6 s interview status
+HRS,core,interview_status,s7iwstat,s7iwstat:w7 s interview status
+HRS,core,interview_status,s8iwstat,s8iwstat:w8 s interview status
+HRS,core,interview_status,s9iwstat,s9iwstat:w9 s interview status
+HRS,core,interview_time,rexityr,rexityr:exit interview year
+HRS,core,person_id,hhidpn,hhidpn: hhold id + person number /num
+HRS,core,proxy,r10proxy,r10proxy:w10 whether proxy interview
+HRS,core,proxy,r11proxy,r11proxy:w11 whether proxy interview
+HRS,core,proxy,r12proxy,r12proxy:w12 whether proxy interview
+HRS,core,proxy,r13proxy,r13proxy:w13 whether proxy interview
+HRS,core,proxy,r14proxy,r14proxy:w14 whether proxy interview
+HRS,core,proxy,r15proxy,r15proxy:w15 whether proxy interview
+HRS,core,proxy,r16proxy,r16proxy:w16 whether proxy interview
+HRS,core,proxy,r1proxy,r1proxy:w1 whether proxy interview
+HRS,core,proxy,r2proxy,r2proxy:w2 whether proxy interview
+HRS,core,proxy,r3proxy,r3proxy:w3 whether proxy interview
+HRS,core,proxy,r4proxy,r4proxy:w4 whether proxy interview
+HRS,core,proxy,r5proxy,r5proxy:w5 whether proxy interview
+HRS,core,proxy,r6proxy,r6proxy:w6 whether proxy interview
+HRS,core,proxy,r7proxy,r7proxy:w7 whether proxy interview
+HRS,core,proxy,r8proxy,r8proxy:w8 whether proxy interview
+HRS,core,proxy,r9proxy,r9proxy:w9 whether proxy interview
+HRS,core,proxy,s10proxy,s10proxy:w10 whether proxy interview
+HRS,core,proxy,s11proxy,s11proxy:w11 whether proxy interview
+HRS,core,proxy,s12proxy,s12proxy:w12 whether proxy interview
+HRS,core,proxy,s13proxy,s13proxy:w13 whether proxy interview
+HRS,core,proxy,s14proxy,s14proxy:w14 whether proxy interview
+HRS,core,proxy,s15proxy,s15proxy:w15 whether proxy interview
+HRS,core,proxy,s16proxy,s16proxy:w16 whether proxy interview
+HRS,core,proxy,s1proxy,s1proxy:w1 whether proxy interview
+HRS,core,proxy,s2proxy,s2proxy:w2 whether proxy interview
+HRS,core,proxy,s3proxy,s3proxy:w3 whether proxy interview
+HRS,core,proxy,s4proxy,s4proxy:w4 whether proxy interview
+HRS,core,proxy,s5proxy,s5proxy:w5 whether proxy interview
+HRS,core,proxy,s6proxy,s6proxy:w6 whether proxy interview
+HRS,core,proxy,s7proxy,s7proxy:w7 whether proxy interview
+HRS,core,proxy,s8proxy,s8proxy:w8 whether proxy interview
+HRS,core,proxy,s9proxy,s9proxy:w9 whether proxy interview
+HRS,core,respondent_weight,r10wtcrnh,r10wtcrnh:w10 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r10wtresp,r10wtresp:w10 person-level analysis weight
+HRS,core,respondent_weight,r11wtcrnh,r11wtcrnh:w11 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r11wtresp,r11wtresp:w11 person-level analysis weight
+HRS,core,respondent_weight,r12wtcrnh,r12wtcrnh:w12 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r12wtresp,r12wtresp:w12 person-level analysis weight
+HRS,core,respondent_weight,r13wtcrnh,r13wtcrnh:w13 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r13wtresp,r13wtresp:w13 person-level analysis weight
+HRS,core,respondent_weight,r14wtcrnh,r14wtcrnh:w14 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r14wtresp,r14wtresp:w14 person-level analysis weight
+HRS,core,respondent_weight,r15wtcrnh,r15wtcrnh:w15 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r15wtresp,r15wtresp:w15 person-level analysis weight
+HRS,core,respondent_weight,r16wtcrnh,r16wtcrnh:w16 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r16wtresp,r16wtresp:w16 person-level analysis weight
+HRS,core,respondent_weight,r1wtcrnh,r1wtcrnh:w1 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r1wtresp,r1wtresp:w1 person-level analysis weight
+HRS,core,respondent_weight,r2wtcrnh,r2wtcrnh:w2 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r2wtresp,r2wtresp:w2 person-level analysis weight
+HRS,core,respondent_weight,r3wtcrnh,r3wtcrnh:w3 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r3wtresp,r3wtresp:w3 person-level analysis weight
+HRS,core,respondent_weight,r4wtcrnh,r4wtcrnh:w4 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r4wtresp,r4wtresp:w4 person-level analysis weight
+HRS,core,respondent_weight,r5wtcrnh,r5wtcrnh:w5 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r5wtresp,r5wtresp:w5 person-level analysis weight
+HRS,core,respondent_weight,r6wtcrnh,r6wtcrnh:w6 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r6wtresp,r6wtresp:w6 person-level analysis weight
+HRS,core,respondent_weight,r7wtcrnh,r7wtcrnh:w7 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r7wtresp,r7wtresp:w7 person-level analysis weight
+HRS,core,respondent_weight,r8wtcrnh,r8wtcrnh:w8 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r8wtresp,r8wtresp:w8 person-level analysis weight
+HRS,core,respondent_weight,r9wtcrnh,r9wtcrnh:w9 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,r9wtresp,r9wtresp:w9 person-level analysis weight
+HRS,core,respondent_weight,s10wtcrnh,s10wtcrnh:w10 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s11wtcrnh,s11wtcrnh:w11 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s12wtcrnh,s12wtcrnh:w12 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s13wtcrnh,s13wtcrnh:w13 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s14wtcrnh,s14wtcrnh:w14 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s15wtcrnh,s15wtcrnh:w15 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s16wtcrnh,s16wtcrnh:w16 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s1wtcrnh,s1wtcrnh:w1 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s2wtcrnh,s2wtcrnh:w2 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s3wtcrnh,s3wtcrnh:w3 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s4wtcrnh,s4wtcrnh:w4 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s5wtcrnh,s5wtcrnh:w5 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s6wtcrnh,s6wtcrnh:w6 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s7wtcrnh,s7wtcrnh:w7 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s8wtcrnh,s8wtcrnh:w8 combined respondent weight and nurshm resident weight
+HRS,core,respondent_weight,s9wtcrnh,s9wtcrnh:w9 combined respondent weight and nurshm resident weight
+HRS,core,sex,ragender,ragender: r gender
+HRS_GATEWAY,auxiliary,adl_count,r10adlfive,r10adlfive:w10 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r10adlfivea,r10adlfivea:w10 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r11adlfive,r11adlfive:w11 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r11adlfivea,r11adlfivea:w11 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r12adlfive,r12adlfive:w12 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r12adlfivea,r12adlfivea:w12 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r13adlfive,r13adlfive:w13 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r13adlfivea,r13adlfivea:w13 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r14adlfive,r14adlfive:w14 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r14adlfivea,r14adlfivea:w14 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r15adlfive,r15adlfive:w15 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r15adlfivea,r15adlfivea:w15 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r1adlfive,r1adlfive:w1 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r1adlfivea,r1adlfivea:w1 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r2adlfive,r2adlfive:w2 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r2adlfivea,r2adlfivea:w2 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r3adlfive,r3adlfive:w3 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r3adlfivea,r3adlfivea:w3 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r4adlfive,r4adlfive:w4 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r4adlfivea,r4adlfivea:w4 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r5adlfive,r5adlfive:w5 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r5adlfivea,r5adlfivea:w5 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r6adlfive,r6adlfive:w6 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r6adlfivea,r6adlfivea:w6 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r7adlfive,r7adlfive:w7 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r7adlfivea,r7adlfivea:w7 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r8adlfive,r8adlfive:w8 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r8adlfivea,r8adlfivea:w8 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_count,r9adlfive,r9adlfive:w9 r 5-item adl summary/0-5
+HRS_GATEWAY,auxiliary,adl_count,r9adlfivea,r9adlfivea:w9 r whether has any diff 5-item adls
+HRS_GATEWAY,auxiliary,adl_item,r15walk,r15walk:w15 Affective Experience: r walked
+HRS_GATEWAY,auxiliary,death,h10chidslw,h10chidslw:w10 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h11chidslw,h11chidslw:w11 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h12chidslw,h12chidslw:w12 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h13chidslw,h13chidslw:w13 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h14chidslw,h14chidslw:w14 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h15chidslw,h15chidslw:w15 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h3chidslw,h3chidslw:w3 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h4chidslw,h4chidslw:w4 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h5chidslw,h5chidslw:w5 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h6chidslw,h6chidslw:w6 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h7chidslw,h7chidslw:w7 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h8chidslw,h8chidslw:w8 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,h9chidslw,h9chidslw:w9 whether child died since last wave
+HRS_GATEWAY,auxiliary,death,r10chdeathe,r10chdeathe:w10 r ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,r10pardslw,r10pardslw:w10 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r11chdeathe,r11chdeathe:w11 r ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,r11pardslw,r11pardslw:w11 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r12pardslw,r12pardslw:w12 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r13pardslw,r13pardslw:w13 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r14pardslw,r14pardslw:w14 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r15pardslw,r15pardslw:w15 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r2pardslw,r2pardslw:w2 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r3pardslw,r3pardslw:w3 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r4pardslw,r4pardslw:w4 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r5pardslw,r5pardslw:w5 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r6pardslw,r6pardslw:w6 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r7chdeathe,r7chdeathe:w7 r ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,r7pardslw,r7pardslw:w7 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r8chdeathe,r8chdeathe:w8 r ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,r8pardslw,r8pardslw:w8 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,r9chdeathe,r9chdeathe:w9 r ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,r9pardslw,r9pardslw:w9 whether r parent died since last wave
+HRS_GATEWAY,auxiliary,death,rapadiech,rapadiech: before age 16 whether one or both of r's parents died
+HRS_GATEWAY,auxiliary,death,s10chdeathe,s10chdeathe:w10 s ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,s10padiech,s10padiech:w10 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s10pardslw,s10pardslw:w10 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s11chdeathe,s11chdeathe:w11 s ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,s11padiech,s11padiech:w11 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s11pardslw,s11pardslw:w11 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s12padiech,s12padiech:w12 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s12pardslw,s12pardslw:w12 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s13padiech,s13padiech:w13 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s13pardslw,s13pardslw:w13 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s14padiech,s14padiech:w14 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s14pardslw,s14pardslw:w14 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s15padiech,s15padiech:w15 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s15pardslw,s15pardslw:w15 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s1padiech,s1padiech:w1 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s2padiech,s2padiech:w2 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s2pardslw,s2pardslw:w2 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s3padiech,s3padiech:w3 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s3pardslw,s3pardslw:w3 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s4padiech,s4padiech:w4 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s4pardslw,s4pardslw:w4 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s5padiech,s5padiech:w5 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s5pardslw,s5pardslw:w5 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s6padiech,s6padiech:w6 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s6pardslw,s6pardslw:w6 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s7chdeathe,s7chdeathe:w7 s ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,s7padiech,s7padiech:w7 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s7pardslw,s7pardslw:w7 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s8chdeathe,s8chdeathe:w8 s ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,s8padiech,s8padiech:w8 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s8pardslw,s8pardslw:w8 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,death,s9chdeathe,s9chdeathe:w9 s ever experienced death of own child
+HRS_GATEWAY,auxiliary,death,s9padiech,s9padiech:w9 before age 16 whether one or both of s's parents died
+HRS_GATEWAY,auxiliary,death,s9pardslw,s9pardslw:w9 whether s parent died since last wave
+HRS_GATEWAY,auxiliary,education,radadeduc8,radadeduc8:r father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,radadeducl,radadeducl:r father harmonized education level
+HRS_GATEWAY,auxiliary,education,raeducl,raeducl: r harmonized education level
+HRS_GATEWAY,auxiliary,education,ramomeduc8,ramomeduc8:r mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,ramomeducl,ramomeducl:r mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s10dadeduc8,s10dadeduc8:w10 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s10dadeducl,s10dadeducl:w10 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s10educl,s10educl:w10 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s10momeduc8,s10momeduc8:w10 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s10momeducl,s10momeducl:w10 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s11dadeduc8,s11dadeduc8:w11 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s11dadeducl,s11dadeducl:w11 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s11educl,s11educl:w11 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s11momeduc8,s11momeduc8:w11 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s11momeducl,s11momeducl:w11 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s12dadeduc8,s12dadeduc8:w12 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s12dadeducl,s12dadeducl:w12 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s12educl,s12educl:w12 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s12momeduc8,s12momeduc8:w12 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s12momeducl,s12momeducl:w12 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s13dadeduc8,s13dadeduc8:w13 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s13dadeducl,s13dadeducl:w13 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s13educl,s13educl:w13 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s13momeduc8,s13momeduc8:w13 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s13momeducl,s13momeducl:w13 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s14dadeduc8,s14dadeduc8:w14 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s14dadeducl,s14dadeducl:w14 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s14educl,s14educl:w14 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s14momeduc8,s14momeduc8:w14 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s14momeducl,s14momeducl:w14 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s15dadeduc8,s15dadeduc8:w15 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s15dadeducl,s15dadeducl:w15 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s15educl,s15educl:w15 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s15momeduc8,s15momeduc8:w15 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s15momeducl,s15momeducl:w15 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s1dadeduc8,s1dadeduc8:w1 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s1dadeducl,s1dadeducl:w1 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s1educl,s1educl:w1 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s1momeduc8,s1momeduc8:w1 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s1momeducl,s1momeducl:w1 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s2dadeduc8,s2dadeduc8:w2 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s2dadeducl,s2dadeducl:w2 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s2educl,s2educl:w2 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s2momeduc8,s2momeduc8:w2 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s2momeducl,s2momeducl:w2 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s3dadeduc8,s3dadeduc8:w3 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s3dadeducl,s3dadeducl:w3 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s3educl,s3educl:w3 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s3momeduc8,s3momeduc8:w3 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s3momeducl,s3momeducl:w3 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s4dadeduc8,s4dadeduc8:w4 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s4dadeducl,s4dadeducl:w4 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s4educl,s4educl:w4 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s4momeduc8,s4momeduc8:w4 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s4momeducl,s4momeducl:w4 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s5dadeduc8,s5dadeduc8:w5 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s5dadeducl,s5dadeducl:w5 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s5educl,s5educl:w5 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s5momeduc8,s5momeduc8:w5 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s5momeducl,s5momeducl:w5 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s6dadeduc8,s6dadeduc8:w6 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s6dadeducl,s6dadeducl:w6 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s6educl,s6educl:w6 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s6momeduc8,s6momeduc8:w6 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s6momeducl,s6momeducl:w6 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s7dadeduc8,s7dadeduc8:w7 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s7dadeducl,s7dadeducl:w7 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s7educl,s7educl:w7 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s7momeduc8,s7momeduc8:w7 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s7momeducl,s7momeducl:w7 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s8dadeduc8,s8dadeduc8:w8 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s8dadeducl,s8dadeducl:w8 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s8educl,s8educl:w8 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s8momeduc8,s8momeduc8:w8 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s8momeducl,s8momeducl:w8 s mother harmonized education level
+HRS_GATEWAY,auxiliary,education,s9dadeduc8,s9dadeduc8:w9 s father attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s9dadeducl,s9dadeducl:w9 s father harmonized education level
+HRS_GATEWAY,auxiliary,education,s9educl,s9educl:w9 s harmonized education level
+HRS_GATEWAY,auxiliary,education,s9momeduc8,s9momeduc8:w9 s mother attained 8+ years of education
+HRS_GATEWAY,auxiliary,education,s9momeducl,s9momeducl:w9 s mother harmonized education level
+HRS_GATEWAY,auxiliary,iadl_count,r10iadlfoura,r10iadlfoura:w10 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r11iadlfoura,r11iadlfoura:w11 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r12iadlfoura,r12iadlfoura:w12 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r13iadlfoura,r13iadlfoura:w13 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r14iadlfoura,r14iadlfoura:w14 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r15iadlfoura,r15iadlfoura:w15 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r2iadlfoura,r2iadlfoura:w2 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r3iadlfoura,r3iadlfoura:w3 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r4iadlfoura,r4iadlfoura:w4 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r5iadlfoura,r5iadlfoura:w5 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r6iadlfoura,r6iadlfoura:w6 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r7iadlfoura,r7iadlfoura:w7 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r8iadlfoura,r8iadlfoura:w8 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,iadl_count,r9iadlfoura,r9iadlfoura:w9 r whether has any diff 4-item iadls
+HRS_GATEWAY,auxiliary,person_id,hhidpn,hhidpn: hhold id + person number /num
+MHAS,core,adl_count,r1adla,r1adla: w1 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r1adlfive,r1adlfive: w1 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r1adlfivea,r1adlfivea: w1 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_count,r2adla,r2adla: w2 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r2adlfive,r2adlfive: w2 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r2adlfivea,r2adlfivea: w2 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_count,r3adla,r3adla: w3 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r3adlfive,r3adlfive: w3 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r3adlfivea,r3adlfivea: w3 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_count,r4adla,r4adla: w4 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r4adlfive,r4adlfive: w4 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r4adlfivea,r4adlfivea: w4 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_count,r5adla,r5adla: w5 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r5adlfive,r5adlfive: w5 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r5adlfivea,r5adlfivea: w5 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_count,r6adla,r6adla: w6 R Some difficulty-ADLs 0-5
+MHAS,core,adl_count,r6adlfive,r6adlfive: w6 R Some difficulty-ADLs 0-5 Alternate
+MHAS,core,adl_count,r6adlfivea,r6adlfivea: w6 R Any difficulty ADLs 0-5 Alternate
+MHAS,core,adl_item,r1bath,r1bath: w1 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r1batha,r1batha: w1 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r1bed,r1bed: w1 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r1beda,r1beda: w1 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r1breath_m,r1breath_m: w1 R Difficulty breathing while lying down
+MHAS,core,adl_item,r1dress,r1dress: w1 R Difficulty-Dressing
+MHAS,core,adl_item,r1dressa,r1dressa: w1 R Some difficulty-Dressing
+MHAS,core,adl_item,r1eat,r1eat: w1 R Difficulty-Eating
+MHAS,core,adl_item,r1eata,r1eata: w1 R Some difficulty-Eating
+MHAS,core,adl_item,r1toilt,r1toilt: w1 R Difficulty-Using the toilet
+MHAS,core,adl_item,r1toilta,r1toilta: w1 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r1walkr,r1walkr: w1 R Difficulty-Walking across room
+MHAS,core,adl_item,r1walkra,r1walkra: w1 R Some difficulty-Walking across room
+MHAS,core,adl_item,r2bath,r2bath: w2 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r2batha,r2batha: w2 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r2bed,r2bed: w2 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r2beda,r2beda: w2 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r2breath_m,r2breath_m: w2 R Difficulty breathing while lying down
+MHAS,core,adl_item,r2dress,r2dress: w2 R Difficulty-Dressing
+MHAS,core,adl_item,r2dressa,r2dressa: w2 R Some difficulty-Dressing
+MHAS,core,adl_item,r2eat,r2eat: w2 R Difficulty-Eating
+MHAS,core,adl_item,r2eata,r2eata: w2 R Some difficulty-Eating
+MHAS,core,adl_item,r2toilt,r2toilt: w2 R Difficulty-Using the toilet
+MHAS,core,adl_item,r2toilta,r2toilta: w2 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r2walkr,r2walkr: w2 R Difficulty-Walking across room
+MHAS,core,adl_item,r2walkra,r2walkra: w2 R Some difficulty-Walking across room
+MHAS,core,adl_item,r3bath,r3bath: w3 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r3batha,r3batha: w3 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r3bed,r3bed: w3 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r3beda,r3beda: w3 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r3breath_m,r3breath_m: w3 R Difficulty breathing or coughing
+MHAS,core,adl_item,r3dress,r3dress: w3 R Difficulty-Dressing
+MHAS,core,adl_item,r3dressa,r3dressa: w3 R Some difficulty-Dressing
+MHAS,core,adl_item,r3eat,r3eat: w3 R Difficulty-Eating
+MHAS,core,adl_item,r3eata,r3eata: w3 R Some difficulty-Eating
+MHAS,core,adl_item,r3toilt,r3toilt: w3 R Difficulty-Using the toilet
+MHAS,core,adl_item,r3toilta,r3toilta: w3 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r3walkr,r3walkr: w3 R Difficulty-Walking across room
+MHAS,core,adl_item,r3walkra,r3walkra: w3 R Some difficulty-Walking across room
+MHAS,core,adl_item,r4bath,r4bath: w4 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r4batha,r4batha: w4 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r4bed,r4bed: w4 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r4beda,r4beda: w4 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r4breath_m,r4breath_m: w4 R Difficulty breathing or coughing
+MHAS,core,adl_item,r4dress,r4dress: w4 R Difficulty-Dressing
+MHAS,core,adl_item,r4dressa,r4dressa: w4 R Some difficulty-Dressing
+MHAS,core,adl_item,r4eat,r4eat: w4 R Difficulty-Eating
+MHAS,core,adl_item,r4eata,r4eata: w4 R Some difficulty-Eating
+MHAS,core,adl_item,r4toilt,r4toilt: w4 R Difficulty-Using the toilet
+MHAS,core,adl_item,r4toilta,r4toilta: w4 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r4walkr,r4walkr: w4 R Difficulty-Walking across room
+MHAS,core,adl_item,r4walkra,r4walkra: w4 R Some difficulty-Walking across room
+MHAS,core,adl_item,r5bath,r5bath: w5 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r5batha,r5batha: w5 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r5bed,r5bed: w5 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r5beda,r5beda: w5 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r5breath_m,r5breath_m: w5 R Difficulty breathing or coughing
+MHAS,core,adl_item,r5dress,r5dress: w5 R Difficulty-Dressing
+MHAS,core,adl_item,r5dressa,r5dressa: w5 R Some difficulty-Dressing
+MHAS,core,adl_item,r5eat,r5eat: w5 R Difficulty-Eating
+MHAS,core,adl_item,r5eata,r5eata: w5 R Some difficulty-Eating
+MHAS,core,adl_item,r5toilt,r5toilt: w5 R Difficulty-Using the toilet
+MHAS,core,adl_item,r5toilta,r5toilta: w5 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r5walkr,r5walkr: w5 R Difficulty-Walking across room
+MHAS,core,adl_item,r5walkra,r5walkra: w5 R Some difficulty-Walking across room
+MHAS,core,adl_item,r6bath,r6bath: w6 R Difficulty-Bathing or showering
+MHAS,core,adl_item,r6batha,r6batha: w6 R Some difficulty-Bathing or showering
+MHAS,core,adl_item,r6bed,r6bed: w6 R Difficulty-Getting in/out of bed
+MHAS,core,adl_item,r6beda,r6beda: w6 R Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,r6breath_m,r6breath_m: w6 R Difficulty breathing or coughing
+MHAS,core,adl_item,r6dress,r6dress: w6 R Difficulty-Dressing
+MHAS,core,adl_item,r6dressa,r6dressa: w6 R Some difficulty-Dressing
+MHAS,core,adl_item,r6eat,r6eat: w6 R Difficulty-Eating
+MHAS,core,adl_item,r6eata,r6eata: w6 R Some difficulty-Eating
+MHAS,core,adl_item,r6toilt,r6toilt: w6 R Difficulty-Using the toilet
+MHAS,core,adl_item,r6toilta,r6toilta: w6 R Some difficulty-Using the toilet
+MHAS,core,adl_item,r6walkr,r6walkr: w6 R Difficulty-Walking across room
+MHAS,core,adl_item,r6walkra,r6walkra: w6 R Some difficulty-Walking across room
+MHAS,core,adl_item,s1bath,s1bath: w1 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s1batha,s1batha: w1 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s1bed,s1bed: w1 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s1beda,s1beda: w1 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s1breath_m,s1breath_m: w1 S Difficulty breathing while lying down
+MHAS,core,adl_item,s1dress,s1dress: w1 S Difficulty-Dressing
+MHAS,core,adl_item,s1dressa,s1dressa: w1 S Some difficulty-Dressing
+MHAS,core,adl_item,s1eat,s1eat: w1 S Difficulty-Eating
+MHAS,core,adl_item,s1eata,s1eata: w1 S Some difficulty-Eating
+MHAS,core,adl_item,s1toilt,s1toilt: w1 S Difficulty-Using the toilet
+MHAS,core,adl_item,s1toilta,s1toilta: w1 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s1walkr,s1walkr: w1 S Difficulty-Walking across room
+MHAS,core,adl_item,s1walkra,s1walkra: w1 S Some difficulty-Walking across room
+MHAS,core,adl_item,s2bath,s2bath: w2 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s2batha,s2batha: w2 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s2bed,s2bed: w2 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s2beda,s2beda: w2 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s2breath_m,s2breath_m: w2 S Difficulty breathing while lying down
+MHAS,core,adl_item,s2dress,s2dress: w2 S Difficulty-Dressing
+MHAS,core,adl_item,s2dressa,s2dressa: w2 S Some difficulty-Dressing
+MHAS,core,adl_item,s2eat,s2eat: w2 S Difficulty-Eating
+MHAS,core,adl_item,s2eata,s2eata: w2 S Some difficulty-Eating
+MHAS,core,adl_item,s2toilt,s2toilt: w2 S Difficulty-Using the toilet
+MHAS,core,adl_item,s2toilta,s2toilta: w2 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s2walkr,s2walkr: w2 S Difficulty-Walking across room
+MHAS,core,adl_item,s2walkra,s2walkra: w2 S Some difficulty-Walking across room
+MHAS,core,adl_item,s3bath,s3bath: w3 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s3batha,s3batha: w3 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s3bed,s3bed: w3 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s3beda,s3beda: w3 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s3breath_m,s3breath_m: w3 S Difficulty breathing or coughing
+MHAS,core,adl_item,s3dress,s3dress: w3 S Difficulty-Dressing
+MHAS,core,adl_item,s3dressa,s3dressa: w3 S Some difficulty-Dressing
+MHAS,core,adl_item,s3eat,s3eat: w3 S Difficulty-Eating
+MHAS,core,adl_item,s3eata,s3eata: w3 S Some difficulty-Eating
+MHAS,core,adl_item,s3toilt,s3toilt: w3 S Difficulty-Using the toilet
+MHAS,core,adl_item,s3toilta,s3toilta: w3 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s3walkr,s3walkr: w3 S Difficulty-Walking across room
+MHAS,core,adl_item,s3walkra,s3walkra: w3 S Some difficulty-Walking across room
+MHAS,core,adl_item,s4bath,s4bath: w4 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s4batha,s4batha: w4 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s4bed,s4bed: w4 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s4beda,s4beda: w4 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s4breath_m,s4breath_m: w4 S Difficulty breathing or coughing
+MHAS,core,adl_item,s4dress,s4dress: w4 S Difficulty-Dressing
+MHAS,core,adl_item,s4dressa,s4dressa: w4 S Some difficulty-Dressing
+MHAS,core,adl_item,s4eat,s4eat: w4 S Difficulty-Eating
+MHAS,core,adl_item,s4eata,s4eata: w4 S Some difficulty-Eating
+MHAS,core,adl_item,s4toilt,s4toilt: w4 S Difficulty-Using the toilet
+MHAS,core,adl_item,s4toilta,s4toilta: w4 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s4walkr,s4walkr: w4 S Difficulty-Walking across room
+MHAS,core,adl_item,s4walkra,s4walkra: w4 S Some difficulty-Walking across room
+MHAS,core,adl_item,s5bath,s5bath: w5 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s5batha,s5batha: w5 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s5bed,s5bed: w5 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s5beda,s5beda: w5 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s5breath_m,s5breath_m: w5 S Difficulty breathing or coughing
+MHAS,core,adl_item,s5dress,s5dress: w5 S Difficulty-Dressing
+MHAS,core,adl_item,s5dressa,s5dressa: w5 S Some difficulty-Dressing
+MHAS,core,adl_item,s5eat,s5eat: w5 S Difficulty-Eating
+MHAS,core,adl_item,s5eata,s5eata: w5 S Some difficulty-Eating
+MHAS,core,adl_item,s5toilt,s5toilt: w5 S Difficulty-Using the toilet
+MHAS,core,adl_item,s5toilta,s5toilta: w5 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s5walkr,s5walkr: w5 S Difficulty-Walking across room
+MHAS,core,adl_item,s5walkra,s5walkra: w5 S Some difficulty-Walking across room
+MHAS,core,adl_item,s6bath,s6bath: w6 S Difficulty-Bathing or showering
+MHAS,core,adl_item,s6batha,s6batha: w6 S Some difficulty-Bathing or showering
+MHAS,core,adl_item,s6bed,s6bed: w6 S Difficulty-Getting in/out of bed
+MHAS,core,adl_item,s6beda,s6beda: w6 S Some difficulty-Getting in/out of bed
+MHAS,core,adl_item,s6breath_m,s6breath_m: w6 S Difficulty breathing or coughing
+MHAS,core,adl_item,s6dress,s6dress: w6 S Difficulty-Dressing
+MHAS,core,adl_item,s6dressa,s6dressa: w6 S Some difficulty-Dressing
+MHAS,core,adl_item,s6eat,s6eat: w6 S Difficulty-Eating
+MHAS,core,adl_item,s6eata,s6eata: w6 S Some difficulty-Eating
+MHAS,core,adl_item,s6toilt,s6toilt: w6 S Difficulty-Using the toilet
+MHAS,core,adl_item,s6toilta,s6toilta: w6 S Some difficulty-Using the toilet
+MHAS,core,adl_item,s6walkr,s6walkr: w6 S Difficulty-Walking across room
+MHAS,core,adl_item,s6walkra,s6walkra: w6 S Some difficulty-Walking across room
+MHAS,core,age,r1agey,r1agey: w1 R Age (years) at ivw
+MHAS,core,age,r2agey,r2agey: w2 R Age (years) at ivw
+MHAS,core,age,r3agey,r3agey: w3 R Age (years) at ivw
+MHAS,core,age,r4agey,r4agey: w4 R Age (years) at ivw
+MHAS,core,age,r5agey,r5agey: w5 R Age (years) at ivw
+MHAS,core,age,r6agey,r6agey: w6 R Age (years) at ivw
+MHAS,core,death,h1chdeathe,h1chdeathe: w1 R+S Ever experienced death of own child
+MHAS,core,death,h1dchild,h1dchild: w1 Number of deceased children R/P
+MHAS,core,death,h2chdeathe,h2chdeathe: w2 R+S Ever experienced death of own child
+MHAS,core,death,h2dchild,h2dchild: w2 Number of deceased children R/P
+MHAS,core,death,h3chdeathe,h3chdeathe: w3 R+S Ever experienced death of own child
+MHAS,core,death,h3dchild,h3dchild: w3 Number of deceased children R/P
+MHAS,core,death,h4chdeathe,h4chdeathe: w4 R+S Ever experienced death of own child
+MHAS,core,death,h4dchild,h4dchild: w4 Number of deceased children R/P
+MHAS,core,death,h5chdeathe,h5chdeathe: w5 R+S Ever experienced death of own child
+MHAS,core,death,h5dchild,h5dchild: w5 Number of deceased children R/P
+MHAS,core,death,h6chdeathe,h6chdeathe: w6 R+S Ever experienced death of own child
+MHAS,core,death,h6dchild,h6dchild: w6 Number of deceased children R/P
+MHAS,core,death,r1dadage,r1dadage: w1 R Father's age - current/at death
+MHAS,core,death,r1decsib,r1decsib: w1 R Number of deceased siblings
+MHAS,core,death,r1momage,r1momage: w1 R Mother's age - current/at death
+MHAS,core,death,r2dadage,r2dadage: w2 R Father's age - current/at death
+MHAS,core,death,r2decsib,r2decsib: w2 R Number of deceased siblings
+MHAS,core,death,r2momage,r2momage: w2 R Mother's age - current/at death
+MHAS,core,death,r3dadage,r3dadage: w3 R Father's age - current/at death
+MHAS,core,death,r3decsib,r3decsib: w3 R Number of deceased siblings
+MHAS,core,death,r3momage,r3momage: w3 R Mother's age - current/at death
+MHAS,core,death,r4dadage,r4dadage: w4 R Father's age - current/at death
+MHAS,core,death,r4decsib,r4decsib: w4 R Number of deceased siblings
+MHAS,core,death,r4momage,r4momage: w4 R Mother's age - current/at death
+MHAS,core,death,r5dadage,r5dadage: w5 R Father's age - current/at death
+MHAS,core,death,r5decsib,r5decsib: w5 R Number of deceased siblings
+MHAS,core,death,r5momage,r5momage: w5 R Mother's age - current/at death
+MHAS,core,death,r6ccdied,r6ccdied: w6 R Child died from COVID-19
+MHAS,core,death,r6dadage,r6dadage: w6 R Father's age - current/at death
+MHAS,core,death,r6decsib,r6decsib: w6 R Number of deceased siblings
+MHAS,core,death,r6momage,r6momage: w6 R Mother's age - current/at death
+MHAS,core,death,radmonth,radmonth: R Death Month
+MHAS,core,death,radyear,radyear: R Death Year
+MHAS,core,death,s1dadage,s1dadage: w1 S Father's age - current/at death
+MHAS,core,death,s1decsib,s1decsib: w1 S Number of deceased siblings
+MHAS,core,death,s1dmonth,s1dmonth: w1 S Death Month
+MHAS,core,death,s1dyear,s1dyear: w1 S Death Year
+MHAS,core,death,s1momage,s1momage: w1 S Mother's age - current/at death
+MHAS,core,death,s2dadage,s2dadage: w2 S Father's age - current/at death
+MHAS,core,death,s2decsib,s2decsib: w2 S Number of deceased siblings
+MHAS,core,death,s2dmonth,s2dmonth: w2 S Death Month
+MHAS,core,death,s2dyear,s2dyear: w2 S Death Year
+MHAS,core,death,s2momage,s2momage: w2 S Mother's age - current/at death
+MHAS,core,death,s3dadage,s3dadage: w3 S Father's age - current/at death
+MHAS,core,death,s3decsib,s3decsib: w3 S Number of deceased siblings
+MHAS,core,death,s3dmonth,s3dmonth: w3 S Death Month
+MHAS,core,death,s3dyear,s3dyear: w3 S Death Year
+MHAS,core,death,s3momage,s3momage: w3 S Mother's age - current/at death
+MHAS,core,death,s4dadage,s4dadage: w4 S Father's age - current/at death
+MHAS,core,death,s4decsib,s4decsib: w4 S Number of deceased siblings
+MHAS,core,death,s4dmonth,s4dmonth: w4 S Death Month
+MHAS,core,death,s4dyear,s4dyear: w4 S Death Year
+MHAS,core,death,s4momage,s4momage: w4 S Mother's age - current/at death
+MHAS,core,death,s5dadage,s5dadage: w5 S Father's age - current/at death
+MHAS,core,death,s5decsib,s5decsib: w5 S Number of deceased siblings
+MHAS,core,death,s5dmonth,s5dmonth: w5 S Death Month
+MHAS,core,death,s5dyear,s5dyear: w5 S Death Year
+MHAS,core,death,s5momage,s5momage: w5 S Mother's age - current/at death
+MHAS,core,death,s6ccdied,s6ccdied: w6 S Child died from COVID-19
+MHAS,core,death,s6dadage,s6dadage: w6 S Father's age - current/at death
+MHAS,core,death,s6decsib,s6decsib: w6 S Number of deceased siblings
+MHAS,core,death,s6dmonth,s6dmonth: w6 S Death Month
+MHAS,core,death,s6dyear,s6dyear: w6 S Death Year
+MHAS,core,death,s6momage,s6momage: w6 S Mother's age - current/at death
+MHAS,core,education,raeducl,raeducl: R Harmonized Education
+MHAS,core,education,raedyrs,raedyrs: R Years of Education
+MHAS,core,education,s1edyrs,s1edyrs: w1 S Years of Education
+MHAS,core,education,s2edyrs,s2edyrs: w2 S Years of Education
+MHAS,core,education,s3edyrs,s3edyrs: w3 S Years of Education
+MHAS,core,education,s4edyrs,s4edyrs: w4 S Years of Education
+MHAS,core,education,s5edyrs,s5edyrs: w5 S Years of Education
+MHAS,core,education,s6edyrs,s6edyrs: w6 S Years of Education
+MHAS,core,household_size,h1hhres,h1hhres: w1 Number of people in HH
+MHAS,core,household_size,h2hhres,h2hhres: w3 Number of people in HH
+MHAS,core,household_size,h3hhres,h3hhres: w3 Number of people in HH
+MHAS,core,household_size,h4hhres,h4hhres: w4 Number of people in HH
+MHAS,core,household_size,h5hhres,h5hhres: w5 Number of people in HH
+MHAS,core,household_size,h6hhres,h6hhres: w6 Number of people in HH
+MHAS,core,household_wealth,h1atotb,h1atotb:w1 total all assets inc. 2nd hm
+MHAS,core,household_wealth,h2atotb,h2atotb:w2 total all assets inc. 2nd hm
+MHAS,core,household_wealth,h3atotb,h3atotb:w3 total all assets inc. 2nd hm
+MHAS,core,household_wealth,h4atotb,h4atotb:w4 total all assets inc. 2nd hm
+MHAS,core,household_wealth,h5atotb,h5atotb:w5 total all assets inc. 2nd hm
+MHAS,core,household_wealth,h6atotb,h6atotb:w6 total all assets inc. 2nd hm
+MHAS,core,iadl_count,r1iadlfoura,r1iadlfoura: w1 R Any difficulty IADLs 0-4
+MHAS,core,iadl_count,r2iadlfoura,r2iadlfoura: w2 R Any difficulty IADLs 0-4
+MHAS,core,iadl_count,r3iadlfoura,r3iadlfoura: w3 R Any difficulty IADLs 0-4
+MHAS,core,iadl_count,r4iadlfoura,r4iadlfoura: w4 R Any difficulty IADLs 0-4
+MHAS,core,iadl_count,r5iadlfoura,r5iadlfoura: w5 R Any difficulty IADLs 0-4
+MHAS,core,iadl_count,r6iadlfoura,r6iadlfoura: w6 R Any difficulty IADLs 0-4
+MHAS,core,iadl_item,r1meals,r1meals: w1 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r1mealsa,r1mealsa: w1 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r1meds,r1meds: w1 R Difficulty-Taking medications
+MHAS,core,iadl_item,r1medsa,r1medsa: w1 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r1money,r1money: w1 R Difficulty-Managing money
+MHAS,core,iadl_item,r1moneya,r1moneya: w1 R Some difficulty-Managing money
+MHAS,core,iadl_item,r1shop,r1shop: w1 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r1shopa,r1shopa: w1 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,r2meals,r2meals: w2 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r2mealsa,r2mealsa: w2 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r2meds,r2meds: w2 R Difficulty-Taking medications
+MHAS,core,iadl_item,r2medsa,r2medsa: w2 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r2money,r2money: w2 R Difficulty-Managing money
+MHAS,core,iadl_item,r2moneya,r2moneya: w2 R Some difficulty-Managing money
+MHAS,core,iadl_item,r2shop,r2shop: w2 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r2shopa,r2shopa: w2 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,r3meals,r3meals: w3 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r3mealsa,r3mealsa: w3 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r3meds,r3meds: w3 R Difficulty-Taking medications
+MHAS,core,iadl_item,r3medsa,r3medsa: w3 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r3money,r3money: w3 R Difficulty-Managing money
+MHAS,core,iadl_item,r3moneya,r3moneya: w3 R Some difficulty-Managing money
+MHAS,core,iadl_item,r3shop,r3shop: w3 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r3shopa,r3shopa: w3 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,r4meals,r4meals: w4 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r4mealsa,r4mealsa: w4 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r4meds,r4meds: w4 R Difficulty-Taking medications
+MHAS,core,iadl_item,r4medsa,r4medsa: w4 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r4money,r4money: w4 R Difficulty-Managing money
+MHAS,core,iadl_item,r4moneya,r4moneya: w4 R Some difficulty-Managing money
+MHAS,core,iadl_item,r4shop,r4shop: w4 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r4shopa,r4shopa: w4 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,r5meals,r5meals: w5 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r5mealsa,r5mealsa: w5 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r5meds,r5meds: w5 R Difficulty-Taking medications
+MHAS,core,iadl_item,r5medsa,r5medsa: w5 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r5money,r5money: w5 R Difficulty-Managing money
+MHAS,core,iadl_item,r5moneya,r5moneya: w5 R Some difficulty-Managing money
+MHAS,core,iadl_item,r5shop,r5shop: w5 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r5shopa,r5shopa: w5 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,r6meals,r6meals: w6 R Difficulty-Preparing hot meals
+MHAS,core,iadl_item,r6mealsa,r6mealsa: w6 R Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,r6meds,r6meds: w6 R Difficulty-Taking medications
+MHAS,core,iadl_item,r6medsa,r6medsa: w6 R Some difficulty-Taking medications
+MHAS,core,iadl_item,r6money,r6money: w6 R Difficulty-Managing money
+MHAS,core,iadl_item,r6moneya,r6moneya: w6 R Some difficulty-Managing money
+MHAS,core,iadl_item,r6shop,r6shop: w6 R Difficulty-Shopping for groceries
+MHAS,core,iadl_item,r6shopa,r6shopa: w6 R Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s1meals,s1meals: w1 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s1mealsa,s1mealsa: w1 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s1meds,s1meds: w1 S Difficulty-Taking medications
+MHAS,core,iadl_item,s1medsa,s1medsa: w1 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s1money,s1money: w1 S Difficulty-Managing money
+MHAS,core,iadl_item,s1moneya,s1moneya: w1 S Some difficulty-Managing money
+MHAS,core,iadl_item,s1shop,s1shop: w1 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s1shopa,s1shopa: w1 S Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s2meals,s2meals: w2 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s2mealsa,s2mealsa: w2 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s2meds,s2meds: w2 S Difficulty-Taking medications
+MHAS,core,iadl_item,s2medsa,s2medsa: w2 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s2money,s2money: w2 S Difficulty-Managing money
+MHAS,core,iadl_item,s2moneya,s2moneya: w2 S Some difficulty-Managing money
+MHAS,core,iadl_item,s2shop,s2shop: w2 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s2shopa,s2shopa: w2 S Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s3meals,s3meals: w3 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s3mealsa,s3mealsa: w3 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s3meds,s3meds: w3 S Difficulty-Taking medications
+MHAS,core,iadl_item,s3medsa,s3medsa: w3 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s3money,s3money: w3 S Difficulty-Managing money
+MHAS,core,iadl_item,s3moneya,s3moneya: w3 S Some difficulty-Managing money
+MHAS,core,iadl_item,s3shop,s3shop: w3 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s3shopa,s3shopa: w3 S Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s4meals,s4meals: w4 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s4mealsa,s4mealsa: w4 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s4meds,s4meds: w4 S Difficulty-Taking medications
+MHAS,core,iadl_item,s4medsa,s4medsa: w4 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s4money,s4money: w4 S Difficulty-Managing money
+MHAS,core,iadl_item,s4moneya,s4moneya: w4 S Some difficulty-Managing money
+MHAS,core,iadl_item,s4shop,s4shop: w4 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s4shopa,s4shopa: w4 S Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s5meals,s5meals: w5 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s5mealsa,s5mealsa: w5 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s5meds,s5meds: w5 S Difficulty-Taking medications
+MHAS,core,iadl_item,s5medsa,s5medsa: w5 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s5money,s5money: w5 S Difficulty-Managing money
+MHAS,core,iadl_item,s5moneya,s5moneya: w5 S Some difficulty-Managing money
+MHAS,core,iadl_item,s5shop,s5shop: w5 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s5shopa,s5shopa: w5 S Some difficulty-Shopping for groceries
+MHAS,core,iadl_item,s6meals,s6meals: w6 S Difficulty-Preparing hot meals
+MHAS,core,iadl_item,s6mealsa,s6mealsa: w6 S Some difficulty-Preparing hot meals
+MHAS,core,iadl_item,s6meds,s6meds: w6 S Difficulty-Taking medications
+MHAS,core,iadl_item,s6medsa,s6medsa: w6 S Some difficulty-Taking medications
+MHAS,core,iadl_item,s6money,s6money: w6 S Difficulty-Managing money
+MHAS,core,iadl_item,s6moneya,s6moneya: w6 S Some difficulty-Managing money
+MHAS,core,iadl_item,s6shop,s6shop: w6 S Difficulty-Shopping for groceries
+MHAS,core,iadl_item,s6shopa,s6shopa: w6 S Some difficulty-Shopping for groceries
+MHAS,core,in_wave,inw1,inw1: w1 Response Indicator
+MHAS,core,in_wave,inw2,inw2: w2 Response Indicator
+MHAS,core,in_wave,inw3,inw3: w3 Response Indicator
+MHAS,core,in_wave,inw4,inw4: w4 Response Indicator
+MHAS,core,in_wave,inw5,inw5: w5 Response Indicator
+MHAS,core,in_wave,inw6,inw6: w6 Response Indicator
+MHAS,core,interview_status,r1iwstat,r1iwstat: w1 R Interview Status
+MHAS,core,interview_status,r2iwstat,r2iwstat: w2 R Interview Status
+MHAS,core,interview_status,r3iwstat,r3iwstat: w3 R Interview Status
+MHAS,core,interview_status,r4iwstat,r4iwstat: w4 R Interview Status
+MHAS,core,interview_status,r5iwstat,r5iwstat: w5 R Interview Status
+MHAS,core,interview_status,r6iwstat,r6iwstat: w6 R Interview Status
+MHAS,core,interview_status,s1iwstat,s1iwstat: w1 S Interview Status
+MHAS,core,interview_status,s2iwstat,s2iwstat: w2 S Interview Status
+MHAS,core,interview_status,s3iwstat,s3iwstat: w3 S Interview Status
+MHAS,core,interview_status,s4iwstat,s4iwstat: w4 S Interview Status
+MHAS,core,interview_status,s5iwstat,s5iwstat: w5 S Interview Status
+MHAS,core,interview_status,s6iwstat,s6iwstat: w6 S Interview Status
+MHAS,core,interview_time,r1iwf,r1iwf: w1 R Interview Date Flag
+MHAS,core,interview_time,r1iwm,r1iwm: w1 R Interview Month
+MHAS,core,interview_time,r1iwy,r1iwy: w1 R Interview Year
+MHAS,core,interview_time,r2iwf,r2iwf: w1 R Interview Date Flag
+MHAS,core,interview_time,r2iwm,r2iwm: w2 R Interview Month
+MHAS,core,interview_time,r2iwy,r2iwy: w2 R Interview Year
+MHAS,core,interview_time,r3iwf,r3iwf: w3 R Interview Date Flag
+MHAS,core,interview_time,r3iwm,r3iwm: w3 R Interview Month
+MHAS,core,interview_time,r3iwy,r3iwy: w3 R Interview Year
+MHAS,core,interview_time,r4iwf,r4iwf: w4 R Interview Date Flag
+MHAS,core,interview_time,r4iwm,r4iwm: w4 R Interview Month
+MHAS,core,interview_time,r4iwy,r4iwy: w4 R Interview Year
+MHAS,core,interview_time,r5iwf,r5iwf: w5 R Interview Date Flag
+MHAS,core,interview_time,r5iwm,r5iwm: w5 R Interview Month
+MHAS,core,interview_time,r5iwy,r5iwy: w5 R Interview Year
+MHAS,core,interview_time,r6iwf,r6iwf: w6 R Interview Date Flag
+MHAS,core,interview_time,r6iwm,r6iwm: w6 R Interview Month
+MHAS,core,interview_time,r6iwy,r6iwy: w6 R Interview Year
+MHAS,core,interview_time,s1iwf,s1iwf: w1 S Interview Date Flag
+MHAS,core,interview_time,s1iwm,s1iwm: w1 S Interview Month
+MHAS,core,interview_time,s1iwy,s1iwy: w1 S Interview Year
+MHAS,core,interview_time,s2iwf,s2iwf: w2 S Interview Date Flag
+MHAS,core,interview_time,s2iwm,s2iwm: w2 S Interview Month
+MHAS,core,interview_time,s2iwy,s2iwy: w2 S Interview Year
+MHAS,core,interview_time,s3iwf,s3iwf: w3 S Interview Date Flag
+MHAS,core,interview_time,s3iwm,s3iwm: w3 S Interview Month
+MHAS,core,interview_time,s3iwy,s3iwy: w3 S Interview Year
+MHAS,core,interview_time,s4iwf,s4iwf: w4 S Interview Date Flag
+MHAS,core,interview_time,s4iwm,s4iwm: w4 S Interview Month
+MHAS,core,interview_time,s4iwy,s4iwy: w4 S Interview Year
+MHAS,core,interview_time,s5iwf,s5iwf: w5 S Interview Date Flag
+MHAS,core,interview_time,s5iwm,s5iwm: w5 S Interview Month
+MHAS,core,interview_time,s5iwy,s5iwy: w5 S Interview Year
+MHAS,core,interview_time,s6iwf,s6iwf: w6 S Interview Date Flag
+MHAS,core,interview_time,s6iwm,s6iwm: w6 S Interview Month
+MHAS,core,interview_time,s6iwy,s6iwy: w6 S Interview Year
+MHAS,core,person_id,rahhidnp,RAHHIDNP: Unique Person Identifier (HH ID + Person Number)/ 7-Char
+MHAS,core,proxy,r1proxy,r1proxy: w1 R Whether Proxy Interview
+MHAS,core,proxy,r2proxy,r2proxy: w3 R Whether Proxy Interview
+MHAS,core,proxy,r3proxy,r3proxy: w3 R Whether Proxy Interview
+MHAS,core,proxy,r4proxy,r4proxy: w4 R Whether Proxy Interview
+MHAS,core,proxy,r5proxy,r5proxy: w5 R Whether Proxy Interview
+MHAS,core,proxy,r6proxy,r6proxy: w6 R Whether Proxy Interview
+MHAS,core,proxy,s1proxy,s1proxy: w1 S Whether Proxy Interview
+MHAS,core,proxy,s2proxy,s2proxy: w2 S Whether Proxy Interview
+MHAS,core,proxy,s3proxy,s3proxy: w3 S Whether Proxy Interview
+MHAS,core,proxy,s4proxy,s4proxy: w4 S Whether Proxy Interview
+MHAS,core,proxy,s5proxy,s5proxy: w5 S Whether Proxy Interview
+MHAS,core,proxy,s6proxy,s6proxy: w6 S Whether Proxy Interview
+MHAS,core,respondent_weight,r1wtresp,r1wtresp: w1 R Person-Level Analysis Weight
+MHAS,core,respondent_weight,r2wtresp,r2wtresp: w2 R Person-Level Analysis Weight
+MHAS,core,respondent_weight,r3wtresp,r3wtresp: w3 R Person-Level Analysis Weight
+MHAS,core,respondent_weight,r4wtresp,r4wtresp: w4 R Person-Level Analysis Weight
+MHAS,core,respondent_weight,r5wtresp,r5wtresp: w5 R Person-Level Analysis Weight
+MHAS,core,respondent_weight,r6wtresp,r6wtresp: w6 R Person-Level Analysis Weight
+MHAS,core,sex,ragender,ragender: R Gender

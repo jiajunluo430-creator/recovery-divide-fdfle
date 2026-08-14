@@ -1,0 +1,2 @@
+cohort,target_replicates,qc_rows,result_rows,valid_education,valid_wealth,failed_education,failed_wealth,seed_and_uniqueness_checks
+HRS,500,1000,1000,500,500,0,0,TRUE

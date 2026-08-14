@@ -1,0 +1,13 @@
+threshold,cohort,country,supported_intervals,supported_persons,deaths,disabled_deaths,pre_disability_deaths,recovered_state_deaths
+adl_only,CHARLS,China,33972,12840,2005,1015,776,214
+adl_only,ELSA,England,31912,10958,1723,871,692,160
+adl_only,HRS,United States,179953,32570,13384,6556,5298,1530
+adl_only,MHAS,Mexico,32874,15433,2562,952,1346,264
+at_least_two,CHARLS,China,33571,12824,1965,1028,786,151
+at_least_two,ELSA,England,31912,10958,1723,746,874,103
+at_least_two,HRS,United States,163302,31904,11284,5504,5020,760
+at_least_two,MHAS,Mexico,30527,14978,2276,756,1399,121
+permissive_partial,CHARLS,China,33864,12839,2004,1301,516,187
+permissive_partial,ELSA,England,31912,10958,1723,1019,568,136
+permissive_partial,HRS,United States,170266,32339,12856,8368,3267,1221
+permissive_partial,MHAS,Mexico,32509,15446,3018,1795,985,238

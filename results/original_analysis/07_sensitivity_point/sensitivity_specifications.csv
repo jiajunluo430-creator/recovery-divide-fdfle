@@ -1,0 +1,7 @@
+sensitivity,weighted,max_interval,exclude_proxy,exclude_pandemic_crossing,pre_pandemic
+primary_reproduction,TRUE,Inf,FALSE,FALSE,FALSE
+unweighted,FALSE,Inf,FALSE,FALSE,FALSE
+interval_1_to_3_years,TRUE,3,FALSE,FALSE,FALSE
+exclude_explicit_proxy,TRUE,Inf,TRUE,FALSE,FALSE
+exclude_pandemic_crossing,TRUE,Inf,FALSE,TRUE,FALSE
+pre_pandemic_end_before_2020,TRUE,Inf,FALSE,FALSE,TRUE

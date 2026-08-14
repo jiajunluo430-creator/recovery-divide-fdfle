@@ -1,0 +1,2 @@
+cohort,source_path,requested_variables,available_variables,missing_schema_n,missing_schema
+ELSA,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/offline_seven_cohorts/elsa_current/gh_elsa_h.dta,72,72,0,""

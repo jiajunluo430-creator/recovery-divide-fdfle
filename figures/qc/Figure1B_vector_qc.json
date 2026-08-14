@@ -1,0 +1,34 @@
+{
+  "svg": {
+    "file": "${RECOVERY_DIVIDE_ROOT}\\09_manuscript_bmc_medicine_v1\\first_submission_bmc_medicine_final\\figures\\panels\\Figure1B_state_framework.svg",
+    "text_elements": 23,
+    "image_elements": 0,
+    "paths_inside_label_groups": 0,
+    "duplicate_ids": [],
+    "clip_paths": 0,
+    "duplicate_clip_paths": 0,
+    "transparent_rectangles": 0,
+    "abnormal_paths": [],
+    "semantic_groups": {
+      "B": {
+        "axis": 1,
+        "data": 1,
+        "labels": 1,
+        "legend": 1,
+        "annotations": 1,
+        "panel": 1
+      }
+    },
+    "passed": true
+  },
+  "pdf": {
+    "file": "${RECOVERY_DIVIDE_ROOT}\\09_manuscript_bmc_medicine_v1\\first_submission_bmc_medicine_final\\figures\\panels\\Figure1B_state_framework.pdf",
+    "font_subtypes": [
+      "/TrueType"
+    ],
+    "type3_fonts": false,
+    "image_xobjects": 0,
+    "passed": true
+  },
+  "overall_passed": true
+}

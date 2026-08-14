@@ -1,0 +1,76 @@
+cohort,country,domain,waves,source_variable,canonical_variable,coding_or_derivation,primary_status
+CHARLS,China,person ID,1-4,ID,person_id,Exact character ID,Primary
+CHARLS,China,person ID,5,Sample_Infor.ID|Health_Status_and_Functioning.ID|Weights.ID|Exit_Module.ID,person_id,Exact linkage to Harmonized CHARLS D ID,Primary raw supplement
+CHARLS,China,interview time,1-4,nominal survey year,interview_time,2011|2013|2015|2018 plus 0.5 because harmonized interview month is absent,Primary flagged nominal
+CHARLS,China,interview time,5,Sample_Infor.iyear|imonth,interview_time,Year plus month midpoint,Primary exact month
+CHARLS,China,age,1-4,r#wagey,age,Validated 0-120,Primary
+CHARLS,China,age,5,prior age plus elapsed interview time,age,Carried forward only for linked longitudinal members,Primary derived
+CHARLS,China,dressing,1-4,r#dressa,dressa,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,bathing,1-4,r#batha,batha,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,eating,1-4,r#eata,eata,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,bed transfer,1-4,r#beda,beda,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,toileting,1-4,r#toilta,toilta,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,shopping,1-4,r#shopa,shopa,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,meal preparation,1-4,r#mealsa,mealsa,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,medications,1-4,r#medsa,medsa,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,money management,1-4,r#moneya,moneya,0 no difficulty; 1 difficulty,Primary
+CHARLS,China,dressing,5,Health_Status_and_Functioning.db001,dressa,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,bathing,5,Health_Status_and_Functioning.db003,batha,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,eating,5,Health_Status_and_Functioning.db005,eata,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,bed transfer,5,Health_Status_and_Functioning.db007,beda,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,toileting,5,Health_Status_and_Functioning.db009,toilta,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,shopping,5,Health_Status_and_Functioning.db016,shopa,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,meal preparation,5,Health_Status_and_Functioning.db014,mealsa,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,medications,5,Health_Status_and_Functioning.db020,medsa,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,money management,5,Health_Status_and_Functioning.db022,moneya,1 no difficulty; 2-4 difficulty,Primary raw supplement
+CHARLS,China,education,all,raeducl from harmonized prior,education3_fixed,0-1 low; 2 middle; 3 high,Primary
+CHARLS,China,wealth,1-4,h#atotb,wealth_entry_value,First valid value at or after age 60; fixed weighted entry-wave tertile,Primary
+CHARLS,China,proxy,1-4,structurally unavailable,proxy,Missing and labelled unavailable,Primary adjustment category
+CHARLS,China,proxy,5,Health_Status_and_Functioning.proxy,proxy,1 proxy; skip-pattern missing among health interviews self,Primary
+CHARLS,China,weight,1-4,r#wtresp,respondent_weight,Positive individual base weight,Primary
+CHARLS,China,weight,5,Weights.INDV_weight,respondent_weight,Positive individual base weight,Primary raw supplement
+CHARLS,China,death status,1-4,r#iwstat|radyear|radmonth,death_time,iwstat 5 or verified static death year/month,Primary
+CHARLS,China,death status,5,Sample_Infor.died,iwstat,1 verified death; 0 known alive; absence unknown,Primary raw supplement
+CHARLS,China,death time,5,Exit_Module.exb001_1|exb001_2|exb002,static_death_time,Solar year/month when valid; midpoint for lunar or year-only; otherwise verified wave boundary,Primary coarse-date flagged
+HRS,United States,person ID,2-16,hhidpn,person_id,Exact numeric-to-character ID,Primary
+HRS,United States,interview time,2-16,nominal survey year,interview_time,1994-2022 biennial midyear,Primary flagged nominal
+HRS,United States,age,2-16,r#agey_b,age,Validated 0-120,Primary
+HRS,United States,nine function items,2-16,r#{dressa|batha|eata|beda|toilta|shopa|mealsa|medsa|moneya},same canonical token,0 no difficulty; 1 difficulty; complete nine required,Primary
+HRS,United States,education,all,raeduc,education3_fixed,1 low; 2-4 middle; 5 high,Primary
+HRS,United States,wealth,2-16,h#atotw,wealth_entry_value,First valid at or after age 60; fixed weighted entry-wave tertile,Primary
+HRS,United States,proxy,2-16,r#proxy,proxy,0 self; 1-3 proxy categories collapsed to proxy,Primary
+HRS,United States,weight,2-16,r#wtresp,respondent_weight,Positive person-level analysis weight,Primary
+HRS,United States,death status/time,2-16,r#iwstat|radyear|radmonth,death_time,iwstat 5 or verified static death year/month; loss is not death,Primary
+ELSA,England,person ID,1-10,idauniq,person_id,Exact character ID,Primary harmonized
+ELSA,England,person ID,11,wave_11_elsa_data_eul.idauniq,person_id,Exact linkage to harmonized idauniq,Primary raw supplement
+ELSA,England,interview time,1-10,r#iwy|r#iwm,interview_time,Year plus month midpoint when present,Primary
+ELSA,England,interview time,11,iintdaty|iintdatm,interview_time,Year plus month midpoint,Primary
+ELSA,England,age,1-10,r#agey,age,Validated 0-120,Primary
+ELSA,England,age,11,indager or prior age plus elapsed time,age,Definitive age with longitudinal fallback,Primary
+ELSA,England,nine function items,1-10,r#{dressa|batha|eata|beda|toilta|shopa|mealsa|medsa|moneya},same canonical token,0 no difficulty; 1 difficulty; complete nine required,Primary
+ELSA,England,dressing,11,headldr,dressa,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,bathing,11,headlba,batha,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,eating,11,headlea,eata,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,bed transfer,11,headlbe,beda,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,toileting,11,headlwc,toilta,0 not mentioned; 1 mentioned; headlwa walking is excluded,Primary corrected v1.0.1
+ELSA,England,shopping,11,headlsh,shopa,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,meal preparation,11,headlpr,mealsa,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,medications,11,headlme,medsa,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,money management,11,headlmo,moneya,0 not mentioned; 1 mentioned,Primary raw supplement
+ELSA,England,education,all,raeducl from harmonized prior,education3_fixed,0-1 low; 2 middle; 3 high,Primary
+ELSA,England,wealth,1-10,h#atotb,wealth_entry_value,First valid at or after age 60; fixed weighted entry-wave tertile,Primary
+ELSA,England,proxy,1-10,r#proxy,proxy,0 self; 1-3 proxy,Primary
+ELSA,England,proxy,11,diint,proxy,person number 1-5 proxy; -1 self,Primary raw supplement
+ELSA,England,weight,1-10,r#wtresp,respondent_weight,Positive respondent weight,Primary
+ELSA,England,weight,11,w11xwgt,respondent_weight,Positive wave-11 cross-sectional weight,Primary raw supplement
+ELSA,England,death status/time,1-10,r#iwstat,death_time,iwstat 5 only where interval death ascertainment is supported,Primary restricted waves 1-5 origins
+ELSA,England,death timing supplement,11 EOL,eidatey,static_death_time,Known-death respondent year only; absence from EOL is never survival or death,Supplemental timing only
+MHAS,Mexico,person ID,1-6,rahhidnp,person_id,Exact numeric-to-character ID,Primary
+MHAS,Mexico,interview time,1-6,r#iwy|r#iwm,interview_time,Year plus month midpoint,Primary
+MHAS,Mexico,age,1-6,r#agey,age,Validated 0-120,Primary
+MHAS,Mexico,nine function items,1-6,r#{dressa|batha|eata|beda|toilta|shopa|mealsa|medsa|moneya},same canonical token,0 no difficulty; 1 difficulty; complete nine required,Primary
+MHAS,Mexico,education,all,raeducl,education3_fixed,0-1 low; 2 middle; 3 high,Primary
+MHAS,Mexico,wealth,1-6,h#atotb,wealth_entry_value,First valid at or after age 60; fixed weighted entry-wave tertile,Primary
+MHAS,Mexico,proxy,1-6,r#proxy,proxy,0 self; 1-3 proxy,Primary
+MHAS,Mexico,weight,1-6,r#wtresp,respondent_weight,Positive person-level analysis weight,Primary
+MHAS,Mexico,death status/time,1-6,r#iwstat|radyear|radmonth,death_time,iwstat 5 or verified static death year/month; 2003-2012 gap excluded,Primary

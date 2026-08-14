@@ -1,0 +1,17 @@
+field,value,definition,allowed_next_values,primary_role
+observed_state,0,No complete nine-item functional state at this scheduled wave,NA,Administrative or function-missing record only
+observed_state,1,All nine frozen function items resolved and the person is interviewed,I0|D1|R1|D2,Eligible living state
+history_state,I0,Independent with no prior observed difficulty,I0|D1|DEAD,Disability-free
+history_state,D1,First or continuing observed difficulty before any observed recovery,D1|R1|DEAD,Disabled
+history_state,R1,Independent after a prior observed difficulty,R1|D2|DEAD,Disability-free after recovery
+history_state,D2,Difficulty after an observed recovery,D2|R1|DEAD,Relapsed disabled
+history_state,DEAD,Verified death from cohort status or death date,DEAD,Absorbing
+transition,I0_to_D1,First observed incident difficulty,NA,Onset process
+transition,D1_to_R1,Recovery after first/continuing disability,NA,Recovery process
+transition,D2_to_R1,Recovery after relapse,NA,Recovery process pooled with D1 under v1.1
+transition,R1_to_D2,Observed relapse after recovery,NA,Relapse process
+transition,living_to_DEAD,Verified death after a living origin,NA,Pre-disability or post-disability mortality process
+scheduled_outcome,observed_function,Next scheduled boundary contains a complete nine-item state,NA,Living transition and mortality boundary
+scheduled_outcome,recorded_death,Verified death occurs before or at the next scheduled boundary,NA,Death event
+scheduled_outcome,known_non_death_nonresponse_or_missing_function,Cohort status establishes not dead but function is absent,NA,Censored for function and known alive for mortality
+scheduled_outcome,unknown_vital_or_observation_status,No verified death and no known-alive boundary,NA,Censored and never classified dead

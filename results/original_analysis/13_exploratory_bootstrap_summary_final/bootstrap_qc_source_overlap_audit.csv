@@ -1,0 +1,16 @@
+cohort,replicate,module,source_rows,distinct_status,distinct_seed,source_files
+CHARLS,116,wealth_by_sex,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,116,wealth_within_low_education,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,116,recovery_phase,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,117,wealth_by_sex,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,117,wealth_within_low_education,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,117,recovery_phase,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,118,wealth_by_sex,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,118,wealth_within_low_education,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,118,recovery_phase,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,119,wealth_by_sex,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,119,wealth_within_low_education,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,119,recovery_phase,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,120,wealth_by_sex,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,120,wealth_within_low_education,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv
+CHARLS,120,recovery_phase,2,1,1,bootstrap_charls_part_116_120_20260810T113342_1188_qc.csv | bootstrap_charls_qc.csv

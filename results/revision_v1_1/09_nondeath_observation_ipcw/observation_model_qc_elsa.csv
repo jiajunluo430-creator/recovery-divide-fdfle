@@ -1,0 +1,2 @@
+cohort,eligible_origin_intervals,verified_death_before_next,nondeath_observation_risk,observed_next_function,nondeath_not_observed,denominator_model_converged,numerator_model_converged,ipcw_lower_truncation,ipcw_upper_truncation
+ELSA,14224,699,13525,10713,2812,TRUE,TRUE,0.477631179009403,3.50664123351896

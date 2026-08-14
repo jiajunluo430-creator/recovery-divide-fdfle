@@ -1,0 +1,17 @@
+sensitivity,cohort,models,all_converged,all_coefficients_finite,maximum_abs_coefficient,warning_models
+primary,CHARLS,10,TRUE,TRUE,24.737490695502,10
+primary,ELSA,10,TRUE,TRUE,4.53479108674107,10
+primary,HRS,10,TRUE,TRUE,5.09817617805108,10
+primary,MHAS,10,TRUE,TRUE,20.712507764412,10
+unweighted,CHARLS,5,TRUE,TRUE,24.5315675797638,0
+unweighted,ELSA,5,TRUE,TRUE,4.03131643123108,0
+unweighted,HRS,5,TRUE,TRUE,4.65334568349223,0
+unweighted,MHAS,5,TRUE,TRUE,20.5244154735261,0
+interval_1_to_3_years,CHARLS,5,TRUE,TRUE,24.5313346506974,5
+interval_1_to_3_years,ELSA,5,TRUE,TRUE,15.5054940726596,5
+interval_1_to_3_years,HRS,5,TRUE,TRUE,5.67702712779481,5
+interval_1_to_3_years,MHAS,5,TRUE,TRUE,21.0376208849399,5
+exclude_explicit_proxy,CHARLS,5,TRUE,TRUE,24.5592908686147,5
+exclude_explicit_proxy,ELSA,5,TRUE,TRUE,4.61327936512644,5
+exclude_explicit_proxy,HRS,5,TRUE,TRUE,4.34164710523689,5
+exclude_explicit_proxy,MHAS,5,TRUE,TRUE,20.712507764412,5

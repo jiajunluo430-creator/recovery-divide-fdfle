@@ -1,0 +1,5 @@
+cohort,implementations,all_dfle_gaps_adverse,all_recovery_relapse_directions_match_primary,all_recovery_relapse_directions_adverse,minimum_absolute_recovery_relapse_years,maximum_absolute_recovery_relapse_years,all_implementations_meet_adverse_0_50y,cohort_robustness_gate
+CHARLS,4,TRUE,TRUE,TRUE,1.01885872934966,1.23395916021997,TRUE,TRUE
+ELSA,4,TRUE,TRUE,TRUE,1.26416193846336,1.31597837463688,TRUE,TRUE
+HRS,4,TRUE,TRUE,TRUE,0.716949084332708,1.20801191110219,TRUE,TRUE
+MHAS,4,TRUE,FALSE,FALSE,0.0359524200600385,0.297449746318812,FALSE,FALSE

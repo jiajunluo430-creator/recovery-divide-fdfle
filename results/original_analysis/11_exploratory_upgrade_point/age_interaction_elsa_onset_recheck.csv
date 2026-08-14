@@ -1,0 +1,2 @@
+module,cohort,process,rows,persons,events,converged,iterations,finite_coefficients,coefficient_abs_max,warning_n,warnings,status,formula
+wealth_age_varying,ELSA,onset,34410,9160,3038,TRUE,6,FALSE,Inf,1,non-integer #successes in a binomial glm!,STOP_SECOND_IDENTICAL_FAILURE,"event ~ ses + ns(age_model, knots = c(70, 80, 90), Boundary.knots = c(60,      95)) + ses:age_interaction + sex_factor + period_factor +      proxy_factor + offset(log(interval_years))"

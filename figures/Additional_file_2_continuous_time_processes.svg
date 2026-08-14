@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="170.000mm" height="235.385mm" viewBox="0 0 520 720" data-final-width-mm="170.0">
+<style><![CDATA[
+      text { font-family: Arial, Helvetica, sans-serif; fill: #202428; }
+      .panel-label { font-size: 12.409px; font-weight: 700; }
+      .facet-title { font-size: 9.928px; font-weight: 700; }
+      .label { font-size: 8.848px; }
+      .small { font-size: 8.417px; }
+      .tiny { font-size: 7.877px; }
+      .micro { font-size: 7.554px; }
+      .state-main { font-size: 9.172px; font-weight: 700; }
+      .state-sub { font-size: 7.554px; fill: #525960; }
+      .axis { stroke: #525960; stroke-width: 0.863; fill: none; }
+      .grid { stroke: #DCE0E3; stroke-width: 0.486; fill: none; }
+      .separator { stroke: #C8CDD1; stroke-width: 0.540; fill: none; }
+      .zero { stroke: #252A2E; stroke-width: 0.971; fill: none; }
+      .ci { stroke-width: 1.295; fill: none; stroke-linecap: round; }
+      .transition { stroke-width: 1.187; fill: none; }
+    ]]></style>
+<g id="panel_A">
+<g id="panel_A_axis">
+<line id="A_grid_1" x1="207.33" y1="88.00" x2="207.33" y2="556.00" class="grid" />
+<line id="A_grid_2" x1="321.32" y1="88.00" x2="321.32" y2="556.00" class="zero" />
+<line id="A_grid_3" x1="435.32" y1="88.00" x2="435.32" y2="556.00" class="grid" />
+<line id="A_grid_4" x1="502.00" y1="88.00" x2="502.00" y2="556.00" class="grid" />
+<line id="A_xaxis" x1="190.00" y1="556.00" x2="502.00" y2="556.00" class="axis" />
+<line id="A_group_sep_6" x1="8.00" y1="204.68" x2="502.00" y2="204.68" class="separator" />
+<line id="A_group_sep_11" x1="8.00" y1="321.00" x2="502.00" y2="321.00" class="separator" />
+<line id="A_group_sep_16" x1="8.00" y1="437.32" x2="502.00" y2="437.32" class="separator" />
+</g>
+<g id="panel_A_data">
+<line id="A_ci_1" x1="345.46" y1="100.00" x2="380.07" y2="100.00" class="ci" stroke="#4E9085"/>
+<line id="A_cap_l_1" x1="345.46" y1="97.00" x2="345.46" y2="103.00" class="ci" stroke="#4E9085"/>
+<line id="A_cap_h_1" x1="380.07" y1="97.00" x2="380.07" y2="103.00" class="ci" stroke="#4E9085"/>
+<circle id="A_point_1" cx="362.77" cy="100.00" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_2" x1="304.09" y1="123.26" x2="336.53" y2="123.26" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_2" x1="304.09" y1="120.26" x2="304.09" y2="126.26" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_2" x1="336.53" y1="120.26" x2="336.53" y2="126.26" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_2" cx="320.31" cy="123.26" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_3" x1="341.96" y1="146.53" x2="389.23" y2="146.53" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_l_3" x1="341.96" y1="143.53" x2="341.96" y2="149.53" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_h_3" x1="389.23" y1="143.53" x2="389.23" y2="149.53" class="ci" stroke="#6F5AA8"/>
+<circle id="A_point_3" cx="365.60" cy="146.53" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_4" x1="298.38" y1="169.79" x2="346.44" y2="169.79" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_l_4" x1="298.38" y1="166.79" x2="298.38" y2="172.79" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_h_4" x1="346.44" y1="166.79" x2="346.44" y2="172.79" class="ci" stroke="#B55B7A"/>
+<circle id="A_point_4" cx="322.41" cy="169.79" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_5" x1="210.12" y1="193.05" x2="446.12" y2="193.05" class="ci" stroke="#718146"/>
+<line id="A_cap_l_5" x1="210.12" y1="190.05" x2="210.12" y2="196.05" class="ci" stroke="#718146"/>
+<line id="A_cap_h_5" x1="446.12" y1="190.05" x2="446.12" y2="196.05" class="ci" stroke="#718146"/>
+<circle id="A_point_5" cx="328.12" cy="193.05" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_6" x1="415.18" y1="216.32" x2="464.65" y2="216.32" class="ci" stroke="#4E9085"/>
+<line id="A_cap_l_6" x1="415.18" y1="213.32" x2="415.18" y2="219.32" class="ci" stroke="#4E9085"/>
+<line id="A_cap_h_6" x1="464.65" y1="213.32" x2="464.65" y2="219.32" class="ci" stroke="#4E9085"/>
+<circle id="A_point_6" cx="439.92" cy="216.32" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_7" x1="240.33" y1="239.58" x2="291.27" y2="239.58" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_7" x1="240.33" y1="236.58" x2="240.33" y2="242.58" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_7" x1="291.27" y1="236.58" x2="291.27" y2="242.58" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_7" cx="265.80" cy="239.58" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_8" x1="344.84" y1="262.84" x2="414.59" y2="262.84" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_l_8" x1="344.84" y1="259.84" x2="344.84" y2="265.84" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_h_8" x1="414.59" y1="259.84" x2="414.59" y2="265.84" class="ci" stroke="#6F5AA8"/>
+<circle id="A_point_8" cx="379.71" cy="262.84" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_9" x1="366.43" y1="286.11" x2="440.37" y2="286.11" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_l_9" x1="366.43" y1="283.11" x2="366.43" y2="289.11" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_h_9" x1="440.37" y1="283.11" x2="440.37" y2="289.11" class="ci" stroke="#B55B7A"/>
+<circle id="A_point_9" cx="403.40" cy="286.11" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_10" x1="274.04" y1="309.37" x2="479.19" y2="309.37" class="ci" stroke="#718146"/>
+<line id="A_cap_l_10" x1="274.04" y1="306.37" x2="274.04" y2="312.37" class="ci" stroke="#718146"/>
+<line id="A_cap_h_10" x1="479.19" y1="306.37" x2="479.19" y2="312.37" class="ci" stroke="#718146"/>
+<circle id="A_point_10" cx="376.61" cy="309.37" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_11" x1="369.98" y1="332.63" x2="410.79" y2="332.63" class="ci" stroke="#4E9085"/>
+<line id="A_cap_l_11" x1="369.98" y1="329.63" x2="369.98" y2="335.63" class="ci" stroke="#4E9085"/>
+<line id="A_cap_h_11" x1="410.79" y1="329.63" x2="410.79" y2="335.63" class="ci" stroke="#4E9085"/>
+<circle id="A_point_11" cx="390.39" cy="332.63" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_12" x1="233.15" y1="355.89" x2="279.16" y2="355.89" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_12" x1="233.15" y1="352.89" x2="233.15" y2="358.89" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_12" x1="279.16" y1="352.89" x2="279.16" y2="358.89" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_12" cx="256.15" cy="355.89" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_13" x1="307.32" y1="379.16" x2="365.00" y2="379.16" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_l_13" x1="307.32" y1="376.16" x2="307.32" y2="382.16" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_h_13" x1="365.00" y1="376.16" x2="365.00" y2="382.16" class="ci" stroke="#6F5AA8"/>
+<circle id="A_point_13" cx="336.16" cy="379.16" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_14" x1="313.50" y1="402.42" x2="354.38" y2="402.42" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_l_14" x1="313.50" y1="399.42" x2="313.50" y2="405.42" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_h_14" x1="354.38" y1="399.42" x2="354.38" y2="405.42" class="ci" stroke="#B55B7A"/>
+<circle id="A_point_14" cx="333.94" cy="402.42" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_15" x1="361.95" y1="425.68" x2="454.71" y2="425.68" class="ci" stroke="#718146"/>
+<line id="A_cap_l_15" x1="361.95" y1="422.68" x2="361.95" y2="428.68" class="ci" stroke="#718146"/>
+<line id="A_cap_h_15" x1="454.71" y1="422.68" x2="454.71" y2="428.68" class="ci" stroke="#718146"/>
+<circle id="A_point_15" cx="408.33" cy="425.68" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_16" x1="333.00" y1="448.95" x2="367.23" y2="448.95" class="ci" stroke="#4E9085"/>
+<line id="A_cap_l_16" x1="333.00" y1="445.95" x2="333.00" y2="451.95" class="ci" stroke="#4E9085"/>
+<line id="A_cap_h_16" x1="367.23" y1="445.95" x2="367.23" y2="451.95" class="ci" stroke="#4E9085"/>
+<circle id="A_point_16" cx="350.12" cy="448.95" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_17" x1="301.65" y1="472.21" x2="340.40" y2="472.21" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_17" x1="301.65" y1="469.21" x2="301.65" y2="475.21" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_17" x1="340.40" y1="469.21" x2="340.40" y2="475.21" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_17" cx="321.03" cy="472.21" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_18" x1="301.66" y1="495.47" x2="362.30" y2="495.47" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_l_18" x1="301.66" y1="492.47" x2="301.66" y2="498.47" class="ci" stroke="#6F5AA8"/>
+<line id="A_cap_h_18" x1="362.30" y1="492.47" x2="362.30" y2="498.47" class="ci" stroke="#6F5AA8"/>
+<circle id="A_point_18" cx="331.98" cy="495.47" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_19" x1="321.15" y1="518.74" x2="367.64" y2="518.74" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_l_19" x1="321.15" y1="515.74" x2="321.15" y2="521.74" class="ci" stroke="#B55B7A"/>
+<line id="A_cap_h_19" x1="367.64" y1="515.74" x2="367.64" y2="521.74" class="ci" stroke="#B55B7A"/>
+<circle id="A_point_19" cx="344.40" cy="518.74" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_20" x1="319.31" y1="542.00" x2="395.14" y2="542.00" class="ci" stroke="#718146"/>
+<line id="A_cap_l_20" x1="319.31" y1="539.00" x2="319.31" y2="545.00" class="ci" stroke="#718146"/>
+<line id="A_cap_h_20" x1="395.14" y1="539.00" x2="395.14" y2="545.00" class="ci" stroke="#718146"/>
+<circle id="A_point_20" cx="357.22" cy="542.00" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+</g>
+<g id="panel_A_labels">
+<text id="A_tick_1" x="207.33" y="573.00" class="micro" text-anchor="middle" >0.5</text>
+<text id="A_tick_2" x="321.32" y="573.00" class="micro" text-anchor="middle" >1</text>
+<text id="A_tick_3" x="435.32" y="573.00" class="micro" text-anchor="middle" >2</text>
+<text id="A_tick_4" x="502.00" y="573.00" class="micro" text-anchor="middle" >3</text>
+<text id="A_row_1" x="182.00" y="103.00" class="micro" text-anchor="end" >CHARLS  Onset</text>
+<text id="A_row_2" x="182.00" y="126.26" class="micro" text-anchor="end" >CHARLS  Recovery</text>
+<text id="A_row_3" x="182.00" y="149.53" class="micro" text-anchor="end" >CHARLS  Relapse</text>
+<text id="A_row_4" x="182.00" y="172.79" class="micro" text-anchor="end" >CHARLS  Post-diff. death</text>
+<text id="A_row_5" x="182.00" y="196.05" class="micro" text-anchor="end" >CHARLS  Pre-diff. death</text>
+<text id="A_row_6" x="182.00" y="219.32" class="micro" text-anchor="end" >ELSA  Onset</text>
+<text id="A_row_7" x="182.00" y="242.58" class="micro" text-anchor="end" >ELSA  Recovery</text>
+<text id="A_row_8" x="182.00" y="265.84" class="micro" text-anchor="end" >ELSA  Relapse</text>
+<text id="A_row_9" x="182.00" y="289.11" class="micro" text-anchor="end" >ELSA  Post-diff. death</text>
+<text id="A_row_10" x="182.00" y="312.37" class="micro" text-anchor="end" >ELSA  Pre-diff. death</text>
+<text id="A_row_11" x="182.00" y="335.63" class="micro" text-anchor="end" >HRS  Onset</text>
+<text id="A_row_12" x="182.00" y="358.89" class="micro" text-anchor="end" >HRS  Recovery</text>
+<text id="A_row_13" x="182.00" y="382.16" class="micro" text-anchor="end" >HRS  Relapse</text>
+<text id="A_row_14" x="182.00" y="405.42" class="micro" text-anchor="end" >HRS  Post-diff. death</text>
+<text id="A_row_15" x="182.00" y="428.68" class="micro" text-anchor="end" >HRS  Pre-diff. death</text>
+<text id="A_row_16" x="182.00" y="451.95" class="micro" text-anchor="end" >MHAS  Onset</text>
+<text id="A_row_17" x="182.00" y="475.21" class="micro" text-anchor="end" >MHAS  Recovery</text>
+<text id="A_row_18" x="182.00" y="498.47" class="micro" text-anchor="end" >MHAS  Relapse</text>
+<text id="A_row_19" x="182.00" y="521.74" class="micro" text-anchor="end" >MHAS  Post-diff. death</text>
+<text id="A_row_20" x="182.00" y="545.00" class="micro" text-anchor="end" >MHAS  Pre-diff. death</text>
+<text id="A_xtitle" x="346.00" y="610.00" class="micro" text-anchor="middle" >Low-versus-high wealth intensity ratio (log scale)</text>
+</g>
+<g id="panel_A_legend">
+<rect id="A_legend_box_1" x="10.00" y="670.00" width="9.00" height="7.00" rx="0.00" fill="#4E9085" stroke="none" class="" />
+<text id="A_legend_text_1" x="23.00" y="677.00" class="micro" text-anchor="start" >Onset</text>
+<rect id="A_legend_box_2" x="100.00" y="670.00" width="9.00" height="7.00" rx="0.00" fill="#D56C1E" stroke="none" class="" />
+<text id="A_legend_text_2" x="113.00" y="677.00" class="micro" text-anchor="start" >Recovery</text>
+<rect id="A_legend_box_3" x="190.00" y="670.00" width="9.00" height="7.00" rx="0.00" fill="#6F5AA8" stroke="none" class="" />
+<text id="A_legend_text_3" x="203.00" y="677.00" class="micro" text-anchor="start" >Relapse</text>
+<rect id="A_legend_box_4" x="280.00" y="670.00" width="9.00" height="7.00" rx="0.00" fill="#B55B7A" stroke="none" class="" />
+<text id="A_legend_text_4" x="293.00" y="677.00" class="micro" text-anchor="start" >Post death</text>
+<rect id="A_legend_box_5" x="370.00" y="670.00" width="9.00" height="7.00" rx="0.00" fill="#718146" stroke="none" class="" />
+<text id="A_legend_text_5" x="383.00" y="677.00" class="micro" text-anchor="start" >Pre death</text>
+</g>
+<g id="panel_A_annotations">
+<rect id="single_facet_strip" x="0.00" y="0.00" width="520.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="single_facet_title_1" x="12.00" y="25.00" class="facet-title" text-anchor="start" >Continuous-time process contrasts</text>
+<text id="single_facet_title_2" x="12.00" y="47.00" class="facet-title" text-anchor="start" >Focused secondary wealth contrast within lower education</text>
+</g>
+</g>
+</svg>

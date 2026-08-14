@@ -1,0 +1,5 @@
+cohort,module,stratum,female_minus_male_recovery_relapse,bootstrap_ci_low,bootstrap_ci_high,valid_replicates,validity_gate_pass,metric_validity_gate_pass,direction,magnitude_ge_0_50y,magnitude_ge_0_75y,bootstrap_interval_excludes_zero,interval_supported
+CHARLS,wealth_by_sex,female_minus_male,0.572670709465096,-0.789488349606836,2.11482218609281,496,TRUE,TRUE,more_adverse_recovery_relapse_contribution_in_men,TRUE,FALSE,FALSE,FALSE
+ELSA,wealth_by_sex,female_minus_male,-0.875211421220126,-1.44759007353788,-0.290678430737741,500,TRUE,TRUE,more_adverse_recovery_relapse_contribution_in_women,TRUE,TRUE,TRUE,TRUE
+HRS,wealth_by_sex,female_minus_male,-0.481285771791734,-0.884690117775491,-0.0526253174628526,500,TRUE,TRUE,more_adverse_recovery_relapse_contribution_in_women,FALSE,FALSE,TRUE,TRUE
+MHAS,wealth_by_sex,female_minus_male,0.682978989252176,-0.647891026101044,1.81995592635928,497,TRUE,TRUE,more_adverse_recovery_relapse_contribution_in_men,TRUE,FALSE,FALSE,FALSE

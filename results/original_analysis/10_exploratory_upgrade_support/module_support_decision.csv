@@ -1,0 +1,4 @@
+module,supported_cohorts,total_cohorts,decision
+sex,2,4,DESCRIPTIVE_OR_STOP
+joint_ses,1,4,DESCRIPTIVE_OR_STOP
+recovery_phase,2,4,DESCRIPTIVE_OR_STOP

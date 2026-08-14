@@ -1,0 +1,13 @@
+cohort,module,stratum,contrast,hazard_ratio,bootstrap_hr_ci_low,bootstrap_hr_ci_high,valid_replicates,validity_gate_pass,metric_validity_gate_pass,point_threshold_met,bootstrap_interval_support,cohort_phase_gate
+CHARLS,recovery_phase,early_recovery,low_vs_high_early_recovery,0.99197529436485,0.785239882313418,1.24920534851973,500,TRUE,TRUE,FALSE,FALSE,FALSE
+CHARLS,recovery_phase,sustained_recovery,low_vs_high_sustained_recovery,1.21503371987719,0.918543010325892,1.66868629921266,500,TRUE,TRUE,TRUE,FALSE,FALSE
+CHARLS,recovery_phase,sustained_vs_early_modification,sustained_vs_early_modification,1.22486288396443,0.848943356507195,1.86498210278033,500,TRUE,TRUE,TRUE,FALSE,FALSE
+ELSA,recovery_phase,early_recovery,low_vs_high_early_recovery,1.55929047315183,1.29712978501628,1.86909475614525,500,TRUE,TRUE,TRUE,TRUE,TRUE
+ELSA,recovery_phase,sustained_recovery,low_vs_high_sustained_recovery,1.51065959878931,1.23867688762763,1.82152390035878,500,TRUE,TRUE,TRUE,TRUE,TRUE
+ELSA,recovery_phase,sustained_vs_early_modification,sustained_vs_early_modification,0.968812177589838,0.74569802894258,1.26199240087437,500,TRUE,TRUE,FALSE,FALSE,FALSE
+HRS,recovery_phase,early_recovery,low_vs_high_early_recovery,1.3764166846055,1.2158463374139,1.55704588463221,500,TRUE,TRUE,TRUE,TRUE,TRUE
+HRS,recovery_phase,sustained_recovery,low_vs_high_sustained_recovery,1.29144296889834,1.11051219142109,1.47758371392489,500,TRUE,TRUE,TRUE,TRUE,TRUE
+HRS,recovery_phase,sustained_vs_early_modification,sustained_vs_early_modification,0.938264541066997,0.758584269417048,1.13163626768036,500,TRUE,TRUE,FALSE,FALSE,FALSE
+MHAS,recovery_phase,early_recovery,low_vs_high_early_recovery,0.982989327197532,0.677795667877099,1.43348091702316,500,TRUE,TRUE,FALSE,FALSE,FALSE
+MHAS,recovery_phase,sustained_recovery,low_vs_high_sustained_recovery,0.757380084271611,0.420845625793359,1.37153128468586,500,TRUE,TRUE,FALSE,FALSE,FALSE
+MHAS,recovery_phase,sustained_vs_early_modification,sustained_vs_early_modification,0.770486579372002,0.361847447328134,1.64835621501727,500,TRUE,TRUE,TRUE,FALSE,FALSE

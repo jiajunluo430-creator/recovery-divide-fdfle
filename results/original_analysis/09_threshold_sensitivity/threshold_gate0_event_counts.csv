@@ -1,0 +1,13 @@
+threshold,cohort,country,incident_events,incident_persons,recovery_events,recovery_persons,relapse_events,relapse_persons,disabled_deaths,total_deaths,impossible_transitions
+adl_only,CHARLS,China,3078,3078,2857,2656,1230,1198,948,1928,0
+adl_only,ELSA,England,3012,3012,3668,2988,1981,1641,1110,2255,0
+adl_only,HRS,United States,9255,9255,8382,6683,5332,4236,4347,9681,0
+adl_only,MHAS,Mexico,2514,2514,2246,2154,809,790,1002,3054,0
+at_least_two,CHARLS,China,2522,2522,2385,2206,900,885,975,1898,0
+at_least_two,ELSA,England,2425,2425,2165,1803,1152,969,946,2255,0
+at_least_two,HRS,United States,6902,6902,4149,3558,2556,2153,3966,9230,0
+at_least_two,MHAS,Mexico,1729,1729,1073,1045,346,344,804,2788,0
+permissive_partial,CHARLS,China,3175,3175,3716,3413,1726,1668,1232,1927,0
+permissive_partial,ELSA,England,3249,3249,3649,3018,2114,1752,1315,2255,0
+permissive_partial,HRS,United States,9165,9165,8528,6865,6121,4871,5735,9534,0
+permissive_partial,MHAS,Mexico,2837,2837,2211,2139,927,903,1672,3224,0

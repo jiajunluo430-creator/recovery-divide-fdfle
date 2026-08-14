@@ -1,0 +1,30 @@
+[
+    {
+        "File":  "Additional_file_2_continuous_time_processes.svg",
+        "TextFrames":  32,
+        "PlacedItems":  0,
+        "RasterItems":  0,
+        "Passed":  true
+    },
+    {
+        "File":  "Figure1_flow_and_multistate_framework.svg",
+        "TextFrames":  42,
+        "PlacedItems":  0,
+        "RasterItems":  0,
+        "Passed":  true
+    },
+    {
+        "File":  "Figure2_primary_gaps_and_absolute_years.svg",
+        "TextFrames":  29,
+        "PlacedItems":  0,
+        "RasterItems":  0,
+        "Passed":  true
+    },
+    {
+        "File":  "Figure3_decomposition_and_robustness.svg",
+        "TextFrames":  87,
+        "PlacedItems":  0,
+        "RasterItems":  0,
+        "Passed":  true
+    }
+]

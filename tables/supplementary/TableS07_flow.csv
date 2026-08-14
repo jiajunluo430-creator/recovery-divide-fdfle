@@ -1,0 +1,57 @@
+cohort,module,stage_order,stage,people,excluded_from_previous_stage
+CHARLS,primary_education,1,Observed functional state at age 60-95,14685,
+CHARLS,primary_education,2,At least one formal adjacent functional interval,12681,2004
+CHARLS,primary_education,3,Education observed and eligible,12680,1
+CHARLS,primary_wealth,1,Observed functional state at age 60-95,14685,
+CHARLS,primary_wealth,2,At least one formal adjacent functional interval,12681,2004
+CHARLS,primary_wealth,3,Wealth observed,11360,1321
+CHARLS,primary_wealth,4,At least one interval beginning on/after first wealth measure,11199,161
+CHARLS,primary_wealth,5,High or low within-wave wealth tertile,7306,3893
+CHARLS,focused_low_education_wealth,1,At least one formal adjacent functional interval,12681,
+CHARLS,focused_low_education_wealth,2,Low education,11556,1125
+CHARLS,focused_low_education_wealth,3,Wealth observed,10396,1160
+CHARLS,focused_low_education_wealth,4,At least one interval beginning on/after first wealth measure,10262,134
+CHARLS,focused_low_education_wealth,5,High or low within-wave wealth tertile,6628,3634
+CHARLS,focused_low_education_wealth,6,Household cluster identifier available,6628,0
+ELSA,primary_education,1,Observed functional state at age 60-95,17080,
+ELSA,primary_education,2,At least one formal adjacent functional interval,13781,3299
+ELSA,primary_education,3,Education observed and eligible,12634,1147
+ELSA,primary_wealth,1,Observed functional state at age 60-95,17080,
+ELSA,primary_wealth,2,At least one formal adjacent functional interval,13781,3299
+ELSA,primary_wealth,3,Wealth observed,13727,54
+ELSA,primary_wealth,4,At least one interval beginning on/after first wealth measure,13699,28
+ELSA,primary_wealth,5,High or low within-wave wealth tertile,9079,4620
+ELSA,focused_low_education_wealth,1,At least one formal adjacent functional interval,13781,
+ELSA,focused_low_education_wealth,2,Low education,4848,8933
+ELSA,focused_low_education_wealth,3,Wealth observed,4841,7
+ELSA,focused_low_education_wealth,4,At least one interval beginning on/after first wealth measure,4827,14
+ELSA,focused_low_education_wealth,5,High or low within-wave wealth tertile,3201,1626
+ELSA,focused_low_education_wealth,6,Household cluster identifier available,3201,0
+HRS,primary_education,1,Observed functional state at age 60-95,34180,
+HRS,primary_education,2,At least one formal adjacent functional interval,29432,4748
+HRS,primary_education,3,Education observed and eligible,29427,5
+HRS,primary_wealth,1,Observed functional state at age 60-95,34180,
+HRS,primary_wealth,2,At least one formal adjacent functional interval,29432,4748
+HRS,primary_wealth,3,Wealth observed,29432,0
+HRS,primary_wealth,4,At least one interval beginning on/after first wealth measure,29432,0
+HRS,primary_wealth,5,High or low within-wave wealth tertile,19906,9526
+HRS,focused_low_education_wealth,1,At least one formal adjacent functional interval,29432,
+HRS,focused_low_education_wealth,2,Low education,7818,21614
+HRS,focused_low_education_wealth,3,Wealth observed,7818,0
+HRS,focused_low_education_wealth,4,At least one interval beginning on/after first wealth measure,7818,0
+HRS,focused_low_education_wealth,5,High or low within-wave wealth tertile,5608,2210
+HRS,focused_low_education_wealth,6,Household cluster identifier available,5608,0
+MHAS,primary_education,1,Observed functional state at age 60-95,17778,
+MHAS,primary_education,2,At least one formal adjacent functional interval,13486,4292
+MHAS,primary_education,3,Education observed and eligible,13380,106
+MHAS,primary_wealth,1,Observed functional state at age 60-95,17778,
+MHAS,primary_wealth,2,At least one formal adjacent functional interval,13486,4292
+MHAS,primary_wealth,3,Wealth observed,13486,0
+MHAS,primary_wealth,4,At least one interval beginning on/after first wealth measure,13481,5
+MHAS,primary_wealth,5,High or low within-wave wealth tertile,8832,4649
+MHAS,focused_low_education_wealth,1,At least one formal adjacent functional interval,13486,
+MHAS,focused_low_education_wealth,2,Low education,12001,1485
+MHAS,focused_low_education_wealth,3,Wealth observed,12001,0
+MHAS,focused_low_education_wealth,4,At least one interval beginning on/after first wealth measure,11996,5
+MHAS,focused_low_education_wealth,5,High or low within-wave wealth tertile,7688,4308
+MHAS,focused_low_education_wealth,6,Household cluster identifier available,7688,0

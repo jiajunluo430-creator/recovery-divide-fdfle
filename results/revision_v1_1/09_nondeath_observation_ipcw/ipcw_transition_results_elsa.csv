@@ -1,0 +1,7 @@
+cohort,process,contrast,adjustment,intensity_ratio,ci_low,ci_high,robust_se,intervals,people,households,events,converged
+ELSA,onset,low_vs_high_wealth_within_low_education,adjacent_complete_case,1.87546366700702,1.59770065919036,2.20151625151476,0.0817808215732203,5702,1683,1487,747,TRUE
+ELSA,onset,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,1.88826685296192,1.59670219968675,2.23307245940679,0.0855709297645556,5702,1683,1487,747,TRUE
+ELSA,recovery,low_vs_high_wealth_within_low_education,adjacent_complete_case,0.720278882750101,0.597464137917341,0.868339429951709,0.0953797001964244,3586,1465,1316,897,TRUE
+ELSA,recovery,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,0.721278080132551,0.590153112509964,0.881537448251475,0.102368741681803,3586,1465,1316,897,TRUE
+ELSA,relapse,low_vs_high_wealth_within_low_education,adjacent_complete_case,1.63765874484296,1.31393886020986,2.04113467207468,0.112366447849427,1425,652,613,545,TRUE
+ELSA,relapse,low_vs_high_wealth_within_low_education,interval_ipcw_1_99_truncated,1.56011897495658,1.23684497938531,1.96788704856869,0.118468529904001,1425,652,613,545,TRUE

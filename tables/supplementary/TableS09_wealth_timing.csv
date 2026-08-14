@@ -1,0 +1,5 @@
+cohort,country,entrants,wealth_observed_n,wealth_missing_n,wealth_missing_percent,wealth_after_entry_n,wealth_after_entry_percent_all,wealth_after_first_difficulty_n,wealth_after_first_difficulty_percent_all,median_delay_years_observed,p25_delay_years_observed,p75_delay_years_observed
+CHARLS,China,14685,11894,2791,19.0057882192714,2781,18.9376915219612,1004,6.83690840994212,0,0,0
+ELSA,England,17080,15875,1205,7.05503512880562,186,1.08899297423888,37,0.216627634660422,0,0,0
+HRS,United States,34180,34180,0,0,0,0,0,0,0,0,0
+MHAS,Mexico,17778,17774,4,0.0224997187535156,11,0.0618742265721679,0,0,0,0,0

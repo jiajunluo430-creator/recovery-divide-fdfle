@@ -1,0 +1,5 @@
+cohort,entrants,education_missing_n,education_missing_percent,wealth_missing_n,wealth_missing_percent,household_missing_among_wealth_observed_n,design_stratum_available_among_wealth_observed_n,design_psu_available_among_wealth_observed_n
+CHARLS,14685,5,0.0340483486550902,2791,19.0057882192714,0,0,0
+ELSA,17080,2131,12.4765807962529,1205,7.05503512880562,0,15838,15875
+HRS,34180,13,0.0380339379754242,0,0,0,34180,34180
+MHAS,17778,222,1.24873439082011,4,0.0224997187535156,0,0,0

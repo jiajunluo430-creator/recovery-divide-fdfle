@@ -1,0 +1,3 @@
+component,max_abs_difference,tolerance,passed
+dfle_gap,1.15463194561016e-14,1e-08,TRUE
+shapley_contribution,1.15463194561016e-14,1e-08,TRUE

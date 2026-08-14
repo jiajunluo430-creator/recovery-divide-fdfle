@@ -1,0 +1,18 @@
+{
+  "package": "Direction4 BMC Medicine first-submission vector figures",
+  "generated_at": "2026-08-13 23:27:12 CDT",
+  "inputs": {
+    "table1": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/04_tables_v1_1/source_data/Table1_numeric_source.csv",
+    "education": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/04_primary_education_inference/bootstrap_percentile_ci_summary.csv",
+    "wealth": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/04_primary_wealth_inference/bootstrap_percentile_ci_summary.csv",
+    "focused": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/04_lowedu_inference/bootstrap_percentile_ci_summary.csv",
+    "adl": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/04_lowedu_inference_adl_only/bootstrap_percentile_ci_summary.csv",
+    "two": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/04_lowedu_inference_at_least_two/bootstrap_percentile_ci_summary.csv",
+    "continuous": "${RECOVERY_DIVIDE_ROOT}/09_manuscript_bmc_medicine_v1/revision_round_1/03_outputs/15_consolidated_evidence/continuous_time_process_intensity_ratios.csv"
+  },
+  "assembled_svgs": ["Figure1_flow_and_multistate_framework.svg", "Figure2_primary_gaps_and_absolute_years.svg", "Figure3_decomposition_and_robustness.svg"],
+  "panel_svgs": ["Figure1A_cohort_flow.svg", "Figure1B_state_framework.svg", "Figure2A_primary_fdfle_gaps.svg", "Figure2B_focused_absolute_years.svg", "Figure3A_primary_post_onset.svg", "Figure3B_six_block_decomposition.svg", "Figure3C_definition_sensitivity.svg"],
+  "source_tables": ["AdditionalFile2_continuous_time_intensity_ratios.csv", "Figure1A_cohort_flow.csv", "Figure2A_primary_education_wealth_fdfle_gaps.csv", "Figure2B_focused_absolute_life_years.csv", "Figure3A_primary_post_onset_contributions.csv", "Figure3B_six_block_decomposition_with_ci.csv", "Figure3C_functional_definition_sensitivity.csv"],
+  "svg_contract": "live Arial text; semantic panel/axis/data/labels/legend/annotations groups; vector primitives; no image elements",
+  "participant_level_data_opened": false
+}

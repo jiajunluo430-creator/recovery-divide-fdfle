@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the archived software release."
+title: "Where socioeconomic gaps in functional-difficulty-free life expectancy arise: reproducibility materials"
+type: software
+version: 1.0.0
+date-released: 2026-08-14
+authors:
+  - family-names: Luo
+    given-names: Jiajun
+  - family-names: Chen
+    given-names: Qinglong
+  - family-names: Liu
+    given-names: Jing
+  - family-names: Wang
+    given-names: Ziwei
+  - family-names: Lu
+    given-names: Fanghui
+  - family-names: Liang
+    given-names: Xiaolong
+repository-code: "https://github.com/jiajunluo430-creator/recovery-divide-fdfle"
+license: MIT
+keywords:
+  - functional-difficulty-free life expectancy
+  - socioeconomic inequality
+  - multistate model
+  - recovery
+  - relapse
+  - healthy ageing

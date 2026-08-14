@@ -1,0 +1,241 @@
+cohort,exposure,process,rows,persons,events,low_rows,low_events,high_rows,high_events,converged,iterations,coefficient_abs_max,warning_n,warnings,sensitivity
+CHARLS,education,death_post,16228,7173,1419,15573,1370,120,15,TRUE,6,4.82973585695788,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,education,death_pre,16621,7788,505,14926,470,384,12,TRUE,7,5.97435332929354,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,education,onset,16274,7621,3090,14631,2927,369,40,TRUE,5,2.93721590824041,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,education,recovery,11421,6404,3598,10980,3442,85,33,TRUE,6,3.13717080407486,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,education,relapse,4483,3088,1654,4281,1593,30,9,TRUE,5,1.64655665460531,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,wealth,death_post,12993,5440,527,5795,275,2759,104,TRUE,21,24.4356272633216,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,wealth,death_pre,14052,6192,200,4277,63,4908,65,TRUE,22,25.3356717779409,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,wealth,onset,13845,6109,2542,4216,1007,4829,652,TRUE,5,2.45613918567109,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,wealth,recovery,8884,4857,3088,4110,1304,1798,707,TRUE,5,2.06197443238401,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,wealth,relapse,3940,2674,1462,1595,625,932,308,TRUE,5,1.3305919074842,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,education,death_post,9994,4069,966,5696,645,807,62,TRUE,6,3.64837728784793,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,education,death_pre,18095,6978,489,7201,278,2764,52,TRUE,7,5.10193202147298,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,education,onset,31728,8474,2773,9838,1200,6308,361,TRUE,6,3.50078744739833,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,education,recovery,11620,4986,3131,6123,1396,1085,363,TRUE,5,2.70353481897193,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,education,relapse,6116,2472,1824,2317,843,844,183,TRUE,6,1.89692847989122,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,wealth,death_post,11023,4448,1044,4385,514,2949,229,TRUE,6,3.80081611077411,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,wealth,death_pre,19821,7617,550,4444,178,8548,174,TRUE,7,5.09801817185331,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,wealth,onset,34410,9160,3038,6972,927,15695,1053,TRUE,6,3.43359991846235,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,wealth,recovery,12789,5444,3459,5216,1188,3343,1083,TRUE,5,2.80353401903289,1,non-integer #successes in a binomial glm!,primary_reproduction
+ELSA,wealth,relapse,6736,2727,2024,2068,735,2275,586,TRUE,6,1.99856118885426,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,education,death_post,56575,16250,6286,18896,2467,7601,715,TRUE,7,3.1039877421321,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,education,death_pre,101404,23449,3334,18954,915,23597,532,TRUE,7,5.79440035147544,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,education,onset,93964,21722,8587,17319,2457,22084,1405,TRUE,6,3.28557884351859,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,education,recovery,31423,13414,7762,11608,2336,3809,1148,TRUE,6,2.57572103931946,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,education,relapse,18980,6877,5201,5003,1634,3008,685,TRUE,5,2.07088253699345,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,wealth,death_post,56577,16251,6287,25845,2843,13498,1480,TRUE,8,3.19319391757349,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,wealth,death_pre,101435,23458,3337,26767,1125,39780,1076,TRUE,7,5.75138981193908,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,wealth,onset,93990,21727,8588,24758,2991,36963,2698,TRUE,6,3.25980305509307,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,wealth,recovery,31425,13415,7762,15191,3326,6990,2023,TRUE,6,2.48329951207642,1,non-integer #successes in a binomial glm!,primary_reproduction
+HRS,wealth,relapse,18980,6877,5201,7912,2381,4984,1234,TRUE,5,1.99181255517961,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,education,death_post,9310,5417,1230,8803,1180,363,33,TRUE,7,4.14715350191976,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,education,death_pre,20346,11520,994,17809,897,1984,73,TRUE,7,5.35122685756376,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,education,onset,17780,10285,2387,15663,2223,1661,125,TRUE,17,16.7537929609209,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,education,recovery,5768,4220,1901,5510,1793,190,78,TRUE,17,18.0127422980274,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,education,relapse,2232,1619,748,2093,714,93,23,TRUE,17,20.5032878032785,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,wealth,death_post,9346,5443,1235,2945,406,3081,381,TRUE,7,4.00028794419877,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,wealth,death_pre,20485,11612,1000,5573,288,7864,345,TRUE,7,5.5508693522065,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,wealth,onset,17884,10354,2399,4903,736,6813,824,TRUE,17,16.7534490812728,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,wealth,recovery,5793,4242,1913,1856,618,1871,625,TRUE,17,18.0511055746583,1,non-integer #successes in a binomial glm!,primary_reproduction
+MHAS,wealth,relapse,2239,1625,750,735,259,714,247,TRUE,17,20.0212138256272,1,non-integer #successes in a binomial glm!,primary_reproduction
+CHARLS,education,death_post,16228,7173,1419,15573,1370,120,15,TRUE,6,4.67084665124242,0,"",unweighted
+CHARLS,education,death_pre,16621,7788,505,14926,470,384,12,TRUE,7,5.90531034885838,0,"",unweighted
+CHARLS,education,onset,16274,7621,3090,14631,2927,369,40,TRUE,5,2.83100108118932,0,"",unweighted
+CHARLS,education,recovery,11421,6404,3598,10980,3442,85,33,TRUE,5,2.97304902309745,0,"",unweighted
+CHARLS,education,relapse,4483,3088,1654,4281,1593,30,9,TRUE,5,1.63334864709297,0,"",unweighted
+CHARLS,wealth,death_post,12993,5440,527,5795,275,2759,104,TRUE,21,24.3025103772016,0,"",unweighted
+CHARLS,wealth,death_pre,14052,6192,200,4277,63,4908,65,TRUE,22,25.2192348189847,0,"",unweighted
+CHARLS,wealth,onset,13845,6109,2542,4216,1007,4829,652,TRUE,5,2.4559966108434,0,"",unweighted
+CHARLS,wealth,recovery,8884,4857,3088,4110,1304,1798,707,TRUE,5,1.88486333328125,0,"",unweighted
+CHARLS,wealth,relapse,3940,2674,1462,1595,625,932,308,TRUE,5,1.43940241891287,0,"",unweighted
+ELSA,education,death_post,9994,4069,966,5696,645,807,62,TRUE,6,3.5177407095548,0,"",unweighted
+ELSA,education,death_pre,18095,6978,489,7201,278,2764,52,TRUE,8,5.14137544374483,0,"",unweighted
+ELSA,education,onset,31728,8474,2773,9838,1200,6308,361,TRUE,6,3.51307523239923,0,"",unweighted
+ELSA,education,recovery,11620,4986,3131,6123,1396,1085,363,TRUE,5,2.69386826778997,0,"",unweighted
+ELSA,education,relapse,6116,2472,1824,2317,843,844,183,TRUE,5,1.9366099360016,0,"",unweighted
+ELSA,wealth,death_post,11023,4448,1044,4385,514,2949,229,TRUE,6,3.70212040032426,0,"",unweighted
+ELSA,wealth,death_pre,19821,7617,550,4444,178,8548,174,TRUE,7,5.13787207625418,0,"",unweighted
+ELSA,wealth,onset,34410,9160,3038,6972,927,15695,1053,TRUE,6,3.47407253099642,0,"",unweighted
+ELSA,wealth,recovery,12789,5444,3459,5216,1188,3343,1083,TRUE,5,2.82458752019229,0,"",unweighted
+ELSA,wealth,relapse,6736,2727,2024,2068,735,2275,586,TRUE,6,1.88202376023812,0,"",unweighted
+HRS,education,death_post,56575,16250,6286,18896,2467,7601,715,TRUE,7,3.11423485821598,0,"",unweighted
+HRS,education,death_pre,101404,23449,3334,18954,915,23597,532,TRUE,7,5.5737117985582,0,"",unweighted
+HRS,education,onset,93964,21722,8587,17319,2457,22084,1405,TRUE,6,3.07054638276982,0,"",unweighted
+HRS,education,recovery,31423,13414,7762,11608,2336,3809,1148,TRUE,6,2.59271264640775,0,"",unweighted
+HRS,education,relapse,18980,6877,5201,5003,1634,3008,685,TRUE,5,1.87785668225045,0,"",unweighted
+HRS,wealth,death_post,56577,16251,6287,25845,2843,13498,1480,TRUE,8,3.1617104895626,0,"",unweighted
+HRS,wealth,death_pre,101435,23458,3337,26767,1125,39780,1076,TRUE,7,5.54054326129415,0,"",unweighted
+HRS,wealth,onset,93990,21727,8588,24758,2991,36963,2698,TRUE,6,3.08729653753765,0,"",unweighted
+HRS,wealth,recovery,31425,13415,7762,15191,3326,6990,2023,TRUE,6,2.44259328983096,0,"",unweighted
+HRS,wealth,relapse,18980,6877,5201,7912,2381,4984,1234,TRUE,5,1.83676983673647,0,"",unweighted
+MHAS,education,death_post,9310,5417,1230,8803,1180,363,33,TRUE,6,4.18749655704431,0,"",unweighted
+MHAS,education,death_pre,20346,11520,994,17809,897,1984,73,TRUE,6,5.32452794198842,0,"",unweighted
+MHAS,education,onset,17780,10285,2387,15663,2223,1661,125,TRUE,17,16.7347473623635,0,"",unweighted
+MHAS,education,recovery,5768,4220,1901,5510,1793,190,78,TRUE,18,18.8587257167804,0,"",unweighted
+MHAS,education,relapse,2232,1619,748,2093,714,93,23,TRUE,17,20.1173990718866,0,"",unweighted
+MHAS,wealth,death_post,9346,5443,1235,2945,406,3081,381,TRUE,6,3.97735251568794,0,"",unweighted
+MHAS,wealth,death_pre,20485,11612,1000,5573,288,7864,345,TRUE,6,5.20157947972008,0,"",unweighted
+MHAS,wealth,onset,17884,10354,2399,4903,736,6813,824,TRUE,17,16.744073017554,0,"",unweighted
+MHAS,wealth,recovery,5793,4242,1913,1856,618,1871,625,TRUE,18,18.862233220778,0,"",unweighted
+MHAS,wealth,relapse,2239,1625,750,735,259,714,247,TRUE,17,19.851315685066,0,"",unweighted
+CHARLS,education,death_post,16112,7083,1303,15459,1256,119,14,TRUE,6,5.43827659583587,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,education,death_pre,16578,7747,462,14886,430,384,12,TRUE,7,6.36285619168788,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,education,onset,15968,7461,3009,14352,2849,353,38,TRUE,5,2.84108887653033,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,education,recovery,11227,6321,3553,10797,3399,83,32,TRUE,6,3.34752725419116,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,education,relapse,4482,3087,1654,4280,1593,30,9,TRUE,5,1.64767515539842,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,wealth,death_post,12978,5438,512,5787,267,2756,101,TRUE,21,24.431902055608,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,wealth,death_pre,14050,6192,198,4277,63,4908,65,TRUE,22,25.3195988666179,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,wealth,onset,13650,6037,2491,4145,981,4764,643,TRUE,5,2.41360979853535,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,wealth,recovery,8784,4830,3055,4063,1287,1783,703,TRUE,5,2.09428317537628,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,wealth,relapse,3939,2673,1462,1594,625,932,308,TRUE,5,1.33166071894971,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,education,death_post,9989,4069,966,5692,645,807,62,TRUE,6,3.64621100894821,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,education,death_pre,18081,6975,489,7191,278,2761,52,TRUE,7,5.10469620192027,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,education,onset,29415,8361,2552,9278,1130,5725,313,TRUE,6,3.48587463426976,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,education,recovery,10797,4784,2947,5743,1334,990,336,TRUE,5,2.62970283972134,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,education,relapse,5548,2384,1640,2161,777,748,163,TRUE,6,1.825807903662,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,wealth,death_post,11018,4448,1044,4380,514,2949,229,TRUE,6,3.79878747536161,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,wealth,death_pre,19806,7614,550,4439,178,8545,174,TRUE,7,5.10188335475618,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,wealth,onset,31934,9040,2792,6504,862,14523,947,TRUE,6,3.37220750032683,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,wealth,recovery,11900,5227,3257,4841,1117,3112,1013,TRUE,5,2.68775945263463,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+ELSA,wealth,relapse,6110,2633,1817,1886,660,2046,519,TRUE,6,2.11665838328328,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,education,death_post,53707,15314,3418,17704,1275,7302,416,TRUE,6,4.12515146983632,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,education,death_pre,99972,23100,1902,18552,513,23380,315,TRUE,8,6.84101231146167,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,education,onset,89399,21083,7637,16126,2164,21212,1261,TRUE,6,3.28928289069947,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,education,recovery,28973,12748,7326,10581,2177,3535,1096,TRUE,6,2.60422721882878,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,education,relapse,17945,6590,4794,4689,1497,2855,630,TRUE,5,2.07257497365282,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,wealth,death_post,53709,15315,3419,24525,1523,12865,847,TRUE,6,4.24313155077509,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,wealth,death_pre,100001,23107,1903,26299,657,39321,617,TRUE,8,6.7839967545906,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,wealth,onset,89423,21088,7638,23513,2682,35217,2377,TRUE,6,3.24549113292665,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,wealth,recovery,28975,12749,7326,14027,3143,6438,1905,TRUE,6,2.50372353005636,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+HRS,wealth,relapse,17945,6590,4794,7492,2204,4700,1134,TRUE,5,1.95165518133812,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,education,death_post,4988,4005,879,4735,845,184,23,TRUE,7,4.54548351517236,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,education,death_pre,12682,9715,718,11192,639,1174,58,TRUE,6,5.66807283319805,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,education,onset,10997,8528,1450,9818,1363,933,68,TRUE,17,16.547113382376,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,education,recovery,3427,2942,1016,3284,959,108,41,TRUE,18,18.8119490108447,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,education,relapse,1034,945,330,972,318,41,7,TRUE,17,20.6822866497896,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,wealth,death_post,5006,4023,882,1597,294,1648,275,TRUE,7,4.33555893759712,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,wealth,death_pre,12743,9771,722,3419,198,4897,267,TRUE,7,5.92770222186862,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,wealth,onset,11039,8568,1452,3001,459,4164,476,TRUE,17,16.5626788026186,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,wealth,recovery,3443,2958,1024,1113,338,1113,331,TRUE,18,18.8357972099141,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+MHAS,wealth,relapse,1037,948,332,350,123,317,103,TRUE,17,20.1084827322437,1,non-integer #successes in a binomial glm!,interval_1_to_3_years
+CHARLS,education,death_post,16228,7173,1419,15573,1370,120,15,TRUE,6,4.82973585695788,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,education,death_pre,16621,7788,505,14926,470,384,12,TRUE,7,5.97435332929354,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,education,onset,16274,7621,3090,14631,2927,369,40,TRUE,5,2.93721590824041,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,education,recovery,11421,6404,3598,10980,3442,85,33,TRUE,6,3.13717080407486,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,education,relapse,4483,3088,1654,4281,1593,30,9,TRUE,5,1.64655665460531,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,wealth,death_post,12993,5440,527,5795,275,2759,104,TRUE,21,24.4356272633216,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,wealth,death_pre,14052,6192,200,4277,63,4908,65,TRUE,22,25.3356717779409,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,wealth,onset,13845,6109,2542,4216,1007,4829,652,TRUE,5,2.45613918567109,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,wealth,recovery,8884,4857,3088,4110,1304,1798,707,TRUE,5,2.06197443238401,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,wealth,relapse,3940,2674,1462,1595,625,932,308,TRUE,5,1.3305919074842,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,education,death_post,9652,3968,859,5471,578,778,55,TRUE,6,4.48722004062063,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,education,death_pre,17937,6935,483,7115,274,2748,52,TRUE,7,5.88483360222521,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,education,onset,31265,8386,2738,9639,1181,6236,357,TRUE,6,3.53914330236311,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,education,recovery,11125,4832,3092,5816,1374,1036,360,TRUE,5,2.29393039297991,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,education,relapse,6014,2437,1790,2267,826,831,180,TRUE,6,2.0615793180096,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,wealth,death_post,10651,4344,927,4232,470,2848,192,TRUE,6,4.73557576045288,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,wealth,death_pre,19651,7572,543,4409,177,8485,172,TRUE,7,6.04987925329415,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,wealth,onset,33921,9067,3001,6885,913,15482,1042,TRUE,6,3.53830643855067,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,wealth,recovery,12252,5283,3417,4989,1169,3201,1074,TRUE,5,2.6642306582841,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+ELSA,wealth,relapse,6630,2690,1990,2040,725,2244,577,TRUE,6,2.02249683002917,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,education,death_post,51217,14731,4735,16121,1716,7120,553,TRUE,6,3.98431496907909,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,education,death_pre,97445,22686,3172,17576,850,23005,522,TRUE,7,5.85647541947794,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,education,onset,90720,21082,8206,16160,2272,21609,1377,TRUE,6,3.39938294988848,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,education,recovery,27742,12143,7464,9696,2192,3475,1119,TRUE,5,2.32682899370447,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,education,relapse,18449,6697,5032,4717,1532,2963,676,TRUE,5,1.99408520675257,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,wealth,death_post,51219,14732,4736,23341,2179,12209,1108,TRUE,6,4.05284127786032,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,wealth,death_pre,97474,22694,3175,25680,1071,38244,1026,TRUE,7,5.86448819151697,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,wealth,onset,90745,21087,8207,23854,2847,35708,2577,TRUE,6,3.44502134813777,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,wealth,recovery,27744,12144,7464,13452,3198,6101,1928,TRUE,5,2.4204775829333,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+HRS,wealth,relapse,18449,6697,5032,7665,2284,4835,1200,TRUE,5,1.970610112972,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,education,death_post,9310,5417,1230,8803,1180,363,33,TRUE,7,4.14715350191976,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,education,death_pre,20346,11520,994,17809,897,1984,73,TRUE,7,5.35122685756376,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,education,onset,17780,10285,2387,15663,2223,1661,125,TRUE,17,16.7537929609209,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,education,recovery,5768,4220,1901,5510,1793,190,78,TRUE,17,18.0127422980274,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,education,relapse,2232,1619,748,2093,714,93,23,TRUE,17,20.5032878032785,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,wealth,death_post,9346,5443,1235,2945,406,3081,381,TRUE,7,4.00028794419877,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,wealth,death_pre,20485,11612,1000,5573,288,7864,345,TRUE,7,5.5508693522065,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,wealth,onset,17884,10354,2399,4903,736,6813,824,TRUE,17,16.7534490812728,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,wealth,recovery,5793,4242,1913,1856,618,1871,625,TRUE,17,18.0511055746583,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+MHAS,wealth,relapse,2239,1625,750,735,259,714,247,TRUE,17,20.0212138256272,1,non-integer #successes in a binomial glm!,exclude_explicit_proxy
+CHARLS,education,death_post,10753,5670,1047,10365,1011,89,12,TRUE,14,11.5570166194354,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+CHARLS,education,death_pre,12598,6813,418,11451,393,293,8,TRUE,14,7.33075081996724,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+CHARLS,education,onset,12255,6622,2492,11159,2379,279,30,TRUE,12,11.5469547370377,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,education,recovery,8039,5150,2587,7748,2478,68,27,TRUE,14,13.6517791773244,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,education,relapse,2393,1912,912,2308,887,16,5,TRUE,13,13.9758937373697,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,wealth,death_post,8137,4152,215,3770,110,1667,46,TRUE,22,52.3468093596525,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+CHARLS,wealth,death_pre,10441,5383,116,3385,37,3497,40,TRUE,23,28.8172423196148,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+CHARLS,wealth,onset,10238,5285,2005,3327,855,3419,481,TRUE,13,12.7926128072483,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,wealth,recovery,5904,3773,2188,2775,943,1186,504,TRUE,14,14.0411190303984,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,wealth,relapse,2066,1639,803,906,383,453,152,TRUE,13,14.1952516218236,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,education,death_post,9994,4069,966,5696,645,807,62,TRUE,6,3.64837728784793,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,education,death_pre,18095,6978,489,7201,278,2764,52,TRUE,7,5.10193202147298,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,education,onset,29547,8451,2582,9475,1155,5685,314,TRUE,6,3.54450763896181,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,education,recovery,11013,4882,2970,5917,1353,992,330,TRUE,5,2.72239007383141,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,education,relapse,5545,2405,1643,2183,785,733,158,TRUE,6,1.87607246146275,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,wealth,death_post,11023,4448,1044,4385,514,2949,229,TRUE,6,3.80081611077411,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,wealth,death_pre,19821,7617,550,4444,178,8548,174,TRUE,7,5.09801817185331,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,wealth,onset,32083,9136,2823,6605,879,14517,952,TRUE,6,3.43643391970638,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,wealth,recovery,12129,5331,3281,4981,1134,3149,1015,TRUE,5,2.66521193279626,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+ELSA,wealth,relapse,6108,2656,1820,1899,665,2031,518,TRUE,6,2.11996505934515,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,education,death_post,52259,16060,6148,17824,2426,6892,688,TRUE,17,11.1318918519288,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+HRS,education,death_pre,95281,23315,3270,18279,903,21667,518,TRUE,16,11.2399070386772,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+HRS,education,onset,87766,21516,8159,16652,2398,20096,1288,TRUE,14,13.6372876945689,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,education,recovery,29093,12915,7164,10990,2217,3474,1055,TRUE,16,15.3743311863082,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,education,relapse,16940,6603,4679,4549,1514,2624,592,TRUE,15,15.1436651316693,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,wealth,death_post,52261,16061,6149,23756,2796,12524,1435,TRUE,17,11.1347757691784,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+HRS,wealth,death_pre,95309,23324,3273,25106,1107,37428,1054,TRUE,17,11.640010523491,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+HRS,wealth,onset,87789,21521,8160,23101,2833,34569,2568,TRUE,14,13.7091814801683,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,wealth,recovery,29095,12916,7164,14005,3035,6484,1882,TRUE,16,15.3282376096116,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+HRS,wealth,relapse,16940,6603,4679,6998,2134,4507,1126,TRUE,15,15.2472798154263,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,education,death_post,6342,4455,896,6032,864,224,22,TRUE,18,8.84034063978844,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+MHAS,education,death_pre,15360,10308,756,13632,687,1350,51,TRUE,17,9.41842862337367,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+MHAS,education,onset,13442,9070,1781,12000,1685,1129,67,TRUE,18,17.753484726048,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,education,recovery,4215,3408,1489,4039,1404,131,61,TRUE,18,19.0295190061834,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,education,relapse,1173,985,356,1109,349,45,5,TRUE,18,21.6918513456046,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,wealth,death_post,6358,4469,900,2005,308,2100,272,TRUE,18,8.8896725383465,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+MHAS,wealth,death_pre,15438,10378,759,4129,220,5950,265,TRUE,17,9.73874655557282,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,exclude_pandemic_crossing
+MHAS,wealth,onset,13500,9123,1787,3635,549,5155,605,TRUE,18,17.7512487217123,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,wealth,recovery,4228,3421,1495,1359,468,1353,492,TRUE,18,19.0575818442003,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+MHAS,wealth,relapse,1175,987,356,389,128,370,114,TRUE,18,21.0021297224987,1,non-integer #successes in a binomial glm!,exclude_pandemic_crossing
+CHARLS,education,death_post,10753,5670,1047,10365,1011,89,12,TRUE,14,11.5570166194354,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+CHARLS,education,death_pre,12598,6813,418,11451,393,293,8,TRUE,14,7.33075081996724,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+CHARLS,education,onset,12255,6622,2492,11159,2379,279,30,TRUE,12,11.5469547370377,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+CHARLS,education,recovery,8039,5150,2587,7748,2478,68,27,TRUE,14,13.6517791773244,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+CHARLS,education,relapse,2393,1912,912,2308,887,16,5,TRUE,13,13.9758937373697,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+CHARLS,wealth,death_post,8137,4152,215,3770,110,1667,46,TRUE,22,52.3468093596525,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+CHARLS,wealth,death_pre,10441,5383,116,3385,37,3497,40,TRUE,23,28.8172423196148,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+CHARLS,wealth,onset,10238,5285,2005,3327,855,3419,481,TRUE,13,12.7926128072483,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+CHARLS,wealth,recovery,5904,3773,2188,2775,943,1186,504,TRUE,14,14.0411190303984,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+CHARLS,wealth,relapse,2066,1639,803,906,383,453,152,TRUE,13,14.1952516218236,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,education,death_post,9994,4069,966,5696,645,807,62,TRUE,6,3.64837728784793,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,education,death_pre,18095,6978,489,7201,278,2764,52,TRUE,7,5.10193202147298,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,education,onset,27246,7823,2423,9149,1110,4968,272,TRUE,6,3.62328047626339,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,education,recovery,10303,4538,2753,5714,1308,864,286,TRUE,5,2.69144341965452,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,education,relapse,5073,2247,1522,2080,759,634,144,TRUE,6,1.91385466405937,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,wealth,death_post,11023,4448,1044,4385,514,2949,229,TRUE,6,3.80081611077411,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,wealth,death_pre,19821,7617,550,4444,178,8548,174,TRUE,7,5.09801817185331,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,wealth,onset,29672,8494,2653,6228,841,13315,878,TRUE,6,3.50438888027897,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,wealth,recovery,11354,4956,3039,4700,1064,2916,925,TRUE,5,2.6600666519901,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+ELSA,wealth,relapse,5589,2478,1683,1767,618,1824,476,TRUE,6,2.03184868383341,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,education,death_post,47650,14565,5714,16766,2308,6102,626,TRUE,17,11.0808311564863,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+HRS,education,death_pre,88940,21772,3100,17642,876,19583,480,TRUE,17,11.3572962822826,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+HRS,education,onset,82616,20200,7831,16155,2335,18342,1197,TRUE,14,13.6639657447445,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,education,recovery,27279,12078,6686,10537,2124,3160,946,TRUE,16,15.3822201605306,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,education,relapse,15204,5865,4233,4216,1426,2301,516,TRUE,15,15.1636540558892,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,wealth,death_post,47652,14566,5715,21464,2583,11548,1332,TRUE,17,11.0844893717115,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+HRS,wealth,death_pre,88965,21781,3103,23412,1038,34993,1008,TRUE,17,11.6495312273044,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+HRS,wealth,onset,82637,20205,7832,21740,2715,32577,2455,TRUE,14,13.7293525635081,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,wealth,recovery,27281,12079,6686,13029,2798,6144,1792,TRUE,16,15.345765921367,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+HRS,wealth,relapse,15204,5865,4233,6164,1885,4103,1039,TRUE,15,15.2660384397813,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,education,death_post,6342,4455,896,6032,864,224,22,TRUE,18,8.84034063978844,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+MHAS,education,death_pre,15360,10308,756,13632,687,1350,51,TRUE,17,9.41842862337367,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+MHAS,education,onset,13442,9070,1781,12000,1685,1129,67,TRUE,18,17.753484726048,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,education,recovery,4215,3408,1489,4039,1404,131,61,TRUE,18,19.0295190061834,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,education,relapse,1173,985,356,1109,349,45,5,TRUE,18,21.6918513456046,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,wealth,death_post,6358,4469,900,2005,308,2100,272,TRUE,18,8.8896725383465,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+MHAS,wealth,death_pre,15438,10378,759,4129,220,5950,265,TRUE,17,9.73874655557282,2,non-integer #successes in a binomial glm! | glm.fit: fitted probabilities numerically 0 or 1 occurred,pre_pandemic_end_before_2020
+MHAS,wealth,onset,13500,9123,1787,3635,549,5155,605,TRUE,18,17.7512487217123,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,wealth,recovery,4228,3421,1495,1359,468,1353,492,TRUE,18,19.0575818442003,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020
+MHAS,wealth,relapse,1175,987,356,389,128,370,114,TRUE,18,21.0021297224987,1,non-integer #successes in a binomial glm!,pre_pandemic_end_before_2020

@@ -1,0 +1,2 @@
+cohort,source_path,requested_variables,available_variables,missing_schema_n,missing_schema
+MHAS,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/DATA/MHAS/H_MHAS_d.dta,55,55,0,""

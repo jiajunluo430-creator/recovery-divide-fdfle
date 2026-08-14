@@ -1,0 +1,2 @@
+supported_cohorts,required_supported_cohorts,module_decision
+2,3,STOP_TWO_OR_MORE_COHORT_FAILURES

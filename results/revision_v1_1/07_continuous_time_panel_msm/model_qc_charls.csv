@@ -1,0 +1,2 @@
+cohort,model,observations,transition_intervals,people,episodes,exact_deaths,parameters,minus2loglik,optimizer_convergence,optimizer_message,hessian_standard_errors_found,max_absolute_score,calibration_pearson_sum,calibration_absolute_count_error,calibration_total_observed,calibration_total_expected
+CHARLS,continuous_time_panel_markov_age_sex_adjusted,22819,16058,6641,6761,1047,32,26958.6685956538,0,"",TRUE,1.24496034788074,934.73480046367,2148.12240417109,16058,16058

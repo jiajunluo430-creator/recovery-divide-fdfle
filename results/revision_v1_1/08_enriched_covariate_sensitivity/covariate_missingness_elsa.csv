@@ -1,0 +1,3 @@
+wealth3,people,partnered_missing_n,partnered_missing_percent,any_chronic_item_missing_n,any_chronic_item_missing_percent,rural_unknown_n,rural_unknown_percent,race_unknown_n,race_unknown_percent,insurance_unknown_n,insurance_unknown_percent,chronic_count_mean,chronic_count_sd,cohort,covariate_measurement,insurance_semantics
+low,2801,1,0.0357015351660121,3,0.107104605498036,2801,100,0,0,2,0.0714030703320243,1.16605103233666,0.951937042487984,ELSA,at_first_valid_wealth_wave,private_health_insurance_indicator
+high,1026,0,0,2,0.194931773879142,1026,100,0,0,0,0,0.884950699833501,0.882855863219286,ELSA,at_first_valid_wealth_wave,private_health_insurance_indicator

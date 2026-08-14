@@ -1,0 +1,5 @@
+module,stratum,cohort,recovery_relapse_contribution_years,dfle_gap,recovery_relapse_percent,point_threshold_met,point_compensation_pilot_positive
+wealth_within_low_education,all,CHARLS,-1.01885872934966,-3.27849613801362,31.0770147793118,TRUE,TRUE
+wealth_within_low_education,all,HRS,-0.808023636000098,-3.68426088644325,21.9317703307421,TRUE,TRUE
+wealth_within_low_education,all,ELSA,-1.28295410918204,-5.33052129944052,24.06807959508,TRUE,TRUE
+wealth_within_low_education,all,MHAS,0.297449746318812,-1.06749600790022,-27.8642490573713,FALSE,FALSE

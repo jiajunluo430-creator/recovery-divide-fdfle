@@ -1,0 +1,13 @@
+cohort,module,target_replicates,qc_replicates,valid_replicates,failed_replicates,failure_messages,median_unique_sampled_people,median_elapsed_seconds,result_replicates,minimum_valid_required,validity_gate_pass
+CHARLS,recovery_phase,500,500,500,0,"",8153,0.0500000000000682,500,450,TRUE
+CHARLS,wealth_by_sex,500,500,496,4,invalid standardized hazard: module=wealth_by_sex process=death_pre origin=I0 stratum=male ses=high age=90 | invalid standardized hazard: module=wealth_by_sex process=death_pre origin=I0 stratum=male ses=high age=91 | invalid standardized hazard: module=wealth_by_sex process=death_pre origin=I0 stratum=male ses=high age=92,8153,7.6099999999999,496,450,TRUE
+CHARLS,wealth_within_low_education,500,500,493,7,invalid standardized hazard: module=wealth_within_low_education process=death_pre origin=I0 stratum=all ses=high age=92 | invalid standardized hazard: module=wealth_within_low_education process=death_pre origin=I0 stratum=all ses=high age=89 | invalid standardized hazard: module=wealth_within_low_education process=death_pre origin=I0 stratum=all ses=high age=93 | invalid standardized hazard: module=wealth_within_low_education process=death_pre origin=I0 stratum=all ses=high age=95 | invalid standardized hazard: module=wealth_within_low_education process=death_pre origin=I0 stratum=all ses=high age=91,8153,3.69000000000005,493,450,TRUE
+ELSA,recovery_phase,500,500,500,0,"",8991,0.0799999999999272,500,450,TRUE
+ELSA,wealth_by_sex,500,500,500,0,"",8991,8.19000000000006,500,450,TRUE
+ELSA,wealth_within_low_education,500,500,500,0,"",8991,3.67000000000007,500,450,TRUE
+HRS,recovery_phase,500,500,500,0,"",20204.5,0.159999999999854,500,450,TRUE
+HRS,wealth_by_sex,500,500,500,0,"",20204.5,9.81000000000006,500,450,TRUE
+HRS,wealth_within_low_education,500,500,500,0,"",20204.5,3.91500000000039,500,450,TRUE
+MHAS,recovery_phase,500,500,500,0,"",9594,0.0499999999999545,500,450,TRUE
+MHAS,wealth_by_sex,500,500,497,3,nonconvergent/nonfinite model,9594,7.5800000000002,497,450,TRUE
+MHAS,wealth_within_low_education,500,500,491,9,nonconvergent/nonfinite model,9594,3.63999999999976,491,450,TRUE

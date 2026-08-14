@@ -1,0 +1,2 @@
+raw_exit_ids,sample_confirmed_died_ids,temp_died_ids,exit_ids_marked_died_in_sample,sample_died_ids_present_in_exit,sample_temp_died_exact_agreement,raw_exit_valid_year,raw_exit_valid_month,death_year_agreement,death_month_agreement
+770,785,785,770,770,785,107,107,107,107

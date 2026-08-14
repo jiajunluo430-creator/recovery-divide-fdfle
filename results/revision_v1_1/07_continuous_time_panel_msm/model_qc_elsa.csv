@@ -1,0 +1,2 @@
+cohort,model,observations,transition_intervals,people,episodes,exact_deaths,parameters,minus2loglik,optimizer_convergence,optimizer_message,hessian_standard_errors_found,max_absolute_score,calibration_pearson_sum,calibration_absolute_count_error,calibration_total_observed,calibration_total_expected
+ELSA,continuous_time_panel_markov_age_sex_adjusted,15453,12178,3148,3275,692,32,16922.0130294235,0,"",TRUE,0.171073250539999,392.530745743915,995.228736985492,12178,12178

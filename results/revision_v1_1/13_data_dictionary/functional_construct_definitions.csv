@@ -1,0 +1,5 @@
+construct,rule,interpretation
+Primary broad,At least one difficulty among all five ADL and four IADL items,"Reported functional difficulty, including mild and potentially reversible difficulty"
+ADL-only sensitivity,At least one difficulty among the five ADL items,Difficulty in personal activities of daily living
+At-least-two sensitivity,At least two difficulties among the nine common ADL/IADL items,Broader multi-item functional burden
+Confirmed-state sensitivity,A destination living state must persist at the next formal adjacent living interview,Misclassification-resistant persistence check; not a redefinition of the primary outcome

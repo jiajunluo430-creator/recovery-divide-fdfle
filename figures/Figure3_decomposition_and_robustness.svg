@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="170.000mm" height="103.378mm" viewBox="0 0 1480 900" data-final-width-mm="170.0">
+<style><![CDATA[
+      text { font-family: Arial, Helvetica, sans-serif; fill: #202428; }
+      .panel-label { font-size: 35.319px; font-weight: 700; }
+      .facet-title { font-size: 28.255px; font-weight: 700; }
+      .label { font-size: 25.184px; }
+      .small { font-size: 23.956px; }
+      .tiny { font-size: 22.420px; }
+      .micro { font-size: 21.499px; }
+      .state-main { font-size: 26.106px; font-weight: 700; }
+      .state-sub { font-size: 21.499px; fill: #525960; }
+      .axis { stroke: #525960; stroke-width: 2.457; fill: none; }
+      .grid { stroke: #DCE0E3; stroke-width: 1.382; fill: none; }
+      .separator { stroke: #C8CDD1; stroke-width: 1.536; fill: none; }
+      .zero { stroke: #252A2E; stroke-width: 2.764; fill: none; }
+      .ci { stroke-width: 3.685; fill: none; stroke-linecap: round; }
+      .transition { stroke-width: 3.378; fill: none; }
+    ]]></style>
+<g id="panel_A" transform="translate(0,0)">
+<g id="panel_A_axis">
+<line id="A_grid_1" x1="115.45" y1="88.00" x2="115.45" y2="735.00" class="grid" />
+<line id="A_grid_2" x1="209.25" y1="88.00" x2="209.25" y2="735.00" class="grid" />
+<line id="A_grid_3" x1="303.06" y1="88.00" x2="303.06" y2="735.00" class="grid" />
+<line id="A_grid_4" x1="349.96" y1="88.00" x2="349.96" y2="735.00" class="zero" />
+<line id="A_grid_5" x1="396.86" y1="88.00" x2="396.86" y2="735.00" class="grid" />
+<line id="A_xaxis" x1="92.00" y1="735.00" x2="425.00" y2="735.00" class="axis" />
+<line id="A_sep_1" x1="92.00" y1="209.17" x2="425.00" y2="209.17" class="separator" />
+<line id="A_sep_2" x1="92.00" y1="411.50" x2="425.00" y2="411.50" class="separator" />
+<line id="A_sep_3" x1="92.00" y1="613.83" x2="425.00" y2="613.83" class="separator" />
+</g>
+<g id="panel_A_data">
+<line id="A_ci_1" x1="114.71" y1="101.00" x2="369.79" y2="101.00" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_l_1" x1="114.71" y1="97.50" x2="114.71" y2="104.50" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_h_1" x1="369.79" y1="97.50" x2="369.79" y2="104.50" class="ci" stroke="#2C6DA4"/>
+<circle id="A_point_1" cx="252.67" cy="101.00" r="4.50" fill="#2C6DA4" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_2" x1="273.49" y1="115.00" x2="332.49" y2="115.00" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_2" x1="273.49" y1="111.50" x2="273.49" y2="118.50" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_2" x1="332.49" y1="111.50" x2="332.49" y2="118.50" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_2" cx="302.17" cy="115.00" r="4.50" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_3" x1="232.18" y1="303.33" x2="289.56" y2="303.33" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_l_3" x1="232.18" y1="299.83" x2="232.18" y2="306.83" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_h_3" x1="289.56" y1="299.83" x2="289.56" y2="306.83" class="ci" stroke="#2C6DA4"/>
+<circle id="A_point_3" cx="264.36" cy="303.33" r="4.50" fill="#2C6DA4" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_4" x1="237.63" y1="317.33" x2="273.71" y2="317.33" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_4" x1="237.63" y1="313.83" x2="237.63" y2="320.83" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_4" x1="273.71" y1="313.83" x2="273.71" y2="320.83" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_4" cx="256.63" cy="317.33" r="4.50" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_5" x1="250.42" y1="505.67" x2="285.53" y2="505.67" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_l_5" x1="250.42" y1="502.17" x2="250.42" y2="509.17" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_h_5" x1="285.53" y1="502.17" x2="285.53" y2="509.17" class="ci" stroke="#2C6DA4"/>
+<circle id="A_point_5" cx="267.54" cy="505.67" r="4.50" fill="#2C6DA4" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_6" x1="259.06" y1="519.67" x2="285.14" y2="519.67" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_6" x1="259.06" y1="516.17" x2="259.06" y2="523.17" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_6" x1="285.14" y1="516.17" x2="285.14" y2="523.17" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_6" cx="271.93" cy="519.67" r="4.50" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_7" x1="236.43" y1="708.00" x2="365.66" y2="708.00" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_l_7" x1="236.43" y1="704.50" x2="236.43" y2="711.50" class="ci" stroke="#2C6DA4"/>
+<line id="A_cap_h_7" x1="365.66" y1="704.50" x2="365.66" y2="711.50" class="ci" stroke="#2C6DA4"/>
+<circle id="A_point_7" cx="307.49" cy="708.00" r="4.50" fill="#2C6DA4" stroke="white" stroke-width="1.20"/>
+<line id="A_ci_8" x1="321.40" y1="722.00" x2="399.02" y2="722.00" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_l_8" x1="321.40" y1="718.50" x2="321.40" y2="725.50" class="ci" stroke="#D56C1E"/>
+<line id="A_cap_h_8" x1="399.02" y1="718.50" x2="399.02" y2="725.50" class="ci" stroke="#D56C1E"/>
+<circle id="A_point_8" cx="359.08" cy="722.00" r="4.50" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+</g>
+<g id="panel_A_labels">
+<text id="A_tick_1" x="115.45" y="755.00" class="small" text-anchor="middle" >-5</text>
+<text id="A_tick_2" x="209.25" y="755.00" class="small" text-anchor="middle" >-3</text>
+<text id="A_tick_3" x="303.06" y="755.00" class="small" text-anchor="middle" >-1</text>
+<text id="A_tick_4" x="349.96" y="755.00" class="small" text-anchor="middle" >0</text>
+<text id="A_tick_5" x="396.86" y="755.00" class="small" text-anchor="middle" >1</text>
+<text id="A_cohort_CHARLS" x="82.00" y="112.00" class="label" text-anchor="end" >CHARLS</text>
+<text id="A_cohort_ELSA" x="82.00" y="314.33" class="label" text-anchor="end" >ELSA</text>
+<text id="A_cohort_HRS" x="82.00" y="516.67" class="label" text-anchor="end" >HRS</text>
+<text id="A_cohort_MHAS" x="82.00" y="719.00" class="label" text-anchor="end" >MHAS</text>
+<text id="A_xtitle" x="258.50" y="790.00" class="small" text-anchor="middle" >Recovery + relapse contribution (years)</text>
+</g>
+<g id="panel_A_legend">
+<text id="A_legend_title" x="92.00" y="832.00" class="micro" text-anchor="start" font-weight="700">Socioeconomic indicator</text>
+<circle id="A_legend_point_1" cx="92.00" cy="858.00" r="4.50" fill="#2C6DA4" stroke="white" stroke-width="1.20"/>
+<text id="A_legend_text_1" x="103.00" y="862.00" class="tiny" text-anchor="start" >Education</text>
+<circle id="A_legend_point_2" cx="258.50" cy="858.00" r="4.50" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<text id="A_legend_text_2" x="269.50" y="862.00" class="tiny" text-anchor="start" >Wealth</text>
+</g>
+<g id="panel_A_annotations">
+<rect id="A_facet_strip" x="0.00" y="0.00" width="440.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="A_panel_label" x="12.00" y="44.00" class="panel-label" text-anchor="start" >(a)</text>
+<text id="A_facet_title_1" x="68.00" y="43.00" class="facet-title" text-anchor="start" >Primary contributions</text>
+</g>
+</g>
+<g id="panel_B" transform="translate(460,0)">
+<g id="panel_B_axis">
+<rect id="B_cohort_band_ELSA" x="0.00" y="237.74" width="560.00" height="150.26" rx="0.00" fill="#F7F8F9" stroke="none" class="" />
+<rect id="B_cohort_band_MHAS" x="0.00" y="538.26" width="560.00" height="151.74" rx="0.00" fill="#F7F8F9" stroke="none" class="" />
+<line id="B_cohort_column_rule" x1="60.00" y1="88.00" x2="60.00" y2="690.00" class="separator" />
+<line id="B_grid_1" x1="185.50" y1="88.00" x2="185.50" y2="690.00" class="grid" />
+<line id="B_grid_2" x1="263.00" y1="88.00" x2="263.00" y2="690.00" class="grid" />
+<line id="B_grid_3" x1="340.50" y1="88.00" x2="340.50" y2="690.00" class="grid" />
+<line id="B_grid_4" x1="418.00" y1="88.00" x2="418.00" y2="690.00" class="zero" />
+<line id="B_grid_5" x1="495.50" y1="88.00" x2="495.50" y2="690.00" class="grid" />
+<line id="B_xaxis" x1="170.00" y1="690.00" x2="542.00" y2="690.00" class="axis" />
+<line id="B_group_sep_7" x1="8.00" y1="237.74" x2="542.00" y2="237.74" class="separator" />
+<line id="B_group_sep_13" x1="8.00" y1="388.00" x2="542.00" y2="388.00" class="separator" />
+<line id="B_group_sep_19" x1="8.00" y1="538.26" x2="542.00" y2="538.26" class="separator" />
+</g>
+<g id="panel_B_data">
+<line id="B_ci_1" x1="369.41" y1="100.00" x2="388.36" y2="100.00" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_l_1" x1="369.41" y1="97.00" x2="369.41" y2="103.00" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_h_1" x1="388.36" y1="97.00" x2="388.36" y2="103.00" class="ci" stroke="#6B7D8D"/>
+<circle id="B_point_1" cx="380.04" cy="100.00" r="3.60" fill="#6B7D8D" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_2" x1="349.56" y1="125.04" x2="403.27" y2="125.04" class="ci" stroke="#4E9085"/>
+<line id="B_cap_l_2" x1="349.56" y1="122.04" x2="349.56" y2="128.04" class="ci" stroke="#4E9085"/>
+<line id="B_cap_h_2" x1="403.27" y1="122.04" x2="403.27" y2="128.04" class="ci" stroke="#4E9085"/>
+<circle id="B_point_2" cx="377.80" cy="125.04" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_3" x1="356.51" y1="150.09" x2="432.72" y2="150.09" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_l_3" x1="356.51" y1="147.09" x2="356.51" y2="153.09" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_h_3" x1="432.72" y1="147.09" x2="432.72" y2="153.09" class="ci" stroke="#D56C1E"/>
+<circle id="B_point_3" cx="395.16" cy="150.09" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_4" x1="327.82" y1="175.13" x2="408.78" y2="175.13" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_l_4" x1="327.82" y1="172.13" x2="327.82" y2="178.13" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_h_4" x1="408.78" y1="172.13" x2="408.78" y2="178.13" class="ci" stroke="#6F5AA8"/>
+<circle id="B_point_4" cx="365.98" cy="175.13" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_5" x1="384.53" y1="200.17" x2="431.97" y2="200.17" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_l_5" x1="384.53" y1="197.17" x2="384.53" y2="203.17" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_h_5" x1="431.97" y1="197.17" x2="431.97" y2="203.17" class="ci" stroke="#B55B7A"/>
+<circle id="B_point_5" cx="407.26" cy="200.17" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_6" x1="396.11" y1="225.22" x2="431.11" y2="225.22" class="ci" stroke="#718146"/>
+<line id="B_cap_l_6" x1="396.11" y1="222.22" x2="396.11" y2="228.22" class="ci" stroke="#718146"/>
+<line id="B_cap_h_6" x1="431.11" y1="222.22" x2="431.11" y2="228.22" class="ci" stroke="#718146"/>
+<circle id="B_point_6" cx="413.03" cy="225.22" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_7" x1="289.14" y1="250.26" x2="334.05" y2="250.26" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_l_7" x1="289.14" y1="247.26" x2="289.14" y2="253.26" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_h_7" x1="334.05" y1="247.26" x2="334.05" y2="253.26" class="ci" stroke="#6B7D8D"/>
+<circle id="B_point_7" cx="310.32" cy="250.26" r="3.60" fill="#6B7D8D" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_8" x1="224.34" y1="275.30" x2="311.80" y2="275.30" class="ci" stroke="#4E9085"/>
+<line id="B_cap_l_8" x1="224.34" y1="272.30" x2="224.34" y2="278.30" class="ci" stroke="#4E9085"/>
+<line id="B_cap_h_8" x1="311.80" y1="272.30" x2="311.80" y2="278.30" class="ci" stroke="#4E9085"/>
+<circle id="B_point_8" cx="269.17" cy="275.30" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_9" x1="286.28" y1="300.35" x2="371.35" y2="300.35" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_l_9" x1="286.28" y1="297.35" x2="286.28" y2="303.35" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_h_9" x1="371.35" y1="297.35" x2="371.35" y2="303.35" class="ci" stroke="#D56C1E"/>
+<circle id="B_point_9" cx="333.62" cy="300.35" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_10" x1="315.27" y1="325.39" x2="390.96" y2="325.39" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_l_10" x1="315.27" y1="322.39" x2="315.27" y2="328.39" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_h_10" x1="390.96" y1="322.39" x2="390.96" y2="328.39" class="ci" stroke="#6F5AA8"/>
+<circle id="B_point_10" cx="357.49" cy="325.39" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_11" x1="330.10" y1="350.43" x2="388.49" y2="350.43" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_l_11" x1="330.10" y1="347.43" x2="330.10" y2="353.43" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_h_11" x1="388.49" y1="347.43" x2="388.49" y2="353.43" class="ci" stroke="#B55B7A"/>
+<circle id="B_point_11" cx="362.78" cy="350.43" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_12" x1="319.11" y1="375.48" x2="399.64" y2="375.48" class="ci" stroke="#718146"/>
+<line id="B_cap_l_12" x1="319.11" y1="372.48" x2="319.11" y2="378.48" class="ci" stroke="#718146"/>
+<line id="B_cap_h_12" x1="399.64" y1="372.48" x2="399.64" y2="378.48" class="ci" stroke="#718146"/>
+<circle id="B_point_12" cx="360.46" cy="375.48" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_13" x1="304.05" y1="400.52" x2="348.74" y2="400.52" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_l_13" x1="304.05" y1="397.52" x2="304.05" y2="403.52" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_h_13" x1="348.74" y1="397.52" x2="348.74" y2="403.52" class="ci" stroke="#6B7D8D"/>
+<circle id="B_point_13" cx="326.50" cy="400.52" r="3.60" fill="#6B7D8D" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_14" x1="274.66" y1="425.57" x2="360.13" y2="425.57" class="ci" stroke="#4E9085"/>
+<line id="B_cap_l_14" x1="274.66" y1="422.57" x2="274.66" y2="428.57" class="ci" stroke="#4E9085"/>
+<line id="B_cap_h_14" x1="360.13" y1="422.57" x2="360.13" y2="428.57" class="ci" stroke="#4E9085"/>
+<circle id="B_point_14" cx="317.42" cy="425.57" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_15" x1="304.39" y1="450.61" x2="396.88" y2="450.61" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_l_15" x1="304.39" y1="447.61" x2="304.39" y2="453.61" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_h_15" x1="396.88" y1="447.61" x2="396.88" y2="453.61" class="ci" stroke="#D56C1E"/>
+<circle id="B_point_15" cx="352.61" cy="450.61" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_16" x1="365.61" y1="475.65" x2="429.76" y2="475.65" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_l_16" x1="365.61" y1="472.65" x2="365.61" y2="478.65" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_h_16" x1="429.76" y1="472.65" x2="429.76" y2="478.65" class="ci" stroke="#6F5AA8"/>
+<circle id="B_point_16" cx="397.91" cy="475.65" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_17" x1="377.31" y1="500.70" x2="424.72" y2="500.70" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_l_17" x1="377.31" y1="497.70" x2="377.31" y2="503.70" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_h_17" x1="424.72" y1="497.70" x2="424.72" y2="503.70" class="ci" stroke="#B55B7A"/>
+<circle id="B_point_17" cx="402.44" cy="500.70" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_18" x1="331.90" y1="525.74" x2="390.54" y2="525.74" class="ci" stroke="#718146"/>
+<line id="B_cap_l_18" x1="331.90" y1="522.74" x2="331.90" y2="528.74" class="ci" stroke="#718146"/>
+<line id="B_cap_h_18" x1="390.54" y1="522.74" x2="390.54" y2="528.74" class="ci" stroke="#718146"/>
+<circle id="B_point_18" cx="357.46" cy="525.74" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_19" x1="400.81" y1="550.78" x2="419.86" y2="550.78" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_l_19" x1="400.81" y1="547.78" x2="400.81" y2="553.78" class="ci" stroke="#6B7D8D"/>
+<line id="B_cap_h_19" x1="419.86" y1="547.78" x2="419.86" y2="553.78" class="ci" stroke="#6B7D8D"/>
+<circle id="B_point_19" cx="412.41" cy="550.78" r="3.60" fill="#6B7D8D" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_20" x1="310.15" y1="575.83" x2="429.40" y2="575.83" class="ci" stroke="#4E9085"/>
+<line id="B_cap_l_20" x1="310.15" y1="572.83" x2="310.15" y2="578.83" class="ci" stroke="#4E9085"/>
+<line id="B_cap_h_20" x1="429.40" y1="572.83" x2="429.40" y2="578.83" class="ci" stroke="#4E9085"/>
+<circle id="B_point_20" cx="376.59" cy="575.83" r="3.60" fill="#4E9085" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_21" x1="377.49" y1="600.87" x2="459.18" y2="600.87" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_l_21" x1="377.49" y1="597.87" x2="377.49" y2="603.87" class="ci" stroke="#D56C1E"/>
+<line id="B_cap_h_21" x1="459.18" y1="597.87" x2="459.18" y2="603.87" class="ci" stroke="#D56C1E"/>
+<circle id="B_point_21" cx="418.23" cy="600.87" r="3.60" fill="#D56C1E" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_22" x1="392.32" y1="625.91" x2="506.58" y2="625.91" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_l_22" x1="392.32" y1="622.91" x2="392.32" y2="628.91" class="ci" stroke="#6F5AA8"/>
+<line id="B_cap_h_22" x1="506.58" y1="622.91" x2="506.58" y2="628.91" class="ci" stroke="#6F5AA8"/>
+<circle id="B_point_22" cx="445.12" cy="625.91" r="3.60" fill="#6F5AA8" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_23" x1="385.97" y1="650.96" x2="443.68" y2="650.96" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_l_23" x1="385.97" y1="647.96" x2="385.97" y2="653.96" class="ci" stroke="#B55B7A"/>
+<line id="B_cap_h_23" x1="443.68" y1="647.96" x2="443.68" y2="653.96" class="ci" stroke="#B55B7A"/>
+<circle id="B_point_23" cx="416.30" cy="650.96" r="3.60" fill="#B55B7A" stroke="white" stroke-width="1.20"/>
+<line id="B_ci_24" x1="322.74" y1="676.00" x2="412.84" y2="676.00" class="ci" stroke="#718146"/>
+<line id="B_cap_l_24" x1="322.74" y1="673.00" x2="322.74" y2="679.00" class="ci" stroke="#718146"/>
+<line id="B_cap_h_24" x1="412.84" y1="673.00" x2="412.84" y2="679.00" class="ci" stroke="#718146"/>
+<circle id="B_point_24" cx="366.77" cy="676.00" r="3.60" fill="#718146" stroke="white" stroke-width="1.20"/>
+</g>
+<g id="panel_B_labels">
+<text id="B_cohort_group_CHARLS" x="28.00" y="162.61" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 162.61)">CHARLS</text>
+<text id="B_cohort_group_ELSA" x="28.00" y="312.87" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 312.87)">ELSA</text>
+<text id="B_cohort_group_HRS" x="28.00" y="463.13" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 463.13)">HRS</text>
+<text id="B_cohort_group_MHAS" x="28.00" y="613.39" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 613.39)">MHAS</text>
+<text id="B_tick_1" x="185.50" y="707.00" class="micro" text-anchor="middle" >-3</text>
+<text id="B_tick_2" x="263.00" y="707.00" class="micro" text-anchor="middle" >-2</text>
+<text id="B_tick_3" x="340.50" y="707.00" class="micro" text-anchor="middle" >-1</text>
+<text id="B_tick_4" x="418.00" y="707.00" class="micro" text-anchor="middle" >0</text>
+<text id="B_tick_5" x="495.50" y="707.00" class="micro" text-anchor="middle" >1</text>
+<text id="B_row_1" x="162.00" y="103.00" class="micro" text-anchor="end" >Initial state</text>
+<text id="B_row_2" x="162.00" y="128.04" class="micro" text-anchor="end" >Onset</text>
+<text id="B_row_3" x="162.00" y="153.09" class="micro" text-anchor="end" >Recovery</text>
+<text id="B_row_4" x="162.00" y="178.13" class="micro" text-anchor="end" >Relapse</text>
+<text id="B_row_5" x="162.00" y="203.17" class="micro" text-anchor="end" >Post-diff. death</text>
+<text id="B_row_6" x="162.00" y="228.22" class="micro" text-anchor="end" >Pre-diff. death</text>
+<text id="B_row_7" x="162.00" y="253.26" class="micro" text-anchor="end" >Initial state</text>
+<text id="B_row_8" x="162.00" y="278.30" class="micro" text-anchor="end" >Onset</text>
+<text id="B_row_9" x="162.00" y="303.35" class="micro" text-anchor="end" >Recovery</text>
+<text id="B_row_10" x="162.00" y="328.39" class="micro" text-anchor="end" >Relapse</text>
+<text id="B_row_11" x="162.00" y="353.43" class="micro" text-anchor="end" >Post-diff. death</text>
+<text id="B_row_12" x="162.00" y="378.48" class="micro" text-anchor="end" >Pre-diff. death</text>
+<text id="B_row_13" x="162.00" y="403.52" class="micro" text-anchor="end" >Initial state</text>
+<text id="B_row_14" x="162.00" y="428.57" class="micro" text-anchor="end" >Onset</text>
+<text id="B_row_15" x="162.00" y="453.61" class="micro" text-anchor="end" >Recovery</text>
+<text id="B_row_16" x="162.00" y="478.65" class="micro" text-anchor="end" >Relapse</text>
+<text id="B_row_17" x="162.00" y="503.70" class="micro" text-anchor="end" >Post-diff. death</text>
+<text id="B_row_18" x="162.00" y="528.74" class="micro" text-anchor="end" >Pre-diff. death</text>
+<text id="B_row_19" x="162.00" y="553.78" class="micro" text-anchor="end" >Initial state</text>
+<text id="B_row_20" x="162.00" y="578.83" class="micro" text-anchor="end" >Onset</text>
+<text id="B_row_21" x="162.00" y="603.87" class="micro" text-anchor="end" >Recovery</text>
+<text id="B_row_22" x="162.00" y="628.91" class="micro" text-anchor="end" >Relapse</text>
+<text id="B_row_23" x="162.00" y="653.96" class="micro" text-anchor="end" >Post-diff. death</text>
+<text id="B_row_24" x="162.00" y="679.00" class="micro" text-anchor="end" >Pre-diff. death</text>
+<text id="B_xtitle" x="356.00" y="744.00" class="micro" text-anchor="middle" >Contribution to FDFLE gap (years)</text>
+</g>
+<g id="panel_B_legend">
+<text id="B_legend_title" x="10.00" y="808.00" class="micro" text-anchor="start" font-weight="700">Decomposition component</text>
+<rect id="B_legend_box_1" x="10.00" y="826.00" width="9.00" height="7.00" rx="0.00" fill="#6B7D8D" stroke="none" class="" />
+<text id="B_legend_text_1" x="23.00" y="833.00" class="micro" text-anchor="start" >Initial</text>
+<rect id="B_legend_box_2" x="210.00" y="826.00" width="9.00" height="7.00" rx="0.00" fill="#4E9085" stroke="none" class="" />
+<text id="B_legend_text_2" x="223.00" y="833.00" class="micro" text-anchor="start" >Onset</text>
+<rect id="B_legend_box_3" x="410.00" y="826.00" width="9.00" height="7.00" rx="0.00" fill="#D56C1E" stroke="none" class="" />
+<text id="B_legend_text_3" x="423.00" y="833.00" class="micro" text-anchor="start" >Recovery</text>
+<rect id="B_legend_box_4" x="10.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#6F5AA8" stroke="none" class="" />
+<text id="B_legend_text_4" x="23.00" y="857.00" class="micro" text-anchor="start" >Relapse</text>
+<rect id="B_legend_box_5" x="210.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#B55B7A" stroke="none" class="" />
+<text id="B_legend_text_5" x="223.00" y="857.00" class="micro" text-anchor="start" >Post death</text>
+<rect id="B_legend_box_6" x="410.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#718146" stroke="none" class="" />
+<text id="B_legend_text_6" x="423.00" y="857.00" class="micro" text-anchor="start" >Pre death</text>
+</g>
+<g id="panel_B_annotations">
+<rect id="B_facet_strip" x="0.00" y="0.00" width="560.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="B_panel_label" x="12.00" y="44.00" class="panel-label" text-anchor="start" >(b)</text>
+<text id="B_facet_title_1" x="68.00" y="43.00" class="facet-title" text-anchor="start" >Six-component decomposition</text>
+</g>
+</g>
+<g id="panel_C" transform="translate(1040,0)">
+<g id="panel_C_axis">
+<rect id="C_cohort_band_ELSA" x="0.00" y="236.82" width="440.00" height="164.18" rx="0.00" fill="#F7F8F9" stroke="none" class="" />
+<rect id="C_cohort_band_MHAS" x="0.00" y="565.18" width="440.00" height="150.82" rx="0.00" fill="#F7F8F9" stroke="none" class="" />
+<line id="C_cohort_column_rule" x1="60.00" y1="88.00" x2="60.00" y2="716.00" class="separator" />
+<line id="C_grid_1" x1="165.00" y1="88.00" x2="165.00" y2="716.00" class="grid" />
+<line id="C_grid_2" x1="215.00" y1="88.00" x2="215.00" y2="716.00" class="grid" />
+<line id="C_grid_3" x1="265.00" y1="88.00" x2="265.00" y2="716.00" class="grid" />
+<line id="C_grid_4" x1="315.00" y1="88.00" x2="315.00" y2="716.00" class="zero" />
+<line id="C_grid_5" x1="365.00" y1="88.00" x2="365.00" y2="716.00" class="grid" />
+<line id="C_grid_6" x1="415.00" y1="88.00" x2="415.00" y2="716.00" class="grid" />
+<line id="C_xaxis" x1="155.00" y1="716.00" x2="425.00" y2="716.00" class="axis" />
+<line id="C_group_sep_4" x1="8.00" y1="236.82" x2="425.00" y2="236.82" class="separator" />
+<line id="C_group_sep_7" x1="8.00" y1="401.00" x2="425.00" y2="401.00" class="separator" />
+<line id="C_group_sep_10" x1="8.00" y1="565.18" x2="425.00" y2="565.18" class="separator" />
+</g>
+<g id="panel_C_data">
+<line id="C_ci_1" x1="230.32" y1="100.00" x2="303.65" y2="100.00" class="ci" stroke="#2678A8"/>
+<line id="C_cap_l_1" x1="230.32" y1="97.00" x2="230.32" y2="103.00" class="ci" stroke="#2678A8"/>
+<line id="C_cap_h_1" x1="303.65" y1="97.00" x2="303.65" y2="103.00" class="ci" stroke="#2678A8"/>
+<circle id="C_point_1" cx="266.70" cy="100.00" r="3.60" fill="#2678A8" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_2" x1="273.06" y1="154.73" x2="332.95" y2="154.73" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_l_2" x1="273.06" y1="151.73" x2="273.06" y2="157.73" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_h_2" x1="332.95" y1="151.73" x2="332.95" y2="157.73" class="ci" stroke="#7B4FA3"/>
+<circle id="C_point_2" cx="300.40" cy="154.73" r="3.60" fill="#7B4FA3" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_3" x1="275.29" y1="209.45" x2="337.63" y2="209.45" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_l_3" x1="275.29" y1="206.45" x2="275.29" y2="212.45" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_h_3" x1="337.63" y1="206.45" x2="337.63" y2="212.45" class="ci" stroke="#D47A1F"/>
+<circle id="C_point_3" cx="305.94" cy="209.45" r="3.60" fill="#D47A1F" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_4" x1="176.73" y1="264.18" x2="253.95" y2="264.18" class="ci" stroke="#2678A8"/>
+<line id="C_cap_l_4" x1="176.73" y1="261.18" x2="176.73" y2="267.18" class="ci" stroke="#2678A8"/>
+<line id="C_cap_h_4" x1="253.95" y1="261.18" x2="253.95" y2="267.18" class="ci" stroke="#2678A8"/>
+<circle id="C_point_4" cx="221.53" cy="264.18" r="3.60" fill="#2678A8" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_5" x1="206.83" y1="318.91" x2="285.86" y2="318.91" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_l_5" x1="206.83" y1="315.91" x2="206.83" y2="321.91" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_h_5" x1="285.86" y1="315.91" x2="285.86" y2="321.91" class="ci" stroke="#7B4FA3"/>
+<circle id="C_point_5" cx="252.71" cy="318.91" r="3.60" fill="#7B4FA3" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_6" x1="214.45" y1="373.64" x2="290.60" y2="373.64" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_l_6" x1="214.45" y1="370.64" x2="214.45" y2="376.64" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_h_6" x1="290.60" y1="370.64" x2="290.60" y2="376.64" class="ci" stroke="#D47A1F"/>
+<circle id="C_point_6" cx="257.53" cy="373.64" r="3.60" fill="#D47A1F" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_7" x1="219.05" y1="428.36" x2="292.16" y2="428.36" class="ci" stroke="#2678A8"/>
+<line id="C_cap_l_7" x1="219.05" y1="425.36" x2="219.05" y2="431.36" class="ci" stroke="#2678A8"/>
+<line id="C_cap_h_7" x1="292.16" y1="425.36" x2="292.16" y2="431.36" class="ci" stroke="#2678A8"/>
+<circle id="C_point_7" cx="259.85" cy="428.36" r="3.60" fill="#2678A8" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_8" x1="205.59" y1="483.09" x2="272.28" y2="483.09" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_l_8" x1="205.59" y1="480.09" x2="205.59" y2="486.09" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_h_8" x1="272.28" y1="480.09" x2="272.28" y2="486.09" class="ci" stroke="#7B4FA3"/>
+<circle id="C_point_8" cx="236.87" cy="483.09" r="3.60" fill="#7B4FA3" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_9" x1="249.22" y1="537.82" x2="315.86" y2="537.82" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_l_9" x1="249.22" y1="534.82" x2="249.22" y2="540.82" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_h_9" x1="315.86" y1="534.82" x2="315.86" y2="540.82" class="ci" stroke="#D47A1F"/>
+<circle id="C_point_9" cx="284.37" cy="537.82" r="3.60" fill="#D47A1F" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_10" x1="289.66" y1="592.55" x2="383.32" y2="592.55" class="ci" stroke="#2678A8"/>
+<line id="C_cap_l_10" x1="289.66" y1="589.55" x2="289.66" y2="595.55" class="ci" stroke="#2678A8"/>
+<line id="C_cap_h_10" x1="383.32" y1="589.55" x2="383.32" y2="595.55" class="ci" stroke="#2678A8"/>
+<circle id="C_point_10" cx="332.65" cy="592.55" r="3.60" fill="#2678A8" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_11" x1="295.83" y1="647.27" x2="383.82" y2="647.27" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_l_11" x1="295.83" y1="644.27" x2="295.83" y2="650.27" class="ci" stroke="#7B4FA3"/>
+<line id="C_cap_h_11" x1="383.82" y1="644.27" x2="383.82" y2="650.27" class="ci" stroke="#7B4FA3"/>
+<circle id="C_point_11" cx="337.14" cy="647.27" r="3.60" fill="#7B4FA3" stroke="white" stroke-width="1.20"/>
+<line id="C_ci_12" x1="265.75" y1="702.00" x2="340.80" y2="702.00" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_l_12" x1="265.75" y1="699.00" x2="265.75" y2="705.00" class="ci" stroke="#D47A1F"/>
+<line id="C_cap_h_12" x1="340.80" y1="699.00" x2="340.80" y2="705.00" class="ci" stroke="#D47A1F"/>
+<circle id="C_point_12" cx="299.02" cy="702.00" r="3.60" fill="#D47A1F" stroke="white" stroke-width="1.20"/>
+</g>
+<g id="panel_C_labels">
+<text id="C_cohort_group_CHARLS" x="28.00" y="154.73" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 154.73)">CHARLS</text>
+<text id="C_cohort_group_ELSA" x="28.00" y="318.91" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 318.91)">ELSA</text>
+<text id="C_cohort_group_HRS" x="28.00" y="483.09" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 483.09)">HRS</text>
+<text id="C_cohort_group_MHAS" x="28.00" y="647.27" class="small" text-anchor="middle" font-weight="700" transform="rotate(-90 28 647.27)">MHAS</text>
+<text id="C_tick_1" x="165.00" y="733.00" class="micro" text-anchor="middle" >-3</text>
+<text id="C_tick_2" x="215.00" y="733.00" class="micro" text-anchor="middle" >-2</text>
+<text id="C_tick_3" x="265.00" y="733.00" class="micro" text-anchor="middle" >-1</text>
+<text id="C_tick_4" x="315.00" y="733.00" class="micro" text-anchor="middle" >0</text>
+<text id="C_tick_5" x="365.00" y="733.00" class="micro" text-anchor="middle" >1</text>
+<text id="C_tick_6" x="415.00" y="733.00" class="micro" text-anchor="middle" >2</text>
+<text id="C_row_1" x="147.00" y="103.00" class="micro" text-anchor="end" >Broad (any)</text>
+<text id="C_row_2" x="147.00" y="157.73" class="micro" text-anchor="end" >ADL only</text>
+<text id="C_row_3" x="147.00" y="212.45" class="micro" text-anchor="end" >At least two</text>
+<text id="C_row_4" x="147.00" y="267.18" class="micro" text-anchor="end" >Broad (any)</text>
+<text id="C_row_5" x="147.00" y="321.91" class="micro" text-anchor="end" >ADL only</text>
+<text id="C_row_6" x="147.00" y="376.64" class="micro" text-anchor="end" >At least two</text>
+<text id="C_row_7" x="147.00" y="431.36" class="micro" text-anchor="end" >Broad (any)</text>
+<text id="C_row_8" x="147.00" y="486.09" class="micro" text-anchor="end" >ADL only</text>
+<text id="C_row_9" x="147.00" y="540.82" class="micro" text-anchor="end" >At least two</text>
+<text id="C_row_10" x="147.00" y="595.55" class="micro" text-anchor="end" >Broad (any)</text>
+<text id="C_row_11" x="147.00" y="650.27" class="micro" text-anchor="end" >ADL only</text>
+<text id="C_row_12" x="147.00" y="705.00" class="micro" text-anchor="end" >At least two</text>
+<text id="C_xtitle" x="290.00" y="770.00" class="micro" text-anchor="middle" >Recovery + relapse (years)</text>
+</g>
+<g id="panel_C_legend">
+<text id="C_legend_title" x="10.00" y="832.00" class="micro" text-anchor="start" font-weight="700">Outcome definition</text>
+<rect id="C_legend_box_1" x="10.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#2678A8" stroke="none" class="" />
+<text id="C_legend_text_1" x="23.00" y="857.00" class="micro" text-anchor="start" >Broad</text>
+<rect id="C_legend_box_2" x="150.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#7B4FA3" stroke="none" class="" />
+<text id="C_legend_text_2" x="163.00" y="857.00" class="micro" text-anchor="start" >ADL-only</text>
+<rect id="C_legend_box_3" x="290.00" y="850.00" width="9.00" height="7.00" rx="0.00" fill="#D47A1F" stroke="none" class="" />
+<text id="C_legend_text_3" x="303.00" y="857.00" class="micro" text-anchor="start" >≥2 difficulties</text>
+</g>
+<g id="panel_C_annotations">
+<rect id="C_facet_strip" x="0.00" y="0.00" width="440.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="C_panel_label" x="12.00" y="44.00" class="panel-label" text-anchor="start" >(c)</text>
+<text id="C_facet_title_1" x="68.00" y="43.00" class="facet-title" text-anchor="start" >By outcome definition</text>
+</g>
+</g>
+</svg>

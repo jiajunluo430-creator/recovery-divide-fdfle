@@ -1,0 +1,5 @@
+cohort,persons,death_time_observed_n,raw_death_time_n,raw_conflict_persons,bounded_nominal_persons,bounded_coarse_death_year_persons,unresolved_conflict_persons,static_death_n,elsa_wave11_eol_death_n,iwstat_only_death_n,min_death_time,max_death_time
+CHARLS,25882,2851,2851,10,9,0,0,402,0,2343,2011.5,2020.70833333333
+ELSA,23254,3096,3096,5,0,4,0,0,344,2752,2004.5,2024.5
+HRS,45234,19335,19335,582,582,0,0,19144,0,191,1992.70833333333,2023.54166666667
+MHAS,27159,7599,7599,88,0,0,0,7340,0,259,2001.45833333333,2022.95833333333

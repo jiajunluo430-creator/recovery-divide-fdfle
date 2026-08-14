@@ -1,0 +1,7 @@
+process,origin,destination,primary_model_block,model_note
+Onset,I0,D1,onset,Origin-specific onset process
+Recovery,D1,R1,recovery,D1 and D2 recovery share the SES coefficient; origin state remains adjusted
+Recovery after relapse,D2,R1,recovery,D1 and D2 recovery share the SES coefficient; origin state remains adjusted
+Relapse,R1,D2,relapse,Origin-specific relapse process
+Pre-difficulty death,I0,DEAD,pre_difficulty_mortality,Separate pre-difficulty mortality SES coefficient
+Post-difficulty death,D1/R1/D2,DEAD,post_difficulty_mortality,"D1, R1, and D2 share the SES coefficient; origin state remains adjusted"

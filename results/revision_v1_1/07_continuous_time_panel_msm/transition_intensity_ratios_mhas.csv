@@ -1,0 +1,9 @@
+cohort,model,contrast,process,transition,intensity_ratio,ci_low,ci_high,msm_transition,transition_index
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,onset,I0->D1,1.19135934615205,1.07361517268416,1.32201661058434,I0 - D1,1
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,death_pre,I0->DEAD,1.24395248333789,0.987832936013504,1.56647720924073,I0 - DEAD,2
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,recovery,D1->R1,0.998209641008778,0.887284076632895,1.12300278303668,D1 - R1,3
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,death_post,D1->DEAD,1.15061802107739,0.998945591611014,1.32531925817196,D1 - DEAD,4
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,relapse,R1->D2,1.06694113507335,0.887286467640991,1.2829716525917,R1 - D2,5
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,death_post,R1->DEAD,1.15061802107739,0.998945591611014,1.32531925817196,R1 - DEAD,6
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,recovery,D2->R1,0.998209641008778,0.887284076632895,1.12300278303668,D2 - R1,7
+MHAS,continuous_time_panel_markov_age_sex_adjusted,low_vs_high_wealth_within_low_education,death_post,D2->DEAD,1.15061802107739,0.998945591611014,1.32531925817196,D2 - DEAD,8

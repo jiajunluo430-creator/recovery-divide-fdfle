@@ -1,0 +1,2 @@
+calibration_estimand,nonparametric_method,model_method,grid_step_years,limitation
+remaining total life years from age 60 through age 100,survey-weighted delayed-entry Kaplan-Meier on attained-age scale,population-initialised discrete-time multistate model,0.01,"Internal cohort calibration, not an official national life-table comparison; wealth analyses begin at first valid wealth and therefore condition on survival to observed wealth entry."

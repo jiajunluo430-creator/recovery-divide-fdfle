@@ -1,0 +1,2 @@
+cohort,source_path,requested_variables,available_variables,missing_schema_n,missing_schema
+HRS,${RECOVERY_DIVIDE_AUX_DATA_ROOT}/09_cld_posthospital_functional_resilience/outputs/cache/hrs/randhrs1992_2022v1.dta,123,122,1,r16urbrur

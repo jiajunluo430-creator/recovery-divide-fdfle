@@ -1,0 +1,3 @@
+wealth3,nondeath_intervals,observed_next_function_n,observed_next_function_percent,interval_mean,interval_sd,interval_q25,interval_median,interval_q75,raw_ipcw_mean_observed,truncated_ipcw_mean_observed,truncated_ipcw_max_observed,cohort,ipcw_lower_truncation,ipcw_upper_truncation,unknown_vital_status_treated_as_death
+low,7764,6326,81.4786192684183,2.81936394470203,0.414997920838221,2.70833333333326,3,3.08333333333326,0.967003595753408,0.96237425121465,1.58464071032919,MHAS,0.819425069999149,1.58464071032919,FALSE
+high,8538,6899,80.8034668540642,2.80805418911531,0.420934783635707,2.625,3,3.08333333333326,0.958407001128266,0.954322334431069,1.58464071032919,MHAS,0.819425069999149,1.58464071032919,FALSE

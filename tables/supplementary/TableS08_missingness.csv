@@ -1,0 +1,49 @@
+cohort,field,denominator_interviews,missing_or_unavailable_n,missing_or_unavailable_percent,interpretation
+CHARLS,dressa,47439,358,0.754653344294779,Item nonresponse
+ELSA,dressa,74828,170,0.227187683754744,Item nonresponse
+HRS,dressa,197989,362,0.182838440519423,Item nonresponse
+MHAS,dressa,55738,4143,7.43299006064086,Item nonresponse
+CHARLS,batha,47439,407,0.857943885832332,Item nonresponse
+ELSA,batha,74828,170,0.227187683754744,Item nonresponse
+HRS,batha,197989,382,0.192940011818838,Item nonresponse
+MHAS,batha,55738,285,0.511320822419175,Item nonresponse
+CHARLS,eata,47439,358,0.754653344294779,Item nonresponse
+ELSA,eata,74828,170,0.227187683754744,Item nonresponse
+HRS,eata,197989,441,0.222739647152115,Item nonresponse
+MHAS,eata,55738,294,0.527467795758728,Item nonresponse
+CHARLS,beda,47439,363,0.76519319547208,Item nonresponse
+ELSA,beda,74828,170,0.227187683754744,Item nonresponse
+HRS,beda,197989,484,0.244458025445858,Item nonresponse
+MHAS,beda,55738,261,0.468262226847034,Item nonresponse
+CHARLS,toilta,47439,363,0.76519319547208,Item nonresponse
+ELSA,toilta,74828,170,0.227187683754744,Item nonresponse
+HRS,toilta,197989,4306,2.17486830076418,Item nonresponse
+MHAS,toilta,55738,325,0.583085148372744,Item nonresponse
+CHARLS,shopa,47439,431,0.908535171483379,Item nonresponse
+ELSA,shopa,74828,170,0.227187683754744,Item nonresponse
+HRS,shopa,197989,9772,4.93562773689447,Item nonresponse
+MHAS,shopa,55738,6096,10.9368832753238,Item nonresponse
+CHARLS,mealsa,47439,400,0.84318809418411,Item nonresponse
+ELSA,mealsa,74828,170,0.227187683754744,Item nonresponse
+HRS,mealsa,197989,12518,6.32257347630424,Item nonresponse
+MHAS,mealsa,55738,7289,13.077254296889,Item nonresponse
+CHARLS,medsa,47439,378,0.796812749003984,Item nonresponse
+ELSA,medsa,74828,170,0.227187683754744,Item nonresponse
+HRS,medsa,197989,1406,0.710140462348918,Item nonresponse
+MHAS,medsa,55738,5197,9.32398004951738,Item nonresponse
+CHARLS,moneya,47439,493,1.03922932608192,Item nonresponse
+ELSA,moneya,74828,170,0.227187683754744,Item nonresponse
+HRS,moneya,197989,7131,3.60171524680664,Item nonresponse
+MHAS,moneya,55738,4932,8.84854139007499,Item nonresponse
+CHARLS,difficulty,47439,839,1.76858702755117,Item nonresponse
+ELSA,difficulty,74828,170,0.227187683754744,Item nonresponse
+HRS,difficulty,197989,22281,11.253655506114,Item nonresponse
+MHAS,difficulty,55738,8789,15.7684165201478,Item nonresponse
+CHARLS,proxy,47439,36437,76.8081114694661,Unavailable may reflect cohort/wave non-collection; not imputed as self interview
+ELSA,proxy,74828,13,0.0173731758165393,Unavailable may reflect cohort/wave non-collection; not imputed as self interview
+HRS,proxy,197989,0,0,Unavailable may reflect cohort/wave non-collection; not imputed as self interview
+MHAS,proxy,55738,0,0,Unavailable may reflect cohort/wave non-collection; not imputed as self interview
+CHARLS,respondent_weight,47439,1505,3.17249520436771,Nonpositive weights audited separately
+ELSA,respondent_weight,74828,6114,8.17073822633239,Nonpositive weights audited separately
+HRS,respondent_weight,197989,9041,4.56641530590083,Nonpositive weights audited separately
+MHAS,respondent_weight,55738,951,1.70619684954609,Nonpositive weights audited separately

@@ -1,0 +1,14 @@
+term,estimate,finite
+(Intercept),-3.64024016050293,TRUE
+sesmiddle,0.00339261006174282,TRUE
+seslow,0.0525071978178906,TRUE
+"ns(age_model, knots = c(70, 80, 90), Boundary.knots = c(60, 95))1",0.960917606379931,TRUE
+"ns(age_model, knots = c(70, 80, 90), Boundary.knots = c(60, 95))2",2.44571252241067,TRUE
+"ns(age_model, knots = c(70, 80, 90), Boundary.knots = c(60, 95))3",2.81136734001298,TRUE
+"ns(age_model, knots = c(70, 80, 90), Boundary.knots = c(60, 95))4",1.73506198498122,TRUE
+origin_factorR1,-0.776213706897013,TRUE
+origin_factorD2,-0.11964097183435,TRUE
+sex_factormale,0.289001060172363,TRUE
+period_factor3,-0.154900676186004,TRUE
+period_factor4,-0.332349900936104,TRUE
+period_factor5,-0.10386694902478,TRUE

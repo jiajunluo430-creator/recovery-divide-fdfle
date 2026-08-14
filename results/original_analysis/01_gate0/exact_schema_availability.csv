@@ -1,0 +1,612 @@
+cohort,variable,available,label
+CHARLS,ID,TRUE,ID:person identifier/12-char
+CHARLS,ragender,TRUE,ragender:r gender
+CHARLS,raeducl,TRUE,raeducl:r harmonized education levels
+CHARLS,radyear,TRUE,radyear:r death year
+CHARLS,radmonth,TRUE,radmonth:r death month
+CHARLS,inw1,TRUE,inw1:In wave 1
+CHARLS,r1iwstat,TRUE,r1iwstat:w1 r interview status
+CHARLS,r1agey,TRUE,r1agey:w1 r age in years
+CHARLS,r1dressa,TRUE,r1dressa:w1 r Some Diff-Dressing
+CHARLS,r1batha,TRUE,"r1batha:w1 r Some Diff-Bathing, shower"
+CHARLS,r1eata,TRUE,r1eata:w1 r Some Diff-Eating
+CHARLS,r1beda,TRUE,r1beda:w1 r Some Diff-Get in/out bed
+CHARLS,r1toilta,TRUE,r1toilta:w1 r Some Diff-Using the toilet
+CHARLS,r1shopa,TRUE,r1shopa:w1 r Some Diff-Shop for grocery
+CHARLS,r1mealsa,TRUE,r1mealsa:w1 r Some Diff-Prepare hot meal
+CHARLS,r1medsa,TRUE,r1medsa:w1 r Some Diff-Take medications
+CHARLS,r1moneya,TRUE,r1moneya:w1 r Some Diff-Managing money
+CHARLS,h1atotb,FALSE,
+CHARLS,r1wtresp,TRUE,r1wtresp:w1 individual weight without non-response adjustment
+CHARLS,inw2,TRUE,inw2:In wave 2
+CHARLS,r2iwstat,TRUE,r2iwstat:w2 r interview status
+CHARLS,r2agey,TRUE,r2agey:w2 r age in years
+CHARLS,r2dressa,TRUE,r2dressa:w2 r Some Diff-Dressing
+CHARLS,r2batha,TRUE,"r2batha:w2 r Some Diff-Bathing, shower"
+CHARLS,r2eata,TRUE,r2eata:w2 r Some Diff-Eating
+CHARLS,r2beda,TRUE,r2beda:w2 r Some Diff-Get in/out bed
+CHARLS,r2toilta,TRUE,r2toilta:w2 r Some Diff-Using the toilet
+CHARLS,r2shopa,TRUE,r2shopa:w2 r Some Diff-Shop for grocery
+CHARLS,r2mealsa,TRUE,r2mealsa:w2 r Some Diff-Prepare hot meal
+CHARLS,r2medsa,TRUE,r2medsa:w2 r Some Diff-Take medications
+CHARLS,r2moneya,TRUE,r2moneya:w2 r Some Diff-Managing money
+CHARLS,h2atotb,FALSE,
+CHARLS,r2wtresp,TRUE,r2wtresp:w2 individual weight without non-response adjustment
+CHARLS,inw3,TRUE,inw3:In wave 3
+CHARLS,r3iwstat,TRUE,r3iwstat:w3 r interview status
+CHARLS,r3agey,TRUE,r3agey:w3 r age in years
+CHARLS,r3dressa,TRUE,r3dressa:w3 r Some Diff-Dressing
+CHARLS,r3batha,TRUE,"r3batha:w3 r Some Diff-Bathing, shower"
+CHARLS,r3eata,TRUE,r3eata:w3 r Some Diff-Eating
+CHARLS,r3beda,TRUE,r3beda:w3 r Some Diff-Get in/out bed
+CHARLS,r3toilta,TRUE,r3toilta:w3 r Some Diff-Using the toilet
+CHARLS,r3shopa,TRUE,r3shopa:w3 r Some Diff-Shop for grocery
+CHARLS,r3mealsa,TRUE,r3mealsa:w3 r Some Diff-Prepare hot meal
+CHARLS,r3medsa,TRUE,r3medsa:w3 r Some Diff-Take medications
+CHARLS,r3moneya,TRUE,r3moneya:w3 r Some Diff-Managing money
+CHARLS,h3atotb,TRUE,h3atotb:w3 Asset: r+s total wealth
+CHARLS,r3wtresp,TRUE,r3wtresp:w3 individual weight without non-response adjustment
+CHARLS,inw4,TRUE,inw4:In wave 4
+CHARLS,r4iwstat,TRUE,r4iwstat:w4 r interview status
+CHARLS,r4agey,TRUE,r4agey:w4 r age in years
+CHARLS,r4dressa,TRUE,r4dressa:w4 r Some Diff-Dressing
+CHARLS,r4batha,TRUE,"r4batha:w4 r Some Diff-Bathing, shower"
+CHARLS,r4eata,TRUE,r4eata:w4 r Some Diff-Eating
+CHARLS,r4beda,TRUE,r4beda:w4 r Some Diff-Get in/out bed
+CHARLS,r4toilta,TRUE,r4toilta:w4 r Some Diff-Using the toilet
+CHARLS,r4shopa,TRUE,r4shopa:w4 r Some Diff-Shop for grocery
+CHARLS,r4mealsa,TRUE,r4mealsa:w4 r Some Diff-Prepare hot meal
+CHARLS,r4medsa,TRUE,r4medsa:w4 r Some Diff-Take medications
+CHARLS,r4moneya,TRUE,r4moneya:w4 r Some Diff-Managing money
+CHARLS,h4atotb,TRUE,h4atotb:w4 Asset: r+s total wealth
+CHARLS,r4wtresp,TRUE,r4wtresp:w4 individual weight without non-response adjustment
+HRS,hhidpn,TRUE,hhidpn: hhold id + person number /num
+HRS,ragender,TRUE,ragender: r gender
+HRS,raeduc,TRUE,raeduc: r education (categ)
+HRS,radyear,TRUE,radyear: r death year
+HRS,radmonth,TRUE,radmonth: r death month
+HRS,inw2,TRUE,inw2: =1 if respondent w2
+HRS,r2iwstat,TRUE,r2iwstat:w2 r interview status
+HRS,r2agey_b,TRUE,r2agey_b:w2 r age (years) at ivw begmon
+HRS,r2dressa,TRUE,r2dressa:w2 r any diff-dressing
+HRS,r2batha,TRUE,"r2batha:w2 r any diff-bathing, shower"
+HRS,r2eata,TRUE,r2eata:w2 r any diff-eating
+HRS,r2beda,TRUE,r2beda:w2 r any diff-get in/out bed
+HRS,r2toilta,TRUE,r2toilta:w2 r any diff-using the toilet
+HRS,r2shopa,TRUE,r2shopa:w2 r any diff-shop for grocery
+HRS,r2mealsa,TRUE,r2mealsa:w2 r any diff-prepare hot meal
+HRS,r2medsa,TRUE,r2medsa:w2 r any diff-take medications
+HRS,r2moneya,TRUE,r2moneya:w2 r any diff-managing money
+HRS,h2atotw,TRUE,h2atotw:w2 total wealth less ira--cross-wave
+HRS,r2proxy,TRUE,r2proxy:w2 whether proxy interview
+HRS,r2wtresp,TRUE,r2wtresp:w2 person-level analysis weight
+HRS,inw3,TRUE,inw3: =1 if respondent w3
+HRS,r3iwstat,TRUE,r3iwstat:w3 r interview status
+HRS,r3agey_b,TRUE,r3agey_b:w3 r age (years) at ivw begmon
+HRS,r3dressa,TRUE,r3dressa:w3 r any diff-dressing
+HRS,r3batha,TRUE,"r3batha:w3 r any diff-bathing, shower"
+HRS,r3eata,TRUE,r3eata:w3 r any diff-eating
+HRS,r3beda,TRUE,r3beda:w3 r any diff-get in/out bed
+HRS,r3toilta,TRUE,r3toilta:w3 r any diff-using the toilet
+HRS,r3shopa,TRUE,r3shopa:w3 r any diff-shop for grocery
+HRS,r3mealsa,TRUE,r3mealsa:w3 r any diff-prepare hot meal
+HRS,r3medsa,TRUE,r3medsa:w3 r any diff-take medications
+HRS,r3moneya,TRUE,r3moneya:w3 r any diff-managing money
+HRS,h3atotw,TRUE,h3atotw:w3 total wealth less ira--cross-wave
+HRS,r3proxy,TRUE,r3proxy:w3 whether proxy interview
+HRS,r3wtresp,TRUE,r3wtresp:w3 person-level analysis weight
+HRS,inw4,TRUE,inw4: =1 if respondent w4
+HRS,r4iwstat,TRUE,r4iwstat:w4 r interview status
+HRS,r4agey_b,TRUE,r4agey_b:w4 r age (years) at ivw begmon
+HRS,r4dressa,TRUE,r4dressa:w4 r any diff-dressing
+HRS,r4batha,TRUE,"r4batha:w4 r any diff-bathing, shower"
+HRS,r4eata,TRUE,r4eata:w4 r any diff-eating
+HRS,r4beda,TRUE,r4beda:w4 r any diff-get in/out bed
+HRS,r4toilta,TRUE,r4toilta:w4 r any diff-using the toilet
+HRS,r4shopa,TRUE,r4shopa:w4 r any diff-shop for grocery
+HRS,r4mealsa,TRUE,r4mealsa:w4 r any diff-prepare hot meal
+HRS,r4medsa,TRUE,r4medsa:w4 r any diff-take medications
+HRS,r4moneya,TRUE,r4moneya:w4 r any diff-managing money
+HRS,h4atotw,TRUE,h4atotw:w4 total wealth less ira--cross-wave
+HRS,r4proxy,TRUE,r4proxy:w4 whether proxy interview
+HRS,r4wtresp,TRUE,r4wtresp:w4 person-level analysis weight
+HRS,inw5,TRUE,inw5: =1 if respondent w5
+HRS,r5iwstat,TRUE,r5iwstat:w5 r interview status
+HRS,r5agey_b,TRUE,r5agey_b:w5 r age (years) at ivw begmon
+HRS,r5dressa,TRUE,r5dressa:w5 r any diff-dressing
+HRS,r5batha,TRUE,"r5batha:w5 r any diff-bathing, shower"
+HRS,r5eata,TRUE,r5eata:w5 r any diff-eating
+HRS,r5beda,TRUE,r5beda:w5 r any diff-get in/out bed
+HRS,r5toilta,TRUE,r5toilta:w5 r any diff-using the toilet
+HRS,r5shopa,TRUE,r5shopa:w5 r any diff-shop for grocery
+HRS,r5mealsa,TRUE,r5mealsa:w5 r any diff-prepare hot meal
+HRS,r5medsa,TRUE,r5medsa:w5 r any diff-take medications
+HRS,r5moneya,TRUE,r5moneya:w5 r any diff-managing money
+HRS,h5atotw,TRUE,h5atotw:w5 total wealth less ira--cross-wave
+HRS,r5proxy,TRUE,r5proxy:w5 whether proxy interview
+HRS,r5wtresp,TRUE,r5wtresp:w5 person-level analysis weight
+HRS,inw6,TRUE,inw6: =1 if respondent w6
+HRS,r6iwstat,TRUE,r6iwstat:w6 r interview status
+HRS,r6agey_b,TRUE,r6agey_b:w6 r age (years) at ivw begmon
+HRS,r6dressa,TRUE,r6dressa:w6 r any diff-dressing
+HRS,r6batha,TRUE,"r6batha:w6 r any diff-bathing, shower"
+HRS,r6eata,TRUE,r6eata:w6 r any diff-eating
+HRS,r6beda,TRUE,r6beda:w6 r any diff-get in/out bed
+HRS,r6toilta,TRUE,r6toilta:w6 r any diff-using the toilet
+HRS,r6shopa,TRUE,r6shopa:w6 r any diff-shop for grocery
+HRS,r6mealsa,TRUE,r6mealsa:w6 r any diff-prepare hot meal
+HRS,r6medsa,TRUE,r6medsa:w6 r any diff-take medications
+HRS,r6moneya,TRUE,r6moneya:w6 r any diff-managing money
+HRS,h6atotw,TRUE,h6atotw:w6 total wealth less ira--cross-wave
+HRS,r6proxy,TRUE,r6proxy:w6 whether proxy interview
+HRS,r6wtresp,TRUE,r6wtresp:w6 person-level analysis weight
+HRS,inw7,TRUE,inw7: =1 if respondent w7
+HRS,r7iwstat,TRUE,r7iwstat:w7 r interview status
+HRS,r7agey_b,TRUE,r7agey_b:w7 r age (years) at ivw begmon
+HRS,r7dressa,TRUE,r7dressa:w7 r any diff-dressing
+HRS,r7batha,TRUE,"r7batha:w7 r any diff-bathing, shower"
+HRS,r7eata,TRUE,r7eata:w7 r any diff-eating
+HRS,r7beda,TRUE,r7beda:w7 r any diff-get in/out bed
+HRS,r7toilta,TRUE,r7toilta:w7 r any diff-using the toilet
+HRS,r7shopa,TRUE,r7shopa:w7 r any diff-shop for grocery
+HRS,r7mealsa,TRUE,r7mealsa:w7 r any diff-prepare hot meal
+HRS,r7medsa,TRUE,r7medsa:w7 r any diff-take medications
+HRS,r7moneya,TRUE,r7moneya:w7 r any diff-managing money
+HRS,h7atotw,TRUE,h7atotw:w7 total wealth less ira--cross-wave
+HRS,r7proxy,TRUE,r7proxy:w7 whether proxy interview
+HRS,r7wtresp,TRUE,r7wtresp:w7 person-level analysis weight
+HRS,inw8,TRUE,inw8: =1 if respondent w8
+HRS,r8iwstat,TRUE,r8iwstat:w8 r interview status
+HRS,r8agey_b,TRUE,r8agey_b:w8 r age (years) at ivw begmon
+HRS,r8dressa,TRUE,r8dressa:w8 r any diff-dressing
+HRS,r8batha,TRUE,"r8batha:w8 r any diff-bathing, shower"
+HRS,r8eata,TRUE,r8eata:w8 r any diff-eating
+HRS,r8beda,TRUE,r8beda:w8 r any diff-get in/out bed
+HRS,r8toilta,TRUE,r8toilta:w8 r any diff-using the toilet
+HRS,r8shopa,TRUE,r8shopa:w8 r any diff-shop for grocery
+HRS,r8mealsa,TRUE,r8mealsa:w8 r any diff-prepare hot meal
+HRS,r8medsa,TRUE,r8medsa:w8 r any diff-take medications
+HRS,r8moneya,TRUE,r8moneya:w8 r any diff-managing money
+HRS,h8atotw,TRUE,h8atotw:w8 total wealth less ira--cross-wave
+HRS,r8proxy,TRUE,r8proxy:w8 whether proxy interview
+HRS,r8wtresp,TRUE,r8wtresp:w8 person-level analysis weight
+HRS,inw9,TRUE,inw9: =1 if respondent w9
+HRS,r9iwstat,TRUE,r9iwstat:w9 r interview status
+HRS,r9agey_b,TRUE,r9agey_b:w9 r age (years) at ivw begmon
+HRS,r9dressa,TRUE,r9dressa:w9 r any diff-dressing
+HRS,r9batha,TRUE,"r9batha:w9 r any diff-bathing, shower"
+HRS,r9eata,TRUE,r9eata:w9 r any diff-eating
+HRS,r9beda,TRUE,r9beda:w9 r any diff-get in/out bed
+HRS,r9toilta,TRUE,r9toilta:w9 r any diff-using the toilet
+HRS,r9shopa,TRUE,r9shopa:w9 r any diff-shop for grocery
+HRS,r9mealsa,TRUE,r9mealsa:w9 r any diff-prepare hot meal
+HRS,r9medsa,TRUE,r9medsa:w9 r any diff-take medications
+HRS,r9moneya,TRUE,r9moneya:w9 r any diff-managing money
+HRS,h9atotw,TRUE,h9atotw:w9 total wealth less ira--cross-wave
+HRS,r9proxy,TRUE,r9proxy:w9 whether proxy interview
+HRS,r9wtresp,TRUE,r9wtresp:w9 person-level analysis weight
+HRS,inw10,TRUE,inw10: =1 if respondent w10
+HRS,r10iwstat,TRUE,r10iwstat:w10 r interview status
+HRS,r10agey_b,TRUE,r10agey_b:w10 r age (years) at ivw begmon
+HRS,r10dressa,TRUE,r10dressa:w10 r any diff-dressing
+HRS,r10batha,TRUE,"r10batha:w10 r any diff-bathing, shower"
+HRS,r10eata,TRUE,r10eata:w10 r any diff-eating
+HRS,r10beda,TRUE,r10beda:w10 r any diff-get in/out bed
+HRS,r10toilta,TRUE,r10toilta:w10 r any diff-using the toilet
+HRS,r10shopa,TRUE,r10shopa:w10 r any diff-shop for grocery
+HRS,r10mealsa,TRUE,r10mealsa:w10 r any diff-prepare hot meal
+HRS,r10medsa,TRUE,r10medsa:w10 r any diff-take medications
+HRS,r10moneya,TRUE,r10moneya:w10 r any diff-managing money
+HRS,h10atotw,TRUE,h10atotw:w10 total wealth less ira--cross-wave
+HRS,r10proxy,TRUE,r10proxy:w10 whether proxy interview
+HRS,r10wtresp,TRUE,r10wtresp:w10 person-level analysis weight
+HRS,inw11,TRUE,inw11: =1 if respondent w11
+HRS,r11iwstat,TRUE,r11iwstat:w11 r interview status
+HRS,r11agey_b,TRUE,r11agey_b:w11 r age (years) at ivw begmon
+HRS,r11dressa,TRUE,r11dressa:w11 r any diff-dressing
+HRS,r11batha,TRUE,"r11batha:w11 r any diff-bathing, shower"
+HRS,r11eata,TRUE,r11eata:w11 r any diff-eating
+HRS,r11beda,TRUE,r11beda:w11 r any diff-get in/out bed
+HRS,r11toilta,TRUE,r11toilta:w11 r any diff-using the toilet
+HRS,r11shopa,TRUE,r11shopa:w11 r any diff-shop for grocery
+HRS,r11mealsa,TRUE,r11mealsa:w11 r any diff-prepare hot meal
+HRS,r11medsa,TRUE,r11medsa:w11 r any diff-take medications
+HRS,r11moneya,TRUE,r11moneya:w11 r any diff-managing money
+HRS,h11atotw,TRUE,h11atotw:w11 total wealth less ira--cross-wave
+HRS,r11proxy,TRUE,r11proxy:w11 whether proxy interview
+HRS,r11wtresp,TRUE,r11wtresp:w11 person-level analysis weight
+HRS,inw12,TRUE,inw12: =1 if respondent w12
+HRS,r12iwstat,TRUE,r12iwstat:w12 r interview status
+HRS,r12agey_b,TRUE,r12agey_b:w12 r age (years) at ivw begmon
+HRS,r12dressa,TRUE,r12dressa:w12 r any diff-dressing
+HRS,r12batha,TRUE,"r12batha:w12 r any diff-bathing, shower"
+HRS,r12eata,TRUE,r12eata:w12 r any diff-eating
+HRS,r12beda,TRUE,r12beda:w12 r any diff-get in/out bed
+HRS,r12toilta,TRUE,r12toilta:w12 r any diff-using the toilet
+HRS,r12shopa,TRUE,r12shopa:w12 r any diff-shop for grocery
+HRS,r12mealsa,TRUE,r12mealsa:w12 r any diff-prepare hot meal
+HRS,r12medsa,TRUE,r12medsa:w12 r any diff-take medications
+HRS,r12moneya,TRUE,r12moneya:w12 r any diff-managing money
+HRS,h12atotw,TRUE,h12atotw:w12 total wealth less ira--cross-wave
+HRS,r12proxy,TRUE,r12proxy:w12 whether proxy interview
+HRS,r12wtresp,TRUE,r12wtresp:w12 person-level analysis weight
+HRS,inw13,TRUE,inw13: =1 if respondent w13
+HRS,r13iwstat,TRUE,r13iwstat:w13 r interview status
+HRS,r13agey_b,TRUE,r13agey_b:w13 r age (years) at ivw begmon
+HRS,r13dressa,TRUE,r13dressa:w13 r any diff-dressing
+HRS,r13batha,TRUE,"r13batha:w13 r any diff-bathing, shower"
+HRS,r13eata,TRUE,r13eata:w13 r any diff-eating
+HRS,r13beda,TRUE,r13beda:w13 r any diff-get in/out bed
+HRS,r13toilta,TRUE,r13toilta:w13 r any diff-using the toilet
+HRS,r13shopa,TRUE,r13shopa:w13 r any diff-shop for grocery
+HRS,r13mealsa,TRUE,r13mealsa:w13 r any diff-prepare hot meal
+HRS,r13medsa,TRUE,r13medsa:w13 r any diff-take medications
+HRS,r13moneya,TRUE,r13moneya:w13 r any diff-managing money
+HRS,h13atotw,TRUE,h13atotw:w13 total wealth less ira--cross-wave
+HRS,r13proxy,TRUE,r13proxy:w13 whether proxy interview
+HRS,r13wtresp,TRUE,r13wtresp:w13 person-level analysis weight
+HRS,inw14,TRUE,inw14: =1 if respondent w14
+HRS,r14iwstat,TRUE,r14iwstat:w14 r interview status
+HRS,r14agey_b,TRUE,r14agey_b:w14 r age (years) at ivw begmon
+HRS,r14dressa,TRUE,r14dressa:w14 r any diff-dressing
+HRS,r14batha,TRUE,"r14batha:w14 r any diff-bathing, shower"
+HRS,r14eata,TRUE,r14eata:w14 r any diff-eating
+HRS,r14beda,TRUE,r14beda:w14 r any diff-get in/out bed
+HRS,r14toilta,TRUE,r14toilta:w14 r any diff-using the toilet
+HRS,r14shopa,TRUE,r14shopa:w14 r any diff-shop for grocery
+HRS,r14mealsa,TRUE,r14mealsa:w14 r any diff-prepare hot meal
+HRS,r14medsa,TRUE,r14medsa:w14 r any diff-take medications
+HRS,r14moneya,TRUE,r14moneya:w14 r any diff-managing money
+HRS,h14atotw,TRUE,h14atotw:w14 total wealth less ira--cross-wave
+HRS,r14proxy,TRUE,r14proxy:w14 whether proxy interview
+HRS,r14wtresp,TRUE,r14wtresp:w14 person-level analysis weight
+HRS,inw15,TRUE,inw15: =1 if respondent w15
+HRS,r15iwstat,TRUE,r15iwstat:w15 r interview status
+HRS,r15agey_b,TRUE,r15agey_b:w15 r age (years) at ivw begmon
+HRS,r15dressa,TRUE,r15dressa:w15 r any diff-dressing
+HRS,r15batha,TRUE,"r15batha:w15 r any diff-bathing, shower"
+HRS,r15eata,TRUE,r15eata:w15 r any diff-eating
+HRS,r15beda,TRUE,r15beda:w15 r any diff-get in/out bed
+HRS,r15toilta,TRUE,r15toilta:w15 r any diff-using the toilet
+HRS,r15shopa,TRUE,r15shopa:w15 r any diff-shop for grocery
+HRS,r15mealsa,TRUE,r15mealsa:w15 r any diff-prepare hot meal
+HRS,r15medsa,TRUE,r15medsa:w15 r any diff-take medications
+HRS,r15moneya,TRUE,r15moneya:w15 r any diff-managing money
+HRS,h15atotw,TRUE,h15atotw:w15 total wealth less ira--cross-wave
+HRS,r15proxy,TRUE,r15proxy:w15 whether proxy interview
+HRS,r15wtresp,TRUE,r15wtresp:w15 person-level analysis weight
+HRS,inw16,TRUE,inw16: =1 if respondent w16
+HRS,r16iwstat,TRUE,r16iwstat:w16 r interview status
+HRS,r16agey_b,TRUE,r16agey_b:w16 r age (years) at ivw begmon
+HRS,r16dressa,TRUE,r16dressa:w16 r any diff-dressing
+HRS,r16batha,TRUE,"r16batha:w16 r any diff-bathing, shower"
+HRS,r16eata,TRUE,r16eata:w16 r any diff-eating
+HRS,r16beda,TRUE,r16beda:w16 r any diff-get in/out bed
+HRS,r16toilta,TRUE,r16toilta:w16 r any diff-using the toilet
+HRS,r16shopa,TRUE,r16shopa:w16 r any diff-shop for grocery
+HRS,r16mealsa,TRUE,r16mealsa:w16 r any diff-prepare hot meal
+HRS,r16medsa,TRUE,r16medsa:w16 r any diff-take medications
+HRS,r16moneya,TRUE,r16moneya:w16 r any diff-managing money
+HRS,h16atotw,TRUE,h16atotw:w16 total wealth less ira--cross-wave
+HRS,r16proxy,TRUE,r16proxy:w16 whether proxy interview
+HRS,r16wtresp,TRUE,r16wtresp:w16 person-level analysis weight
+ELSA,idauniq,TRUE,idauniq:unique individual serial number /num
+ELSA,ragender,TRUE,ragender: r gender
+ELSA,raeducl,TRUE,raeducl: R harmonized education
+ELSA,inw1,TRUE,inw1: =1 if respondent w1
+ELSA,r1iwstat,TRUE,r1iwstat:w1 r interview status
+ELSA,r1agey,TRUE,r1agey:w1 r age (years) at ivw
+ELSA,r1dressa,TRUE,r1dressa:w1 R Some Diff-Dressing
+ELSA,r1batha,TRUE,"r1batha:w1 R Some Diff-Bathing, shower"
+ELSA,r1eata,TRUE,r1eata:w1 R Some Diff-Eating
+ELSA,r1beda,TRUE,r1beda:w1 R Some Diff-Get in/out bed
+ELSA,r1toilta,TRUE,r1toilta:w1 R Some Diff-Using the toilet
+ELSA,r1shopa,TRUE,r1shopa:w1 R Some Diff-Shop for grocery
+ELSA,r1mealsa,TRUE,r1mealsa:w1 R Some Diff-Prepare hot meal
+ELSA,r1medsa,TRUE,r1medsa:w1 R Some Diff-Take medications
+ELSA,r1moneya,TRUE,r1moneya:w1 R Some Diff-Managing money
+ELSA,h1atotb,TRUE,h1atotb:w1 total all assets inc. 2nd hm
+ELSA,r1proxy,TRUE,r1proxy:w1 r whether proxy interview
+ELSA,r1wtresp,TRUE,"r1wtresp:w1 r person-level cross-sectional weight, core sample"
+ELSA,r1iwy,TRUE,r1iwy:w1 r individual interview year
+ELSA,r1iwm,TRUE,r1iwm:w1 r individual interview month
+ELSA,inw2,TRUE,inw2: =1 if respondent w2
+ELSA,r2iwstat,TRUE,r2iwstat:w2 r interview status
+ELSA,r2agey,TRUE,r2agey:w2 r age (years) at ivw
+ELSA,r2dressa,TRUE,r2dressa:w2 R Some Diff-Dressing
+ELSA,r2batha,TRUE,"r2batha:w2 R Some Diff-Bathing, shower"
+ELSA,r2eata,TRUE,r2eata:w2 R Some Diff-Eating
+ELSA,r2beda,TRUE,r2beda:w2 R Some Diff-Get in/out bed
+ELSA,r2toilta,TRUE,r2toilta:w2 R Some Diff-Using the toilet
+ELSA,r2shopa,TRUE,r2shopa:w2 R Some Diff-Shop for grocery
+ELSA,r2mealsa,TRUE,r2mealsa:w2 R Some Diff-Prepare hot meal
+ELSA,r2medsa,TRUE,r2medsa:w2 R Some Diff-Take medications
+ELSA,r2moneya,TRUE,r2moneya:w2 R Some Diff-Managing money
+ELSA,h2atotb,TRUE,h2atotb:w2 total all assets inc. 2nd hm
+ELSA,r2proxy,TRUE,r2proxy:w2 r whether proxy interview
+ELSA,r2wtresp,TRUE,"r2wtresp:w2 r person-level cross-sectional weight, core sample"
+ELSA,r2iwy,TRUE,r2iwy:w2 r individual interview year
+ELSA,r2iwm,TRUE,r2iwm:w2 r individual interview month
+ELSA,inw3,TRUE,inw3: =1 if respondent w3
+ELSA,r3iwstat,TRUE,r3iwstat:w3 r interview status
+ELSA,r3agey,TRUE,r3agey:w3 r age (years) at ivw
+ELSA,r3dressa,TRUE,r3dressa:w3 R Some Diff-Dressing
+ELSA,r3batha,TRUE,"r3batha:w3 R Some Diff-Bathing, shower"
+ELSA,r3eata,TRUE,r3eata:w3 R Some Diff-Eating
+ELSA,r3beda,TRUE,r3beda:w3 R Some Diff-Get in/out bed
+ELSA,r3toilta,TRUE,r3toilta:w3 R Some Diff-Using the toilet
+ELSA,r3shopa,TRUE,r3shopa:w3 R Some Diff-Shop for grocery
+ELSA,r3mealsa,TRUE,r3mealsa:w3 R Some Diff-Prepare hot meal
+ELSA,r3medsa,TRUE,r3medsa:w3 R Some Diff-Take medications
+ELSA,r3moneya,TRUE,r3moneya:w3 R Some Diff-Managing money
+ELSA,h3atotb,TRUE,h3atotb:w3 total all assets inc. 2nd hm
+ELSA,r3proxy,TRUE,r3proxy:w3 r whether proxy interview
+ELSA,r3wtresp,TRUE,"r3wtresp:w3 r person-level cross-sectional weight, core sample"
+ELSA,r3iwy,TRUE,r3iwy:w3 r individual interview year
+ELSA,r3iwm,TRUE,r3iwm:w3 r individual interview month
+ELSA,inw4,TRUE,inw4: =1 if respondent w4
+ELSA,r4iwstat,TRUE,r4iwstat:w4 r interview status
+ELSA,r4agey,TRUE,r4agey:w4 r age (years) at ivw
+ELSA,r4dressa,TRUE,r4dressa:w4 R Some Diff-Dressing
+ELSA,r4batha,TRUE,"r4batha:w4 R Some Diff-Bathing, shower"
+ELSA,r4eata,TRUE,r4eata:w4 R Some Diff-Eating
+ELSA,r4beda,TRUE,r4beda:w4 R Some Diff-Get in/out bed
+ELSA,r4toilta,TRUE,r4toilta:w4 R Some Diff-Using the toilet
+ELSA,r4shopa,TRUE,r4shopa:w4 R Some Diff-Shop for grocery
+ELSA,r4mealsa,TRUE,r4mealsa:w4 R Some Diff-Prepare hot meal
+ELSA,r4medsa,TRUE,r4medsa:w4 R Some Diff-Take medications
+ELSA,r4moneya,TRUE,r4moneya:w4 R Some Diff-Managing money
+ELSA,h4atotb,TRUE,h4atotb:w4 total all assets inc. 2nd hm
+ELSA,r4proxy,TRUE,r4proxy:w4 r whether proxy interview
+ELSA,r4wtresp,TRUE,"r4wtresp:w4 r person-level cross-sectional weight, core sample"
+ELSA,r4iwy,TRUE,r4iwy:w4 r individual interview year
+ELSA,r4iwm,TRUE,r4iwm:w4 r individual interview month
+ELSA,inw5,TRUE,inw5: =1 if respondent w5
+ELSA,r5iwstat,TRUE,r5iwstat:w5 r interview status
+ELSA,r5agey,TRUE,r5agey:w5 r age (years) at ivw
+ELSA,r5dressa,TRUE,r5dressa:w5 R Some Diff-Dressing
+ELSA,r5batha,TRUE,"r5batha:w5 R Some Diff-Bathing, shower"
+ELSA,r5eata,TRUE,r5eata:w5 R Some Diff-Eating
+ELSA,r5beda,TRUE,r5beda:w5 R Some Diff-Get in/out bed
+ELSA,r5toilta,TRUE,r5toilta:w5 R Some Diff-Using the toilet
+ELSA,r5shopa,TRUE,r5shopa:w5 R Some Diff-Shop for grocery
+ELSA,r5mealsa,TRUE,r5mealsa:w5 R Some Diff-Prepare hot meal
+ELSA,r5medsa,TRUE,r5medsa:w5 R Some Diff-Take medications
+ELSA,r5moneya,TRUE,r5moneya:w5 R Some Diff-Managing money
+ELSA,h5atotb,TRUE,h5atotb:w5 total all assets inc. 2nd hm
+ELSA,r5proxy,TRUE,r5proxy:w5 r whether proxy interview
+ELSA,r5wtresp,TRUE,"r5wtresp:w5 r person-level cross-sectional weight, core sample"
+ELSA,r5iwy,TRUE,r5iwy:w5 r individual interview year
+ELSA,r5iwm,TRUE,r5iwm:w5 r individual interview month
+ELSA,inw6,TRUE,inw6: =1 if respondent w6
+ELSA,r6iwstat,TRUE,r6iwstat:w6 r interview status
+ELSA,r6agey,TRUE,r6agey:w6 r age (years) at ivw
+ELSA,r6dressa,TRUE,r6dressa:w6 R Some Diff-Dressing
+ELSA,r6batha,TRUE,"r6batha:w6 R Some Diff-Bathing, shower"
+ELSA,r6eata,TRUE,r6eata:w6 R Some Diff-Eating
+ELSA,r6beda,TRUE,r6beda:w6 R Some Diff-Get in/out bed
+ELSA,r6toilta,TRUE,r6toilta:w6 R Some Diff-Using the toilet
+ELSA,r6shopa,TRUE,r6shopa:w6 R Some Diff-Shop for grocery
+ELSA,r6mealsa,TRUE,r6mealsa:w6 R Some Diff-Prepare hot meal
+ELSA,r6medsa,TRUE,r6medsa:w6 R Some Diff-Take medications
+ELSA,r6moneya,TRUE,r6moneya:w6 R Some Diff-Managing money
+ELSA,h6atotb,TRUE,h6atotb:w6 total all assets inc. 2nd hm
+ELSA,r6proxy,TRUE,r6proxy:w6 r whether proxy interview
+ELSA,r6wtresp,TRUE,"r6wtresp:w6 r person-level cross-sectional weight, core sample"
+ELSA,r6iwy,TRUE,r6iwy:w6 r individual interview year
+ELSA,r6iwm,TRUE,r6iwm:w6 r individual interview month
+ELSA,inw7,TRUE,inw7: =1 if respondent w7
+ELSA,r7iwstat,TRUE,r7iwstat:w7 r interview status
+ELSA,r7agey,TRUE,r7agey:w7 r age (years) at ivw
+ELSA,r7dressa,TRUE,r7dressa:w7 R Some Diff-Dressing
+ELSA,r7batha,TRUE,"r7batha:w7 R Some Diff-Bathing, shower"
+ELSA,r7eata,TRUE,r7eata:w7 R Some Diff-Eating
+ELSA,r7beda,TRUE,r7beda:w7 R Some Diff-Get in/out bed
+ELSA,r7toilta,TRUE,r7toilta:w7 R Some Diff-Using the toilet
+ELSA,r7shopa,TRUE,r7shopa:w7 R Some Diff-Shop for grocery
+ELSA,r7mealsa,TRUE,r7mealsa:w7 R Some Diff-Prepare hot meal
+ELSA,r7medsa,TRUE,r7medsa:w7 R Some Diff-Take medications
+ELSA,r7moneya,TRUE,r7moneya:w7 R Some Diff-Managing money
+ELSA,h7atotb,TRUE,h7atotb:w7 total all assets inc. 2nd hm
+ELSA,r7proxy,TRUE,r7proxy:w7 r whether proxy interview
+ELSA,r7wtresp,TRUE,"r7wtresp:w7 r person-level cross-sectional weight, core sample"
+ELSA,r7iwy,TRUE,r7iwy:w7 r individual interview year
+ELSA,r7iwm,TRUE,r7iwm:w7 r individual interview month
+ELSA,inw8,TRUE,inw8: =1 if respondent w8
+ELSA,r8iwstat,TRUE,r8iwstat:w8 r interview status
+ELSA,r8agey,TRUE,r8agey:w8 r age (years) at ivw
+ELSA,r8dressa,TRUE,r8dressa:w8 R Some Diff-Dressing
+ELSA,r8batha,TRUE,"r8batha:w8 R Some Diff-Bathing, shower"
+ELSA,r8eata,TRUE,r8eata:w8 R Some Diff-Eating
+ELSA,r8beda,TRUE,r8beda:w8 R Some Diff-Get in/out bed
+ELSA,r8toilta,TRUE,r8toilta:w8 R Some Diff-Using the toilet
+ELSA,r8shopa,TRUE,r8shopa:w8 R Some Diff-Shop for grocery
+ELSA,r8mealsa,TRUE,r8mealsa:w8 R Some Diff-Prepare hot meal
+ELSA,r8medsa,TRUE,r8medsa:w8 R Some Diff-Take medications
+ELSA,r8moneya,TRUE,r8moneya:w8 R Some Diff-Managing money
+ELSA,h8atotb,TRUE,h8atotb:w8 total all assets inc. 2nd hm
+ELSA,r8proxy,TRUE,r8proxy:w8 r whether proxy interview
+ELSA,r8wtresp,TRUE,"r8wtresp:w8 r person-level cross-sectional weight, core sample"
+ELSA,r8iwy,TRUE,r8iwy:w8 r individual interview year
+ELSA,r8iwm,TRUE,r8iwm:w8 r individual interview month
+ELSA,inw9,TRUE,inw9: =1 if respondent w9
+ELSA,r9iwstat,TRUE,r9iwstat:w9 r interview status
+ELSA,r9agey,TRUE,r9agey:w9 r age (years) at ivw
+ELSA,r9dressa,TRUE,r9dressa:w9 R Some Diff-Dressing
+ELSA,r9batha,TRUE,"r9batha:w9 R Some Diff-Bathing, shower"
+ELSA,r9eata,TRUE,r9eata:w9 R Some Diff-Eating
+ELSA,r9beda,TRUE,r9beda:w9 R Some Diff-Get in/out bed
+ELSA,r9toilta,TRUE,r9toilta:w9 R Some Diff-Using the toilet
+ELSA,r9shopa,TRUE,r9shopa:w9 R Some Diff-Shop for grocery
+ELSA,r9mealsa,TRUE,r9mealsa:w9 R Some Diff-Prepare hot meal
+ELSA,r9medsa,TRUE,r9medsa:w9 R Some Diff-Take medications
+ELSA,r9moneya,TRUE,r9moneya:w9 R Some Diff-Managing money
+ELSA,h9atotb,TRUE,h9atotb:w9 total all assets inc. 2nd hm
+ELSA,r9proxy,TRUE,r9proxy:w9 r whether proxy interview
+ELSA,r9wtresp,TRUE,"r9wtresp:w9 r person-level cross-sectional weight, core sample"
+ELSA,r9iwy,TRUE,r9iwy:w9 r individual interview year
+ELSA,r9iwm,TRUE,r9iwm:w9 r individual interview month
+ELSA,inw10,TRUE,inw10: =1 if respondent w10
+ELSA,r10iwstat,TRUE,r10iwstat:w10 r interview status
+ELSA,r10agey,TRUE,r10agey:w10 r age (years) at ivw
+ELSA,r10dressa,TRUE,r10dressa:w10 R Some Diff-Dressing
+ELSA,r10batha,TRUE,"r10batha:w10 R Some Diff-Bathing, shower"
+ELSA,r10eata,TRUE,r10eata:w10 R Some Diff-Eating
+ELSA,r10beda,TRUE,r10beda:w10 R Some Diff-Get in/out bed
+ELSA,r10toilta,TRUE,r10toilta:w10 R Some Diff-Using the toilet
+ELSA,r10shopa,TRUE,r10shopa:w10 R Some Diff-Shop for grocery
+ELSA,r10mealsa,TRUE,r10mealsa:w10 R Some Diff-Prepare hot meal
+ELSA,r10medsa,TRUE,r10medsa:w10 R Some Diff-Take medications
+ELSA,r10moneya,TRUE,r10moneya:w10 R Some Diff-Managing money
+ELSA,h10atotb,TRUE,h10atotb:w10 total all assets inc. 2nd hm
+ELSA,r10proxy,TRUE,r10proxy:w10 r whether proxy interview
+ELSA,r10wtresp,TRUE,"r10wtresp:w10 r person-level cross-sectional weight, core sample"
+ELSA,r10iwy,TRUE,r10iwy:w10 r individual interview year
+ELSA,r10iwm,TRUE,r10iwm:w10 r individual interview month
+MHAS,rahhidnp,TRUE,RAHHIDNP: Unique Person Identifier (HH ID + Person Number)/ 7-Char
+MHAS,ragender,TRUE,ragender: R Gender
+MHAS,raeducl,TRUE,raeducl: R Harmonized Education
+MHAS,radyear,TRUE,radyear: R Death Year
+MHAS,radmonth,TRUE,radmonth: R Death Month
+MHAS,inw1,TRUE,inw1: w1 Response Indicator
+MHAS,r1iwstat,TRUE,r1iwstat: w1 R Interview Status
+MHAS,r1agey,TRUE,r1agey: w1 R Age (years) at ivw
+MHAS,r1dressa,TRUE,r1dressa: w1 R Some difficulty-Dressing
+MHAS,r1batha,TRUE,r1batha: w1 R Some difficulty-Bathing or showering
+MHAS,r1eata,TRUE,r1eata: w1 R Some difficulty-Eating
+MHAS,r1beda,TRUE,r1beda: w1 R Some difficulty-Getting in/out of bed
+MHAS,r1toilta,TRUE,r1toilta: w1 R Some difficulty-Using the toilet
+MHAS,r1shopa,TRUE,r1shopa: w1 R Some difficulty-Shopping for groceries
+MHAS,r1mealsa,TRUE,r1mealsa: w1 R Some difficulty-Preparing hot meals
+MHAS,r1medsa,TRUE,r1medsa: w1 R Some difficulty-Taking medications
+MHAS,r1moneya,TRUE,r1moneya: w1 R Some difficulty-Managing money
+MHAS,h1atotb,TRUE,h1atotb:w1 total all assets inc. 2nd hm
+MHAS,r1proxy,TRUE,r1proxy: w1 R Whether Proxy Interview
+MHAS,r1wtresp,TRUE,r1wtresp: w1 R Person-Level Analysis Weight
+MHAS,r1iwy,TRUE,r1iwy: w1 R Interview Year
+MHAS,r1iwm,TRUE,r1iwm: w1 R Interview Month
+MHAS,inw2,TRUE,inw2: w2 Response Indicator
+MHAS,r2iwstat,TRUE,r2iwstat: w2 R Interview Status
+MHAS,r2agey,TRUE,r2agey: w2 R Age (years) at ivw
+MHAS,r2dressa,TRUE,r2dressa: w2 R Some difficulty-Dressing
+MHAS,r2batha,TRUE,r2batha: w2 R Some difficulty-Bathing or showering
+MHAS,r2eata,TRUE,r2eata: w2 R Some difficulty-Eating
+MHAS,r2beda,TRUE,r2beda: w2 R Some difficulty-Getting in/out of bed
+MHAS,r2toilta,TRUE,r2toilta: w2 R Some difficulty-Using the toilet
+MHAS,r2shopa,TRUE,r2shopa: w2 R Some difficulty-Shopping for groceries
+MHAS,r2mealsa,TRUE,r2mealsa: w2 R Some difficulty-Preparing hot meals
+MHAS,r2medsa,TRUE,r2medsa: w2 R Some difficulty-Taking medications
+MHAS,r2moneya,TRUE,r2moneya: w2 R Some difficulty-Managing money
+MHAS,h2atotb,TRUE,h2atotb:w2 total all assets inc. 2nd hm
+MHAS,r2proxy,TRUE,r2proxy: w3 R Whether Proxy Interview
+MHAS,r2wtresp,TRUE,r2wtresp: w2 R Person-Level Analysis Weight
+MHAS,r2iwy,TRUE,r2iwy: w2 R Interview Year
+MHAS,r2iwm,TRUE,r2iwm: w2 R Interview Month
+MHAS,inw3,TRUE,inw3: w3 Response Indicator
+MHAS,r3iwstat,TRUE,r3iwstat: w3 R Interview Status
+MHAS,r3agey,TRUE,r3agey: w3 R Age (years) at ivw
+MHAS,r3dressa,TRUE,r3dressa: w3 R Some difficulty-Dressing
+MHAS,r3batha,TRUE,r3batha: w3 R Some difficulty-Bathing or showering
+MHAS,r3eata,TRUE,r3eata: w3 R Some difficulty-Eating
+MHAS,r3beda,TRUE,r3beda: w3 R Some difficulty-Getting in/out of bed
+MHAS,r3toilta,TRUE,r3toilta: w3 R Some difficulty-Using the toilet
+MHAS,r3shopa,TRUE,r3shopa: w3 R Some difficulty-Shopping for groceries
+MHAS,r3mealsa,TRUE,r3mealsa: w3 R Some difficulty-Preparing hot meals
+MHAS,r3medsa,TRUE,r3medsa: w3 R Some difficulty-Taking medications
+MHAS,r3moneya,TRUE,r3moneya: w3 R Some difficulty-Managing money
+MHAS,h3atotb,TRUE,h3atotb:w3 total all assets inc. 2nd hm
+MHAS,r3proxy,TRUE,r3proxy: w3 R Whether Proxy Interview
+MHAS,r3wtresp,TRUE,r3wtresp: w3 R Person-Level Analysis Weight
+MHAS,r3iwy,TRUE,r3iwy: w3 R Interview Year
+MHAS,r3iwm,TRUE,r3iwm: w3 R Interview Month
+MHAS,inw4,TRUE,inw4: w4 Response Indicator
+MHAS,r4iwstat,TRUE,r4iwstat: w4 R Interview Status
+MHAS,r4agey,TRUE,r4agey: w4 R Age (years) at ivw
+MHAS,r4dressa,TRUE,r4dressa: w4 R Some difficulty-Dressing
+MHAS,r4batha,TRUE,r4batha: w4 R Some difficulty-Bathing or showering
+MHAS,r4eata,TRUE,r4eata: w4 R Some difficulty-Eating
+MHAS,r4beda,TRUE,r4beda: w4 R Some difficulty-Getting in/out of bed
+MHAS,r4toilta,TRUE,r4toilta: w4 R Some difficulty-Using the toilet
+MHAS,r4shopa,TRUE,r4shopa: w4 R Some difficulty-Shopping for groceries
+MHAS,r4mealsa,TRUE,r4mealsa: w4 R Some difficulty-Preparing hot meals
+MHAS,r4medsa,TRUE,r4medsa: w4 R Some difficulty-Taking medications
+MHAS,r4moneya,TRUE,r4moneya: w4 R Some difficulty-Managing money
+MHAS,h4atotb,TRUE,h4atotb:w4 total all assets inc. 2nd hm
+MHAS,r4proxy,TRUE,r4proxy: w4 R Whether Proxy Interview
+MHAS,r4wtresp,TRUE,r4wtresp: w4 R Person-Level Analysis Weight
+MHAS,r4iwy,TRUE,r4iwy: w4 R Interview Year
+MHAS,r4iwm,TRUE,r4iwm: w4 R Interview Month
+MHAS,inw5,TRUE,inw5: w5 Response Indicator
+MHAS,r5iwstat,TRUE,r5iwstat: w5 R Interview Status
+MHAS,r5agey,TRUE,r5agey: w5 R Age (years) at ivw
+MHAS,r5dressa,TRUE,r5dressa: w5 R Some difficulty-Dressing
+MHAS,r5batha,TRUE,r5batha: w5 R Some difficulty-Bathing or showering
+MHAS,r5eata,TRUE,r5eata: w5 R Some difficulty-Eating
+MHAS,r5beda,TRUE,r5beda: w5 R Some difficulty-Getting in/out of bed
+MHAS,r5toilta,TRUE,r5toilta: w5 R Some difficulty-Using the toilet
+MHAS,r5shopa,TRUE,r5shopa: w5 R Some difficulty-Shopping for groceries
+MHAS,r5mealsa,TRUE,r5mealsa: w5 R Some difficulty-Preparing hot meals
+MHAS,r5medsa,TRUE,r5medsa: w5 R Some difficulty-Taking medications
+MHAS,r5moneya,TRUE,r5moneya: w5 R Some difficulty-Managing money
+MHAS,h5atotb,TRUE,h5atotb:w5 total all assets inc. 2nd hm
+MHAS,r5proxy,TRUE,r5proxy: w5 R Whether Proxy Interview
+MHAS,r5wtresp,TRUE,r5wtresp: w5 R Person-Level Analysis Weight
+MHAS,r5iwy,TRUE,r5iwy: w5 R Interview Year
+MHAS,r5iwm,TRUE,r5iwm: w5 R Interview Month
+MHAS,inw6,TRUE,inw6: w6 Response Indicator
+MHAS,r6iwstat,TRUE,r6iwstat: w6 R Interview Status
+MHAS,r6agey,TRUE,r6agey: w6 R Age (years) at ivw
+MHAS,r6dressa,TRUE,r6dressa: w6 R Some difficulty-Dressing
+MHAS,r6batha,TRUE,r6batha: w6 R Some difficulty-Bathing or showering
+MHAS,r6eata,TRUE,r6eata: w6 R Some difficulty-Eating
+MHAS,r6beda,TRUE,r6beda: w6 R Some difficulty-Getting in/out of bed
+MHAS,r6toilta,TRUE,r6toilta: w6 R Some difficulty-Using the toilet
+MHAS,r6shopa,TRUE,r6shopa: w6 R Some difficulty-Shopping for groceries
+MHAS,r6mealsa,TRUE,r6mealsa: w6 R Some difficulty-Preparing hot meals
+MHAS,r6medsa,TRUE,r6medsa: w6 R Some difficulty-Taking medications
+MHAS,r6moneya,TRUE,r6moneya: w6 R Some difficulty-Managing money
+MHAS,h6atotb,TRUE,h6atotb:w6 total all assets inc. 2nd hm
+MHAS,r6proxy,TRUE,r6proxy: w6 R Whether Proxy Interview
+MHAS,r6wtresp,TRUE,r6wtresp: w6 R Person-Level Analysis Weight
+MHAS,r6iwy,TRUE,r6iwy: w6 R Interview Year
+MHAS,r6iwm,TRUE,r6iwm: w6 R Interview Month
+ELSA,idauniq,TRUE,Cross-wave identifier
+ELSA,iintdatm,TRUE,Interview month
+ELSA,iintdaty,TRUE,Interview year
+ELSA,indager,TRUE,"(D) Definitive age variable collapsed at 90+: priority diag, dhage"
+ELSA,diint,TRUE,Person number of proxy respondent
+ELSA,w11xwgt,TRUE,Wave 11 cross-sectional weight
+ELSA,headldr,TRUE,"ADL: difficulty dressing, including putting on shoes and socks"
+ELSA,headlba,TRUE,ADL: difficulty bathing or showering
+ELSA,headlea,TRUE,"ADL: difficulty eating, such as cutting up food"
+ELSA,headlbe,TRUE,ADL: difficulty getting in and out of bed
+ELSA,headlwc,TRUE,"ADL: difficulty using the toilet, including getting up or down"
+ELSA,headlsh,TRUE,IADL: difficulty shopping for groceries
+ELSA,headlpr,TRUE,IADL: difficulty preparing a hot meal
+ELSA,headlme,TRUE,IADL: difficulty taking medications
+ELSA,headlmo,TRUE,"IADL: difficulty managing money, e.g. paying bills, keeping track of expenses"
+ELSA,idauniq,TRUE,Unique individual serial number
+ELSA,wave,TRUE,Most recent productive ELSA wave for deceased
+ELSA,eidatey,TRUE,Year of death
+ELSA,dveidates,TRUE,(D) Season of death (recoded for non-disclosure)
+CHARLS,w5_sample:ID,TRUE,Individual ID
+CHARLS,w5_sample:died,TRUE,Whether Individual Died
+CHARLS,w5_sample:iyear,TRUE,Interview Year
+CHARLS,w5_sample:imonth,TRUE,Interview Month
+CHARLS,w5_health:ID,TRUE,Individual ID
+CHARLS,w5_health:proxy,TRUE,Proxy
+CHARLS,w5_health:db001,TRUE,Difficulty with Dressing
+CHARLS,w5_health:db003,TRUE,Difficulty with Bathing or Showering
+CHARLS,w5_health:db005,TRUE,Difficulty with Eating
+CHARLS,w5_health:db007,TRUE,Difficulty with Getting into or out of Bed
+CHARLS,w5_health:db009,TRUE,Difficulty with Using the Toilet
+CHARLS,w5_health:db016,TRUE,Difficulty with Shopping for Groceries
+CHARLS,w5_health:db014,TRUE,Difficulty with Preparing Hot Meals
+CHARLS,w5_health:db020,TRUE,Difficulty with Taking Medications
+CHARLS,w5_health:db022,TRUE,Difficulty with Managing Money
+CHARLS,w5_weight:ID,TRUE,Individual ID
+CHARLS,w5_weight:INDV_weight,TRUE,Individual Base Weight
+CHARLS,w5_exit:ID,TRUE,Individual ID
+CHARLS,w5_exit:exb001_1,TRUE,Year of Death
+CHARLS,w5_exit:exb001_2,TRUE,Month of Death
+CHARLS,w5_exit:exb002,TRUE,Solar Calendar or Lunar Calendar

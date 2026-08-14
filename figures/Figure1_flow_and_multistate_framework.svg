@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="170.000mm" height="59.627mm" viewBox="0 0 1340 470" data-final-width-mm="170.0">
+<style><![CDATA[
+      text { font-family: Arial, Helvetica, sans-serif; fill: #202428; }
+      .panel-label { font-size: 31.978px; font-weight: 700; }
+      .facet-title { font-size: 25.583px; font-weight: 700; }
+      .label { font-size: 22.802px; }
+      .small { font-size: 21.690px; }
+      .tiny { font-size: 20.299px; }
+      .micro { font-size: 19.465px; }
+      .state-main { font-size: 23.636px; font-weight: 700; }
+      .state-sub { font-size: 19.465px; fill: #525960; }
+      .axis { stroke: #525960; stroke-width: 2.225; fill: none; }
+      .grid { stroke: #DCE0E3; stroke-width: 1.251; fill: none; }
+      .separator { stroke: #C8CDD1; stroke-width: 1.390; fill: none; }
+      .zero { stroke: #252A2E; stroke-width: 2.503; fill: none; }
+      .ci { stroke-width: 3.337; fill: none; stroke-linecap: round; }
+      .transition { stroke-width: 3.059; fill: none; }
+    ]]></style>
+<g id="panel_A" transform="translate(0,0)">
+<g id="panel_A_axis">
+<line id="A_grid_1" x1="112.00" y1="90.00" x2="112.00" y2="365.00" class="zero" />
+<line id="A_grid_2" x1="234.29" y1="90.00" x2="234.29" y2="365.00" class="grid" />
+<line id="A_grid_3" x1="356.57" y1="90.00" x2="356.57" y2="365.00" class="grid" />
+<line id="A_grid_4" x1="478.86" y1="90.00" x2="478.86" y2="365.00" class="grid" />
+<line id="A_xaxis" x1="112.00" y1="365.00" x2="540.00" y2="365.00" class="axis" />
+</g>
+<g id="panel_A_data">
+<rect id="A_bar_1" x="112.00" y="101.60" width="179.58" height="6.80" rx="1.50" fill="#BFC7CD" stroke="none" class="" />
+<rect id="A_bar_2" x="112.00" y="166.60" width="208.86" height="6.80" rx="1.50" fill="#BFC7CD" stroke="none" class="" />
+<rect id="A_bar_3" x="112.00" y="231.60" width="417.97" height="6.80" rx="1.50" fill="#BFC7CD" stroke="none" class="" />
+<rect id="A_bar_4" x="112.00" y="296.60" width="217.40" height="6.80" rx="1.50" fill="#BFC7CD" stroke="none" class="" />
+<rect id="A_bar_5" x="112.00" y="111.60" width="155.06" height="6.80" rx="1.50" fill="#2C6DA4" stroke="none" class="" />
+<rect id="A_bar_6" x="112.00" y="176.60" width="154.50" height="6.80" rx="1.50" fill="#2C6DA4" stroke="none" class="" />
+<rect id="A_bar_7" x="112.00" y="241.60" width="359.85" height="6.80" rx="1.50" fill="#2C6DA4" stroke="none" class="" />
+<rect id="A_bar_8" x="112.00" y="306.60" width="163.62" height="6.80" rx="1.50" fill="#2C6DA4" stroke="none" class="" />
+<rect id="A_bar_9" x="112.00" y="121.60" width="89.34" height="6.80" rx="1.50" fill="#D56C1E" stroke="none" class="" />
+<rect id="A_bar_10" x="112.00" y="186.60" width="111.02" height="6.80" rx="1.50" fill="#D56C1E" stroke="none" class="" />
+<rect id="A_bar_11" x="112.00" y="251.60" width="243.42" height="6.80" rx="1.50" fill="#D56C1E" stroke="none" class="" />
+<rect id="A_bar_12" x="112.00" y="316.60" width="108.00" height="6.80" rx="1.50" fill="#D56C1E" stroke="none" class="" />
+<rect id="A_bar_13" x="112.00" y="131.60" width="81.05" height="6.80" rx="1.50" fill="#6F5AA8" stroke="none" class="" />
+<rect id="A_bar_14" x="112.00" y="196.60" width="39.14" height="6.80" rx="1.50" fill="#6F5AA8" stroke="none" class="" />
+<rect id="A_bar_15" x="112.00" y="261.60" width="68.58" height="6.80" rx="1.50" fill="#6F5AA8" stroke="none" class="" />
+<rect id="A_bar_16" x="112.00" y="326.60" width="94.01" height="6.80" rx="1.50" fill="#6F5AA8" stroke="none" class="" />
+</g>
+<g id="panel_A_labels">
+<text id="A_tick_1" x="112.00" y="386.00" class="small" text-anchor="middle" >0</text>
+<text id="A_tick_2" x="234.29" y="386.00" class="small" text-anchor="middle" >10</text>
+<text id="A_tick_3" x="356.57" y="386.00" class="small" text-anchor="middle" >20</text>
+<text id="A_tick_4" x="478.86" y="386.00" class="small" text-anchor="middle" >30</text>
+<text id="A_cohort_CHARLS" x="102.00" y="124.00" class="label" text-anchor="end" >CHARLS</text>
+<text id="A_cohort_ELSA" x="102.00" y="189.00" class="label" text-anchor="end" >ELSA</text>
+<text id="A_cohort_HRS" x="102.00" y="254.00" class="label" text-anchor="end" >HRS</text>
+<text id="A_cohort_MHAS" x="102.00" y="319.00" class="label" text-anchor="end" >MHAS</text>
+<text id="A_n_CHARLS" x="297.58" y="108.00" class="micro" text-anchor="start" >14,685</text>
+<text id="A_n_ELSA" x="326.86" y="173.00" class="micro" text-anchor="start" >17,080</text>
+<text id="A_n_HRS" x="528.00" y="238.00" class="micro" text-anchor="start" >34,180</text>
+<text id="A_n_MHAS" x="335.40" y="303.00" class="micro" text-anchor="start" >17,778</text>
+<text id="A_xtitle" x="326.00" y="408.00" class="small" text-anchor="middle" >Participants (thousands)</text>
+</g>
+<g id="panel_A_legend">
+<rect id="A_legend_box_1" x="20.00" y="425.00" width="10.00" height="8.00" rx="0.00" fill="#BFC7CD" stroke="none" class="" />
+<text id="A_legend_text_1" x="34.00" y="433.00" class="micro" text-anchor="start" >Eligible entrants</text>
+<rect id="A_legend_box_2" x="300.00" y="425.00" width="10.00" height="8.00" rx="0.00" fill="#2C6DA4" stroke="none" class="" />
+<text id="A_legend_text_2" x="314.00" y="433.00" class="micro" text-anchor="start" >Primary education</text>
+<rect id="A_legend_box_3" x="20.00" y="452.00" width="10.00" height="8.00" rx="0.00" fill="#D56C1E" stroke="none" class="" />
+<text id="A_legend_text_3" x="34.00" y="460.00" class="micro" text-anchor="start" >Primary wealth</text>
+<rect id="A_legend_box_4" x="300.00" y="452.00" width="10.00" height="8.00" rx="0.00" fill="#6F5AA8" stroke="none" class="" />
+<text id="A_legend_text_4" x="314.00" y="460.00" class="micro" text-anchor="start" >Focused secondary</text>
+</g>
+<g id="panel_A_annotations">
+<rect id="A_facet_strip" x="0.00" y="0.00" width="560.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="A_panel_label" x="12.00" y="44.00" class="panel-label" text-anchor="start" >(a)</text>
+<text id="A_facet_title_1" x="68.00" y="43.00" class="facet-title" text-anchor="start" >Cohort entry and analysis samples</text>
+</g>
+</g>
+<g id="panel_B" transform="translate(580,0)">
+<g id="panel_B_axis">
+</g>
+<g id="panel_B_data">
+<rect id="B_state_I0" x="28.00" y="100.00" width="142.00" height="98.00" rx="8.00" fill="#E6F0EE" stroke="#525960" class="" />
+<rect id="B_state_D1" x="190.00" y="100.00" width="142.00" height="98.00" rx="8.00" fill="#F4E2D4" stroke="#525960" class="" />
+<rect id="B_state_R1" x="370.00" y="100.00" width="142.00" height="98.00" rx="8.00" fill="#F4E2D4" stroke="#525960" class="" />
+<rect id="B_state_D2" x="550.00" y="100.00" width="142.00" height="98.00" rx="8.00" fill="#E9E3F3" stroke="#525960" class="" />
+<rect id="B_death" x="292.00" y="292.00" width="142.00" height="70.00" rx="8.00" fill="#E2E5E7" stroke="#525960" class="" />
+<rect id="B_censor" x="530.00" y="295.00" width="190.00" height="68.00" rx="6.00" fill="#F4F5F6" stroke="#8D949A" class="" stroke-dasharray="6 4"/>
+<line id="B_onset_shaft" x1="170.00" y1="146.00" x2="190.00" y2="146.00" class="transition" stroke="#4E9085" />
+<polygon id="B_onset_head" points="190.00,146.00 181.00,151.00 181.00,141.00" fill="#4E9085" stroke="none"/>
+<line id="B_recovery_first_shaft" x1="332.00" y1="146.00" x2="370.00" y2="146.00" class="transition" stroke="#D56C1E" />
+<polygon id="B_recovery_first_head" points="370.00,146.00 361.00,151.00 361.00,141.00" fill="#D56C1E" stroke="none"/>
+<line id="B_relapse_shaft" x1="512.00" y1="132.00" x2="550.00" y2="132.00" class="transition" stroke="#6F5AA8" />
+<polygon id="B_relapse_head" points="550.00,132.00 541.00,137.00 541.00,127.00" fill="#6F5AA8" stroke="none"/>
+<line id="B_recovery_repeat_shaft" x1="550.00" y1="167.00" x2="512.00" y2="167.00" class="transition" stroke="#D56C1E" />
+<polygon id="B_recovery_repeat_head" points="512.00,167.00 521.00,162.00 521.00,172.00" fill="#D56C1E" stroke="none"/>
+<line id="B_death_I0_shaft" x1="99.00" y1="198.00" x2="314.00" y2="292.00" class="transition" stroke="#747B82" />
+<polygon id="B_death_I0_head" points="314.00,292.00 303.75,292.98 307.76,283.81" fill="#747B82" stroke="none"/>
+<line id="B_death_D1_shaft" x1="261.00" y1="198.00" x2="340.00" y2="292.00" class="transition" stroke="#747B82" />
+<polygon id="B_death_D1_head" points="340.00,292.00 330.38,288.33 338.04,281.89" fill="#747B82" stroke="none"/>
+<line id="B_death_R1_shaft" x1="441.00" y1="198.00" x2="386.00" y2="292.00" class="transition" stroke="#747B82" />
+<polygon id="B_death_R1_head" points="386.00,292.00 386.23,281.71 394.86,286.76" fill="#747B82" stroke="none"/>
+<line id="B_death_D2_shaft" x1="621.00" y1="198.00" x2="414.00" y2="292.00" class="transition" stroke="#747B82" />
+<polygon id="B_death_D2_head" points="414.00,292.00 420.13,283.73 424.26,292.83" fill="#747B82" stroke="none"/>
+<line id="B_censor_arrow_shaft" x1="495.00" y1="228.00" x2="558.00" y2="295.00" class="transition" stroke="#999FA5" stroke-dasharray="6 4"/>
+<polygon id="B_censor_arrow_head" points="558.00,295.00 548.19,291.87 555.48,285.02" fill="#999FA5" stroke="none"/>
+</g>
+<g id="panel_B_labels">
+<text id="B_I0_main" x="99.00" y="130.00" class="state-main" text-anchor="middle" >Independent</text>
+<text id="B_I0_sub_1" x="99.00" y="156.00" class="state-sub" text-anchor="middle" >before observed</text>
+<text id="B_I0_sub_2" x="99.00" y="178.00" class="state-sub" text-anchor="middle" >difficulty</text>
+<text id="B_D1_main" x="261.00" y="137.00" class="state-main" text-anchor="middle" >Difficulty</text>
+<text id="B_D1_sub" x="261.00" y="166.00" class="state-sub" text-anchor="middle" >D1</text>
+<text id="B_R1_main" x="441.00" y="137.00" class="state-main" text-anchor="middle" >Recovered</text>
+<text id="B_R1_sub" x="441.00" y="166.00" class="state-sub" text-anchor="middle" >R1</text>
+<text id="B_D2_main" x="621.00" y="137.00" class="state-main" text-anchor="middle" >Relapsed</text>
+<text id="B_D2_sub" x="621.00" y="166.00" class="state-sub" text-anchor="middle" >D2</text>
+<text id="B_death_text" x="363.00" y="333.00" class="state-main" text-anchor="middle" >Verified death</text>
+<text id="B_censor_main" x="625.00" y="316.00" class="state-sub" text-anchor="middle" >Non-death loss</text>
+<text id="B_censor_mid" x="625.00" y="338.00" class="state-sub" text-anchor="middle" >or unknown status</text>
+<text id="B_censor_sub" x="625.00" y="358.00" class="state-sub" text-anchor="middle" >censored — never death</text>
+</g>
+<g id="panel_B_legend">
+<line id="B_legend_line_1" x1="25.00" y1="438.00" x2="50.00" y2="438.00" class="transition" stroke="#4E9085"/>
+<text id="B_legend_text_1" x="56.00" y="442.00" class="micro" text-anchor="start" >Onset</text>
+<line id="B_legend_line_2" x1="155.00" y1="438.00" x2="180.00" y2="438.00" class="transition" stroke="#D56C1E"/>
+<text id="B_legend_text_2" x="186.00" y="442.00" class="micro" text-anchor="start" >Recovery</text>
+<line id="B_legend_line_3" x1="300.00" y1="438.00" x2="325.00" y2="438.00" class="transition" stroke="#6F5AA8"/>
+<text id="B_legend_text_3" x="331.00" y="442.00" class="micro" text-anchor="start" >Relapse</text>
+<line id="B_legend_line_4" x1="435.00" y1="438.00" x2="460.00" y2="438.00" class="transition" stroke="#747B82"/>
+<text id="B_legend_text_4" x="466.00" y="442.00" class="micro" text-anchor="start" >Mortality</text>
+<line id="B_legend_line_5" x1="580.00" y1="438.00" x2="605.00" y2="438.00" class="transition" stroke="#999FA5"/>
+<text id="B_legend_text_5" x="611.00" y="442.00" class="micro" text-anchor="start" >Censoring</text>
+</g>
+<g id="panel_B_annotations">
+<rect id="B_facet_strip" x="0.00" y="0.00" width="760.00" height="72.00" rx="0.00" fill="#F0F1F2" stroke="none" class="" />
+<text id="B_panel_label" x="12.00" y="44.00" class="panel-label" text-anchor="start" >(b)</text>
+<text id="B_facet_title_1" x="68.00" y="43.00" class="facet-title" text-anchor="start" >History-aware states, death, and censoring</text>
+<text id="B_predeath_note" x="170.00" y="247.00" class="micro" text-anchor="middle" >pre-difficulty death block</text>
+<text id="B_postdeath_note" x="430.00" y="261.00" class="micro" text-anchor="middle" >shared post-difficulty death block</text>
+<text id="B_recovery_note" x="441.00" y="218.00" class="micro" text-anchor="middle" >D1/D2 share recovery contrast</text>
+</g>
+</g>
+</svg>

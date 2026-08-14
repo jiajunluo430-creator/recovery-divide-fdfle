@@ -1,0 +1,6 @@
+.release-build-marker
+*.zip
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

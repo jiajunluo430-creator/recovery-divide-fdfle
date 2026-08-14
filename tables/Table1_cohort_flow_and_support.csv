@@ -1,0 +1,5 @@
+Cohort,Country,Eligible entrants,"Mean age, years (SD)","Women among known sex, n/N (%)","Entry functional difficulty, n (%)","Primary education analysis, people","Primary wealth analysis, people","Focused low-education wealth, people",Onset / recovery / relapse events,Verified deaths / post-difficulty deaths,Unknown vital or observation intervals
+CHARLS,China,14685,65.4 (6.5),7362/14685 (50.1),4629 (31.5),12680,7306,6628,3156 / 3661 / 1688,1898 / 1200,5001
+ELSA,England,17080,66.3 (7.3),8701/16374 (53.1),3708 (21.7),12634,9079,3201,3249 / 3649 / 2114,2255 / 1315,12797
+HRS,United States,34180,66.1 (7.6),19362/34180 (56.6),6930 (20.3),29427,19906,5608,8772 / 7872 / 5228,9230 / 5145,1339
+MHAS,Mexico,17778,65.7 (6.1),9639/17778 (54.2),2947 (16.6),13380,8832,7688,2451 / 1963 / 756,2788 / 1178,3086

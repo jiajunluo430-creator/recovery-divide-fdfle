@@ -1,0 +1,2 @@
+cohort,source_path,requested_variables,available_variables,missing_schema_n,missing_schema
+CHARLS,${RECOVERY_DIVIDE_PUBLIC_DATA_ROOT}/npj_dm_multicohort_gate0/00_staging/metadata_sources/harmonized_charls_d/H_CHARLS_D_Data.dta,37,37,0,""

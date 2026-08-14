@@ -1,0 +1,9 @@
+cohort,exposure,target_replicates,qc_replicates,valid_replicates,failed_replicates,failure_messages,median_unique_sampled_people,median_elapsed_seconds,result_replicates,minimum_valid_required,validity_gate_pass
+CHARLS,education,500,500,498,2,nonconvergent/nonfinite model | invalid standardized hazard,8153.5,3.32999999999993,498,450,TRUE
+CHARLS,wealth,500,500,497,3,nonconvergent/nonfinite model | invalid standardized hazard,8153.5,6.80999999999995,497,450,TRUE
+ELSA,education,500,500,500,0,NA,8992,3.75,500,450,TRUE
+ELSA,wealth,500,500,500,0,NA,8992,7.56500000000017,500,450,TRUE
+HRS,education,500,500,500,0,NA,20208,5.49000000000001,500,450,TRUE
+HRS,wealth,500,500,500,0,NA,20208,11,500,450,TRUE
+MHAS,education,500,500,498,2,nonconvergent/nonfinite model,9592,3.42000000000007,498,450,TRUE
+MHAS,wealth,500,500,499,1,nonconvergent/nonfinite model,9592,6.86000000000013,499,450,TRUE

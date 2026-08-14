@@ -1,0 +1,5 @@
+cohort,country,incident_events,incident_persons,recovery_events,recovery_persons,relapse_events,relapse_persons,disabled_death_events,disabled_death_persons,total_death_events,total_death_persons
+CHARLS,China,3156,3156,3661,3366,1688,1633,1200,1200,1898,1898
+ELSA,England,3249,3249,3649,3018,2114,1752,1315,1315,2255,2255
+HRS,United States,8772,8772,7872,6404,5228,4212,5145,5145,9230,9230
+MHAS,Mexico,2451,2451,1963,1903,756,742,1178,1178,2788,2788

@@ -1,0 +1,5 @@
+cohort,intervals_total,people_total,verified_death_intervals,known_alive_or_observed_intervals,unknown_vital_or_observation_intervals,primary_supported_intervals,primary_supported_deaths
+CHARLS,74516,25118,2395,67120,5001,33571,1965
+ELSA,97427,21584,2102,82528,12797,31912,1723
+HRS,235044,40422,12537,221168,1339,163302,11284
+MHAS,66208,25690,4854,58268,3086,30527,2276

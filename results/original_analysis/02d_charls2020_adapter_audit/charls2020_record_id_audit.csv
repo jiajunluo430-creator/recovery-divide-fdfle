@@ -1,0 +1,9 @@
+source_role,rows,unique_ids,missing_ids,duplicated_id_rows
+prior,25586,25586,0,0
+working,19395,19395,0,0
+temp,20180,20180,0,0
+health,19367,19367,0,0
+sample,20180,20180,0,0
+weights,17364,17364,0,0
+exit,770,770,0,0
+combined,20180,20180,0,0

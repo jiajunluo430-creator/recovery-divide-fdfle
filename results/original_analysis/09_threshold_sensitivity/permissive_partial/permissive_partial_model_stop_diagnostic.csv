@@ -1,0 +1,2 @@
+threshold,cohort,exposure,process,rows,persons,deaths,converged,iterations,all_coefficients_finite,coefficient_abs_max,warning_n,warnings,frozen_decision
+permissive_partial,MHAS,education,death_post,11507,6458,1996,TRUE,10,TRUE,3.64024016050293,1,non-integer #successes in a binomial glm!,STOP_threshold_model_no_rescue

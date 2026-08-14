@@ -1,0 +1,2 @@
+cohort,eligible_origin_intervals,verified_death_before_next,nondeath_observation_risk,observed_next_function,nondeath_not_observed,denominator_model_converged,numerator_model_converged,ipcw_lower_truncation,ipcw_upper_truncation
+CHARLS,16789,1025,15764,14515,1249,TRUE,TRUE,0.934313492134864,1.0853006271659
